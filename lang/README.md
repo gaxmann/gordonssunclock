@@ -45,6 +45,10 @@ When translating, please **keep all control codes unchanged**:
 
 ## Dictionary Entries
 
+
+### Meta data
+In the `-meta` data, you will find the version number and date of the file/translation. As long as the minor version number is the same, only the texts of the translations have been changed. If the minor version number is different, there are (also) new or changed keys. 
+
 ### Quotation Marks
 The `"quotes"` entry defines the local quotation marks used in your language, e.g.: 
 - „Hello“ (German), «Hello» (French), ‘Hello’ (English)

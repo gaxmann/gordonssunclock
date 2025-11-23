@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.3.16",
-        "updated": "2025-11-21 23:17:50"
+        "version": "1.4.1",
+        "updated": "2025-11-23 11:05:11"
     },
     "txwelcome": "Welcome",
     "quotes": [
@@ -26,7 +26,7 @@
         "1": "% day",
         "*": "% days"
     },
-    "aufzaehl": [
+    "ordinalsh": [
         "0th",
         "1st",
         "2nd",
