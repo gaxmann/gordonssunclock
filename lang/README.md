@@ -58,9 +58,9 @@ The `"hoursh"` entry is the short form for hours (e.g. `24h`). `"daysh"` is the 
 
 ---
 
-### Plural Rules for “Day(s)”
+### Plural Rules for ’Day(s)’
 
-Some languages use different words for “day” depending on the number (e.g. 1 day, 2 day**s**). The entry `"xxdays"` defines these forms. (Use `%` where the number should appear.)
+Some languages use different words for ’day’ depending on the number (e.g. 1 day, 2 day**s**). The entry `"xxdays"` defines these forms. (Use `%` where the number should appear.)
 
 #### Examples
 
