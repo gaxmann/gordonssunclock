@@ -71,7 +71,6 @@ Most languages use different words for ’day’ depending on the number (e.g. 1
         "*": "% days"
     },
 ```
-
 **Russian**
 ```json
     "xxdays": {
@@ -92,12 +91,6 @@ Most languages use different words for ’day’ depending on the number (e.g. 1
 
 The same rules are used for `"oridinalsh"`, which defines the short form of ordinal numbers (such as ’3.’ or ’3rd’). But additionally, if your language distinguishes grammatical gender, you can specify gendered endings in the order masculine/feminine/neuter, separated by slashes, for example in Russian: %-й/%-я/%-е. (If your language has only two genders or only one, simply provide the corresponding forms.) E.g.
 
-**German**
-```json
-    "ordinalsh": {
-        "*": "%."
-    },
-```
 **French**
 ```json
     "ordinalsh": {
@@ -105,7 +98,12 @@ The same rules are used for `"oridinalsh"`, which defines the short form of ordi
         "*": "%e"
     },
 ```
-
+**German**
+```json
+    "ordinalsh": {
+        "*": "%."
+    },
+```
 ---
 
 ### Word Separation Rules
