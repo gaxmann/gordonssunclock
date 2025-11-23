@@ -89,7 +89,9 @@ Most languages use different words for ’day’ depending on the number (e.g. 1
 
 ### Short Form of Ordinal Numbers
 
-Similar rules exist for `"oridinalsh"`, which defines the short form of ordinal numbers, such as ’3.’ or ’3rd’. If your language distinguishes grammatical gender, you can specify gendered endings in the order masculine/feminine/neuter, separated by slashes, for example in Russian: %-й/%-я/%-е. (If your language has only two genders or only one, simply provide the corresponding forms.)
+The same rules are used for `"oridinalsh"`, which defines the short form of ordinal numbers (such as ’3.’ or ’3rd’). 
+
+Additionally, if your language distinguishes grammatical gender, you can specify gendered endings in the order masculine/feminine/neuter, separated by slashes, for example in Russian: %-й/%-я/%-е. (If your language has only two genders or only one, simply provide the corresponding forms.)
 
 ---
 
