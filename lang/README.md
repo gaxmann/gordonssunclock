@@ -81,13 +81,13 @@ Some languages use different words for “day” depending on the number (e.g. 1
 }
 ```
 
-Similar rules exist for `"oridinalsh"` that define the short form of ordinal numbers, e.g. "3rd".
-
 #### Key Meanings
 - `"1"` → applies when the number is exactly 1 (e.g., `1` → `% day`)
 - `"2-4"` → applies for whole numbers from 2 to 4 inclusive (e.g., `2`, `3`, `4`)
 - `"."` → applies to decimal numbers (e.g., `1.5`, `2.7`)
 - `"*"` → fallback for all other cases **(mandatory!)**
+
+Similar rules exist for `"oridinalsh"` that define the short form of ordinal numbers, e.g. "3rd".
 
 ---
 
