@@ -27,7 +27,7 @@
         "*": "% jours"
     },
     "ordinalsh": {
-        "1": "%er",
+        "1": "%er/%re",
         "*": "%e"
     },
     "himmelsr": [

@@ -24,8 +24,8 @@
         "*": "{day} giorni"
     },
     "ordinalsh": {
-        "*": "%°"
-    },  
+        "*": "%°/%ª"
+    }
     "himmelsr": [
         "E",
         "S",
