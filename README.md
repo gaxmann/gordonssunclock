@@ -27,7 +27,7 @@ The app is free, shows no ads, and collects no data. It's simply a gift from me 
 - **Agnihotra support**: Display precise Agnihotra times with countdown
 - **Temporal hours clock**: Display of ancient unequal hours (12 day hours & 4 night watches) – e.g. for historians and those seeking an alternative sense of time
 - **Tablet mode**: Hang on your wall as a living clock
-- **Multi-language**: Deutsch, English, Español, Français, Русский, 中文 (translations welcome)
+- **Multi-language**: Deutsch, English, Español, Français, Русский, 中文 (translations or corrections welcome)
 
 ## About
 
