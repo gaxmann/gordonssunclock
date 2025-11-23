@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.4.1",
-        "updated": "2025-11-23 11:05:11"
+        "version": "1.5.1",
+        "updated": "2025-11-23 12:12:42"
     },
     "txwelcome": "Welcome",
     "quotes": [
@@ -26,22 +26,16 @@
         "1": "% day",
         "*": "% days"
     },
-    "ordinalsh": [
-        "0th",
-        "1st",
-        "2nd",
-        "3rd",
-        "4th",
-        "5th",
-        "6th",
-        "7th",
-        "8th",
-        "9th",
-        "10th",
-        "11th",
-        "12th",
-        "13th"
-    ],
+    "ordinalsh": {
+        "1": "%st",
+        "2": "%nd",
+        "3": "%rd",
+        "21": "%st",
+        "22": "%nd",
+        "23": "%rd",
+        "31": "%st",
+        "*": "%th"
+    },
     "himmelsr": [
         "E",
         "S",

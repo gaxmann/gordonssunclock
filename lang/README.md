@@ -47,7 +47,7 @@ When translating, please **keep all control codes unchanged**:
 
 
 ### Meta data
-In the `_meta` data, you will find the version number and date of the file/translation. As long as the minor version number is the same, only the texts of the translations have been changed. If the minor version number is different, there are (also) new or changed keys. 
+In the `"_meta"` data, you will find the version number and date of the file/translation. As long as the minor version number is the same, only the texts of the translations have been changed. If the minor version number is different, there are (also) new or changed keys. 
 
 ### Quotation Marks
 The `"quotes"` entry defines the local quotation marks used in your language, e.g.: 
@@ -80,6 +80,9 @@ Some languages use different words for “day” depending on the number (e.g. 1
     "*":   "% дней"
 }
 ```
+
+Similar rules exist for `"oridinalsh"` that define the short form of ordinal numbers, e.g. "3rd".
+
 #### Key Meanings
 - `"1"` → applies when the number is exactly 1 (e.g., `1` → `% day`)
 - `"2-4"` → applies for whole numbers from 2 to 4 inclusive (e.g., `2`, `3`, `4`)

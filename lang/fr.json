@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.4.1",
-        "updated": "2025-11-23 11:05:11"
+        "version": "1.5.1",
+        "updated": "2025-11-23 12:12:42"
     },
     "txwelcome": "Bienvenue",
     "quotes": [
@@ -26,22 +26,10 @@
         "1": "% jour",
         "*": "% jours"
     },
-    "ordinalsh": [
-        "0e",
-        "1er",
-        "2e",
-        "3e",
-        "4e",
-        "5e",
-        "6e",
-        "7e",
-        "8e",
-        "9e",
-        "10e",
-        "11e",
-        "12e",
-        "13e"
-    ],
+    "ordinalsh": {
+        "1": "%er",
+        "*": "%e"
+    },
     "himmelsr": [
         "E",
         "S",
