@@ -53,7 +53,7 @@ In the `"_meta"` entry, you will find the version number and date of the file/tr
 The `"quotes"` entry defines the local quotation marks used in your language, e.g.: 
 - „Hello“ (German), «Hello» (French), ‘Hello’ (English)
 
-### Shorts for hours, days and ordinal numbers
+### Shorts for hours and days
 The `"hoursh"` entry is the short form for hours (e.g. `24h`). `"daysh"` is the short form for days (e.g. `in 4d`). `"oclocksh"` is the short form for times without seconds, for example `12:34h` (you can leave the latter one empty if such a notation is not used in your language). 
 
 ---
@@ -87,9 +87,9 @@ Some languages use different words for “day” depending on the number (e.g. 1
 - `"."` → applies to decimal numbers (e.g., `1.5`, `2.7`)
 - `"*"` → fallback for all other cases **(mandatory!)**
 
-### Short form of Ordial Numbers
+### Short Form of Ordinal Numbers
 
-Similar rules exist for `"oridinalsh"`, which defines the short form of ordinal numbers, such as ’3rd’. If your language distinguishes grammatical gender, you can specify gendered endings in the order masculine/feminine/neuter, separated by slashes — for example, in Russian: %-й/%-я/%-е. If a language has only two genders or only one, simply provide the corresponding forms.
+Similar rules exist for `"oridinalsh"`, which defines the short form of ordinal numbers, such as ’3rd’ or ’3.’. If your language distinguishes grammatical gender, you can specify gendered endings in the order masculine/feminine/neuter, separated by slashes, for example in Russian: %-й/%-я/%-е. (If your language has only two genders or only one, simply provide the corresponding forms.)
 
 ---
 
