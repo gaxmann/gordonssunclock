@@ -53,7 +53,7 @@ In the `"_meta"` entry, you will find the version number and date of the file/tr
 The `"quotes"` entry defines the local quotation marks used in your language, e.g.: 
 - „Hello“ (German), «Hello» (French), ‘Hello’ (English)
 
-### Shorts for hours and days
+### Shorts for hours, days and ordinal numbers
 The `"hoursh"` entry is the short form for hours (e.g. `24h`). `"daysh"` is the short form for days (e.g. `in 4d`). `"oclocksh"` is the short form for times without seconds, for example `12:34h` (you can leave the latter one empty if such a notation is not used in your language). 
 
 ---
