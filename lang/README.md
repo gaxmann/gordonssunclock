@@ -26,7 +26,7 @@ Full translations require significant effort, not only for the initial translati
 - **Data overview page:** Including explanations and legend
 
 **Not translated part** (defaults to English):
-- Tutorial pages ("How to read the dial", conceptual explanations, etc.)
+- Tutorial page ("How to read the dial", conceptual explanations, etc.)
 - About page
 
 (2b) Minimally supported languages support **at least** all labels of the settings page (that includes all translations up to (and including) the `"txpartsupport"` entry plus the small `"txlegende"` entry in the language file).
