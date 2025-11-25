@@ -94,11 +94,11 @@ Submit new visual designs for the dial. A design consists of either:
 I love art that preserves values and uplifts the spirit (e.g., Claude Monet, J. M. William Turner, Paul Klee, Vincent van Gogh, Pieter Brueghel, August Macke, Max Liebermann, Paul Gauguin, Paul Cézanne, Henri Rousseau, Gustave Courbet), but I don't dare to use other people's photos of it.
 
 **Design zones guide:**
-The differences between nautical twilight and night should be almost imperceptible.
-- **5 zones**: day (>6°) | sunset (6...−0.2667°) | civil twilight (–0.2667...–6°) | nautical twilight (–6...–12°) | night (<–12°)
-- **4 zones**: day (>–0.2667°) | civil twilight (–0.2667...–6°) | nautical twilight (–6...–12°) | night (<–12°)
-- **3 zones**: day (>–0.2667°) | twilight (–0.2667...–6°) | night (<–6°)
+Note: The differences between nautical twilight and night should be almost imperceptible.
 - **2 zones**: day (>–0.2667°) | night (<–0.2667°)
+- **3 zones**: day (>–0.2667°) | twilight (–0.2667...–6°) | night (<–6°)
+- **4 zones**: day (>–0.2667°) | civil twilight (–0.2667...–6°) | nautical twilight (–6...–12°) | night (<–12°)
+- **5 zones**: day (>6°) | sunset (6...−0.2667°) | civil twilight (–0.2667...–6°) | nautical twilight (–6...–12°) | night (<–12°)
 
 *Note: Send an email (see last page of the app) before submitting – I may not accept all suggestions.*
 
