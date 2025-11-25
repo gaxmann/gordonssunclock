@@ -89,7 +89,7 @@ This repository is used as a content hub for design proposals, asset exchange an
 ### 1. Design Proposals
 Submit new visual designs for the dial. A design consists of either:
 - **(a)** Three to five hex RGB colour codes, or
-- **(b)** Three to five stacked images (ideally, the two large images "day & night" are min. 1080×1080 px if possible)
+- **(b)** Two to five stacked images (ideally, the two large images "day & night" are min. 1080×1080 px if possible)
 
 I love art that preserves values and uplifts the spirit (e.g., Claude Monet, J. M. William Turner, Paul Klee, Vincent van Gogh, Pieter Brueghel, August Macke, Max Liebermann, Paul Gauguin, Paul Cézanne, Henri Rousseau, Gustave Courbet), but I don't dare to use other people's photos of it.
 
@@ -98,6 +98,7 @@ The differences between nautical twilight and night should be almost imperceptib
 - **5 zones**: day (>6°) | sunset (6...−0.2667°) | civil twilight (–0.2667...–6°) | nautical twilight (–6...–12°) | night (<–12°)
 - **4 zones**: day (>–0.2667°) | civil twilight (–0.2667...–6°) | nautical twilight (–6...–12°) | night (<–12°)
 - **3 zones**: day (>–0.2667°) | twilight (–0.2667...–6°) | night (<–6°)
+- **2 zones**: day (>–0.2667°) | night (<–0.2667°)
 
 *Note: Send an email (see last page of the app) before submitting – I may not accept all suggestions.*
 
