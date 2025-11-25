@@ -95,7 +95,7 @@ I love art that preserves values and uplifts the spirit (e.g., Claude Monet, J. 
 
 **Design zones guide:**
 Note: The differences between nautical twilight and night should be almost imperceptible.
-- **2 zones**: day (>–0.2667°) | night (<–0.2667°)
+- **2 zones**: day (>–0.2667°) | night (<=–0.2667°)
 - **3 zones**: day (>–0.2667°) | twilight (–0.2667...–6°) | night (<–6°)
 - **4 zones**: day (>–0.2667°) | civil twilight (–0.2667...–6°) | nautical twilight (–6...–12°) | night (<–12°)
 - **5 zones**: day (>6°) | sunset (6...−0.2667°) | civil twilight (–0.2667...–6°) | nautical twilight (–6...–12°) | night (<–12°)
