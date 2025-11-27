@@ -38,8 +38,8 @@ Full translations require significant effort, not only for the initial translati
 When translating, please **keep all control codes unchanged**:
 
 - `[XXXXXX]` and `{xxxxxx}` are variables that will be replaced by the programme
-- `[~LF]` represents linefeeds (like `\n`). You can replace them with actual linefeeds if needed. `[NDASH]` is the en dash character (long hyphen) and could replaced (if you want to)
-- `[DF]` and `[SP]` are control codes for design layout (keep them)
+- `[~LF]` represents linefeeds (like `\n`). You can replace them with actual linefeeds if needed. `[NDASH]` is the en dash character (long hyphen) and could be replaced (if you want to)
+- `[DF]` and `[SP]` are control codes for design layout (keep them, don't change them)
 
 ---
 
