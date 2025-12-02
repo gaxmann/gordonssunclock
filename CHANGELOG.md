@@ -11,10 +11,12 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - New moon's white ring restored
 - Instead of standard temperature (= 10°C) refraction temperature is now estimated from latitude, longitude, altitude, and day of year
 - Ordinal numbers added to lang files for night watches
-- Tried out new design Claude Monet image created by LLM, but rejected it
 
 ### Fixed
 - Russian word separation rules fixed
+
+### Removed
+- Tested a new design Claude Monet (image created by LLM) but rejected it
 
 ## [2.64] - 2025-11-18 (GPS time, Russian language)
 
