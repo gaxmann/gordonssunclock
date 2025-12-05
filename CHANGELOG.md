@@ -11,10 +11,11 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - New moon's white ring restored
 - Instead of standard temperature (= 10°C) refraction temperature is now estimated from latitude, longitude, altitude, and day of year
 - Ordinal numbers added to lang files for night watches
-- Thin moon made thinner (0.19 -> 0.18), draft includes moon orbit again
+- Draft includes moon orbit again
 
 ### Fixed
 - Russian word separation rules fixed
+- Bug fixes (keyerror 12, 8)
 
 ### Removed
 - Tested a new design Claude Monet (image created by LLM) but rejected it
