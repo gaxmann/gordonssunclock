@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.5.3",
-        "updated": "2025-12-06 22:26:42"
+        "version": "1.5.4",
+        "updated": "2025-12-06 23:17:43"
     },
     "txwelcome": "Welcome",
     "quotes": [
@@ -35,6 +35,12 @@
         "% New Nove",
         "% New Dece",
         "% New Janu"
+    ],
+    "solcalseasons": [
+        "Early Spring",
+        "Early Summer",
+        "Early Autumn",
+        "Early Winter"
     ],
     "moon": "Moon",
     "xxdays": {

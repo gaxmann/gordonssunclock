@@ -25,6 +25,12 @@
       "% Neo-Agosto", "% Neo-Settem", "% Neo-Ottob",
       "% Neo-Novem", "% Neo-Dicem", "% Neo-Gennar"
     ],
+    "solcalseasons": [
+        "Preprimavera",
+        "Estate precoce",
+        "Autunno precoce",
+        "Inverno precoce"
+    ],
     "moon": "Luna",
     "xxdays": {
         "1": "{day} giorno",
