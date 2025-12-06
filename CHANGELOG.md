@@ -5,7 +5,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.65] - 2025-11-xx
+## [2.65] - 2025-12-xx
 
 ### Changed
 - Gordon's Sun Calendar added (centered around the middle of the 4 astronomical fix points, [Info](https://axmann.eu/solkal.php?lg=en))
