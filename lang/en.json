@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.5.1",
-        "updated": "2025-11-23 12:12:42"
+        "version": "1.5.3",
+        "updated": "2025-12-06 22:26:42"
     },
     "txwelcome": "Welcome",
     "quotes": [
@@ -22,6 +22,21 @@
         "Sat",
         "Sun"
     ],
+    "solcalmonthsxx": [
+        "% New Febru",
+        "% New March",
+        "% New April",
+        "% New May",
+        "% New June",
+        "% New July",
+        "% New Augus",
+        "% New Septe",
+        "% New Octo",
+        "% New Nove",
+        "% New Dece",
+        "% New Janu"
+    ],
+    "moon": "Moon",
     "xxdays": {
         "1": "% day",
         "*": "% days"
@@ -109,7 +124,9 @@
     "txmore": "[DF]{txfullscr} prevents the screen from turning off: For example, I hung an old tablet with a ‘sun dial’ on the wall for my niece. With {txuhrsinn}, you can specify whether the clock runs clockwise (south) or counterclockwise. If you change the direction of rotation, the part of the sun circle below the horizon is in front of you (see next page for details). [~LF][~LF]{txcolours} selects different dials. {txnightmode} {auto} changes at sunset, -6° at the end of twilight, +6° before. - If your settings are not applied, tap the refresh button at the bottom right of the dial. [~LF][~LF]You can zoom in on the dial with two fingers (or by triple-tapping). If you want to move the zoomed image, do so slowly. Fast movements will swipe to the next page. - On the next page you will find an explanation of the dial.[DF][DF][DF]",
     "txdata": "[DF]Data",
     "txlocdata": "[DF]Calculations from Gordon's Sun Clock for your specific location should match the astronomical almanac to within 0.0005 arc seconds³:[DF]",
-    "txobjdata": "– Sun¹ –[~LF]Time: {clocktm}[~LF]Temporal hour: {temptm}[~LF]Daylight: {sun_daylight}{sun_agnicountdown}{sun_agnihotra}[~LF][~LF]– Moon² –[~LF]Full moon: {moon_full}[~LF]New moon: {moon_new}[~LF]Illuminated: {moon_illum}[~LF]Size: {moon_sizep} (85-100)[~LF][~LF]– Brightness –[~LF]Venus: {venus_magp} (83-100)[~LF]Mars: {mars_magp} (52-100)[~LF]Jupiter: {jupiter_magp} (87-100)[~LF]Saturn: {saturn_magp} (77-100)[~LF]Mercury: {merkur_magp} (0-100)[~LF][~LF]Explanation: ¹ Time: GPS = synchronised | Temporal hour: ‘ἡ’ unequal hour (0.0[NDASH]11.9) of the day or ‘ν’ of the night. Aligned with completion: e.g. the sixth hour begins at 5.1, but was proclaimed at 6.0 (= from the 6th hour onwards). ‘φ’ Night watch with unequal ‘minutes’ (0φ00[NDASH]3φ59) | Daylight & Agnihotra: sunrise[NDASH]sunset today [sunrise tomorrow], ⁺ = current GPS | ² Full moon and new moon: time (in/before days) | ³ Moon is approx. 2000 arc seconds in size[~LF][~LF][~LF][b]–– Legend:[/b]",
+    "txobjdata": "– Sun¹ –[~LF]Time: {clocktm}[~LF]Temporal hour: {temptm}[~LF]Solar calendar: {cal_gordon}[~LF]Daylight: {sun_daylight}{sun_agnicountdown}{sun_agnihotra}[~LF][~LF]– Moon² –[~LF]Full moon: {moon_full} [~LF]New moon: {moon_new}[~LF]Solar calendar: {moon_gordon}[~LF]Illuminated: {moon_illum}[~LF]Size: {moon_sizep} (85-100)[~LF][~LF]– Brightness –[~LF]Venus: {venus_magp} (83-100)[~LF]Mars: {mars_magp} (52-100)[~LF]Jupiter: {jupiter_magp} (87-100)[~LF]Saturn: {saturn_magp} (77-100)[~LF]Mercury: {merkur_magp} (0-100)[~LF][~LF]Explanation: ¹ Time: GPS = synchronised | Temporal hour: ‘ἡ’ unequal hour (0.0[NDASH]11.9) of the day or ‘ν’ of the night. Aligned with completion: e.g. the sixth hour begins at 5.1, but was proclaimed at 6.0 (= from the 6th hour onwards). ‘φ’ Night watch with unequal ‘minutes’ (0φ00[NDASH]3φ59) | Solar calendar: See button below for information | Daylight & Agnihotra: Rise[NDASH]Set today [Rise tomorrow], ⁺ = current GPS | ² Full and new moon: Time (in/before days) | ³ Moon is approx. 2000 arc seconds in size[DF][DF]",
+    "buttonsolcal": "Sun calendar",
+    "txlegende0": "[b]–– Legend:[/b]",
     "txlegende": "[DF]☉ Sun, ● Moon (with phases)[~LF][~LF]♀ Venus (pearl-coloured), ♂ Mars (reddish), ♃ Jupiter (striped), ♄ Saturn (with rings), ☿ Mercury (grey)[~LF][~LF][s] Sirius, [k] Canopus, [f] Alpha Centauri, [a] Arcturus, [w] Vega, [c] Capella, [r] Rigel, [p] Procyon, [b] Betelgeuse, [h] Achernar[DF][DF][DF][DF]",
     "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
     "char_consonants": "bcdfghjklmnpqrstvwxyzñÑ",

@@ -19,6 +19,13 @@
         "Sa",
         "Do"
     ],
+    "solcalmonthsxx": [
+      "% Neo-Febb", "% Neo-Marzo", "% Neo-Aprile",
+      "% Neo-Maggio", "% Neo-Giugno", "% Neo-Luglio",
+      "% Neo-Agosto", "% Neo-Settem", "% Neo-Ottob",
+      "% Neo-Novem", "% Neo-Dicem", "% Neo-Gennar"
+    ],
+    "moon": "Luna",
     "xxdays": {
         "1": "{day} giorno",
         "*": "{day} giorni"

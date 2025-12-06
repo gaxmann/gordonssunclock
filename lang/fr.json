@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.5.1",
-        "updated": "2025-11-23 12:12:42"
+        "version": "1.5.3",
+        "updated": "2025-12-06 22:26:42"
     },
     "txwelcome": "Bienvenue",
     "quotes": [
@@ -22,6 +22,21 @@
         "Sam",
         "Dim"
     ],
+    "solcalmonthsxx": [
+        "% Néo-Févri",
+        "% Néo-Mars",
+        "% Néo-Avril",
+        "% Néo-Mai",
+        "% Néo-Juin",
+        "% Néo-Juillet",
+        "% Néo-Août",
+        "% Néo-Septem",
+        "% Néo-Octo",
+        "% Néo-Novem",
+        "% Néo-Décem",
+        "% Néo-Janus"
+    ],
+    "moon": "lune",
     "xxdays": {
         "1": "% jour",
         "*": "% jours"
@@ -104,7 +119,9 @@
     "txmore": "[DF]{txfullscr} empêche l'écran de s'éteindre : j'ai par exemple accroché au mur une vieille [i]tablette[/i] avec une « horloge solaire » pour ma nièce. Avec {txuhrsinn}, vous pouvez définir si l'horloge tourne dans le sens des aiguilles d'une montre (sud) ou dans le sens inverse. Si vous modifiez le sens de rotation, la partie du cercle solaire située sous l'horizon se trouve devant vous (pour plus de détails, voir page suivante). [~LF][~LF]{txfarben} permet de choisir différents cadrans. {txnachtmodus} {auto} change au coucher du soleil, -6° à la fin du crépuscule, +6° avant. - Si vos réglages ne sont pas pris en compte, appuyez sur le bouton de mise à jour en bas à droite du cadran. [~LF][~LF]Vous pouvez zoomer sur le cadran avec deux doigts (ou en appuyant trois fois). Si vous souhaitez déplacer l'image zoomée, faites-le lentement. Les mouvements rapides vous font passer à la page suivante. - Vous trouverez une explication du cadran à la page suivante.[DF][DF][DF]",
     "txdata": "[DF]Données",
     "txlocdata": "[DF]Les calculs de l'Horloge solaire de Gordon pour votre emplacement individuel doivent correspondre à l'almanach astronomique à 0,0005 seconde d'arc près³:[DF]",
-    "txobjdata": "– Soleil¹ –[~LF]Heure : {clocktm}[~LF]Heure temporelle : {temptm}[~LF]Jour lumineux : {sun_daylight}{sun_agnicountdown}{sun_agnihotra}[~LF][~LF]– Lune² –[~LF]Illuminée : {moon_illum}[~LF]Pleine lune : {moon_full}[~LF]Nouvelle lune : {moon_new}[~LF]Taille : {moon_sizep} (85-100)[~LF][~LF]– Luminosité –[~LF]Vénus : {venus_magp} (83-100)[~LF]Mars : {mars_magp} (52-100)[~LF]Jupiter : {jupiter_magp} (87-100)[~LF]Saturne : {saturn_magp} (77-100)[~LF]Mercure : {merkur_magp} (0-100)[~LF][~LF]Explication : ¹ Heure : GPS = synchronisé | Heure temporelle : « ἡ » heure inégale (0,0[NDASH]11,9) du jour ou « ν » de la nuit. Orienté vers l'achèvement : par exemple, la sixième heure commence à 5,1, mais a été proclamée à 6,0 (= à partir de la 6e heure). « φ » Veille nocturne avec des « minutes » inégales (0φ00[NDASH]3φ59) | Jour lumineux & Agnihotra : lever[NDASH]coucher aujourd'hui [lever demain], ⁺ = GPS actuel | ² Pleine lune et nouvelle lune : moment (en/avant jours) | ³ La lune mesure environ 2000 arcsec. [~LF][~LF][~LF][b]–– Légende :[/b]",
+    "txobjdata": "– Soleil¹ –[~LF]Heure : {clocktm}[~LF]Heure temporelle : {temptm}[~LF]Calendrier solaire : {cal_gordon}[~LF]Jour de lumière : {sun_daylight}{sun_agnicountdown}{sun_agnihotra}[~LF][~LF]– Lune² –[~LF]Pleine lune : {moon_full} [~LF]Nouvelle lune : {moon_new}[~LF]Calendrier solaire : {moon_gordon}[~LF]Illuminée : {moon_illum}[~LF]Taille : {moon_sizep} (85-100)[~LF][~LF]– Luminosité –[~LF]Vénus : {venus_magp} (83-100)[~LF]Mars : {mars_magp} (52-100)[~LF]Jupiter : {jupiter_magp} (87-100)[~LF]Saturne : {saturn_magp} (77-100)[~LF]Mercure : {merkur_magp} (0-100)[~LF][~LF]Explication : ¹ Heure : GPS = synchronisé | Heure temporelle : « ἡ » heure inégale (0,0[NDASH]11,9) du jour ou « ν » de la nuit. Aligné sur l'achèvement : par exemple, la sixième heure commence à 5,1, mais a été proclamée à 6,0 (= à partir de la 6e heure). « φ » Veille nocturne avec des « minutes » inégales (0φ00[NDASH]3φ59) | Calendrier solaire : informations voir bouton ci-dessous | Jour lumineux & Agnihotra : Lever[NDASH]Coucher aujourd'hui [Lever demain], ⁺ = GPS actuel | ² Pleine lune et nouvelle lune : heure (en/avant jours) | ³ La lune mesure environ 2000 arcsec. [DF][DF]",
+    "buttonsolcal": "Calendrier solaire",
+    "txlegende0": "[b]–– Légende :[/b]",
     "txlegende": "[DF]☉ Soleil, ● Lune (avec phases)[~LF][~LF]♀ Vénus (couleur perle), ♂ Mars (rougeâtre), ♃ Jupiter (rayé), ♄ Saturne (avec anneaux), ☿ Mercure (gris)[~LF][~LF][s] Sirius, [k] Canopus, [f] Alpha Centauri, [a] Arcturus, [w] Véga, [c] Capella, [r] Rigel, [p] Procyon, [b] Bételgeuse, [h] Achernar[DF][DF][DF][DF]",
     "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
     "char_consonants": "bcdfghjklmnpqrstvwxyzñÑ",

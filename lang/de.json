@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.5.1",
-        "updated": "2025-11-23 12:12:42"
+        "version": "1.5.3",
+        "updated": "2025-12-06 22:26:42"
     },
     "txwelcome": "Willkommen",
     "quotes": [
@@ -22,6 +22,21 @@
         "Sa",
         "So"
     ],
+    "solcalmonthsxx": [
+        "% Neufebru",
+        "% Neumärz",
+        "% Neuapril",
+        "% Neumai",
+        "% Neujuno",
+        "% Neujuli",
+        "% Neuaugus",
+        "% Neusepte",
+        "% Neuokto",
+        "% Neunove",
+        "% Neudeze",
+        "% Neujanu"
+    ],
+    "moon": "Mond",
     "xxdays": {
         "1": "% Tag",
         "*": "% Tage"
@@ -103,7 +118,9 @@
     "txmore": "[DF]{txfullscr} verhindert das Ausschalten des Bildschirms: Ich habe meiner Nichte z.B. ein altes [i]Tablet[/i] mit „Sonnenuhr“ an die Wand gehängt. Mit {txuhrsinn} legen Sie fest, ob die Uhr im Uhrzeigersinn läuft (Süden) oder dagegen. Wenn Sie die Drehrichtung ändern, liegt der unter dem Horizont liegende Teil des Sonnenkreises vor Ihnen (Details s. nächste Seite).[~LF][~LF]{txfarben} wählt verschiedene Ziffernblätter. {txnachtmodus} {auto} wechselt bei Sonnenuntergang, -6° zum Ende der Dämmerung, +6° davor. - Falls Ihre Einstellungen einmal nicht übernommen werden, tippen Sie auf dem Ziffernblatt unten rechts auf den Aktualisierungsknopf.[~LF][~LF]In das Ziffernblatt können Sie mit zwei Fingern hineinzoomen (oder mit Dreifachtipp). Wenn Sie das gezoomte Bild verschieben wollen, machen Sie es langsam. Schnelle Bewegungen wischen zur nächsten Seite. - Auf der nächsten Seite finden Sie eine Erklärung des Ziffernblatts.[DF][DF][DF]",
     "txdata": "[DF]Daten",
     "txlocdata": "[DF]Berechnungen von Gordons Sonnenuhr für Ihren individuellen Standort sollten mit dem astronomischen Almanach auf 0,0005 Bogensekunden übereinstimmen³:[DF]",
-    "txobjdata": "– Sonne¹ –[~LF]Uhrzeit: {clocktm}[~LF]Temporalstunde: {temptm}[~LF]Lichttag: {sun_daylight}{sun_agnicountdown}{sun_agnihotra}[~LF][~LF]– Mond² –[~LF]Vollmond: {moon_full}[~LF]Neumond: {moon_new}[~LF]Beleuchtet: {moon_illum}[~LF]Größe: {moon_sizep} (85-100)[~LF][~LF]– Helligkeit –[~LF]Venus: {venus_magp} (83-100)[~LF]Mars: {mars_magp} (52-100)[~LF]Jupiter: {jupiter_magp} (87-100)[~LF]Saturn: {saturn_magp} (77-100)[~LF]Merkur: {merkur_magp} (0-100)[~LF][~LF]Erklärung: ¹ Uhrzeit: GPS = synchronisiert | Temporalstunde: „ἡ“ ungleiche Stunde (0,0[NDASH]11,9) des Tages oder „ν“ der Nacht. Auf Vollendung ausgerichtet: z.B. die sechste Stunde beginnt bei 5,1, wurde aber bei 6,0 ausgerufen (= von der 6. Stunde an). „φ“ Nachtwache mit ungleichen „Minuten“ (0φ00[NDASH]3φ59) | Lichttag & Agnihotra: Aufgang[NDASH]Untergang heute [Aufgang morgen], ⁺ = aktuelles GPS | ² Voll- und Neumond: Zeitpunkt (in/vor Tagen) | ³ Mond ist ca. 2000 Bogensek. groß[~LF][~LF][~LF][b]–– Legende:[/b]",
+    "txobjdata": "– Sonne¹ –[~LF]Uhrzeit: {clocktm}[~LF]Temporalstunde: {temptm}[~LF]Sonnenkalender: {cal_gordon}[~LF]Lichttag: {sun_daylight}{sun_agnicountdown}{sun_agnihotra}[~LF][~LF]– Mond² –[~LF]Vollmond: {moon_full}[~LF]Neumond: {moon_new}[~LF]Sonnenkalender: {moon_gordon}[~LF]Beleuchtet: {moon_illum}[~LF]Größe: {moon_sizep} (85-100)[~LF][~LF]– Helligkeit –[~LF]Venus: {venus_magp} (83-100)[~LF]Mars: {mars_magp} (52-100)[~LF]Jupiter: {jupiter_magp} (87-100)[~LF]Saturn: {saturn_magp} (77-100)[~LF]Merkur: {merkur_magp} (0-100)[~LF][~LF]Erklärung: ¹ Uhrzeit: GPS = synchronisiert | Temporalstunde: „ἡ“ ungleiche Stunde (0,0[NDASH]11,9) des Tages oder „ν“ der Nacht. Auf Vollendung ausgerichtet: z.B. die sechste Stunde beginnt bei 5,1, wurde aber bei 6,0 ausgerufen (= von der 6. Stunde an). „φ“ Nachtwache mit ungleichen „Minuten“ (0φ00[NDASH]3φ59) | Sonnenkalender: Infos s. Knopf unten | Lichttag & Agnihotra: Aufgang[NDASH]Untergang heute [Aufgang morgen], ⁺ = aktuelles GPS | ² Voll- und Neumond: Zeitpunkt (in/vor Tagen) | ³ Mond ist ca. 2000 Bogensek. groß[DF][DF]",
+    "buttonsolcal": "Sonnenkalender",
+    "txlegende0": "[b]–– Legende:[/b]",
     "txlegende": "[DF]☉ Sonne, ● Mond (mit Phasen)[~LF][~LF]♀ Venus (perlenfarben), ♂ Mars (rötlich), ♃ Jupiter (gestreift), ♄ Saturn (mit Ringen), ☿ Merkur (grau)[~LF][~LF][s] Sirius, [k] Canopus, [f] Alpha Centauri, [a] Arktur, [w] Wega, [c] Capella, [r] Rigel, [p] Prokyon, [b] Beteigeuze, [h] Achernar[DF][DF][DF][DF]",
     "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
     "char_consonants": "bcdfghjklmnpqrstvwxyzñÑ",
