@@ -5,9 +5,10 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.64.2] - 2025-11-xx
+## [2.65] - 2025-11-xx
 
 ### Changed
+- Gordon's Sun Calendar added (centered around the middle of the 4 astronomical fix points)
 - New moon's white ring restored
 - Instead of standard temperature (= 10°C) refraction temperature is now estimated from latitude, longitude, altitude, and day of year
 - Ordinal numbers added to lang files for night watches
