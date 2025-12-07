@@ -8,7 +8,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.65] - 2025-12-xx
 
 ### Changed
-- Gordon's Sun Calendar added (centered around the middle of the 4 astronomical fix points, [Info](https://axmann.eu/solkal.php?lg=en))
+- Gordon's Light Calendar added with the new 4 light seasons (centered around the middle of the 4 astronomical fix points, [Info](https://axmann.eu/solkal.php?lg=en))
 - New moon's white ring restored
 - Instead of standard temperature (= 10°C) refraction temperature is now estimated from latitude, longitude, altitude, and day of year
 - Ordinal numbers added to lang files for night watches
