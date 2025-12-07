@@ -8,7 +8,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.65] - 2025-12-xx (Light Calendar)
 
 ### Added
-- Gordian Light Calendar dates added with 4 light seasons (centered around the middle of the 4 astronomical fix points, [Info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar)
+- Gordian Light Calendar dates added that shows the 4 light seasons (centered around the middle of the 4 astronomical fix points, [more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar)
 
 ### Changed
 - New moon's white ring restored
