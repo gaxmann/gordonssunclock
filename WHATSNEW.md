@@ -4,7 +4,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 ---
 
 ## [2.65] - 2025-12-xx (Light Calendar)
-- Gordian Light Calendar added with four light seasons ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
+- Gordian Light Calendar which displays four light seasons ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
 
 ## [2.64] - 2025-11-18 (GPS time)
 - GPS time correction for Agnihotra (“+” = current GPS)
