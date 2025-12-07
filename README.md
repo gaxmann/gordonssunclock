@@ -132,7 +132,7 @@ If you enjoy Sun Clock, please consider:
 
 Enjoy using Sun Clock ☀️
 
-&nbsp;
+<br>
 P.S. *If you are interested in how the Sun Clock’s astronomical logic can extend into a full civil calendar, please also take a look at the...*
 
 - ***[Gordian Light Calendar](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar)***
