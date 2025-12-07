@@ -136,7 +136,7 @@ Enjoy using Sun Clock ☀️
 
 If you are interested in how the Sun Clock’s astronomical logic can extend into a full civil calendar, please also take a look at the...
 
-➡️ **[Gordian Light Calendar](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar)**
+- **[Gordian Light Calendar](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar)**
 
 It is a natural, astronomy-based year structure built around solstices, equinoxes, and the changing rhythm of daylight — a complementary system to the Sun Clock.
 
