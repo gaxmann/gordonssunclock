@@ -8,8 +8,8 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.65] - 2025-12-xx (Light Calendar)
 
 ### Added
-- Displays light seasons (centered around the middle of the 4 astronomical fix points, [more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
-- Also display moon day calendar (but within gregorian year, not light year)
+- Displays light seasons based on the midpoints between the four astronomical fixpoints ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
+- Also display moon-day calendar (counted within Gregorian year, not Light year)
 
 ### Changed
 - New moon's white ring restored
