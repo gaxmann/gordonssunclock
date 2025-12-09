@@ -13,12 +13,12 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - New moon's white ring restored
-- Instead of standard temperature (= 10°C) refraction temperature is now estimated from latitude, longitude, altitude, and day of year
-- Ordinal numbers added to lang files for night watches
-- Draft includes moon orbit again
+- Refraction temperature is now estimated from lat, lon, alt, and day of year (instead of using the standard 10°C)
+- Ordinal numbers added to lang files
+- Draft mode includes moon orbit again
 
 ### Fixed
-- Russian word separation rules fixed
+- Russian word-separation rules fixed
 - Bug fixes (keyerror 12, 8)
 
 ### Removed
