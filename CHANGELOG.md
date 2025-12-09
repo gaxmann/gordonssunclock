@@ -8,8 +8,8 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.65] - 2025-12-xx (Light Seasons)
 
 ### Added
-- Displays the eight light seasons (4 main + 4 sub-phases), based on the midpoints between the four astronomical fixpoints ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
-- Display the moon-night calendar (counted within Gregorian year, not Light year)
+- Displays the eight light seasons (4 main + 4 sub-phases), based on the midpoints between the 4 astronomical fixpoints ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
+- Displays the moon-night calendar (lunar night indexing within the Gregorian year)
 
 ### Changed
 - New moon's white ring restored
