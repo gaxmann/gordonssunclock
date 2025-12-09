@@ -16,7 +16,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ## [2.59] - 2025-10-21 (Legacy support)
 
-- Android 5+ support (enables legacy devices to be used as wall clocks), bug fixes
+- Android 5+ support added to enable legacy devices to be used as wall clocks, bug fixes
  
 ## [2.54-stable] - 2025-10-08 (Bar fixes)
 
