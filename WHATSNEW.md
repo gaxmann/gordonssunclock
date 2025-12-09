@@ -3,7 +3,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ---
 
-[2.65] - 2025-12-xx (Light Seasons)
+## [2.65] - 2025-12-xx (Light Seasons)
 - Eight light seasons and moon calendar added ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar)), bug fixes
 
 ## [2.64] - 2025-11-18 (GPS time)
