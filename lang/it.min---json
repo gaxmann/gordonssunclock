@@ -19,17 +19,16 @@
         "Sa",
         "Do"
     ],
-    "solcalmonthsxx": [
-      "% Neo-Febb", "% Neo-Marzo", "% Neo-Aprile",
-      "% Neo-Maggio", "% Neo-Giugno", "% Neo-Luglio",
-      "% Neo-Agosto", "% Neo-Settem", "% Neo-Ottob",
-      "% Neo-Novem", "% Neo-Dicem", "% Neo-Gennar"
-    ],
-    "solcalseasons": [
-        "Preprimavera",
-        "Estate precoce",
-        "Autunno precoce",
-        "Inverno precoce"
+    "lighttime": "[DF]Stagione della luce",
+    "solcal_lph": [
+        "Crescita (%)",
+        "Arrivo nella luce (%)",
+        "Riposo della luce (%)",
+        "Addio alla luce (%)",
+        "Declino (%)",
+        "Arrivo nell’oscurità (%)",
+        "Riposo dell’oscurità (%)",
+        "Addio all’oscurità (%)"
     ],
     "moon": "Luna",
     "xxdays": {
@@ -185,6 +184,13 @@
         "nz"
     ],
     "graph_separateafter": [],
+
+    "solcalmonthsxx": [
+      "% Neo-Febb", "% Neo-Marzo", "% Neo-Aprile",
+      "% Neo-Maggio", "% Neo-Giugno", "% Neo-Luglio",
+      "% Neo-Agosto", "% Neo-Settem", "% Neo-Ottob",
+      "% Neo-Novem", "% Neo-Dicem", "% Neo-Gennar"
+    ],
 
     "XXEOF": ""
 }

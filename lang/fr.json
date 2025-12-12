@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.5.4",
-        "updated": "2025-12-06 23:17:43"
+        "version": "1.5.6",
+        "updated": "2025-12-12 15:28:14"
     },
     "txwelcome": "Bienvenue",
     "quotes": [
@@ -22,25 +22,16 @@
         "Sam",
         "Dim"
     ],
-    "solcalmonthsxx": [
-        "% Néo-Févri",
-        "% Néo-Mars",
-        "% Néo-Avril",
-        "% Néo-Mai",
-        "% Néo-Juin",
-        "% Néo-Juillet",
-        "% Néo-Août",
-        "% Néo-Septem",
-        "% Néo-Octo",
-        "% Néo-Novem",
-        "% Néo-Décem",
-        "% Néo-Janus"
-    ],
-    "solcalseasons": [
-        "Avant-printemps",
-        "Début d’été",
-        "Début d’automne",
-        "Début d’hiver"
+    "lighttime": "[DF]Saison lumineuse",
+    "solcal_lph": [
+        "Croissance (%)",
+        "Arrivée dans la lumière (%)",
+        "Repos de lumière (%)",
+        "Adieu à la lumière (%)",
+        "Déclin (%)",
+        "Arrivée dans l’obscurité (%)",
+        "Repos d’obscurité (%)",
+        "Adieu à l’obscurité (%)"
     ],
     "moon": "lune",
     "xxdays": {
@@ -125,10 +116,10 @@
     "txmore": "[DF]{txfullscr} empêche l'écran de s'éteindre : j'ai par exemple accroché au mur une vieille [i]tablette[/i] avec une « horloge solaire » pour ma nièce. Avec {txuhrsinn}, vous pouvez définir si l'horloge tourne dans le sens des aiguilles d'une montre (sud) ou dans le sens inverse. Si vous modifiez le sens de rotation, la partie du cercle solaire située sous l'horizon se trouve devant vous (pour plus de détails, voir page suivante). [~LF][~LF]{txfarben} permet de choisir différents cadrans. {txnachtmodus} {auto} change au coucher du soleil, -6° à la fin du crépuscule, +6° avant. - Si vos réglages ne sont pas pris en compte, appuyez sur le bouton de mise à jour en bas à droite du cadran. [~LF][~LF]Vous pouvez zoomer sur le cadran avec deux doigts (ou en appuyant trois fois). Si vous souhaitez déplacer l'image zoomée, faites-le lentement. Les mouvements rapides vous font passer à la page suivante. - Vous trouverez une explication du cadran à la page suivante.[DF][DF][DF]",
     "txdata": "[DF]Données",
     "txlocdata": "[DF]Les calculs de l'Horloge solaire de Gordon pour votre emplacement individuel doivent correspondre à l'almanach astronomique à 0,0005 seconde d'arc près³:[DF]",
-    "txobjdata": "– Soleil¹ –[~LF]Heure : {clocktm}[~LF]Heure temporelle : {temptm}[~LF]Calendrier solaire : {cal_gordon}[~LF]Jour de lumière : {sun_daylight}{sun_agnicountdown}{sun_agnihotra}[~LF][~LF]– Lune² –[~LF]Pleine lune : {moon_full} [~LF]Nouvelle lune : {moon_new}[~LF]Calendrier solaire : {moon_gordon}[~LF]Illuminée : {moon_illum}[~LF]Taille : {moon_sizep} (85-100)[~LF][~LF]– Luminosité –[~LF]Vénus : {venus_magp} (83-100)[~LF]Mars : {mars_magp} (52-100)[~LF]Jupiter : {jupiter_magp} (87-100)[~LF]Saturne : {saturn_magp} (77-100)[~LF]Mercure : {merkur_magp} (0-100)[~LF][~LF]Explication : ¹ Heure : GPS = synchronisé | Heure temporelle : « ἡ » heure inégale (0,0[NDASH]11,9) du jour ou « ν » de la nuit. Aligné sur l'achèvement : par exemple, la sixième heure commence à 5,1, mais a été proclamée à 6,0 (= à partir de la 6e heure). « φ » Veille nocturne avec des « minutes » inégales (0φ00[NDASH]3φ59) | Calendrier solaire : informations voir bouton ci-dessous | Jour lumineux & Agnihotra : Lever[NDASH]Coucher aujourd'hui [Lever demain], ⁺ = GPS actuel | ² Pleine lune et nouvelle lune : heure (en/avant jours) | ³ La lune mesure environ 2000 arcsec. [DF][DF]",
-    "buttonsolcal": "Calendrier solaire",
-    "txlegende0": "[b]–– Légende :[/b]",
-    "txlegende": "[DF]☉ Soleil, ● Lune (avec phases)[~LF][~LF]♀ Vénus (couleur perle), ♂ Mars (rougeâtre), ♃ Jupiter (rayé), ♄ Saturne (avec anneaux), ☿ Mercure (gris)[~LF][~LF][s] Sirius, [k] Canopus, [f] Alpha Centauri, [a] Arcturus, [w] Véga, [c] Capella, [r] Rigel, [p] Procyon, [b] Bételgeuse, [h] Achernar[DF][DF][DF][DF]",
+    "txobjdata": "– Soleil¹ –[~LF]Heure: {clocktm}[~LF]Heure temporelle: {temptm}[~LF]Jour de lumière: {sun_daylight}{sun_agnicountdown}{sun_agnihotra}[~LF]Solstice: {sun_soli}[~LF]Équinoxe: {sun_equi}{sun_lighttime}[~LF][~LF]– Lune² –[~LF]Nouvelle lune: {moon_new}[~LF]Pleine lune: {moon_full}[~LF]Nuit lunaire: {moon_gordon}[~LF]Éclairée: {moon_illum}[~LF]Taille: {moon_sizep} (85-100)[~LF][~LF]– Luminosité –[~LF]Vénus: {venus_magp} (83-100)[~LF]Mars: {mars_magp} (52-100)[~LF]Jupiter: {jupiter_magp} (87-100)[~LF]Saturne: {saturn_magp} (77-100)[~LF]Mercure: {merkur_magp} (0-100)[~LF][~LF]¹ Heure: GPS = synchronisée | Heure temporelle: heure locale inégale (0,0[NDASH]11,9), ‘ἡ’ pour le jour ou ‘ν’ pour la nuit. ‘φ’ veille nocturne avec « minutes » inégales (0φ00[NDASH]3φ59) | {lighttime-} : voir ci-dessous | Jour de lumière et Agnihotra: lever[NDASH]coucher aujourd’hui [lever demain], ⁺ = GPS actuel | ² Nouvelle et pleine lune: moment (en/avant jours) | Nuit lunaire: voir ci-dessous | ³ La Lune mesure env. 2000 secondes d’arc[DF][DF][DF][b]–– Légende du cadran :[/b]",
+    "txlegende": "[DF]☉ Soleil, ● Lune (avec phases)[~LF][~LF]♀ Vénus (nacrée), ♂ Mars (rougeâtre), ♃ Jupiter (bandée), ♄ Saturne (avec anneaux), ☿ Mercure (grise)[~LF][~LF][s] Sirius, [k] Canopus, [f] Alpha Centauri, [a] Arcturus, [w] Véga, [c] Capella, [r] Rigel, [p] Procyon, [b] Bételgeuse, [h] Achernar[DF][DF][DF]",
+    "txlegende0": "[b]–– Explications :[/b][~LF][~LF]La saison lumineuse de l’année divise l’année en huit phases de lumière croissante et décroissante : 1. {solcal_lph|0}/ montée (env. 4.2–5.5), 2a. {solcal_lph|1} (6–20.5), 2b. {solcal_lph|2} (21.5–21.7), 2c. {solcal_lph|3} (22.7–6.8), 3. {solcal_lph|4}/ décroissance (7.8–6.11), 4a. {solcal_lph|5} (7–21.11), 4b. {solcal_lph|6} (22.11–19.1) et 4c. {solcal_lph|7} (20.1–3.2). En bref : Φx·y avec x = temps de lumière, y =[SP]% d’avancement. – Les dates se basent sur des points astronomiques et peuvent s’écarter légèrement du calendrier civil.[~LF][~LF]La date lunaire fonctionne comme notre date, mais avec des nuits au lieu de jours : Μx·y (p/z), avec x = « mois » lunaire de l’année, y = nuit du mois lunaire. Comme les mois lunaires n’ont pas tous la même durée, z indique le nombre total de nuits du mois lunaire, et p la nuit de la pleine lune. La nuit se termine au lever du soleil.[DF][DF][DF]",
+    "buttonsolcal": "Calendrier lumineux",
     "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
     "char_consonants": "bcdfghjklmnpqrstvwxyzñÑ",
     "char_splitafter": ".,;:!?“‘”-—)]}%&*+=/\\|>@#_×÷≈≠≤≥°¶•…”’»`",
@@ -202,5 +193,19 @@
     "txchangelog": "Quoi de neuf ?",
     "txanleitung4": "[DF]Les données ne sont ni collectées ni transmises. Tout reste sur votre appareil. Une connexion Internet n'est même pas nécessaire pour le fonctionnement. Une exception : en cas d'erreur de programme, si vous disposez d'une connexion Internet, un message d'erreur anonyme est envoyé (pour plus de détails, voir la politique de confidentialité). Vous contribuez ainsi au bon fonctionnement de l'Horloge solaire.[~LF][~LF]Si vous avez trouvé une erreur, je me ferai un plaisir de la corriger. Pour cela, j'ai besoin d'un rapport d'erreur clair (éventuellement avec une capture d'écran) et d'une brève description indiquant où et quand l'erreur s'est produite. Une capture d'écran du journal d'état ci-dessous, prise si possible immédiatement après l'apparition de l'erreur, est également utile (contact par e-mail : [CONTACTSUPPORT]). Dans 99 % des cas, les remarques concernant des erreurs de calcul présumées sont fausses. Il existe malheureusement beaucoup d'informations erronées sur le calcul des étoiles.[~LF][~LF]Remerciements : Brandon Rhodes (Skyfield), Rolf, Greg Miller et tous les testeurs. Images des corps célestes fournies par : NASA / SOHO (Solar and Heliospheric Observatory), ESA / télescope spatial Hubble et NASA / JPL-Caltech (domaine public). Vous trouverez une liste de tous les matériaux tiers utilisés et des licences dans le fichier « design/ COPYRIGHT.txt ».[~LF][~LF]Je vous offre gratuitement « Horloge solaire ». Profitez-en simplement. Si vous souhaitez exprimer votre gratitude pour mon travail, vous trouverez mon site web ici :[DF][DF]",
     "txkaffee": "Accéder au site web",
+    "solcalmonthsxx": [
+        "% Néo-Févri",
+        "% Néo-Mars",
+        "% Néo-Avril",
+        "% Néo-Mai",
+        "% Néo-Juin",
+        "% Néo-Juillet",
+        "% Néo-Août",
+        "% Néo-Septem",
+        "% Néo-Octo",
+        "% Néo-Novem",
+        "% Néo-Décem",
+        "% Néo-Janus"
+    ],
     "XXEOF": ""
 }

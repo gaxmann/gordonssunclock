@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.5.4",
-        "updated": "2025-12-06 23:17:43"
+        "version": "1.5.6",
+        "updated": "2025-12-12 15:28:14"
     },
     "txwelcome": "Willkommen",
     "quotes": [
@@ -22,25 +22,16 @@
         "Sa",
         "So"
     ],
-    "solcalmonthsxx": [
-        "% Neufebru",
-        "% Neumärz",
-        "% Neuapril",
-        "% Neumai",
-        "% Neujuno",
-        "% Neujuli",
-        "% Neuaugus",
-        "% Neusepte",
-        "% Neuokto",
-        "% Neunove",
-        "% Neudeze",
-        "% Neujanu"
-    ],
-    "solcalseasons": [
-        "Vorfrühling",
-        "Frühsommer",
-        "Frühherbst",
-        "Frühwinter"
+    "lighttime": "[DF]Lichtzeit",
+    "solcal_lph": [
+        "Gedeihen (%)",
+        "Ankommen im Licht (%)",
+        "Lichtruhe (%)",
+        "Abschied vom Licht (%)",
+        "Schwinden (%)",
+        "Ankommen im Dunkeln (%)",
+        "Dunkelruhe (%)",
+        "Abschied vom Dunkeln (%)"
     ],
     "moon": "Mond",
     "xxdays": {
@@ -124,10 +115,10 @@
     "txmore": "[DF]{txfullscr} verhindert das Ausschalten des Bildschirms: Ich habe meiner Nichte z.B. ein altes [i]Tablet[/i] mit „Sonnenuhr“ an die Wand gehängt. Mit {txuhrsinn} legen Sie fest, ob die Uhr im Uhrzeigersinn läuft (Süden) oder dagegen. Wenn Sie die Drehrichtung ändern, liegt der unter dem Horizont liegende Teil des Sonnenkreises vor Ihnen (Details s. nächste Seite).[~LF][~LF]{txfarben} wählt verschiedene Ziffernblätter. {txnachtmodus} {auto} wechselt bei Sonnenuntergang, -6° zum Ende der Dämmerung, +6° davor. - Falls Ihre Einstellungen einmal nicht übernommen werden, tippen Sie auf dem Ziffernblatt unten rechts auf den Aktualisierungsknopf.[~LF][~LF]In das Ziffernblatt können Sie mit zwei Fingern hineinzoomen (oder mit Dreifachtipp). Wenn Sie das gezoomte Bild verschieben wollen, machen Sie es langsam. Schnelle Bewegungen wischen zur nächsten Seite. - Auf der nächsten Seite finden Sie eine Erklärung des Ziffernblatts.[DF][DF][DF]",
     "txdata": "[DF]Daten",
     "txlocdata": "[DF]Berechnungen von Gordons Sonnenuhr für Ihren individuellen Standort sollten mit dem astronomischen Almanach auf 0,0005 Bogensekunden übereinstimmen³:[DF]",
-    "txobjdata": "– Sonne¹ –[~LF]Uhrzeit: {clocktm}[~LF]Temporalstunde: {temptm}[~LF]Sonnenkalender: {cal_gordon}[~LF]Lichttag: {sun_daylight}{sun_agnicountdown}{sun_agnihotra}[~LF][~LF]– Mond² –[~LF]Vollmond: {moon_full}[~LF]Neumond: {moon_new}[~LF]Sonnenkalender: {moon_gordon}[~LF]Beleuchtet: {moon_illum}[~LF]Größe: {moon_sizep} (85-100)[~LF][~LF]– Helligkeit –[~LF]Venus: {venus_magp} (83-100)[~LF]Mars: {mars_magp} (52-100)[~LF]Jupiter: {jupiter_magp} (87-100)[~LF]Saturn: {saturn_magp} (77-100)[~LF]Merkur: {merkur_magp} (0-100)[~LF][~LF]Erklärung: ¹ Uhrzeit: GPS = synchronisiert | Temporalstunde: „ἡ“ ungleiche Stunde (0,0[NDASH]11,9) des Tages oder „ν“ der Nacht. Auf Vollendung ausgerichtet: z.B. die sechste Stunde beginnt bei 5,1, wurde aber bei 6,0 ausgerufen (= von der 6. Stunde an). „φ“ Nachtwache mit ungleichen „Minuten“ (0φ00[NDASH]3φ59) | Sonnenkalender: Infos s. Knopf unten | Lichttag & Agnihotra: Aufgang[NDASH]Untergang heute [Aufgang morgen], ⁺ = aktuelles GPS | ² Voll- und Neumond: Zeitpunkt (in/vor Tagen) | ³ Mond ist ca. 2000 Bogensek. groß[DF][DF]",
-    "buttonsolcal": "Sonnenkalender",
-    "txlegende0": "[b]–– Legende:[/b]",
-    "txlegende": "[DF]☉ Sonne, ● Mond (mit Phasen)[~LF][~LF]♀ Venus (perlenfarben), ♂ Mars (rötlich), ♃ Jupiter (gestreift), ♄ Saturn (mit Ringen), ☿ Merkur (grau)[~LF][~LF][s] Sirius, [k] Canopus, [f] Alpha Centauri, [a] Arktur, [w] Wega, [c] Capella, [r] Rigel, [p] Prokyon, [b] Beteigeuze, [h] Achernar[DF][DF][DF][DF]",
+    "txobjdata": "– Sonne¹ –[~LF]Uhrzeit: {clocktm}[~LF]Temporalstunde: {temptm}[~LF]Lichttag: {sun_daylight}{sun_agnicountdown}{sun_agnihotra}[~LF]Sonnenwende: {sun_soli}[~LF]Nachtgleiche: {sun_equi}{sun_lighttime}[~LF][~LF]– Mond² –[~LF]Neumond: {moon_new}[~LF]Vollmond: {moon_full}[~LF]Mondnacht: {moon_gordon}[~LF]Beleuchtet: {moon_illum}[~LF]Größe: {moon_sizep} (85-100)[~LF][~LF]– Helligkeit –[~LF]Venus: {venus_magp} (83-100)[~LF]Mars: {mars_magp} (52-100)[~LF]Jupiter: {jupiter_magp} (87-100)[~LF]Saturn: {saturn_magp} (77-100)[~LF]Merkur: {merkur_magp} (0-100)[~LF][~LF]¹ Uhrzeit: GPS = synchronisiert | Temporalstunde: lokale, ungleiche Stunde (0,0[NDASH]11,9) „ἡ“ des Tages oder „ν“ der Nacht. „φ“ Nachtwache mit ungleichen „Minuten“ (0φ00[NDASH]3φ59) | {lighttime-}: s.u. | Lichttag & Agnihotra: Aufgang[NDASH]Untergang heute [Aufgang morgen], ⁺ = aktuelles GPS | ² Voll- und Neumond: Zeitpunkt (in/vor Tagen) | Mondnacht: s.u. | ³ Mond ist ca. 2000 Bogensek. groß[DF][DF][DF][b]–– Legende Ziffernblatt:[/b]",
+    "txlegende": "[DF]☉ Sonne, ● Mond (mit Phasen)[~LF][~LF]♀ Venus (perlenfarben), ♂ Mars (rötlich), ♃ Jupiter (gestreift), ♄ Saturn (mit Ringen), ☿ Merkur (grau)[~LF][~LF][s] Sirius, [k] Canopus, [f] Alpha Centauri, [a] Arktur, [w] Wega, [c] Capella, [r] Rigel, [p] Prokyon, [b] Beteigeuze, [h] Achernar[DF][DF][DF]",
+    "txlegende0": "[b]–– Erklärungen:[/b][~LF][~LF]Die Lichtjahreszeit teilt das Jahr in acht Phasen zunehmenden und abnehmenden Lichts: 1. {solcal_lph|0}/ Anstieg (ca. 4.2.–5.5.), 2a. {solcal_lph|1} (6.–20.5.), 2b. {solcal_lph|2} (21.5.–21.7.), 2c. {solcal_lph|3} (22.7.–6.8.), 3. {solcal_lph|4} (7.8.–6.11.), 4a. {solcal_lph|5} (7.–21.11.), 4b. {solcal_lph|6} (22.11.–19.1.) und 4c. {solcal_lph|7} (20.1.–3.2.). Kurz: Φx·y mit x = Lichtzeit, y =[SP]%-Fortschritt. - Daten orientieren sich an astronomischen Punkten und können vom Kalender leicht abweichen.[~LF][~LF]Monddatum funktioniert wie unser Datum, aber mit Nächten statt Tagen: Μx·y (p/z) mit x = Mond„monat“ des Jahrs, y = Nacht des Mondmonats. Da Mondmonate verschieden lang sind, gibt z die Gesamtnächte des Mondmonats an, p die Vollmondnacht. Die Nacht endet bei Sonnenaufgang.[DF][DF][DF]",
+    "buttonsolcal": "Lichtkalender",
     "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
     "char_consonants": "bcdfghjklmnpqrstvwxyzñÑ",
     "char_splitafter": ".,;:!?“‘”-—)]}%&*+=/\\|>@#_×÷≈≠≤≥°¶•…”’»`",
@@ -204,5 +195,19 @@
     "txchangelog": "Was ist neu?",
     "txanleitung4": "[DF]Daten werden weder erhoben noch gesendet. Alles bleibt auf Ihrem Gerät. Für den Betrieb ist nicht einmal eine Internetverbindung nötig. Eine Ausnahme: Bei einem Programmfehler wird, wenn Sie Internet haben, eine anonyme Fehlermeldung gesendet (Details s. Datenschutzrichtlinie). Damit helfen Sie, dass Sonnenuhr rund läuft.[~LF][~LF]Wenn Sie einen Fehler gefunden haben, korrigiere ich diesen gerne. Ich benötige dafür einen klaren Fehlerbericht (ev. mit Bildschirmfoto) und kurzer Beschreibung, wo und wann der Fehler aufgetreten ist. Hilfreich ist auch ein Bildschirmfoto des untenstehenden Status-Logs möglichst direkt nach Auftreten des Fehlers (Mailkontakt: [CONTACTSUPPORT]). Hinweise zu vermeintlichen Berechnungsfehlern sind in 99% der Fälle Falschmeldungen - es gibt leider sehr viel Fehlinformation zu Sternenberechnung.[~LF][~LF]Danke an: Brandon Rhodes (Skyfield), Rolf, Greg Miller und alle Tester. Bilder der Himmelskörper bereitgestellt von: NASA / SOHO (Solar and Heliospheric Observatory), ESA / Hubble-Weltraumteleskop und NASA / JPL-Caltech (gemeinfrei). Eine Auflistung aller verwendeten Materialien von Drittanbietern und Lizenzen finden Sie in der Datei \"design/ COPYRIGHT.txt\".[~LF][~LF]Ich stelle Ihnen „Sonnenuhr“ kostenlos zur Verfügung. Haben Sie einfach Freude an ihr. Wenn Sie Ihre Wertschätzung für meine Arbeit ausdrücken möchten, finden Sie hier meine Webpräsenz:[DF][DF]",
     "txkaffee": "Zur Webpräsenz",
+    "solcalmonthsxx": [
+        "% Neufebru",
+        "% Neumärz",
+        "% Neuapril",
+        "% Neumai",
+        "% Neujuno",
+        "% Neujuli",
+        "% Neuaugus",
+        "% Neusepte",
+        "% Neuokto",
+        "% Neunove",
+        "% Neudeze",
+        "% Neujanu"
+    ],
     "XXEOF": ""
 }
