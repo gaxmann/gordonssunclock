@@ -56,7 +56,6 @@ Since June 2025 Sun Clock is available as an Android app. The app is also known 
 - *"Thank you very much. An app as it should be. Functional, simple and ad-free", Ftoth*
 - *"Heard about this app on kivy Reddit. Love it, very simple and informative", Terry*
 - *"I live in China, and with the single time zone, it's often hard to know when the sun rises at a certain location. That's why I love this app", prana*
-- *"Since the update it now works on GrapheneOS too. Thanks for the effort!", dupa*
 
 ---
 
