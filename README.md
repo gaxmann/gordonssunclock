@@ -79,7 +79,7 @@ Temporal hours, or unequal hours, divided both day and night into twelve parts �
 > 
 > Because the dial represents the real sky, the visual layout is not fixed. “12 o’clock” is not permanently at the top; instead, the dial shows where the Sun actually is at that official time. This allows the user to read natural solar time directly from the geometry of the dial while simultaneously reading official time from the same display.
 > 
-> Optional temporal (unequal) hours may be enabled as an additional visualization layer. They do not replace or alter the official time, which is always shown.
+> Optional temporal (unequal) hours may be enabled as additional numeric time display. They do not replace or alter the official time, which is always shown.
 
 ---
 
