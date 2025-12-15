@@ -549,8 +549,8 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [1.0 - 1.73] - 2019-11..2025
 
 ### Added
-- The project’s first digital incarnation, running on a Raspberry Pi and displayed on a 10-inch, 16-greyscale e-paper panel mounted inside a picture frame as a wall clock
-- Initially built on a Raspberry Pi Zero W, with an additional version later created using a Raspberry Pi 3A+
+- The project’s first digital incarnation runs on a Raspberry Pi Zero W with a small e-paper display
+- The second version uses a Raspberry Pi 3A+ and a 10-inch, 16-greyscale e-paper display mounted in a picture frame as a wall clock
 
 ## [0.0 - 0.2] - 2012..2019
 
