@@ -22,9 +22,6 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Russian word-separation rules fixed
 - Bug fixes (keyerror 12, 8)
 
-### Removed
-- Tested a new design Claude Monet (image created by LLM) but rejected it
-
 ## [2.64] - 2025-11-18 (GPS time, Russian language)
 
 ### Changed
