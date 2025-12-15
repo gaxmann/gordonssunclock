@@ -14,6 +14,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - New moon's white ring restored
+- Moon illumination trend is now second-precise
 - Refraction temperature is now estimated from lat, lon, alt, and day of year (instead of using the standard 10°C)
 - Ordinal numbers added to lang files
 - Draft mode includes moon orbit again
