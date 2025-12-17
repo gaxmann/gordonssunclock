@@ -30,7 +30,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - A sign "+" appears next to the Agnihotra times if the last GPS position is less than 3 minutes old
 - Russian added, language files updated (e.g. xxdays)
 - Calculation of automatic view direction optimised
-- When flipping Agnihotra, requestLocationUpdates are re-applied
+- When flipping Agnihotra checkbox, requestLocationUpdates are re-applied
 - Moon terminator shadow blurred and slightly transparent for more realism (please zoom in)
 - The digital time display has been restored to the top-right of the dial
 - Quotes of the label texts are now copied from the label text ({txgpsauto}, no double translating)
