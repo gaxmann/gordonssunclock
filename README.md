@@ -104,7 +104,7 @@ This project is proprietary (which may change in the future). See `design/COPYRI
 If you enjoy Sun Clock, please consider:
 - Telling others about it
 - Leaving a positive review 
-- Reading what others say on our [Voices on Sun Clock](https://github.com/gaxmann/gordonssunclock/wiki/Voices-on-Sun-Clock) wiki page
+- Reading what others say on the [Voices on Sun Clock](https://github.com/gaxmann/gordonssunclock/wiki/Voices-on-Sun-Clock) wiki page
 
 Enjoy using Sun Clock ☀️
 
