@@ -172,7 +172,7 @@ Corrections can be submitted via pull request or by email.
 
 ### Notes
 
-- Never modify or remove control codes such as `[~LF]`, `{…}`, `[DF]`, `[SP]`, or formatting tags.
+- Never modify or remove control codes such as `[~LF]`, `{xxxx}`, `[DF]`, `[SP]`, or formatting tags.
 - Partial contributions should contain only modified entries.
 - Try to preserve the original tone and terminology of the existing translation.
 
