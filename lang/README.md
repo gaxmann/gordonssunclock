@@ -10,26 +10,35 @@ English serves as the fallback language and will be used whenever a language or 
 
 ## Types of Language Support
 
-Sun Clock has two types of language support: (1) fully supported languages (all entries translated) and (2a) partially supported (where approximately half of the entries are translated) and (2b) minimally supported languages.
+Sun Clock distinguishes between three levels of translation completeness. These levels describe how much of the application interface is translated and which parts fall back to English.
 
-### Fully supported languages
+### Fully translated languages
 
-(1) Fully supported languages are: *English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), and 中文 (zh).* My long-term goal is to provide full support only for the most widely used languages (roughly the global top ten: ✓English, ✓Simplified Chinese, ✓Spanish, Hindi, Arabic, ✓French, Bengali, Portuguese, ✓Russian, Indonesian, ✓German). Maintaining a larger number of fully translated languages would create more ongoing work than I can realistically support.
+Fully translated languages contain translations for **all entries** in the language file.
 
-### What "Partially & Minimally Supported" Means
+Currently, these include: *English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), and 中文 (zh).* The long-term goal is to maintain full support only for the most widely used languages worldwide. Supporting a large number of fully translated languages would require ongoing maintenance effort that is not realistically sustainable.
 
-Full translations require significant effort, not only for the initial translation but also for ongoing maintenance as new features and content are added. Contributions are always welcome!
+---
 
-(2a) Partially supported languages typically include all translations up to (and including) the `"txlegende"` entry in the language file. This covers:
+### Partially translated languages
 
-- **Settings page:** UI elements, buttons, labels, and explanations
-- **Data overview page:** Including explanations and legend
+Partially translated languages typically include all entries **up to and including** the `"txlegende"` key in the language file.
 
-**Not translated part** (defaults to English):
-- Tutorial page ("How to read the dial", conceptual explanations, etc.)
-- About page
+This covers:
+- the complete settings interface (labels, buttons, explanations)
+- the data overview page, including legends and explanations
 
-(2b) Minimally supported languages support **at least** all labels of the settings page (that includes all translations up to (and including) the `"txpartsupport"` entry plus the small `"txlegende"` entry in the language file).
+The following sections fall back to English:
+- the tutorial pages (conceptual explanations such as “How to read the dial”)
+- the About page
+
+---
+
+### Minimally translated languages
+
+Minimally translated languages provide **at least** all labels required for the settings interface. Technically, this corresponds to all entries up to and including `"txpartsupport"`, plus the small `"txlegende"` entry.
+
+This level ensures basic usability while keeping translation effort minimal.
 
 ---
 
@@ -147,21 +156,24 @@ Example entries:
 
 ## Contributing
 
-If you'd like to contribute a translation:
+Translations and corrections are welcome, provided that the technical structure of the language files is respected.
 
-1. Copy one of the existing language files, preferrably `de.json` or `en.json`, as a starting point
-2. Rename it to your language code (e.g., `hindi.json`)
-3. Translate all string values while keeping control codes intact. The most important ones are at the beginning 
-4. Submit your translation via pull request or email (see last page of the app) 
+### New translations
 
-Or correct an existing translation:
-1. Copy the language file you want to improve
-2. Keep only the entries you wish to change – delete all other entries
-3. Make your corrections while preserving the original tone and keeping control codes intact
-4. Submit your corrections via email (see last page of the app) or pull request
+To create a new translation, start from an existing file, preferably `de.json` (original source language) or `en.json`. Rename the file to the appropriate language code and translate the string values while keeping all keys and control codes unchanged. Pay particular attention to the control codes used for layout, variables, and formatting.
 
-**Important notes:**
-- For partial contributions, only include the entries you've modified – this makes merging easier
-- Preserve all control codes (e.g., `[~LF]` for line breaks, `[DF]` for spacing, `[b]...[/b]` for bold text)
+Completed translations can be submitted via pull request or by email (see the last page of the app).
+
+### Corrections and partial contributions
+
+To improve an existing translation, copy the corresponding language file and keep **only the entries you intend to change**. Remove all other entries. This makes review and merging significantly easier.
+
+Corrections can be submitted via pull request or by email.
+
+### Notes
+
+- Never modify or remove control codes such as `[~LF]`, `{…}`, `[DF]`, `[SP]`, or formatting tags.
+- Partial contributions should contain only modified entries.
+- Try to preserve the original tone and terminology of the existing translation.
 
 Thank you for helping make Gordon's Sun Clock accessible to more people!
