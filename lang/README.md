@@ -160,7 +160,7 @@ Translations and corrections are welcome, provided that the technical structure 
 
 ### New translations
 
-To create a new translation, start from an existing file, preferably `de.json` (original source language) or `en.json`. Rename the file to the appropriate language code and translate the string values while keeping all keys and control codes unchanged. Pay particular attention to the control codes used for layout, variables, and formatting.
+To create a new translation, start from an existing file, preferably `de.json` (original source language) or `en.json`. Rename the file to the appropriate language (e.g. hindi.json) and translate the string values while keeping all keys and control codes unchanged. Pay particular attention to the control codes used for layout, variables, and formatting.
 
 Completed translations can be submitted via pull request or by email (see the last page of the app).
 
