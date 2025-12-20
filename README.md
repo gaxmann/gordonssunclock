@@ -47,7 +47,7 @@ Since June 2025 Sun Clock is available as an Android app. The app is also known 
 
 ## Voices on Sun Clock
 
-See [https://github.com/gaxmann/gordonssunclock/wiki/Voices-on-Sun-Clock](here) (Wiki)
+Click [here (Wiki)]([here](https://github.com/gaxmann/gordonssunclock/wiki/Voices-on-Sun-Clock)) to read the voices on Sun Clock.
 
 ---
 
