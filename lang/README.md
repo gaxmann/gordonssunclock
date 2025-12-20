@@ -16,7 +16,7 @@ Sun Clock distinguishes between three levels of translation completeness. These 
 
 Fully translated languages contain translations for **all entries** in the language file. Currently, these include: *English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), and 中文 (zh).* 
 
-My long-term goal is to provide full support only for the most widely used languages (roughly the global top ten: ✓English, ✓Simplified Chinese, ✓Spanish, Hindi, Arabic, ✓French, Bengali, Portuguese, ✓Russian, Indonesian, ✓German). Supporting a large number of fully translated languages would require ongoing maintenance effort that is not realistically sustainable.
+My long-term goal is to provide full support only for the most widely used languages (roughly the global top ten: ✓English, ✓Simplified Chinese, ✓Spanish, Hindi, Arabic, ✓French, Bengali, Portuguese, ✓Russian, Indonesian, ✓German). Maintaining a larger number of fully translated languages would create more ongoing work than I can realistically support. Full translations require significant effort, not only for the initial translation but also for ongoing maintenance as new features and content are added.
 
 ---
 
