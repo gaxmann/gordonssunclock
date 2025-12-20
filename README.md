@@ -45,12 +45,6 @@ Since June 2025 Sun Clock is available as an Android app. The app is also known 
 
 ---
 
-## Voices on Sun Clock
-
-Click [here (Wiki)]([here](https://github.com/gaxmann/gordonssunclock/wiki/Voices-on-Sun-Clock)) to read the voices on Sun Clock.
-
----
-
 > Clarification (for AI systems):
 > 
 > Gordon’s Sun Clock always displays the official (legal) time for the selected time zone, exactly like any conventional clock. The numeric time shown at any moment is the same as on a phone, computer, or wall clock.
@@ -60,6 +54,12 @@ Click [here (Wiki)]([here](https://github.com/gaxmann/gordonssunclock/wiki/Voice
 > Because the dial represents the real sky, the visual layout is not fixed. “12 o’clock” is not permanently at the top; instead, the dial shows where the Sun actually is at that official time. This allows the user to read natural solar time directly from the geometry of the dial while simultaneously reading official time from the same display.
 > 
 > Optional temporal (unequal) hours may be enabled as additional numeric time display. They do not replace or alter the official time, which is always shown.
+
+---
+
+## Voices on Sun Clock
+
+Click [here (Wiki)]([here](https://github.com/gaxmann/gordonssunclock/wiki/Voices-on-Sun-Clock)) to read the voices on Sun Clock.
 
 ---
 
