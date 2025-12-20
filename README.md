@@ -57,12 +57,6 @@ Since June 2025 Sun Clock is available as an Android app. The app is also known 
 
 ---
 
-## Voices on Sun Clock
-
-Collected user feedback is available in the wiki: [Voices on Sun Clock](https://github.com/gaxmann/gordonssunclock/wiki/Voices-on-Sun-Clock)
-
----
-
 ## Contributing
 
 This repository is used as a content hub for design proposals, asset exchange and apk distribution. The apk files are available under Releases. The main app source is not publicly available at this time, but you're welcome to contribute in the following areas:
@@ -109,7 +103,8 @@ This project is proprietary (which may change in the future). See `design/COPYRI
 
 If you enjoy Sun Clock, please consider:
 - Telling others about it
-- Leaving a positive review
+- Leaving a positive review 
+- Reading what others say on our [Voices on Sun Clock](https://github.com/gaxmann/gordonssunclock/wiki/Voices-on-Sun-Clock) wiki page
 
 Enjoy using Sun Clock ☀️
 
