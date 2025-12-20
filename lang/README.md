@@ -25,11 +25,11 @@ My long-term goal is to provide full support only for the most widely used langu
 Partially translated languages typically include all entries **up to and including** the `"txlegende"` key in the language file.
 
 This covers:
-- the complete settings interface (labels, buttons, explanations)
-- the data overview page, including legends and explanations
+- the complete settings page (labels, buttons, explanations)
+- the data overview page (legend and explanations)
 
 The following sections fall back to English:
-- the tutorial pages (conceptual explanations such as “How to read the dial”)
+- the dial page (“How to read the dial”)
 - the About page
 
 ---
