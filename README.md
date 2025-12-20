@@ -47,27 +47,7 @@ Since June 2025 Sun Clock is available as an Android app. The app is also known 
 
 ## Voices on Sun Clock
 
-- *"This is genuinely fascinating – I love how you've blended technology with such a natural, almost poetic perspective on time. It feels like a reminder that we're all still connected to the rhythms of the universe, even in our busy modern lives", That, Reddit*
-- *"This is so cool! I downloaded it and I love it", Akai, Reddit*
-- *"This is incredibly intuitive – you don't even need to be explained how it works to understand how it works", fkih, Reddit*
-- *"The app got me thinking about the relation between clock time and what I actually see outside", Havea, Reddit*
-- *"This is a beautiful little app, well done! I appreciate your insightful representations of time in the context of our astronomical neighborhood", smaug, Reddit*
-- *"First I was like 'dafuq?' Now I quite like the idea", Adhesive, Reddit*
-- *"Thank you very much. An app as it should be. Functional, simple and ad-free", Ftoth*
-- *"Heard about this app on kivy Reddit. Love it, very simple and informative", Terry*
-- *"I live in China, and with the single time zone, it's often hard to know when the sun rises at a certain location. That's why I love this app", prana*
-
----
-
-## Temporal Hours Update
-
-Temporal hours, or unequal hours, divided both day and night into twelve parts — though the night was often reckoned instead by four watches. Unlike our modern, fixed hours, their duration shifted with the seasons. This ancient time system was used throughout history until mechanical clocks standardized hours. Sun Clock offers a window into how our ancestors experienced time.
-
-## GPS Time Sync Update
-
-**For wall clocks without internet:** Devices without network access can use GPS to synchronise the system clock. This keeps your Sun Clock accurate and fully functional even offline.
-
-**For Agnihotra practitioners:** With "Auto location" enabled, GPS determines your exact coordinates to calculate precise sunrise and sunset times for your specific location. At the same time, your device’s system clock is synchronised with the atomic clock network via GPS. I've experienced deviations of up to 2 sec between device time and atomic-clock time, which GPS sync automatically corrects. The “+” symbol next to the Agnihotra times confirms that both the location and time sync are less than three minutes old.
+See [https://github.com/gaxmann/gordonssunclock/wiki/Voices-on-Sun-Clock](here) (Wiki)
 
 ---
 
