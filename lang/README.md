@@ -29,7 +29,7 @@ This covers:
 - the data overview page (legend and explanations)
 
 The following sections fall back to English:
-- the dial page (“How to read the dial”)
+- the tutorial page (“How to read the dial”)
 - the About page
 
 ---
