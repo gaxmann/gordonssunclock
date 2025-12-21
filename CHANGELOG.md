@@ -25,16 +25,18 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ## [2.64] - 2025-11-18 (GPS time, Russian language)
 
-### Changed
+### Added
 - Displayed time is corrected via GPS (if auto location and Agnihotra are selected). Useful when a device has no network connection to sync system time (or user wants precise timings)
 - A sign "+" appears next to the Agnihotra times if the last GPS position is less than 3 minutes old
 - Russian added, language files updated (e.g. xxdays)
+- Moon terminator shadow blurred and slightly transparent for more realism (please zoom in)
+- Button on the last page added to an Google autotranslate page, if system_lang is not supported by app
+
+### Changed
 - Calculation of automatic view direction optimised
 - When flipping Agnihotra checkbox, requestLocationUpdates are re-applied
-- Moon terminator shadow blurred and slightly transparent for more realism (please zoom in)
 - The digital time display has been restored to the top-right of the dial
 - Quotes of the label texts are now copied from the label text ({txgpsauto}, no double translating)
-- Button on the last page added to an Google autotranslate page, if system_lang is not supported by app
 - Bug fixes (file not found to delete)
 
 ## [2.63-public] - 2025-11-07 (Temporal change)
