@@ -6,7 +6,7 @@ Keys that have been added, changed, or removed are listed here, as well as langu
 - Added: solcal_lph, lighttime, moon, buttonsolcal (unused), txlegende0 
 
 ## [1.5] - 2025-11
-- Added: _meta (keys: version & updated), ordinalsh (keys extended for gender distinction)
+- Added: _meta (version, updated), ordinalsh (key rules extended for gender distinction)
 - Changed: xxdays (new keys for plural rules)
 - Fully supported ru.json added
 
