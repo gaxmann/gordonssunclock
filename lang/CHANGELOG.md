@@ -1,4 +1,4 @@
-# Language files changelog
+# Language files Changelog
 
 Keys that have been added, changed, or removed are listed here, as well as structural changes and language files that were added or removed, or whose support status changed.
 
