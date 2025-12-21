@@ -12,10 +12,10 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Displays the moon-night calendar (lunar night indexing within Gregorian year)
 - Displays the solistice and equinox
 - Ordinal numbers added to lang files
+- Moon illumination trend is now second-precise
 
 ### Changed
 - New moon's white ring restored
-- Moon illumination trend is now second-precise
 - Refraction temperature is now estimated from lat, lon, alt, and day of year (instead of using the standard 10°C)
 - Draft mode includes moon orbit again
 
