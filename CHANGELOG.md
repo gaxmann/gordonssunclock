@@ -93,17 +93,21 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ## [2.57/8] - 2025-10-20
 
-### Changed
+### Added
 - Changes from V3 incorporated to give both branches the same code basis
+
+### Changed
 - Graf module tidied up, files re-sorted
 - Copyright file polished
 - Page navigation buttons rearranged
 
 ## [2.56-public] - 2025-10-13 (Api cleanup)
 
-### Changed
+### Added
 - Custom version_code generation (to be able to revert back to api 21)
 - Replacing versiondat with vs.dat (faster, more reliable)
+
+### Changed
 - Settings page restructured (because swiping between pages kept changing settings)
 - Reverted back to api 21-35 (Android 5+)
 
