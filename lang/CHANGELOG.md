@@ -9,7 +9,7 @@ Keys that have been added, changed, or removed are listed here, as well as chang
 ## [1.5] - 2025-11
 - Added: _meta (version, updated), ordinalsh (new key rules with gender distinction)
 - Changed: xxdays (new keys for plural rules)
-- Structure: variables for quoted labels added, e.g. {txgpsauto} or without quotes {txgpsauto-}; also special entry {auto} 
+- Structure: variables for quoted labels added, e.g. {txgpsauto} or without quotes {txgpsauto-}; also special entry {auto}. Linefeed wildcard changed from [-LF-] to [~LF] because of conflicts with "wdiff | colordiff"  
 - Files: fully supported ru.json added
 
 ## [1.4] - 2025-10
