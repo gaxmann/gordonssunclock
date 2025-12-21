@@ -7,7 +7,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.65] - 2025-12-16 (Light Seasons)
+## [2.65-public] - 2025-12-16 (Light Seasons)
 
 ### Added
 - Displays the eight light seasons (4 main + 4 sub-phases), based on the midpoints between the 4 astronomical fixpoints ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
@@ -25,7 +25,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Russian word-separation rules fixed
 - Bug fixes (keyerror 12, 8)
 
-## [2.64] - 2025-11-18 (GPS time, Russian language)
+## [2.64-public] - 2025-11-18 (GPS time, Russian language)
 
 ### Added
 - Displayed time is corrected via GPS (if auto location and Agnihotra are selected). Useful when a device has no network connection to sync system time (or user wants precise timings)
