@@ -11,12 +11,12 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Displays the eight light seasons (4 main + 4 sub-phases), based on the midpoints between the 4 astronomical fixpoints ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
 - Displays the moon-night calendar (lunar night indexing within Gregorian year)
 - Displays the solistice and equinox
+- Ordinal numbers added to lang files
 
 ### Changed
 - New moon's white ring restored
 - Moon illumination trend is now second-precise
 - Refraction temperature is now estimated from lat, lon, alt, and day of year (instead of using the standard 10°C)
-- Ordinal numbers added to lang files
 - Draft mode includes moon orbit again
 
 ### Fixed
@@ -41,11 +41,13 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ## [2.63-public] - 2025-11-07 (Temporal change)
 
+### Added
+- Partially-supported languages added, where only some parts of the app (UI) are translated (since maintaining multiple languages is a lot of work): adds automatic prompt in text about partial support
+
 ### Changed
 - Night watch symbol changed to ‘φ’, additional display of unequal hours of the night added with the ‘ν‘ sign
 - Temporal hours are now counted from 0.0 to 11.9. - *After closer historical review, this has proven to be the more consistent and logical system. The problem was that “we meet at the sixth hour” actually meant meeting at the beginning of the 7th, because the hour was not announced until its completion. With the new counting, the sixth hour now begins at 5.1 and will be announced at 6.0. Thus, a meeting “at the sixth hour” correctly occurs at 6.0. - This counting logic still exists in German dialects: ”half two” means 13:30, ”quater two” means 13:15, and “three quarters two” means 13:45, both referencing the approach toward completion of the hour*
 - Polar days: better calculation of temporal hours
-- Partially-supported languages added, where only some parts of the app (UI) are translated (since maintaining multiple languages is a lot of work): adds automatic prompt in text about partial support
 - Language files updated
 
 ### Fixed
@@ -68,8 +70,10 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ## [2.60] - 2025-10-31 (Temporal hours)
 
-### Changed
+### Added
 - Time display in unequal, temporal hours added (mistakenly from 1.0-12.9; text positions redesigned, because of changes in V3)
+
+### Changed
 - 1x location button now accesses network and GPS
 - Telescope design: moon size decreased (though sun and moon appear the same size in reality); Greyscale design: planet symbols' size decreased
 - Versioncode on dial shortened
