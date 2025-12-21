@@ -12,5 +12,9 @@ Keys that have been added, changed, or removed are listed here, as well as chang
 - Structure: variables for quoted labels added, e.g. {txgpsauto} or without quotes {txgpsauto-}; also special entry {auto} 
 - Files: fully supported ru.json added
 
-## [1.0..1.4] - 2025
+## [1.4] - 2025-10
+- Added: txpartsupport, txnosupport
+- Structure: variable {LANGSUPPORT} added that automatically inserts txpartsupport or txnosupport if applicable
+
+## [1.0..1.3] - 2025
 - Initial structure and early changes
