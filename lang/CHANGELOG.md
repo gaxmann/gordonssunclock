@@ -4,7 +4,7 @@ Keys that have been added, changed, or removed are listed here, as well as struc
 
 ## [1.6] - 2025-12-16
 - Added: solcal_lph, lighttime, moon, buttonsolcal (unused), txlegende0 
-- Structure: variables for certain list/dict entries added, currently: {solcal_lph|2} [or the full list via {solcal_lph|**}]
+- Structure: variables for certain list/dict entries added, e.g. currently {solcal_lph|2}; or full list via {solcal_lph|**} (unused)
 
 ## [1.5] - 2025-11
 - Added: _meta (version, updated), ordinalsh (key rules with gender distinction)
