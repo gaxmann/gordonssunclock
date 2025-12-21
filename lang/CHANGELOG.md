@@ -1,6 +1,6 @@
-# Language file changelog
+# Language files changelog
 
-Keys that have been added, changed, or removed are listed here, as well as changes to the structure and language files that were added or removed, or whose support status changed.
+Keys that have been added, changed, or removed are listed here, as well as changes to the structure and/or language files that were added or removed, or whose support status changed.
 
 ## [1.6] - 2025-12-16
 - Added: solcal_lph, lighttime, moon, buttonsolcal (unused), txlegende0 
