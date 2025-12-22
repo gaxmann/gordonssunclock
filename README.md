@@ -74,7 +74,7 @@ I love art that preserves values and uplifts the spirit (e.g., Claude Monet, J. 
 - **4 zones**: day (>–0.2667°) | civil twilight (–0.2667...–6°) | nautical twilight (–6...–12°) | night (<–12°)
 - **5 zones**: day (>6°) | sunset (6...−0.2667°) | civil twilight (–0.2667...–6°) | nautical twilight (–6...–12°) | night (<–12°)
 
-*Note: The differences between nautical twilight and night should be almost imperceptible(!). - The programme calculates the exact image sizes based on the device’s resolution and aspect ratio, and will either crop or stretch them (whichever makes more sense). - Please send an email (see last page of the app) before submitting – I may not accept all suggestions or open [discussion](https://github.com/gaxmann/gordonssunclock/discussions) to share your design idea.*
+*Note: The differences between nautical twilight and night should be almost imperceptible(!). - The programme calculates the exact image sizes based on the device’s resolution and aspect ratio, and will either crop or stretch them (whichever makes more sense). - Please send an email (see last page of the app) or open a [discussion](https://github.com/gaxmann/gordonssunclock/discussions) to share your design idea before submitting – I may not accept all suggestions.*
 
 Optimally, you should create two designs: one for day (light mode) and one for night (dark mode). If you only provide one, the standard, flat dark theme will be used at night.
 
