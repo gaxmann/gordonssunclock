@@ -7,6 +7,16 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
+## [2.65.1] - 2025-12-xx
+
+### Added
+- New variable logic for the lang file ({sun_clocktm}, {solcal_lph|0-})
+- Website PHP that processes lang files: new logic added
+
+### Changed/Removed
+- Short season code on dial removed
+- Long-run logic changed to retrieve updates: fetch the first post-update correction earlier (to apply hotfix corrections quickly after an update)
+
 ## [2.65-public] - 2025-12-16 (Light Seasons)
 
 ### Added
