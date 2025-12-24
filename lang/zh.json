@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.6.3",
-        "updated": "2025-12-24 19:49:05"
+        "version": "1.6.4",
+        "updated": "2025-12-24 20:15:42"
     },
     "txwelcome": "欢迎",
     "quotes": [
@@ -128,7 +128,7 @@
     "txmore": "[DF]{txfullscr} 可防止屏幕关闭：例如，我给侄女挂了一块旧的 [i]平板电脑[/i]，上面装有“日晷”。使用 {txuhrsinn}，您可以设置时钟是顺时针（南）还是逆时针运行。如果更改旋转方向，太阳圈低于地平线的部分就会出现在您面前（详情见下一页）。[~LF][~LF]{txfarben} 可选择不同的表盘。{txnachtmodus} {txlangarr|auto-} 在日落时切换，-6° 为黄昏结束时，+6° 为黄昏开始时。- 如果您的设置未被采用，请点击表盘右下角的更新按钮。[~LF][~LF]您可以使用两根手指（或三连击）放大表盘。如果您想移动放大的图像，请缓慢操作。快速移动会切换到下一页。- 在下一页，您会看到表盘的说明，在上一页，您会看到图例。[DF][DF][DF]",
     "txdata": "[DF]数据",
     "txlocdata": "[DF]根据Gordon-太阳时钟对您所在位置的计算结果应与天文年历上的数据一致，误差不超过 0.0005 角秒³：[DF]",
-    "txobjdata": "– 太阳¹ –[~LF]时间: {clocktm}[~LF]时段: {temptm}[~LF]光日: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]至日: {sun_soli}[~LF]昼夜平分点: {sun_equi}[~LF][~LF]– 月亮² –[~LF]新月: {moon_new}[~LF]满月: {moon_full}[~LF]月夜: {moon_gordon}[~LF]被照亮: {moon_illum}[~LF]视直径: {moon_sizep} (85-100)[~LF][~LF]– 亮度 –[~LF]金星: {venus_magp} (83-100)[~LF]火星: {mars_magp} (52-100)[~LF]木星: {jupiter_magp} (87-100)[~LF]土星: {saturn_magp} (77-100)[~LF]水星: {merkur_magp} (0-100)[~LF][~LF]¹ 时间: GPS = 已同步 | 时段: 本地不等时 (0.0[NDASH]11.9)，白昼用 ‘ἡ’，黑夜用 ‘ν’ 表示。‘φ’ 为夜间守望，不等“分钟” (0φ00[NDASH]3φ59) | {lighttime-}: 见下文 | 光日与 Agnihotra: 今日日出[NDASH]日落 [明日日出]，⁺ = 当前 GPS | ² 新月与满月: 时刻（还有/之前多少天） | 月夜: 见下文 | ³ 月面视直径约为 2000 角秒[DF][DF]",
+    "txobjdata": "– 太阳¹ –[~LF]时间: {sun_clocktm}[~LF]时段: {sun_temptm}[~LF]光日: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]至日: {sun_soli}[~LF]昼夜平分点: {sun_equi}[~LF][~LF]– 月亮² –[~LF]新月: {moon_new}[~LF]满月: {moon_full}[~LF]月夜: {moon_gordon}[~LF]被照亮: {moon_illum}[~LF]视直径: {moon_sizep} (85-100)[~LF][~LF]– 亮度 –[~LF]金星: {venus_magp} (83-100)[~LF]火星: {mars_magp} (52-100)[~LF]木星: {jupiter_magp} (87-100)[~LF]土星: {saturn_magp} (77-100)[~LF]水星: {merkur_magp} (0-100)[~LF][~LF]¹ 时间: GPS = 已同步 | 时段: 本地不等时 (0.0[NDASH]11.9)，白昼用 ‘ἡ’，黑夜用 ‘ν’ 表示。‘φ’ 为夜间守望，不等“分钟” (0φ00[NDASH]3φ59) | {lighttime-}: 见下文 | 光日与 Agnihotra: 今日日出[NDASH]日落 [明日日出]，⁺ = 当前 GPS | ² 新月与满月: 时刻（还有/之前多少天） | 月夜: 见下文 | ³ 月面视直径约为 2000 角秒[DF][DF]",
     "txlegende0": "[b]–– 说明：[/b][~LF][~LF]一年中的“光之季节”把一年分成八个光线渐强、渐弱的阶段：1. {solcal_lph|0-}（4.2–5.5），2a. {solcal_lph|1-} (6.5–20.5)，2b. {solcal_lph|2-} (21.5–21.7)，2c. {solcal_lph|3-} (22.7–6.8)，3. {solcal_lph|4-} (7.8–6.11)，4a. {solcal_lph|5-} (7.11–21.11)，4b. {solcal_lph|6-} (22.11–19.1)，4c. {solcal_lph|7-} (20.1–3.2)。简写：Φx·y，其中 x = 光之时，y =[SP]% 进度。– 这些日期基于天文节点，因此可能与常规日历略有出入。[~LF][~LF]“月日”与我们的日期类似，只是以“夜”代替“日”：Μx·y (p/z)，其中 x = 该年的“月月”，y = 该月中的第几夜。由于各个朔望月长短不同，z 表示该月的夜数总和，p 表示满月之夜。夜晚在日出时结束。[DF][DF][DF][b]–– 表盘图例:[/b]",
     "buttonsolcal": "光照日历",
     "txlegende": "[DF]☉ 太阳，● 月亮（含月相）[~LF][~LF]♀ 金星（珠光色），♂ 火星（微红），♃ 木星（带状纹），♄ 土星（有光环），☿ 水星（灰色）[~LF][~LF][s] 天狼星，[k] 老人星 (Canopus)，[f] 半人马座α星，[a] 大角星 (Arcturus)，[w] 织女星 (Vega)，[c] 五车二 (Capella)，[r] 参宿七 (Rigel)，[p] 南河三 (Procyon)，[b] 参宿四 (Betelgeuse)，[h] 波江座α星 (Achernar)[DF][DF][DF][DF]",
