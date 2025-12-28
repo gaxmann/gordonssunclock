@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.7.1",
-        "updated": "2025-12-28 20:33:43"
+        "version": "1.7.2",
+        "updated": "2025-12-28 21:51:22"
     },
     "txwelcome": "Welcome",
     "quotes": [
@@ -55,10 +55,10 @@
         "N"
     ],
     "tx_acc": [
-        "% Language/Location",
-        "% Clock",
-        "% Appearance",
-        "% Extras"
+        "% Location",
+        "% Time",
+        "% Display",
+        "% Modes"
     ],
     "txgps_label": "GPS (lat, lon) or place name",
     "txgpsauto": "Auto-locate",
@@ -67,7 +67,7 @@
     "txtimeformat": "24h format",
     "txshowclock": "Show time",
     "txwelcomescr": "Hide GPS notice",
-    "txshowagni": "Show Agnihotra",
+    "txshowagni": "Agnihotra (GPS)",
     "txagnihotrain": "Agnihotra in: {agnih_countdo}",
     "txagnihotra": "Agnihotra",
     "txedgescreen": "More edge",
@@ -128,7 +128,7 @@
     "txnosupport": "[i]NOTE: Your language is not yet supported, so English is shown. An ‘Auto-Translate’ button is available on the last page[/i]",
     "uebanleitung": "Instructions",
     "txanleitung": "[DF]{LANGSUPPORT}1. Tick {txgpsauto} to automatically update your location during use ({quotes|0-}{tx_acc|3-}/{txagnihotra-}{quotes|1-} for more accurate positioning and GPS time synchronization). {txgpsbutton} determines your current position once and stores it permanently.[~LF][~LF]Alternatively, you can enter a place name or an address into the text field (if your device supports this) or coordinates (e.g. 50.94, 6.96). A 3rd and 4th entry are optional: the approximate altitude [m], the approximate temperature at twilight [°C]. Then tick {txwelcomescr}. - If you change basic data, {txsunclock-} performs a daily calculation which, depending on the device, can take between 2[NDASH]30 seconds.[~LF][~LF]2. With {txuhrsinn} you set whether the clock runs clockwise (south) or counterclockwise. If you change the direction of rotation, the part of the sun circle below the horizon will be in front of you (details: see next page). {txshowclock} shows a digital clock at the top right of the dial.",
-    "txmore": "[DF]3. {txfarben} selects different dials. {txnachtmodus} {txlangarr|auto-} switches at sunset, -6° to the end of twilight, +6° before that. [~LF][~LF]4. {txagnihotra} shows markers for the sun hand as well as the time of the sun’s next zero crossing & countdown. Six minutes before Agnihotra the display is enlarged and seconds are shown (⁺ = GPS current). {txfullscr} prevents the screen from turning off: e.g. to hang an old [i]tablet[/i] with {txsunclock} on the wall. - If your settings are not applied at some point, tap the refresh button at the bottom right of the dial.[~LF][~LF]You can zoom into the dial with two fingers (or with a triple tap). If you want to move the zoomed image, do it slowly. Fast movements swipe to the next page. - On the next page you will find an explanation of the dial.[DF][DF][DF][b]–– Dial legend:[/b]",
+    "txmore": "[DF]3. {txfarben} selects different dials. {txnachtmodus} {txlangarr|auto-} switches at sunset, -6° until the end of twilight, +6° before that. [~LF][~LF]4. {txagnihotra} shows markers for the sun hand as well as the time of the next solar zero crossing & countdown. Six minutes before Agnihotra the display is enlarged and seconds are shown (⁺ means GPS is current). {txfullscr} prevents the screen from turning off and switches to fullscreen. - If your settings are not applied once, tap the refresh button at the bottom right of the dial.[~LF][~LF]You can zoom into the dial with two fingers (or with a triple tap). If you want to move the zoomed image, do it slowly. Fast movements swipe to the next page. - On the next page you will find an explanation of the dial.[DF][DF][DF][b]–– Dial legend:[/b]",
     "txdata": "[DF]Data",
     "txlocdata": "[DF]Calculations from {txgordonssunclock-} for your specific location should match the astronomical almanac to within 0.0005 arc seconds³:[DF]",
     "txobjdata": "– Sun¹ –[~LF]Time: {sun_clocktm}[~LF]Temporal hour: {sun_temptm}[~LF]Light day: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]Solstice: {sun_soli}[~LF]Equinox: {sun_equi}[~LF][~LF]– Moon² –[~LF]New moon: {moon_new}[~LF]Full moon: {moon_full}[~LF]Moon night: {moon_gordon}[~LF]Illuminated: {moon_illum}[~LF]Size: {moon_sizep} (85-100)[~LF][~LF]– Brightness –[~LF]Venus: {venus_magp} (83-100)[~LF]Mars: {mars_magp} (52-100)[~LF]Jupiter: {jupiter_magp} (87-100)[~LF]Saturn: {saturn_magp} (77-100)[~LF]Mercury: {merkur_magp} (0-100)[~LF][~LF]¹ Time: GPS = synchronised | Temporal hour: local unequal hour (0.0[NDASH]11.9) ‘ἡ’ of the day or ‘ν’ of the night. ‘φ’ night watch with unequal “minutes” (0φ00[NDASH]3φ59) | {lighttime-}: see below | Light day & Agnihotra: rise[NDASH]set today [rise tomorrow], ⁺ = current GPS | ² Full and new moon: moment (in/before days) | Moon night: see below | ³ Moon is approx. 2000 arcseconds in size[DF][DF]",

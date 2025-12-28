@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.7.1",
-        "updated": "2025-12-28 20:33:43"
+        "version": "1.7.2",
+        "updated": "2025-12-28 21:51:22"
     },
     "txwelcome": "Bienvenue",
     "quotes": [
@@ -49,10 +49,10 @@
         "N"
     ],
     "tx_acc": [
-        "% Langue/Position",
-        "% Horloge",
-        "% Apparence",
-        "% Extras"
+        "% Position",
+        "% Temps",
+        "% Affichage",
+        "% Modes"
     ],
     "txgps_label": "GPS (lat, lon) ou nom de lieu",
     "txgpsauto": "Auto-localiser",
@@ -61,7 +61,7 @@
     "txtimeformat": "Format 24h",
     "txshowclock": "Afficher l’heure",
     "txwelcomescr": "Masquer l’info GPS",
-    "txshowagni": "Afficher Agnihotra",
+    "txshowagni": "Agnihotra (GPS)",
     "txagnihotrain": "Agnihotra dans: {agnih_countdo}",
     "txagnihotra": "Agnihotra",
     "txedgescreen": "Plus de bordure",
@@ -123,7 +123,7 @@
     "txnosupport": "[i]REMARQUE : votre langue n'est pas encore traduite. Vous trouverez un bouton « Traduction automatique » sur la dernière page[/i]",
     "uebanleitung": "Instructions",
     "txanleitung": "[DF]{LANGSUPPORT}1. Cochez {txgpsauto} pour actualiser automatiquement votre position pendant l’utilisation ({quotes|0-}{tx_acc|3-}/{txagnihotra-}{quotes|1-} pour une localisation plus précise et la synchronisation de l’heure GPS). {txgpsbutton} détermine votre position actuelle une seule fois et l’enregistre de manière fixe.[~LF][~LF]Vous pouvez aussi saisir un nom de lieu ou une adresse dans le champ de texte (si votre appareil le prend en charge) ou des coordonnées (p. ex. 50.94, 6.96). Une 3e et une 4e entrée sont facultatives : l’altitude approximative [m], la température approximative au crépuscule [°C]. Cochez ensuite {txwelcomescr}. - En cas de modification de données de base, {txsunclock-} effectue un calcul journalier qui peut, selon l’appareil, durer entre 2[NDASH]30 secondes.[~LF][~LF]2. Avec {txuhrsinn}, vous définissez si l’horloge tourne dans le sens horaire (sud) ou dans l’autre sens. Si vous changez le sens de rotation, la partie du cercle solaire située sous l’horizon se trouve devant vous (détails : voir page suivante). {txshowclock} affiche une horloge numérique en haut à droite du cadran.",
-    "txmore": "[DF]3. {txfarben} sélectionne différents cadrans. {txnachtmodus} {txlangarr|auto-} bascule au coucher du soleil, -6° jusqu’à la fin du crépuscule, +6° avant. [~LF][~LF]4. {txagnihotra} affiche des repères pour l’aiguille solaire ainsi que l’heure du prochain passage à zéro du Soleil & compte à rebours. Six minutes avant Agnihotra, l’affichage est agrandi et les secondes sont affichées (⁺ = GPS actuel). {txfullscr} empêche l’extinction de l’écran : p. ex. pour accrocher une vieille [i]tablette[/i] avec {txsunclock} au mur. - Si vos réglages ne sont parfois pas pris en compte, touchez le bouton d’actualisation en bas à droite du cadran.[~LF][~LF]Vous pouvez zoomer sur le cadran avec deux doigts (ou par triple tap). Si vous voulez déplacer l’image zoomée, faites-le lentement. Les mouvements rapides font défiler vers la page suivante. - Sur la page suivante, vous trouverez une explication du cadran.[DF][DF][DF][b]–– Légende du cadran :[/b]",
+    "txmore": "[DF]3. {txfarben} sélectionne différents cadrans. {txnachtmodus} {txlangarr|auto-} bascule au coucher du soleil, -6° jusqu’à la fin du crépuscule, +6° avant. [~LF][~LF]4. {txagnihotra} affiche des repères pour l’aiguille solaire ainsi que l’heure du prochain passage à zéro du Soleil et le compte à rebours. Six minutes avant Agnihotra, l’affichage est agrandi et les secondes sont affichées (⁺ signifie que le GPS est à jour). {txfullscr} empêche l’écran de s’éteindre et passe en plein écran. - Si vos réglages ne sont pas pris en compte une fois, touchez le bouton d’actualisation en bas à droite du cadran.[~LF][~LF]Vous pouvez zoomer dans le cadran avec deux doigts (ou par triple tap). Pour déplacer l’image zoomée, faites-le lentement. Les mouvements rapides balayent vers la page suivante. - Sur la page suivante, vous trouverez une explication du cadran.[DF][DF][DF][b]–– Légende du cadran:[/b]",
     "txdata": "[DF]Données",
     "txlocdata": "[DF]Les calculs de l'Horloge solaire de Gordon pour votre emplacement individuel doivent correspondre à l'almanach astronomique à 0,0005 seconde d'arc près³:[DF]",
     "txobjdata": "– Soleil¹ –[~LF]Heure: {sun_clocktm}[~LF]Heure temporelle: {sun_temptm}[~LF]Jour de lumière: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]Solstice: {sun_soli}[~LF]Équinoxe: {sun_equi}[~LF][~LF]– Lune² –[~LF]Nouvelle lune: {moon_new}[~LF]Pleine lune: {moon_full}[~LF]Nuit lunaire: {moon_gordon}[~LF]Éclairée: {moon_illum}[~LF]Taille: {moon_sizep} (85-100)[~LF][~LF]– Luminosité –[~LF]Vénus: {venus_magp} (83-100)[~LF]Mars: {mars_magp} (52-100)[~LF]Jupiter: {jupiter_magp} (87-100)[~LF]Saturne: {saturn_magp} (77-100)[~LF]Mercure: {merkur_magp} (0-100)[~LF][~LF]¹ Heure: GPS = synchronisée | Heure temporelle: heure locale inégale (0,0[NDASH]11,9), ‘ἡ’ pour le jour ou ‘ν’ pour la nuit. ‘φ’ veille nocturne avec « minutes » inégales (0φ00[NDASH]3φ59) | {lighttime-} : voir ci-dessous | Jour de lumière et Agnihotra: lever[NDASH]coucher aujourd’hui [lever demain], ⁺ = GPS actuel | ² Nouvelle et pleine lune: moment (en/avant jours) | Nuit lunaire: voir ci-dessous | ³ La Lune mesure env. 2000 secondes d’arc[DF][DF]",

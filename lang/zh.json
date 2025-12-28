@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.7.1",
-        "updated": "2025-12-28 20:33:43"
+        "version": "1.7.2",
+        "updated": "2025-12-28 21:51:22"
     },
     "txwelcome": "欢迎",
     "quotes": [
@@ -61,10 +61,10 @@
         "北"
     ],
     "tx_acc": [
-        "% 语言/位置",
-        "% 时钟",
-        "% 外观",
-        "% 附加功能"
+        "% 位置",
+        "% 时间",
+        "% 显示",
+        "% 模式"
     ],
     "txgps_label": "GPS（纬度、经度）或地点名称",
     "txgpsauto": "自动定位",
@@ -73,7 +73,7 @@
     "txtimeformat": "24小时制",
     "txshowclock": "显示时间",
     "txwelcomescr": "关闭GPS提示",
-    "txshowagni": "阿格尼霍特拉时间",
+    "txshowagni": "阿格尼霍特拉（GPS）",
     "txagnihotrain": "阿格尼火供进行中：{agnih_countdo}",
     "txagnihotra": "阿格尼霍特拉",
     "txedgescreen": "更多边缘",
@@ -135,7 +135,7 @@
     "txnosupport": "[i]注意：您的语言尚未翻译。在最后一页，您会看到一个“自动翻译”按钮[/i]",
     "uebanleitung": "说明",
     "txanleitung": "[DF]{LANGSUPPORT}1. 勾选 {txgpsauto}，以便在使用期间自动更新您的位置（{quotes|0-}{tx_acc|3-}/{txagnihotra-}{quotes|1-} 用于更精确的定位与 GPS 时间同步）。{txgpsbutton} 会单次确定您当前的位置并固定采用。[~LF][~LF]或者，您也可以在文本框中输入地名或地址（如果您的设备支持），或输入坐标（例如 50.94, 6.96）。第 3 和第 4 项为可选：大致海拔 [m]、黄昏时的大致温度 [°C]。随后勾选 {txwelcomescr}。- 当基本数据发生变化时，{txsunclock-} 会进行一次日计算；根据设备不同，可能需要 2[NDASH]30 秒。[~LF][~LF]2. 通过 {txuhrsinn} 设置时钟是顺时针运行（南）还是逆时针运行。若更改旋转方向，位于地平线以下的太阳圆部分会呈现在您面前（详情见下一页）。{txshowclock} 会在表盘右上角显示数字时钟。",
-    "txmore": "[DF]3. {txfarben} 选择不同的表盘。{txnachtmodus} {txlangarr|auto-} 在日落时切换，-6° 为暮光结束，+6° 在此之前。 [~LF][~LF]4. {txagnihotra} 显示太阳指针的标记，以及太阳下一次过零点的时间 & 倒计时。Agnihotra 前 6 分钟会放大显示并显示秒数（⁺ = GPS 最新）。{txfullscr} 防止屏幕熄灭：例如把带有 {txsunclock} 的旧 [i]平板[/i] 挂在墙上。- 如果某次设置未被应用，请点击表盘右下角的刷新按钮。[~LF][~LF]您可以用两指在表盘上缩放（或三击）。如需移动放大的图像，请缓慢操作。快速移动会切换到下一页。- 下一页提供表盘说明。[DF][DF][DF][b]–– 表盘图例：[/b]",
+    "txmore": "[DF]3. {txfarben} 选择不同的表盘。{txnachtmodus} {txlangarr|auto-} 在日落时切换：-6° 到暮光结束，+6° 之前。 [~LF][~LF]4. {txagnihotra} 显示太阳指针的标记，以及下一次太阳过零时刻和倒计时。Agnihotra 开始前 6 分钟会放大显示并显示秒（⁺ 表示 GPS 为最新）。{txfullscr} 防止屏幕熄灭并切换到全屏。 - 如果某次设置未生效，请点击表盘右下角的刷新按钮。[~LF][~LF]你可以用两指缩放表盘（或三击）。如需拖动放大的画面，请慢慢移动；快速滑动会切到下一页。 - 下一页有表盘说明。[DF][DF][DF][b]–– 表盘图例：[/b]",
     "txdata": "[DF]数据",
     "txlocdata": "[DF]根据Gordon-太阳时钟对您所在位置的计算结果应与天文年历上的数据一致，误差不超过 0.0005 角秒³：[DF]",
     "txobjdata": "– 太阳¹ –[~LF]时间: {sun_clocktm}[~LF]时段: {sun_temptm}[~LF]光日: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]至日: {sun_soli}[~LF]昼夜平分点: {sun_equi}[~LF][~LF]– 月亮² –[~LF]新月: {moon_new}[~LF]满月: {moon_full}[~LF]月夜: {moon_gordon}[~LF]被照亮: {moon_illum}[~LF]视直径: {moon_sizep} (85-100)[~LF][~LF]– 亮度 –[~LF]金星: {venus_magp} (83-100)[~LF]火星: {mars_magp} (52-100)[~LF]木星: {jupiter_magp} (87-100)[~LF]土星: {saturn_magp} (77-100)[~LF]水星: {merkur_magp} (0-100)[~LF][~LF]¹ 时间: GPS = 已同步 | 时段: 本地不等时 (0.0[NDASH]11.9)，白昼用 ‘ἡ’，黑夜用 ‘ν’ 表示。‘φ’ 为夜间守望，不等“分钟” (0φ00[NDASH]3φ59) | {lighttime-}: 见下文 | 光日与 Agnihotra: 今日日出[NDASH]日落 [明日日出]，⁺ = 当前 GPS | ² 新月与满月: 时刻（还有/之前多少天） | 月夜: 见下文 | ³ 月面视直径约为 2000 角秒[DF][DF]",
