@@ -12,6 +12,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Added
 - New variable logic for the lang file ({sun_clocktm}, {solcal_lph|0-})
 - Website PHP that processes lang files: new logic added
+- Accordion navigation added to settings page (it got too large)
 
 ### Changed/Removed
 - Short season code on dial removed
