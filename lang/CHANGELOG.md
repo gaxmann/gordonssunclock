@@ -2,6 +2,9 @@
 
 Keys that have been added, changed, or removed are listed here, as well as structural changes and language files that were added or removed, or whose support status changed.
 
+## [1.7] - 2025-12-16
+- **Added:** tx_acc, txgpslabel, txgordonssunclock, txsunclock, 
+
 ## [1.6] - 2025-12-16
 - **Added:** solcal_lph, lighttime, moon, buttonsolcal (unused), txlegende0 
 - **Structure:** variables for certain list/dict entries added, e.g. currently {solcal_lph|2}; or full list via {solcal_lph|**} (unused)
