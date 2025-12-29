@@ -42,7 +42,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Added
 - Displayed time is corrected via GPS (if auto location and Agnihotra are selected). Useful when a device has no network connection to sync system time (or user wants precise timings)
 - A sign "+" appears next to the Agnihotra times if the last GPS position is less than 3 minutes old
-- Russian added, language files updated (e.g. xxdays)
+- Lang V1.5: Russian added, language files updated (e.g. xxdays)
 - Moon terminator shadow blurred and slightly transparent for more realism (please zoom in)
 - Button on the last page added to an Google autotranslate page, if system_lang is not supported by app
 
