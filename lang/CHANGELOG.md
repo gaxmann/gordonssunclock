@@ -2,7 +2,7 @@
 
 Keys that have been added, changed, or removed are listed here, as well as structural changes and language files that were added or removed, or whose support status changed.
 
-## [1.7] - 2025-12-16
+## [1.7] - 2025-12-28
 - **Added:** tx_acc, txgpslabel, txgordonssunclock, txsunclock, 
 
 ## [1.6] - 2025-12-16
@@ -15,7 +15,7 @@ Keys that have been added, changed, or removed are listed here, as well as struc
 - **Structure:** variables for quoted labels added, e.g. {txgpsauto} or without quotes {txgpsauto-}; also special entry {auto}
 - **Files:** fully supported ru.json added
 
-## [1.4] - 2025-10
+## [1.4] - 2025-11
 - **Added:** txpartsupport, txnosupport
 - **Structure:** variable {LANGSUPPORT} added that automatically inserts `txpartsupport` or `txnosupport` if applicable. Linefeed marker changed from [-LF-] to [~LF] to avoid conflicts with "wdiff | colordiff"  
 
