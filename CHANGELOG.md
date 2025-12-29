@@ -10,8 +10,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.65.1] - 2025-12-xx
 
 ### Added
-- New variable logic for the lang file ({solcal_lph|0-})
-- Website PHP that processes lang files: new logic added
+- New variable logic for the lang file ({solcal_lph|0-}). Updated website PHP that processes lang files
 - Accordion navigation added to settings page (got too large). Explanation text updated
 - Setting "Show time" added
 
