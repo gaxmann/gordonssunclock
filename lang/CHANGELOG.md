@@ -4,6 +4,7 @@ Keys that have been added, changed, or removed are listed here, as well as struc
 
 ## [1.7] - 2025-12-28
 - **Added:** tx_acc, txgpslabel, txgordonssunclock, txsunclock, 
+- **Structure:** list variable format without quotes changed to {xxx|y-} (because of {xxx-} for labels)
 
 ## [1.6] - 2025-12-16
 - **Added:** solcal_lph, lighttime, moon, buttonsolcal (unused), txlegende0 
