@@ -7,7 +7,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.65.1] - 2025-12-xx
+## [2.65.1] - 2025-12-xx (Settings update)
 
 ### Added
 - New variable logic for the lang file ({solcal_lph|0-}). Updated website PHP that processes lang files
