@@ -25,7 +25,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Displays the eight light seasons (4 main + 4 sub-phases), based on the midpoints between the 4 astronomical fixpoints ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
 - Displays the moon-night calendar (lunar night indexing within Gregorian year)
 - Displays the solistice and equinox
-- Ordinal numbers added to lang files
+- Lang V1.6: Ordinal numbers added to lang files
 - Moon illumination trend is now second-precise
 
 ### Changed
