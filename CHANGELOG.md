@@ -13,6 +13,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Lang V1.7: New variable logic for the lang file ({solcal_lph|0-}). Updated website PHP that processes lang files
 - Accordion navigation added to settings page (got too large). Explanation text updated
 - "Show time" setting added for upcoming V3 (and the problems with the digital clock display)
+- Dial now comes directly from texture not PNG
 
 ### Changed/Removed
 - Short season code on dial removed
