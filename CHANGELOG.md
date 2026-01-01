@@ -593,7 +593,8 @@ V3 and V2 share the same source code (use release date to compare features). Bel
 ## [3.3 ≙ 2.65.1] 
 
 ### Changed
-- Settings update
+- Accordion navigation added to settings page
+- Dial now comes directly from texture instead of PNG, also sped up draft creation
 
 ## [3.2 ≙ 2.64] 
 
