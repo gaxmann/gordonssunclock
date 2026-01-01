@@ -590,7 +590,12 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 V3 and V2 share the same source code (use release date to compare features). Below, you will only find the changes specific to V3.
 
-## [3.2] - 2025-11-19 (Temporal hours, GPS time, Russian language)
+## [3.3 ≙ 2.65.1] 
+
+### Changed
+- Settings update
+
+## [3.2 ≙ 2.64] 
 
 ### Changed
 - Time display in unequal, temporal hours
