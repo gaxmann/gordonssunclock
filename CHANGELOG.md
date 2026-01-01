@@ -592,27 +592,27 @@ V3 and V2 share the same source code (use release date to compare features). Bel
 
 ## [3.3 ≙ 2.65.1] 
 
-### Changed
+### Added
 - Accordion navigation added to settings page
 - Dial now comes directly from texture instead of PNG, also sped up draft creation
 
 ## [3.2 ≙ 2.64] 
 
-### Changed
+### Added
 - Time display in unequal, temporal hours
 - GPS time correction for Agnihotra (“+” = current GPS)
 - Russian added, moon shadow more realistic, bug fixes
 
 ## [3.1] - 2025-10-28
 
-### Changed
+### Added
 - V2 and V3 now share the same code
 - Faster background calculations (now nearly matches V2; interesting)
 - New positions for text on dial (if bars are transparent)
 
 ## [3.0] - 2025-10-12 (Transparent bars)
 
-### Changed
+### Added
 - Navigation and status bars now transparent on Android 15+
 - Background calculations take longer (25%), UI feels faster
 - Api 24-35 (Android 7+) because of new numpy version, arm64-v8a only, 16 kB page memory  
