@@ -7,13 +7,13 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.65.1] - 2025-12-xx (Settings update)
+## [2.65.1] - 2026-01-01 (Settings update)
 
 ### Added
 - Lang V1.7: New variable logic for the lang file ({solcal_lph|0-}). Updated website PHP that processes lang files
 - Accordion navigation added to settings page (got too large). Explanation text updated
 - "Show time" setting added for upcoming V3 (and the problems with the digital clock display)
-- Dial now comes directly from texture instead of PNG, plus draft sped up
+- Dial now comes directly from texture instead of PNG, plus sped up draft creation
 
 ### Changed/Removed
 - Short season code on dial removed
