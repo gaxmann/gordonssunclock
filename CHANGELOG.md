@@ -7,7 +7,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.65.1] - 2026-01-01 (Settings update)
+## [2.65.2] - 2026-01-02 (Settings update)
 
 ### Added
 - Accordion navigation added to settings page (got too large). Explanation text updated
