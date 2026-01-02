@@ -2,9 +2,7 @@
 
 ## Language Files
 
-The German language file (`de.json`) is the **original source language**. It is recommended to start translations from German if possible. 
-
-English serves as the fallback language and will be used whenever a language or translation entry is missing.
+The German language file (`de.json`) is the **original source language**. English serves as the fallback language and will be used whenever a language or translation entry is missing.
 
 ---
 
