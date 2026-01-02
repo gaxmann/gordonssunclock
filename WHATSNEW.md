@@ -20,7 +20,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 ## [2.54-stable] - 2025-10-08 (Bar fixes)
 
 - Fixed system bars on Android 15+
-- Exceptionally stable version, bug fixes (line spacing, GrapheneOS, Aurora & Apkpure downloads, max alt+bars, no-attr clockscr)
+- Many bug fixes (GrapheneOS, Aurora & Apkpure downloads, max alt+bars, line spacing, no-attr clockscr)
 
 ## [2.42] - 2025-08-29 (Update prompt) 
 
