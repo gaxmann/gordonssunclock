@@ -5,7 +5,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ## [2.65] - 2025-12-16 (Light Seasons)
 - Displays (eight) light seasons, solistice, equinox and the moon date ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
-- GPS time correction (“+” = current GPS/Agnihotra), more realistic moon shadow, Russian added, text positions restored, bug fixes (faster)
+- GPS time correction (“+” = current GPS/Agnihotra), new settings page, more realistic moon shadow, Russian added, text positions restored, bug fixes (faster)
 <!--## [2.64] - 2025-11-18 (GPS time)
 - GPS time correction for Agnihotra (“+” = current GPS), more realistic moon shadow, Russian added, text positions restored, bug fixes-->
 
