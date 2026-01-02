@@ -588,20 +588,20 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 <a name="dev"></a>
 # Preview versions
 
-V3 and V2 share the same source code (use release date to compare features). Below, you will only find the changes specific to V3.
+V3 and V2 share the same source code (use release date to compare features). Below, you'll only find a brief summary of the update features. For details, please refer to the corresponding V2 version above. *V3 means: api 24-35 (Android 7+), arm64-v8a only, 16 kB page memory*
 
 ## [3.3 ≙ 2.65.1] 
 
 ### Added
 - Accordion navigation added to settings page
-- Dial now comes directly from texture instead of PNG, also sped up draft creation
+- Dial now comes directly from texture instead of PNG
 
 ## [3.2 ≙ 2.64] 
 
 ### Added
 - Time display in unequal, temporal hours
 - GPS time correction for Agnihotra (“+” = current GPS)
-- Russian added, moon shadow more realistic, bug fixes
+- Russian language added, moon shadow more realistic
 
 ## [3.1] - 2025-10-28
 
