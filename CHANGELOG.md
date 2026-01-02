@@ -61,7 +61,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - Night watch symbol changed to ‘φ’, additional display of unequal hours of the night added with the ‘ν‘ sign
-- Temporal hours are now counted from 0.0 to 11.9. - *After closer historical review, this has proven to be the more consistent and logical system. The problem was that “we meet at the sixth hour” actually meant meeting at the beginning of the 7th, because the hour was not announced until its completion. With the new counting, the sixth hour now begins at 5.1 and will be announced at 6.0. Thus, a meeting “at the sixth hour” correctly occurs at 6.0. - This counting logic still exists in German dialects: ”half two” means 13:30, ”quater two” means 13:15, and “three quarters two” means 13:45, both referencing the approach toward completion of the hour*
+- Temporal hours are now counted from 0.0 to 11.9. - *After closer historical review, this has proven to be the more consistent and logical system. The problem was that “we meet at the sixth hour” actually meant meeting at the beginning of the 7th, because the hour was not announced until its completion. With the new counting, the sixth hour now begins at 5.1 and will be announced at 6.0. Thus, a meeting “at the sixth hour” correctly occurs at 6.0. - This counting logic still exists in German dialects: ”half two” means 13:30, ”quarter two” means 13:15, and “three quarters two” means 13:45, both referencing the approach toward completion of the hour*
 - Polar days: better calculation of temporal hours
 - Language files updated
 
@@ -586,9 +586,9 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ---
 ---
 <a name="dev"></a>
-# Preview versions
+# Preview versions (V3)
 
-V3 and V2 share the same source code (use release date to compare features). Below, you'll only find a brief summary of the update features. For details, please refer to the corresponding V2 version above. *V3 means: api 24-35 (Android 7+), arm64-v8a only, 16 kB page memory*
+V3 and V2 share the same source code (compare features by release date or ≙). Detailed descriptions of features can be found in the corresponding V2 versions above. *V3 means: api 24-35 (Android 7+), arm64-v8a only, 16 kB page memory*
 
 ## [3.3 ≙ 2.65.1] 
 
@@ -615,6 +615,6 @@ V3 and V2 share the same source code (use release date to compare features). Bel
 ### Added
 - Navigation and status bars now transparent on Android 15+
 - Background calculations take longer (25%), UI feels faster
-- Api 24-35 (Android 7+) because of new numpy version, arm64-v8a only, 16 kB page memory  
+- Api 24-35 (Android 7+) due to new numpy version, arm64-v8a only, 16 kB page memory  
 
 
