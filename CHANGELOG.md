@@ -10,7 +10,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.66] - 2026-01-xx 
 
 ### Fixed
-- Apps title for Play Store search algorithm
+- App title changed for Play Stores' search algorithm
 
 ## [2.65.2-public] - 2026-01-02 (Settings update)
 
