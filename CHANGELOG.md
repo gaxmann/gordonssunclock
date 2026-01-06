@@ -9,8 +9,11 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ## [2.66] - 2026-01-xx 
 
-### Fixed
+### Changed
+- Ephemeris changed from de421 to de440s (and mars to mars barycenter)
 - Order of drawing the planets changed due to their size
+
+### Fixed
 - App title changed for Play Store search algorithm
 
 ## [2.65.2-public] - 2026-01-02 (Settings update)
