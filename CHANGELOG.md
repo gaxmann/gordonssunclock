@@ -10,7 +10,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.66] - 2026-01-xx 
 
 ### Changed
-- Ephemeris changed from de421 to de440s (and mars to mars barycenter)
+- Ephemeris changed from de421 to de440s
 - Order of drawing the planets changed due to their size
 
 ### Fixed
