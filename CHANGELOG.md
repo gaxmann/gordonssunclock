@@ -11,7 +11,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - Ephemeris changed from de421 to de440s
-- Order of drawing the planets changed due to their size
+- Order of drawing the planets changed due to their size (Mars was obscured by Venus)
 
 ### Fixed
 - App title changed for Play Store search algorithm
