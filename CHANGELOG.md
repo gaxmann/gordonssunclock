@@ -7,7 +7,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.66] - 2026-01-xx 
+## [2.66] - 2026-01-09 
 
 ### Changed
 - Ephemeris changed from de421 (observation data up to 2008) to de440s (data up to 2020, updated planetary masses, improved asteroid and Kuiper belt perturbation models, improved relativistic corrections, refined Earth–Moon dynamics and ICRF3)
