@@ -7,6 +7,11 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
+## [2.67] - 2026-01-xx (Weather data)
+
+### Added
+- Weather data display possible (2 providers): current temperature and forecast for today
+
 ## [2.66-public] - 2026-01-09 (Ephemeris 440s)
 
 ### Changed
