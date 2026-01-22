@@ -10,7 +10,13 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.67] - 2026-01-xx (Weather data)
 
 ### Added
-- Weather data display possible (2 providers): current temperature and forecast for today
+- Optional weather data display:
+  - Integrated weather display with current temperature and daily forecast
+  - Automatic selection of high-resolution weather model (ICON-D2) for Central Europe
+  - Clear daily weather states derived from forecast analysis (not raw values)
+  - Compact icon-based presentation for fast visual understanding
+  - Reduced weather information to essential, relevant indicators
+  - Robust local heuristics without additional network requests
 
 ## [2.66-public] - 2026-01-09 (Ephemeris 440s)
 
