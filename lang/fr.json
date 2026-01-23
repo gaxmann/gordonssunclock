@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.7.4",
-        "updated": "2025-12-31 17:38:53"
+        "version": "1.8.2",
+        "updated": "2026-01-23 22:35:37"
     },
     "txwelcome": "Bienvenue",
     "quotes": [
@@ -11,6 +11,13 @@
     "oclocksh": "h",
     "hoursh": "h",
     "daysh": "d",
+    "weath_c": "°C",
+    "weath_f": "°F",
+    "weath_kmh": "km/h",
+    "weath_mph": "mph",
+    "weath_lm2": "l/m²",
+    "weath_in": "ʺ",
+    "weath_pct": "%",
     "decimalsep": ",",
     "n_a": "N/D",
     "wdaysh": [
@@ -59,6 +66,7 @@
     "txgpsautosh": "AUTO",
     "txtimezone": "Fuseau horaire",
     "txtimeformat": "Format 24h",
+    "txsiformat": "Métrique (°C, km/h)",
     "txshowclock": "Afficher l’heure",
     "txwelcomescr": "Masquer l’info GPS",
     "txshowagni": "Agnihotra (GPS)",
@@ -82,6 +90,14 @@
         "it": "Italiano",
         "zh": "Chinois"
     },
+    "txweathapi": "Météo",
+    "txweathapiarr": {
+        "auto": "automatique",
+        "-NIL-": "désactivé",
+        "openmeteo": "Open-Met/Icon-D2",
+        "metno": "MET Norge"
+    },
+    "txnow": "Maintenant",
     "txfullscr": "Mode toujours actif",
     "txnachtmodus": "Mode sombre",
     "txnachtmodusarr": {
@@ -123,11 +139,11 @@
     "txnosupport": "[i]REMARQUE : votre langue n'est pas encore traduite. Vous trouverez un bouton « Traduction automatique » sur la dernière page[/i]",
     "uebanleitung": "Instructions",
     "txanleitung": "[DF]{LANGSUPPORT}1. Cochez {txgpsauto} pour mettre à jour automatiquement votre position pendant l’utilisation ({quotes|0-}{tx_acc|3-}/{txagnihotra-}{quotes|1-} pour une localisation plus précise et une synchronisation de l’heure GPS). {txgpsbutton} détermine votre position actuelle une seule fois et l’enregistre.[~LF][~LF]Vous pouvez aussi saisir un nom de lieu ou une adresse dans le champ de texte (si votre appareil le permet) ou des coordonnées (p. ex. 50.94, 6.96). Une 3e et une 4e valeur sont optionnelles : l’altitude approximative [m], la température approximative au crépuscule [°C]. Ensuite, cochez {txwelcomescr}. - En cas de modification de données de base, {txsunclock-} lance un calcul journalier qui peut prendre, selon l’appareil, entre 2[NDASH]30 secondes.[~LF][~LF]2. {txuhrsinn} définit si l’horloge tourne dans le sens horaire (Sud) ou dans le sens inverse ; toutefois, si vous changez le sens de rotation, la partie du cercle solaire située sous l’horizon se trouvera devant vous (détails : voir la page suivante). {txshowclock} affiche une horloge numérique en haut à droite du cadran.",
-    "txmore": "[DF]3. {txfarben} sélectionne différents cadrans. {txnachtmodus} {txlangarr|auto-} bascule au coucher du soleil, -6° jusqu’à la fin du crépuscule, +6° avant. [~LF][~LF]4. {txagnihotra} affiche des repères pour l’aiguille solaire ainsi que l’heure du prochain passage à zéro du Soleil et le compte à rebours. Six minutes avant Agnihotra, l’affichage est agrandi et les secondes sont affichées (⁺ signifie que le GPS est à jour). {txfullscr} empêche l’écran de s’éteindre et passe en plein écran. - Si vos réglages ne sont pas pris en compte une fois, touchez le bouton d’actualisation en bas à droite du cadran.[~LF][~LF]Vous pouvez zoomer dans le cadran avec deux doigts (ou par triple tap). Pour déplacer l’image zoomée, faites-le lentement. Les mouvements rapides balayent vers la page suivante. - Sur la page suivante, vous trouverez une explication du cadran.[DF][DF][DF][b]–– Légende du cadran:[/b]",
+    "txmore": "[DF]3. {txfarben} sélectionne différents cadrans. {txnachtmodus} {txlangarr|auto-} commute au coucher du soleil, -6° jusqu’à la fin du crépuscule, +6° avant. [~LF][~LF]4. {txagnihotra} affiche des repères pour l’aiguille solaire ainsi que l’heure du prochain passage à zéro du soleil et le compte à rebours. Six minutes avant Agnihotra, l’affichage est agrandi et les secondes sont affichées (⁺ signifie GPS actuel). {txfullscr} empêche l’extinction de l’écran et active le plein écran. {txweathapi} superpose une prévision journalière sur l’horloge (si le réseau est disponible). Si elle devient grise, les données sont anciennes. - Si vos réglages ne sont parfois pas appliqués, appuyez sur le bouton d’actualisation en bas à droite du cadran.[~LF][~LF]Vous pouvez zoomer dans le cadran avec deux doigts (ou par triple tap). Pour déplacer l’image zoomée, faites-le lentement. Les mouvements rapides balayent vers la page suivante. - Sur la page suivante, vous trouverez une explication du cadran.[DF][DF][DF][b]–– Légende du cadran:[/b][DF][DF]Météo : température actuelle, au-dessus météo du jour : précipitations/jour, soleil/jour, symboles éventuels (cactus = sec), jour de la semaine éventuel (= météo de demain)",
     "txdata": "[DF]Données",
-    "txlocdata": "[DF]Les calculs de l'Horloge solaire de Gordon pour votre emplacement individuel doivent correspondre à l'almanach astronomique à 0,0005 seconde d'arc près³:[DF]",
-    "txobjdata": "– Soleil¹ –[~LF]Heure: {sun_clocktm}[~LF]Heure temporelle: {sun_temptm}[~LF]Jour de lumière: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]Solstice: {sun_soli}[~LF]Équinoxe: {sun_equi}[~LF][~LF]– Lune² –[~LF]Nouvelle lune: {moon_new}[~LF]Pleine lune: {moon_full}[~LF]Nuit lunaire: {moon_gordon}[~LF]Éclairée: {moon_illum}[~LF]Taille: {moon_sizep} (85-100)[~LF][~LF]– Luminosité –[~LF]Vénus: {venus_magp} (83-100)[~LF]Mars: {mars_magp} (52-100)[~LF]Jupiter: {jupiter_magp} (87-100)[~LF]Saturne: {saturn_magp} (77-100)[~LF]Mercure: {merkur_magp} (0-100)[~LF][~LF]¹ Heure: GPS = synchronisée | Heure temporelle: heure locale inégale (0,0[NDASH]11,9), ‘ἡ’ pour le jour ou ‘ν’ pour la nuit. ‘φ’ veille nocturne avec « minutes » inégales (0φ00[NDASH]3φ59) | {lighttime-} : voir ci-dessous | Jour de lumière et Agnihotra: lever[NDASH]coucher aujourd’hui [lever demain], ⁺ = GPS actuel | ² Nouvelle et pleine lune: moment (en/avant jours) | Nuit lunaire: voir ci-dessous | ³ La Lune mesure env. 2000 secondes d’arc[DF][DF]",
-    "txlegende0": "[b]–– Explications :[/b][~LF][~LF]La saison lumineuse de l’année divise l’année en huit phases de lumière croissante et décroissante : 1. {solcal_lph|0-} (4.2–5.5), 2a. {solcal_lph|1-} (6.5–20.5), 2b. {solcal_lph|2-} (21.5–21.7), 2c. {solcal_lph|3-} (22.7–6.8), 3. {solcal_lph|4-} (7.8–6.11), 4a. {solcal_lph|5-} (7.11–21.11), 4b. {solcal_lph|6-} (22.11–19.1) et 4c. {solcal_lph|7-} (20.1–3.2). En bref : Φx·y avec x = temps de lumière, y =[SP]% d’avancement. – Les dates se basent sur des points astronomiques et peuvent s’écarter légèrement du calendrier civil.[~LF][~LF]La date lunaire fonctionne comme notre date, mais avec des nuits au lieu de jours : Μx·y (p/z), avec x = « mois » lunaire de l’année, y = nuit du mois lunaire. Comme les mois lunaires n’ont pas tous la même durée, z indique le nombre total de nuits du mois lunaire, et p la nuit de la pleine lune. La nuit se termine au lever du soleil.[DF][DF][DF]",
+    "txlocdata": "[DF]Les calculs pour votre emplacement individuel devraient correspondre à l’almanach astronomique à 0,0005 seconde d’arc³ près :[DF]",
+    "txobjdata": "– Soleil¹ –[~LF]Heure de l’horloge : {sun_clocktm}[~LF]Heure temporelle : {sun_temptm}[~LF]Jour de lumière : {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]Solstice : {sun_soli}[~LF]Équinoxe : {sun_equi}[~LF][~LF]– Lune² –[~LF]Nouvelle lune : {moon_new}[~LF]Pleine lune : {moon_full}[~LF]Nuit lunaire : {moon_gordon}[~LF]Éclairée : {moon_illum}[~LF]Taille : {moon_sizep} (85-100){weather_data}[~LF][~LF]– Luminosité –[~LF]Vénus : {venus_magp} (83-100)[~LF]Mars : {mars_magp} (52-100)[~LF]Jupiter : {jupiter_magp} (87-100)[~LF]Saturne : {saturn_magp} (77-100)[~LF]Mercure : {merkur_magp} (0-100)[~LF][~LF]¹ Heure de l’horloge : GPS = synchronisé | Heure temporelle : heure locale inégale (0,0[NDASH]11,9) « ἡ » du jour ou « ν » de la nuit. « φ » veille nocturne avec des « minutes » inégales (0φ00[NDASH]3φ59) | {lighttime-} : voir ci-dessous | Jour de lumière et Agnihotra : lever[NDASH]coucher aujourd’hui [lever demain], ⁺ = GPS actuel | ² Pleine et nouvelle lune : moment (en/avant jours) | Nuit lunaire : voir ci-dessous | ³ La lune mesure env. 2000 secondes d’arc | ⁴ Météo : min...max...[min nuit][DF][DF]",
+    "txlegende0": "[b]–– Explications:[/b][~LF][~LF]La saison de l’année lumineuse divise l’année en huit phases d’augmentation et de diminution de la lumière (% de progression de la phase) : 1. {solcal_lph|0-} (4.2.–5.5.), 2a. {solcal_lph|1-} (6.5.–20.5.), 2b. {solcal_lph|2-} (21.5.–21.7.), 2c. {solcal_lph|3-} (22.7.–6.8.), 3. {solcal_lph|4-} (7.8.–6.11.), 4a. {solcal_lph|5-} (7.11.–21.11.), 4b. {solcal_lph|6-} (22.11.–19.1.) et 4c. {solcal_lph|7-} (20.1.–3.2.). Forme courte : Φx·y. Les dates sont basées sur des points astronomiques et peuvent légèrement différer du calendrier.[~LF][~LF]La date lunaire fonctionne comme notre date, mais avec des nuits au lieu de jours : Μx·y (p/z) avec x = « mois » lunaire de l’année, y = nuit du mois lunaire. Comme les mois lunaires ont des durées différentes, z indique le nombre total de nuits du mois lunaire, p la nuit de pleine lune. La nuit se termine au lever du soleil.[DF][DF][DF]",
     "buttonsolcal": "Calendrier lumineux",
     "txlegende": "[DF]☉ Soleil, ● Lune (avec phases)[~LF][~LF]♀ Vénus (nacrée), ♂ Mars (rougeâtre), ♃ Jupiter (bandée), ♄ Saturne (avec anneaux), ☿ Mercure (grise)[~LF][~LF][s] Sirius, [k] Canopus, [f] Alpha Centauri, [a] Arcturus, [w] Véga, [c] Capella, [r] Rigel, [p] Procyon, [b] Bételgeuse, [h] Achernar[DF][DF][DF][DF]",
     "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
@@ -201,7 +217,7 @@
     "txanleitungprg": "[DF]Horloge solaire de Gordon[~LF]Version [VERSIONNUM][~LF]Gordon Axmann[~LF]Copyright 2019-[VERSIONYEAR]",
     "txanleitung3": "[DF]Veuillez utiliser le logiciel tel quel. Il s'agit d'une offre gratuite et privée. Je ne suis pas un développeur d'applications professionnel, mais j'ai néanmoins consacré beaucoup d'énergie à ce programme au fil des ans.[DF][DF]",
     "txchangelog": "Quoi de neuf ?",
-    "txanleitung4": "[DF]Les données ne sont ni collectées ni transmises. Tout reste sur votre appareil. Une connexion Internet n'est même pas nécessaire pour le fonctionnement. Une exception : en cas d'erreur de programme, si vous disposez d'une connexion Internet, un message d'erreur anonyme est envoyé (pour plus de détails, voir la politique de confidentialité). Vous contribuez ainsi au bon fonctionnement de l'Horloge solaire.[~LF][~LF]Si vous avez trouvé une erreur, je me ferai un plaisir de la corriger. Pour cela, j'ai besoin d'un rapport d'erreur clair (éventuellement avec une capture d'écran) et d'une brève description indiquant où et quand l'erreur s'est produite. Une capture d'écran du journal d'état ci-dessous, prise si possible immédiatement après l'apparition de l'erreur, est également utile (contact par e-mail : [CONTACTSUPPORT]). Dans 99 % des cas, les remarques concernant des erreurs de calcul présumées sont fausses. Il existe malheureusement beaucoup d'informations erronées sur le calcul des étoiles.[~LF][~LF]Remerciements : Brandon Rhodes (Skyfield), Rolf, Greg Miller et tous les testeurs. Images des corps célestes fournies par : NASA / SOHO (Solar and Heliospheric Observatory), ESA / télescope spatial Hubble et NASA / JPL-Caltech (domaine public). Vous trouverez une liste de tous les matériaux tiers utilisés et des licences dans le fichier « design/ COPYRIGHT.txt ».[~LF][~LF]Je vous offre gratuitement « Horloge solaire ». Profitez-en simplement. Si vous souhaitez exprimer votre gratitude pour mon travail, vous trouverez mon site web ici :[DF][DF]",
+    "txanleitung4": "[DF]Aucune donnée n’est collectée ni transmise. Tout reste sur votre appareil. Le fonctionnement ne nécessite même pas de connexion Internet. Une exception : en cas d’erreur du programme, si vous disposez d’Internet, un rapport d’erreur anonyme est envoyé (voir la politique de confidentialité pour les détails). Cela aide à ce que {txsunclock-} fonctionne correctement.[~LF][~LF]Si vous avez trouvé une erreur, je me ferai un plaisir de la corriger. Pour cela, j’ai besoin d’un rapport d’erreur clair (éventuellement avec capture d’écran) et d’une brève description de l’endroit et du moment où l’erreur s’est produite. Une capture d’écran du journal d’état affiché ci-dessous, prise si possible immédiatement après l’apparition de l’erreur, est également utile (contact par mail : [CONTACTSUPPORT]). - Les indications concernant de prétendues erreurs de calcul sont dans 99 % des cas des fausses alertes ; il existe malheureusement beaucoup de désinformation sur les calculs astronomiques.[~LF][~LF]Remerciements à : Brandon Rhodes (Skyfield), Rolf, Greg Miller et tous les testeurs. Images des corps célestes fournies par : NASA / SOHO (Solar and Heliospheric Observatory), ESA / Télescope spatial Hubble et NASA / JPL-Caltech (domaine public). Données météorologiques (optionnelles) : Open-Meteo.com (CC BY 4.0), MET Norway / Meteorologisk institutt (CC BY 4.0). Une liste de tous les matériaux et licences de tiers utilisés se trouve dans le fichier \"design/ COPYRIGHT.txt\".[~LF][~LF]Je mets {txsunclock} gratuitement à votre disposition. Profitez-en simplement. Si vous souhaitez exprimer votre appréciation pour mon travail, vous trouverez ici ma présence web :[DF][DF]",
     "txkaffee": "Accéder au site web",
     "solcalmonthsxx": [
         "% Néo-Févri",

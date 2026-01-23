@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.7.4",
-        "updated": "2025-12-31 17:38:53"
+        "version": "1.8.2",
+        "updated": "2026-01-23 22:35:37"
     },
     "txwelcome": "Welcome",
     "quotes": [
@@ -11,6 +11,13 @@
     "oclocksh": "h",
     "hoursh": "h",
     "daysh": "d",
+    "weath_c": "°C",
+    "weath_f": "°F",
+    "weath_kmh": "km/h",
+    "weath_mph": "mph",
+    "weath_lm2": "l/m²",
+    "weath_in": "ʺ",
+    "weath_pct": "%",
     "decimalsep": ".",
     "n_a": "N/A",
     "wdaysh": [
@@ -65,6 +72,7 @@
     "txgpsautosh": "AUTO",
     "txtimezone": "Time zone",
     "txtimeformat": "24h format",
+    "txsiformat": "Metric (°C, km/h)",
     "txshowclock": "Show time",
     "txwelcomescr": "Hide GPS notice",
     "txshowagni": "Agnihotra (GPS)",
@@ -87,7 +95,15 @@
         "fr": "French",
         "zh": "Chinese"
     },
-    "txfullscr": "Screen stays on",
+    "txweathapi": "Weather",
+    "txweathapiarr": {
+        "auto": "automatic",
+        "-NIL-": "off",
+        "openmeteo": "Open-Met/Icon-D2",
+        "metno": "MET Norge"
+    },
+    "txnow": "Now",
+    "txfullscr": "Wall clock mode",
     "txnachtmodus": "Dark mode",
     "txnachtmodusarr": {
         "auto": "automatic",
@@ -128,11 +144,11 @@
     "txnosupport": "[i]NOTE: Your language is not yet supported, so English is shown. An ‘Auto-Translate’ button is available on the last page[/i]",
     "uebanleitung": "Instructions",
     "txanleitung": "[DF]{LANGSUPPORT}1. Tick {txgpsauto} to automatically update your location during use ({quotes|0-}{tx_acc|3-}/{txagnihotra-}{quotes|1-} for more accurate positioning and GPS time synchronization). {txgpsbutton} determines your current position once and saves it permanently.[~LF][~LF]Alternatively, you can enter a place name or an address in the text field (if your device supports this) or coordinates (e.g. 50.94, 6.96). A 3rd and 4th entry are optional: the approximate altitude [m], the approximate temperature at twilight [°C]. Then tick {txwelcomescr}. - When basic data is changed, {txsunclock-} performs a daily calculation which, depending on the device, can take between 2[NDASH]30 seconds.[~LF][~LF]2. {txuhrsinn} determines whether the clock runs clockwise (South) or counter-clockwise: however, if you change the rotation direction, the part of the solar circle below the horizon will be in front of you (details see next page). {txshowclock} shows a digital clock at the top right of the dial.",
-    "txmore": "[DF]3. {txfarben} selects different dials. {txnachtmodus} {txlangarr|auto-} switches at sunset, -6° until the end of twilight, +6° before that. [~LF][~LF]4. {txagnihotra} shows markers for the sun hand as well as the time of the next solar zero crossing & countdown. Six minutes before Agnihotra the display is enlarged and seconds are shown (⁺ means GPS is current). {txfullscr} prevents the screen from turning off and switches to fullscreen. - If your settings are not applied once, tap the refresh button at the bottom right of the dial.[~LF][~LF]You can zoom into the dial with two fingers (or with a triple tap). If you want to move the zoomed image, do it slowly. Fast movements swipe to the next page. - On the next page you will find an explanation of the dial.[DF][DF][DF][b]–– Dial legend:[/b]",
+    "txmore": "[DF]3. {txfarben} selects different dials. {txnachtmodus} {txlangarr|auto-} switches at sunset, -6° until the end of twilight, +6° before. [~LF][~LF]4. {txagnihotra} shows markers for the sun hand as well as the time of the next zero crossing of the sun & countdown. Six minutes before Agnihotra, the display is enlarged and seconds are shown (⁺ means GPS current). {txfullscr} prevents the screen from switching off and enables fullscreen. {txweathapi} overlays a daily forecast on the clock (if network is available). If it turns grey, the data are old. - If your settings are not applied at some point, tap the refresh button at the bottom right of the dial.[~LF][~LF]You can zoom into the dial with two fingers (or by triple tap). If you want to move the zoomed image, do it slowly. Fast movements swipe to the next page. - On the next page you will find an explanation of the dial.[DF][DF][DF][b]–– Dial legend:[/b][DF][DF]Weather: current temperature, above it daily weather: precipitation/day, sun/day, optional symbols (cactus = dry), optional weekday (= weather for tomorrow)",
     "txdata": "[DF]Data",
-    "txlocdata": "[DF]Calculations from {txgordonssunclock-} for your specific location should match the astronomical almanac to within 0.0005 arc seconds³:[DF]",
-    "txobjdata": "– Sun¹ –[~LF]Time: {sun_clocktm}[~LF]Temporal hour: {sun_temptm}[~LF]Light day: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]Solstice: {sun_soli}[~LF]Equinox: {sun_equi}[~LF][~LF]– Moon² –[~LF]New moon: {moon_new}[~LF]Full moon: {moon_full}[~LF]Moon night: {moon_gordon}[~LF]Illuminated: {moon_illum}[~LF]Size: {moon_sizep} (85-100)[~LF][~LF]– Brightness –[~LF]Venus: {venus_magp} (83-100)[~LF]Mars: {mars_magp} (52-100)[~LF]Jupiter: {jupiter_magp} (87-100)[~LF]Saturn: {saturn_magp} (77-100)[~LF]Mercury: {merkur_magp} (0-100)[~LF][~LF]¹ Time: GPS = synchronised | Temporal hour: local unequal hour (0.0[NDASH]11.9) ‘ἡ’ of the day or ‘ν’ of the night. ‘φ’ night watch with unequal “minutes” (0φ00[NDASH]3φ59) | {lighttime-}: see below | Light day & Agnihotra: rise[NDASH]set today [rise tomorrow], ⁺ = current GPS | ² Full and new moon: moment (in/before days) | Moon night: see below | ³ Moon is approx. 2000 arcseconds in size[DF][DF]",
-    "txlegende0": "[b]–– Explanations:[/b][~LF][~LF]The light season of the year divides the year into eight phases of waxing and waning light: 1. {solcal_lph|0-} (4.2–5.5), 2a. {solcal_lph|1-} (6.5–20.5), 2b. {solcal_lph|2-} (21.5–21.7), 2c. {solcal_lph|3-} (22.7–6.8), 3. {solcal_lph|4-} (7.8–6.11), 4a. {solcal_lph|5-} (7.11–21.11), 4b. {solcal_lph|6-} (22.11–19.1) and 4c. {solcal_lph|7-} (20.1–3.2). Short: Φx·y with x = light season, y =[SP]% progress. – The dates follow astronomical points and may deviate slightly from the civil calendar.[~LF][~LF]The moon date works like our calendar date, but with nights instead of days: Μx·y (p/z), with x = lunar ‘month’ of the year, y = night of that lunar month. Because lunar months differ in length, z gives the total number of nights in the lunar month, and p the full-moon night. The night ends at sunrise.[DF][DF][DF]",
+    "txlocdata": "[DF]Calculations for your individual location should match the astronomical almanac to 0.0005 arcseconds³:[DF]",
+    "txobjdata": "– Sun¹ –[~LF]Clock time: {sun_clocktm}[~LF]Temporal hour: {sun_temptm}[~LF]Light day: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]Solstice: {sun_soli}[~LF]Equinox: {sun_equi}[~LF][~LF]– Moon² –[~LF]New moon: {moon_new}[~LF]Full moon: {moon_full}[~LF]Moon night: {moon_gordon}[~LF]Illuminated: {moon_illum}[~LF]Size: {moon_sizep} (85-100){weather_data}[~LF][~LF]– Brightness –[~LF]Venus: {venus_magp} (83-100)[~LF]Mars: {mars_magp} (52-100)[~LF]Jupiter: {jupiter_magp} (87-100)[~LF]Saturn: {saturn_magp} (77-100)[~LF]Mercury: {merkur_magp} (0-100)[~LF][~LF]¹ Clock time: GPS = synchronised | Temporal hour: local, unequal hour (0.0[NDASH]11.9) “ἡ” of day or “ν” of night. “φ” night watch with unequal “minutes” (0φ00[NDASH]3φ59) | {lighttime-}: see below | Light day & Agnihotra: rise[NDASH]set today [rise tomorrow], ⁺ = current GPS | ² Full and new moon: time (in/before days) | Moon night: see below | ³ Moon is approx. 2000 arcseconds in size | ⁴ Weather: min...max...[night min][DF][DF]",
+    "txlegende0": "[b]–– Explanations:[/b][~LF][~LF]The light year season divides the year into eight phases of increasing and decreasing light (% progress of the phase): 1. {solcal_lph|0-} (4 Feb–5 May), 2a. {solcal_lph|1-} (6 May–20 May), 2b. {solcal_lph|2-} (21 May–21 Jul), 2c. {solcal_lph|3-} (22 Jul–6 Aug), 3. {solcal_lph|4-} (7 Aug–6 Nov), 4a. {solcal_lph|5-} (7 Nov–21 Nov), 4b. {solcal_lph|6-} (22 Nov–19 Jan) and 4c. {solcal_lph|7-} (20 Jan–3 Feb). Short form: Φx·y. Dates are based on astronomical points and may slightly differ from the calendar.[~LF][~LF]Moon date works like our date, but with nights instead of days: Μx·y (p/z) with x = moon “month” of the year, y = night of the lunar month. As lunar months have different lengths, z gives the total nights of the lunar month, p the full moon night. The night ends at sunrise.[DF][DF][DF]",
     "buttonsolcal": "Light calendar",
     "txlegende": "[DF]☉ Sun, ● Moon (with phases)[~LF][~LF]♀ Venus (pearly), ♂ Mars (reddish), ♃ Jupiter (banded), ♄ Saturn (with rings), ☿ Mercury (grey)[~LF][~LF][s] Sirius, [k] Canopus, [f] Alpha Centauri, [a] Arcturus, [w] Vega, [c] Capella, [r] Rigel, [p] Procyon, [b] Betelgeuse, [h] Achernar[DF][DF][DF][DF]",
     "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
@@ -223,7 +239,7 @@
     "txanleitungprg": "[DF]Gordon's Sun Clock[~LF]Version [VERSIONNUM][~LF]Gordon Axmann[~LF]Copyright 2019-[VERSIONYEAR]",
     "txanleitung3": "[DF]Please use the software as it is. It is a free, private offer. I am not a professional app developer, but I have put a lot of heart and soul into the programme over the years.[DF][DF]",
     "txchangelog": "What's new?",
-    "txanleitung4": "[DF]Data is neither collected nor transmitted. Everything remains on your device. An internet connection is not even required for operation. One exception: if a programme error occurs, an anonymous error message will be sent if you have an internet connection (see privacy policy for details). This helps to ensure that Sun Clock runs smoothly.[~LF][~LF]If you find an error, I will be happy to correct it. To do so, I need a clear error report (possibly with a screenshot) and a brief description of where and when the error occurred. A screenshot of the status log below, taken as soon as possible after the error occurred, is also helpful (email contact: [CONTACTSUPPORT]). In 99% of cases, reports of supposed calculation errors are false alarms – unfortunately, there is a lot of misinformation about star calculations.[~LF][~LF]Thanks to: Brandon Rhodes (Skyfield), Rolf, Greg Miller and all testers. Images of celestial bodies provided by: NASA / SOHO (Solar and Heliospheric Observatory), ESA / Hubble Space Telescope and NASA / JPL-Caltech (public domain). A list of all third-party materials and licences used can be found in the file ‘design/ COPYRIGHT.txt’.[~LF][~LF]I am providing you with ‘Sun Clock’ free of charge. Simply enjoy it. If you would like to express your appreciation for my work, you can find my website here:[DF][DF]",
+    "txanleitung4": "[DF]No data are collected or transmitted. Everything stays on your device. Not even an internet connection is required for operation. One exception: in the event of a program error, if you have internet access, an anonymous error report is sent (see privacy policy for details). This helps to keep {txsunclock-} running smoothly.[~LF][~LF]If you have found an error, I will be happy to correct it. For this I need a clear error report (optionally with a screenshot) and a short description of where and when the error occurred. A screenshot of the status log shown below, taken as soon as possible after the error occurs, is also helpful (mail contact: [CONTACTSUPPORT]). - Notes about alleged calculation errors are false reports in 99% of cases; unfortunately there is a great deal of misinformation about astronomical calculations.[~LF][~LF]Thanks to: Brandon Rhodes (Skyfield), Rolf, Greg Miller and all testers. Images of celestial bodies provided by: NASA / SOHO (Solar and Heliospheric Observatory), ESA / Hubble Space Telescope and NASA / JPL-Caltech (public domain). Weather data (optional): Open-Meteo.com (CC BY 4.0), MET Norway / Meteorologisk institutt (CC BY 4.0). A list of all third-party materials and licences used can be found in the file \"design/ COPYRIGHT.txt\".[~LF][~LF]I provide {txsunclock} to you free of charge. Simply enjoy it. If you would like to express your appreciation for my work, you can find my web presence here:[DF][DF]",
     "txkaffee": "Visit website",
     "solcalmonthsxx": [
         "% New Febru",
