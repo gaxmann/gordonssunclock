@@ -2,7 +2,7 @@
 
 Keys that have been added, changed, or removed are listed here, as well as structural changes and language files that were added or removed, or whose support status changed.
 
-## [1.7] - 2025-12-28
+## [1.8] - 2026-01-23
 - **Added:** txweathapi, txweathapiarr, txsiformat, txnow
 
 ## [1.7] - 2025-12-28
