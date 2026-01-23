@@ -14,7 +14,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
   - Current temperature and daily forecast, with compact icon-based presentation and clear daily weather states derived from forecast analysis (not raw values)
   - Weather information reduced to essential, relevant indicators
   - Robust local heuristics without additional network requests
-  - Automatic selection of high-resolution weather model (ICON-D2) for Central Europe
+  - Automatic model/provider selection: high-resolution ICON-D2 in Central Europe, otherwise best-match models via Open-Meteo; alternatively met.no can be selected
   
 ## [2.66-public] - 2026-01-09 (Ephemeris 440s)
 
