@@ -8,7 +8,9 @@ I was dissatisfied with standard time, the recurring time changes and the fact t
 
 **Reconnect to your local, natural time.**
 
-The app is free, shows no ads, and collects no data. It's simply a gift from me to the world.
+The app is free, shows no ads, and collects no data. It's simply a gift from me to the world. 
+
+For more visual impressions and a detailed description in German, check out the Play Store page.
 
 ## Download
 
