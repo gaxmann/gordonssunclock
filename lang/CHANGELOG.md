@@ -3,7 +3,7 @@
 Keys that have been added, changed, or removed are listed here, as well as structural changes and language files that were added or removed, or whose support status changed.
 
 ## [1.8] - 2026-01-23
-- **Added:** txweathapi, txweathapiarr, txsiformat, txnow
+- **Added:** txweathapi, txweathapiarr, txsiformat, txnow, weath_c, weath_f, weath_in, weath_kmh, weath_lm2, weath_mph, weath_pct
 
 ## [1.7] - 2025-12-28
 - **Added:** tx_acc, txgpslabel, txgordonssunclock, txsunclock, 
