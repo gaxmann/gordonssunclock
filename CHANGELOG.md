@@ -12,10 +12,10 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Added
 - Optional weather information:
   - Current temperature and daily forecast, with compact icon-based presentation and clear daily weather states derived from forecast analysis (not raw values)
-  - Weather information reduced to essential, relevant indicators
-  - Robust local heuristics without additional network requests
+  - Time-based weather overview on the data page (daily course in 3-hour resolution, visual progress indicator, and “Now” outlook)
+  - Weather information (on the dial) reduced to essential, relevant indicators
   - Automatic model/provider selection: high-resolution ICON-D2 in Central Europe, otherwise best-match models via Open-Meteo; alternatively met.no can be selected
-  
+
 ## [2.66-public] - 2026-01-09 (Ephemeris 440s)
 
 ### Changed
