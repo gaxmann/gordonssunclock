@@ -110,6 +110,9 @@
         "metno": "MET Norge"
     },
     "txnow": "现在",
+    "txd0": "今天",
+    "txd1": "明天",
+    "txd2": "后天",
     "txfullscr": "始终开启模式",
     "txnachtmodus": "黑暗模式",
     "txnachtmodusarr": {

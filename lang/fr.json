@@ -98,6 +98,9 @@
         "metno": "MET Norge"
     },
     "txnow": "Maintenant",
+    "txd0": "Auj.",
+    "txd1": "Demain",
+    "txd2": "Après-dem",
     "txfullscr": "Mode toujours actif",
     "txnachtmodus": "Mode sombre",
     "txnachtmodusarr": {

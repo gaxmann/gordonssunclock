@@ -98,6 +98,9 @@
         "metno": "MET Norge"
     },
     "txnow": "Сейчас",
+    "txd0": "Сегодня",
+    "txd1": "Завтра",
+    "txd2": "Послезав",
     "txfullscr": "Всегда включено",
     "txnachtmodus": "Тёмный режим",
     "txnachtmodusarr": {

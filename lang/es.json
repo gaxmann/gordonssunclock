@@ -97,6 +97,9 @@
         "metno": "MET Norge"
     },
     "txnow": "Ahora",
+    "txd0": "Hoy",
+    "txd1": "Mañana",
+    "txd2": "Pas. mañ.",
     "txfullscr": "Siempre encendida",
     "txnachtmodus": "Modo oscuro",
     "txnachtmodusarr": {

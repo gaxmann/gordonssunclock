@@ -103,6 +103,9 @@
         "metno": "MET Norge"
     },
     "txnow": "Now",
+    "txd0": "Today",
+    "txd1": "Tomorrow",
+    "txd2": "Day after",
     "txfullscr": "Wall clock mode",
     "txnachtmodus": "Dark mode",
     "txnachtmodusarr": {
