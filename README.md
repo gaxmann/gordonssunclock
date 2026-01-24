@@ -29,7 +29,7 @@ For more visual impressions and a detailed description in German, check out the 
 - **Agnihotra support**: Display precise Agnihotra times with countdown
 - **Temporal hours clock**: Display of ancient unequal hours (12 day hours & 4 night watches) – e.g. for historians or anyone seeking a deeper connection to historical timekeeping
 - **Tablet mode**: Hang on your wall as a living clock
-- **Global Robust Geometry:** Works everywhere on Earth - from the Equator to the Poles. Correctly visualizes 24h polar day, polar night, and extreme solar paths in the Arctic or Antarctica
+- **Global robust geometry:** Works everywhere on Earth - from the equator to the poles. Correctly visualizes 24h polar day, polar night, and extreme solar paths in the Arctic or Antarctica
 - **Multi-language**: Deutsch, English, Español, Français, Русский, 中文 (translations or corrections welcome)
 
 ## About
