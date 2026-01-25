@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.8.4",
-        "updated": "2026-01-25 23:58:46"
+        "version": "1.8.5",
+        "updated": "2026-01-26 00:28:28"
     },
     "txwelcome": "Welcome",
     "quotes": [
@@ -240,9 +240,9 @@
     "txanleitung2d": "[DF][DF][b]–– History:[/b][~LF][~LF]{txgordonssunclock-} was developed in 2019 for a Raspberry Pi with a 10-inch ePaper display because I wanted a wall clock that was pleasant to look at and connected the time with the sun's path. My goal was to build a clock that shows natural time – not man-made time, as represented by the 12-hour analogue clock. Where we live, there are significant differences in the length of the day throughout the year, as well as the recurring, unpopular time change. Sun Clock was designed to put all of this into perspective: it displays an organic dial that is oriented towards the seasons, the rhythm of nature, and changes with it. Since almost everyone has a small computer in their pocket these days, I developed Sun Clock 2025 as an Android app. I hope you enjoy it and find it insightful![DF][DF][DF]",
     "txabout": "[DF]Info",
     "txanleitungprg": "[DF]Gordon's Sun Clock[~LF]Version [VERSIONNUM][~LF]Gordon Axmann[~LF]Copyright 2019-[VERSIONYEAR]",
-    "txanleitung3": "[DF]Please use the software as it is. It is a free, private offer. I am not a professional app developer, but I have put a lot of heart and soul into the programme over the years.[DF][DF]",
-    "txchangelog": "What's new?",
-    "txanleitung4": "[DF]No data is collected or transmitted. Everything stays on your device. An internet connection is not required for operation. Exceptions: (1) In case of a program error, an anonymous error report is sent if you have internet access. This helps keep {txsunclock-} running smoothly. (2) The weather display (optional, enabled by default) retrieves weather data from an external provider and transmits your approximate location. You can disable the weather display at any time (see privacy policy for details).[~LF][~LF]If you find an error, I am happy to fix it. I need a clear bug report (possibly with a screenshot) and a short description of where and when the issue occurred. A screenshot of the status log below, taken as soon as possible after the error, is also helpful (contact: [CONTACTSUPPORT]). – Reports of supposed calculation errors are false in 99% of cases; unfortunately, there is a lot of misinformation about astronomical calculations.[~LF][~LF]Thanks to: Brandon Rhodes (Skyfield), Rolf, Greg Miller and all testers. Images of celestial bodies provided by: NASA / SOHO (Solar and Heliospheric Observatory), ESA / Hubble Space Telescope, and NASA / JPL-Caltech (public domain). Weather data (optional): Open-Meteo.com (CC BY 4.0), MET Norway / Meteorologisk institutt (CC BY 4.0). A complete list of third-party materials and licenses can be found in the file \"design/COPYRIGHT.txt\".[~LF][~LF]{txsunclock} is provided free of charge. Simply enjoy using it. If you wish to express appreciation for my work, you can find my website here:[DF][DF]",
+    "txanleitung3": "[DF]This software is a free, private project. It has been developed and maintained over many years.[DF][DF]",
+    "txchangelog": "What’s new?",
+    "txanleitung4": "[DF]As a general rule, no personal data is collected or transmitted. Everything remains on your device. An internet connection is not even required for operation. Exceptions: (1) In the event of a program error, a highly anonymised error report is sent – provided you have internet access – in order to improve the stability of {txsunclock-}. (2) The weather display (optional, enabled by default) retrieves weather data from an external provider and transmits your approximate location in the process. You can disable the weather display at any time (see privacy policy for details).[~LF][~LF]Thanks to: Brandon Rhodes (Skyfield), Rolf, Greg Miller and all testers. Images of celestial bodies provided by: NASA / SOHO (Solar and Heliospheric Observatory), ESA / Hubble Space Telescope and NASA / JPL-Caltech (public domain). Weather data (optional): Open-Meteo.com (CC BY 4.0), MET Norway / Meteorologisk institutt (CC BY 4.0). A list of all third-party materials used and their licences can be found in the file \"design / COPYRIGHT.txt\".[~LF][~LF]I provide {txsunclock} to you free of charge. Simply enjoy using it. If you would like to support my work, you can find my website here:[DF][DF]",
     "txkaffee": "Visit website",
     "solcalmonthsxx": [
         "% New Febru",
