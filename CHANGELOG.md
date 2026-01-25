@@ -608,6 +608,11 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 V3 and V2 share the same source code (compare features by release date or ≙). Detailed descriptions of features can be found in the corresponding V2 versions above. *V3 means: api 24-35 (Android 7+), arm64-v8a only, 16 kB page memory*
 
+## [3.4 ≙ 2.67] 
+
+### Added
+- Optional weather view with clear, icon-based daily outlook. Reduced to essential information for quick visual understanding
+
 ## [3.3 ≙ 2.65.1] 
 
 ### Added
