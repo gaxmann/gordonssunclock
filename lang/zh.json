@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.8.3",
-        "updated": "2026-01-25 20:09:30"
+        "version": "1.8.4",
+        "updated": "2026-01-25 23:58:46"
     },
     "txwelcome": "欢迎",
     "quotes": [
@@ -178,7 +178,7 @@
     "txanleitungprg": "[DF]Gordon-太阳时钟[~LF]版本 [VERSIONNUM][~LF]Gordon Axmann[~LF]版权 2019-[VERSIONYEAR]",
     "txanleitung3": "[DF]请按原样使用该软件。这是免费的私人服务。我不是专业的应用程序开发人员，但多年来我还是为这个程序倾注了大量心血。[DF][DF]",
     "txchangelog": "有什么新功能？",
-    "txanleitung4": "[DF]不收集也不发送任何数据。一切都保留在您的设备上。运行甚至不需要互联网连接。唯一的例外是：如果发生程序错误，并且您有互联网连接，则会发送一条匿名错误报告（详见隐私政策）。这有助于确保 {txsunclock-} 的正常运行。[~LF][~LF]如果您发现了错误，我很乐意进行修正。为此，我需要一份清晰的错误报告（可附屏幕截图），以及对错误发生的位置和时间的简要说明。若能在错误发生后尽快提供下方状态日志的屏幕截图，也会非常有帮助（邮件联系：[CONTACTSUPPORT]）。- 关于所谓计算错误的提示在 99% 的情况下都是误报；遗憾的是，关于天文计算存在大量错误信息。[~LF][~LF]感谢：Brandon Rhodes（Skyfield）、Rolf、Greg Miller 以及所有测试人员。天体图像由以下机构提供：NASA / SOHO（太阳和日光层观测站）、ESA / 哈勃空间望远镜，以及 NASA / JPL-Caltech（公有领域）。天气数据（可选）：Open-Meteo.com（CC BY 4.0），MET Norway / Meteorologisk institutt（CC BY 4.0）。所有使用的第三方材料和许可证的列表可在文件 \"design/ COPYRIGHT.txt\" 中找到。[~LF][~LF]我免费向您提供 {txsunclock}。请尽情享受。如果您希望表达对我工作的认可，可在此找到我的网站：[DF][DF]",
+    "txanleitung4": "[DF]不会收集或发送任何数据。所有内容都保留在您的设备上。运行本应用甚至不需要互联网连接。例外情况：(1) 如果发生程序错误，在您有网络连接的情况下，会发送一份匿名错误报告。这有助于确保 {txsunclock-} 稳定运行。(2) 天气显示（可选，默认启用）会从外部提供商获取天气数据，并传输您的大致位置。您可以随时关闭天气显示（详见隐私政策）。[~LF][~LF]如果您发现错误，我很乐意进行修复。我需要一份清晰的错误报告（可附屏幕截图）以及简要说明错误发生的时间和位置。如能在错误发生后尽快提供下方状态日志的截图，将非常有帮助（联系方式：[CONTACTSUPPORT]）。—— 关于所谓计算错误的反馈在 99% 的情况下都是误报；遗憾的是，关于天文计算的错误信息非常多。[~LF][~LF]致谢：Brandon Rhodes（Skyfield）、Rolf、Greg Miller 以及所有测试者。天体图像由以下机构提供：NASA / SOHO（太阳和日球观测台）、ESA / 哈勃空间望远镜、NASA / JPL-Caltech（公共领域）。天气数据（可选）：Open-Meteo.com（CC BY 4.0），挪威气象研究所 MET Norway（CC BY 4.0）。所有第三方材料及其许可证的完整列表请参见文件 \"design/COPYRIGHT.txt\"。[~LF][~LF]{txsunclock} 免费提供给您使用。请尽情享受。如果您希望表达对我工作的认可，可在此处找到我的网站：[DF][DF]",
     "txkaffee": "访问网站",
     "solcalmonthsxx": [
         "新二月%天",
