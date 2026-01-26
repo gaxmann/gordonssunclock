@@ -17,7 +17,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
   - Automatic model/provider selection: high-resolution ICON-D2 in Central Europe, otherwise best-match models via Open-Meteo; alternatively met.no can be selected
 
 ### Changed
-- Texts updated, privacy policy updated to reflect optional weather functionality
+- Texts updated, privacy policy updated to reflect optional weather functionality (via external provider)
 
 ## [2.66-public] - 2026-01-09 (Ephemeris 440s)
 
