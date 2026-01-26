@@ -8,7 +8,7 @@ I was dissatisfied with standard time, the recurring time changes and the fact t
 
 **Reconnect to your local, natural time.**
 
-The app is free, shows no ads, and collects no data. It's simply a gift from me to the world. 
+The app is free, shows no ads, and is privacy-friendly. It's simply a gift from me to the world. 
 
 For more visual impressions and a detailed description in German, check out the Play Store page.
 
@@ -25,8 +25,9 @@ For more visual impressions and a detailed description in German, check out the 
 - **Single-hand design**: Simple, clear, intuitive
 - **Location-based**: Adjusts to your coordinates (manual input or location detection)
 - **Offline capable**: No internet required after first setup (optional GPS time sync)
-- **Free & private**: No ads, no tracking, no data collection
+- **Free & privacy-friendly**: Built for users, not data
 - **Agnihotra support**: Display precise Agnihotra times with countdown
+- **Optional weather overview**: Compact, icon-based daily outlook
 - **Temporal hours clock**: Display of ancient unequal hours (12 day hours & 4 night watches) – e.g. for historians or anyone seeking a deeper connection to historical timekeeping
 - **Tablet mode**: Hang on your wall as a living clock
 - **Global robust geometry:** Works everywhere on Earth - from the equator to the poles. Correctly visualizes 24h polar day, polar night, and extreme solar paths in the Arctic or Antarctica
