@@ -20,6 +20,9 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Texts updated, privacy policy updated to reflect optional weather functionality (via external provider)
 - Legend changed to proportional font only with symbols in DejaVue
 
+### Fixed
+- ValueError: cannot determine region size fixed, TypeError – cannot unpack non-iterable int object fixed
+
 ## [2.66-public] - 2026-01-09 (Ephemeris 440s)
 
 ### Changed
