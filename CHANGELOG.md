@@ -7,7 +7,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.67] - 2026-01-26 (Weather Overview)
+## [2.67.1] - 2026-01-28 (Weather Overview)
 
 ### Added
 - Optional weather information:
