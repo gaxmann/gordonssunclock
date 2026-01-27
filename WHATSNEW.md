@@ -4,7 +4,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 ---
 
 ## [2.67] - 2026-01-xx (Weather overview)
-- Optional, drama-free weather view with a clear, icon-based daily outlook
+- Optional, drama-free weather view with a clear, icon-based daily outlook, bug fixes
 
 ## [2.65] - 2025-12-16 (Light seasons)
 - Displays (eight) light seasons, solistice, equinox and the moon date ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
