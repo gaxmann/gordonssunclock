@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.8.11",
-        "updated": "2026-01-27 21:58:05"
+        "version": "1.8.12",
+        "updated": "2026-01-27 23:20:27"
     },
     "txwelcome": "欢迎",
     "quotes": [
@@ -153,7 +153,7 @@
     "txpartsupport": "[i]注意：(β) 此语言仅提供部分支持。因此，部分内容为英文。欢迎提供支持（Github）。- 在最后一页，您会看到一个“自动翻译”按钮[/i]",
     "txnosupport": "[i]注意：您的语言尚未翻译。在最后一页，您会看到一个“自动翻译”按钮[/i]",
     "uebanleitung": "说明",
-    "txanleitung": "[DF]{LANGSUPPORT}1. 启用 {txgpsauto} 以在使用过程中自动更新您的位置。（{txgpsbutton} 仅一次性确定并保存您当前的位置。）目前不需要做更多设置。— 如需更高精度，请参见 {quotes|0-}{tx_acc|3-}/ {txshowagni-}{quotes|1-}。[~LF][~LF]或者，您可以在文本框中输入地名或地址（如果设备支持），或输入坐标（例如 50.94, 6.96）。第 3 和第 4 项为可选项：大致高度 [m]、黄昏时的大致温度 [°C]。随后启用 {txwelcomescr}。— 当更改基础数据时，{txsunclock-} 会执行一次日计算，根据设备不同可能需要 2[NDASH]30 秒。[~LF][~LF]2. {txshowclock} 会在表盘右上角显示数字时钟。{txuhrsinn} 用于设置时钟是顺时针运行（南向）还是逆时针运行：当改变旋转方向时，位于地平线以下的太阳圆弧将显示在您面前（详见下一页）。",
+    "txanleitung": "[DF]{LANGSUPPORT}1. 启用 {txgpsauto} 以在使用过程中自动更新您的位置。（{txgpsbutton} 仅一次性确定并保存您当前的位置。）目前不需要做更多设置。— 如需更高精度，请参见 {quotes|0-}{tx_acc|3-}/ {txshowagni-}{quotes|1-}。[~LF][~LF]或者，您可以在文本框中输入地名或地址（如果设备支持），或输入坐标（例如 50.94, 6.96）。第 3 和第 4 项为可选项：大致高度 &bl;m]、黄昏时的大致温度 &bl;°C]。随后启用 {txwelcomescr}。— 当更改基础数据时，{txsunclock-} 会执行一次日计算，根据设备不同可能需要 2[NDASH]30 秒。[~LF][~LF]2. {txshowclock} 会在表盘右上角显示数字时钟。{txuhrsinn} 用于设置时钟是顺时针运行（南向）还是逆时针运行：当改变旋转方向时，位于地平线以下的太阳圆弧将显示在您面前（详见下一页）。",
     "txmore": "[DF]3. {txnachtmodus} {txlangarr|auto-} 会在日落时自动切换，-6° 至暮光结束，+6° 之前。{txfarben} 用于选择不同的表盘样式。[~LF][~LF]4. {txfullscr} 防止屏幕关闭并切换到全屏模式。{txweathapi} 在时钟上叠加天气预报（需要网络，灰色 = 旧数据）。{txagnihotra} 显示太阳指针的标记以及下一次太阳零点通过的时间和倒计时。Agnihotra 前 6 分钟，显示会放大并显示秒数（⁺ = GPS 当前）。— 如果设置未被应用，请点击表盘右下角的刷新按钮。[~LF][~LF]您可以使用两指缩放表盘（或三击）。移动放大的图像时请缓慢操作，快速滑动将切换到下一页。— 下一页将提供表盘的说明。[DF][DF][DF][b]–– 表盘图例：[/b][DF][DF]天气：当前温度 + 上方为每日数据：降水（χ = 雪）、日照时数、符号（仙人掌 = 干燥），以及可选的星期几（= 明日天气），灰色 = 较旧数据",
     "txlegende": "[DF][font=sdata/DejaVuSansMono.ttf]☉[/font] 太阳, [font=sdata/DejaVuSansMono.ttf]●[/font] 月亮（含月相）[~LF][~LF][font=sdata/DejaVuSansMono.ttf]♀[/font] 金星（珍珠色）, [font=sdata/DejaVuSansMono.ttf]♂[/font] 火星（偏红）, [font=sdata/DejaVuSansMono.ttf]♃[/font] 木星（条纹）, [font=sdata/DejaVuSansMono.ttf]♄[/font] 土星（有光环）, [font=sdata/DejaVuSansMono.ttf]☿[/font] 水星（灰色）[~LF][~LF]&bl;s] 天狼星, &bl;k] 南船二, &bl;f] 半人马座α, &bl;a] 大角星, &bl;w] 织女星, &bl;c] 五车二, &bl;r] 参宿七, &bl;p] 南河三, &bl;b] 参宿四, &bl;h] 水委一[DF][DF][DF][DF]",
     "txdata": "[DF]数据",
