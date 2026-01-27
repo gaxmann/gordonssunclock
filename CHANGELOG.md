@@ -18,6 +18,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - Texts updated, privacy policy updated to reflect optional weather functionality (via external provider)
+- Legend changed to proportional font only with symbols in DejaVue
 
 ## [2.66-public] - 2026-01-09 (Ephemeris 440s)
 
