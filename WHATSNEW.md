@@ -3,10 +3,10 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ---
 
-## [2.67] - 2026-01-xx (Weather Overview)
-- Optional weather view with clear, icon-based daily outlook. Reduced to essential information for quick visual understanding. Bug fixes
+## [2.67] - 2026-01-xx (Weather overview)
+- Optional, drama-free weather view with a clear, icon-based daily outlook, reduced to essential information for quick visual understanding
 
-## [2.65] - 2025-12-16 (Light Seasons)
+## [2.65] - 2025-12-16 (Light seasons)
 - Displays (eight) light seasons, solistice, equinox and the moon date ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
 - GPS time sync (for exact Agnihotra), better moon shadow, Russian language added, bug fixes
 
