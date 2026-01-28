@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.8.12",
-        "updated": "2026-01-27 23:20:27"
+        "version": "1.8.13",
+        "updated": "2026-01-28 18:14:42"
     },
     "txwelcome": "欢迎",
     "quotes": [
@@ -154,11 +154,11 @@
     "txnosupport": "[i]注意：您的语言尚未翻译。在最后一页，您会看到一个“自动翻译”按钮[/i]",
     "uebanleitung": "说明",
     "txanleitung": "[DF]{LANGSUPPORT}1. 启用 {txgpsauto} 以在使用过程中自动更新您的位置。（{txgpsbutton} 仅一次性确定并保存您当前的位置。）目前不需要做更多设置。— 如需更高精度，请参见 {quotes|0-}{tx_acc|3-}/ {txshowagni-}{quotes|1-}。[~LF][~LF]或者，您可以在文本框中输入地名或地址（如果设备支持），或输入坐标（例如 50.94, 6.96）。第 3 和第 4 项为可选项：大致高度 &bl;m]、黄昏时的大致温度 &bl;°C]。随后启用 {txwelcomescr}。— 当更改基础数据时，{txsunclock-} 会执行一次日计算，根据设备不同可能需要 2[NDASH]30 秒。[~LF][~LF]2. {txshowclock} 会在表盘右上角显示数字时钟。{txuhrsinn} 用于设置时钟是顺时针运行（南向）还是逆时针运行：当改变旋转方向时，位于地平线以下的太阳圆弧将显示在您面前（详见下一页）。",
-    "txmore": "[DF]3. {txnachtmodus} {txlangarr|auto-} 会在日落时自动切换，-6° 至暮光结束，+6° 之前。{txfarben} 用于选择不同的表盘样式。[~LF][~LF]4. {txfullscr} 防止屏幕关闭并切换到全屏模式。{txweathapi} 在时钟上叠加天气预报（需要网络，灰色 = 旧数据）。{txagnihotra} 显示太阳指针的标记以及下一次太阳零点通过的时间和倒计时。Agnihotra 前 6 分钟，显示会放大并显示秒数（⁺ = GPS 当前）。— 如果设置未被应用，请点击表盘右下角的刷新按钮。[~LF][~LF]您可以使用两指缩放表盘（或三击）。移动放大的图像时请缓慢操作，快速滑动将切换到下一页。— 下一页将提供表盘的说明。[DF][DF][DF][b]–– 表盘图例：[/b][DF][DF]天气：当前温度 + 上方为每日数据：降水（χ = 雪）、日照时数、符号（仙人掌 = 干燥），以及可选的星期几（= 明日天气），灰色 = 较旧数据",
+    "txmore": "[DF]3. {txnachtmodus} {txlangarr|auto-} 会在日落时自动切换，-6° 至暮光结束，+6° 之前。{txfarben} 用于选择不同的表盘样式。[~LF][~LF]4. {txfullscr} 防止屏幕关闭并切换到全屏模式。{txweathapi} 在时钟上叠加天气预报（需要网络）。{txagnihotra} 显示太阳指针的标记以及下一次太阳零点通过的时间和倒计时。Agnihotra 前 6 分钟，显示会放大并显示秒数（⁺ = GPS 当前）。— 如果设置未被应用，请点击表盘右下角的刷新按钮。[~LF][~LF]您可以使用两指缩放表盘（或三击）。移动放大的图像时请缓慢操作，快速滑动将切换到下一页。— 下一页将提供表盘的说明。[DF][DF][DF][b]–– 表盘图例：[/b][DF][DF]天气：当前温度 + 上方为每日数据：降水（χ = 雪）、日照时数、符号（仙人掌 = 干燥），以及可选的星期几（= 明日天气），灰色 = 较旧数据",
     "txlegende": "[DF][font=sdata/DejaVuSansMono.ttf]☉[/font] 太阳, [font=sdata/DejaVuSansMono.ttf]●[/font] 月亮（含月相）[~LF][~LF][font=sdata/DejaVuSansMono.ttf]♀[/font] 金星（珍珠色）, [font=sdata/DejaVuSansMono.ttf]♂[/font] 火星（偏红）, [font=sdata/DejaVuSansMono.ttf]♃[/font] 木星（条纹）, [font=sdata/DejaVuSansMono.ttf]♄[/font] 土星（有光环）, [font=sdata/DejaVuSansMono.ttf]☿[/font] 水星（灰色）[~LF][~LF]&bl;s] 天狼星, &bl;k] 南船二, &bl;f] 半人马座α, &bl;a] 大角星, &bl;w] 织女星, &bl;c] 五车二, &bl;r] 参宿七, &bl;p] 南河三, &bl;b] 参宿四, &bl;h] 水委一[DF][DF][DF][DF]",
     "txdata": "[DF]数据",
     "txlocdata": "[DF]您所在地的计算结果与天文年鉴的误差约为 0.0005 角秒³:[DF]",
-    "txobjdata": "– 太阳¹ –[~LF]时间：{sun_clocktm}[~LF]时辰：{sun_temptm}[~LF]光日：{sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]至日：{sun_soli}[~LF]分点：{sun_equi}[~LF][~LF]– 月亮² –[~LF]新月：{moon_new}[~LF]满月：{moon_full}[~LF]月夜：{moon_gordon}[~LF]照明度：{moon_illum}[~LF]大小：{moon_sizep} (85-100){weather_data}[~LF][~LF]– 亮度 –[~LF]金星：{venus_magp} (83-100)[~LF]火星：{mars_magp} (52-100)[~LF]木星：{jupiter_magp} (87-100)[~LF]土星：{saturn_magp} (77-100)[~LF]水星：{merkur_magp} (0-100)[~LF][~LF]¹ 时间：GPS = 已同步 | 时辰：本地不等时（0.0[NDASH]11.9），白天为“ἡ”，夜晚为“ν”。“φ”表示夜更，不等“分钟”（0φ00[NDASH]3φ59） | {lighttime-}: 见下 | 光日与 Agnihotra：今日升[NDASH]落 [明日升]，⁺ = 当前 GPS | ² 满月与新月：时间（距今/之前天数） | 月夜：见下 | ³ 月亮视直径约为 2000 角秒 | ⁴ 天气：日内变化（太阳，进度，降雨，阵风），现在（= 接下来 3 小时）。– 日值：最小…最大…[夜间最低]（χ = 雪）[DF][DF]",
+    "txobjdata": "– 太阳¹ –[~LF]时间: {sun_clocktm}[~LF]时辰: {sun_temptm}[~LF]光照日: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]至日: {sun_soli}[~LF]分点: {sun_equi}[~LF][~LF]– 月亮² –[~LF]新月: {moon_new}[~LF]满月: {moon_full}[~LF]月夜: {moon_gordon}[~LF]照明度: {moon_illum}[~LF]大小: {moon_sizep} (85-100){weather_data}[~LF][~LF]– 亮度 –[~LF]金星: {venus_magp} (83-100)[~LF]火星: {mars_magp} (52-100)[~LF]木星: {jupiter_magp} (87-100)[~LF]土星: {saturn_magp} (77-100)[~LF]水星: {merkur_magp} (0-100)[~LF][~LF]¹ 时间: GPS = 已同步 | 时辰: 当地不等时 (0,0[NDASH]11,9)，白天为“ἡ”，夜晚为“ν”。“φ”为夜更，不等“分钟” (0φ00[NDASH]3φ59) | {lighttime-}: 见下文 | 光照日与阿耆尼火祭: 今日升起[NDASH]落下 [明日升起]，⁺ = 当前 GPS | ² 满月与新月: 时间（距今/之前 天） | 月夜: 见下文 | ³ 月亮直径约 2000 角秒 | ⁴ 天气: 日内变化（太阳、进度、降雨、阵风），现在（= 接下来 3 小时，[font=sdata/DejaVuSansMono.ttf]✝[/font] = 较旧数据）。- 日值: 最低...最高...[夜间最低] (χ = 雪)[DF][DF]",
     "txlegende0": "[b]–– 说明:[/b][~LF][~LF]光之年季将一年分为八个光照增强与减弱的阶段（阶段进度百分比）：1. {solcal_lph|0-} (4.2.–5.5.), 2a. {solcal_lph|1-} (6.5.–20.5.), 2b. {solcal_lph|2-} (21.5.–21.7.), 2c. {solcal_lph|3-} (22.7.–6.8.), 3. {solcal_lph|4-} (7.8.–6.11.), 4a. {solcal_lph|5-} (7.11.–21.11.), 4b. {solcal_lph|6-} (22.11.–19.1.)，以及 4c. {solcal_lph|7-} (20.1.–3.2.)。简写：Φx·y。日期基于天文节点，可能与日历略有偏差。[~LF][~LF]月日期类似于我们的日期，但以夜代日：Μx·y (p/z)，其中 x = 年内的月“月”，y = 月内的夜。由于月月长度不同，z 表示该月的总夜数，p 表示满月之夜。夜晚在日出时结束。[DF][DF][DF]",
     "buttonsolcal": "光照日历",
     "char_vowels": "",
