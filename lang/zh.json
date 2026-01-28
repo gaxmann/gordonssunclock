@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.8.13",
-        "updated": "2026-01-28 18:14:42"
+        "version": "1.8.14",
+        "updated": "2026-01-28 18:27:26"
     },
     "txwelcome": "欢迎",
     "quotes": [
@@ -158,7 +158,7 @@
     "txlegende": "[DF][font=sdata/DejaVuSansMono.ttf]☉[/font] 太阳, [font=sdata/DejaVuSansMono.ttf]●[/font] 月亮（含月相）[~LF][~LF][font=sdata/DejaVuSansMono.ttf]♀[/font] 金星（珍珠色）, [font=sdata/DejaVuSansMono.ttf]♂[/font] 火星（偏红）, [font=sdata/DejaVuSansMono.ttf]♃[/font] 木星（条纹）, [font=sdata/DejaVuSansMono.ttf]♄[/font] 土星（有光环）, [font=sdata/DejaVuSansMono.ttf]☿[/font] 水星（灰色）[~LF][~LF]&bl;s] 天狼星, &bl;k] 南船二, &bl;f] 半人马座α, &bl;a] 大角星, &bl;w] 织女星, &bl;c] 五车二, &bl;r] 参宿七, &bl;p] 南河三, &bl;b] 参宿四, &bl;h] 水委一[DF][DF][DF][DF]",
     "txdata": "[DF]数据",
     "txlocdata": "[DF]您所在地的计算结果与天文年鉴的误差约为 0.0005 角秒³:[DF]",
-    "txobjdata": "– 太阳¹ –[~LF]时间: {sun_clocktm}[~LF]时辰: {sun_temptm}[~LF]光照日: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]至日: {sun_soli}[~LF]分点: {sun_equi}[~LF][~LF]– 月亮² –[~LF]新月: {moon_new}[~LF]满月: {moon_full}[~LF]月夜: {moon_gordon}[~LF]照明度: {moon_illum}[~LF]大小: {moon_sizep} (85-100){weather_data}[~LF][~LF]– 亮度 –[~LF]金星: {venus_magp} (83-100)[~LF]火星: {mars_magp} (52-100)[~LF]木星: {jupiter_magp} (87-100)[~LF]土星: {saturn_magp} (77-100)[~LF]水星: {merkur_magp} (0-100)[~LF][~LF]¹ 时间: GPS = 已同步 | 时辰: 当地不等时 (0,0[NDASH]11,9)，白天为“ἡ”，夜晚为“ν”。“φ”为夜更，不等“分钟” (0φ00[NDASH]3φ59) | {lighttime-}: 见下文 | 光照日与阿耆尼火祭: 今日升起[NDASH]落下 [明日升起]，⁺ = 当前 GPS | ² 满月与新月: 时间（距今/之前 天） | 月夜: 见下文 | ³ 月亮直径约 2000 角秒 | ⁴ 天气: 日内变化（太阳、进度、降雨、阵风），现在（= 接下来 3 小时，[font=sdata/DejaVuSansMono.ttf]✝[/font] = 较旧数据）。- 日值: 最低...最高...[夜间最低] (χ = 雪)[DF][DF]",
+    "txobjdata": "– 太阳¹ –[~LF]时间: {sun_clocktm}[~LF]不等时小时: {sun_temptm}[~LF]光照日: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]至日: {sun_soli}[~LF]分点: {sun_equi}[~LF][~LF]– 月亮² –[~LF]新月: {moon_new}[~LF]满月: {moon_full}[~LF]月夜: {moon_gordon}[~LF]照明度: {moon_illum}[~LF]大小: {moon_sizep} (85-100){weather_data}[~LF][~LF]– 亮度 –[~LF]金星: {venus_magp} (83-100)[~LF]火星: {mars_magp} (52-100)[~LF]木星: {jupiter_magp} (87-100)[~LF]土星: {saturn_magp} (77-100)[~LF]水星: {merkur_magp} (0-100)[~LF][~LF]¹ 时间: GPS = 已同步 | 不等时小时: 当地不等长小时 (0,0[NDASH]11,9)，白天为“ἡ”，夜晚为“ν”。“φ”为夜更，不等“分钟” (0φ00[NDASH]3φ59) | {lighttime-}: 见下文 | 光照日与阿耆尼火祭: 今日升起[NDASH]落下 [明日升起]，⁺ = 当前 GPS | ² 满月与新月: 时间（距今/之前 天） | 月夜: 见下文 | ³ 月亮视直径约 2000 角秒 | ⁴ 天气: 日内变化（太阳、进度、降雨、阵风），现在（= 接下来 3 小时，[font=sdata/DejaVuSansMono.ttf]✝[/font] = 较旧数据）。- 日值: 最低...最高...[夜间最低] (χ = 雪)[DF][DF]",
     "txlegende0": "[b]–– 说明:[/b][~LF][~LF]光之年季将一年分为八个光照增强与减弱的阶段（阶段进度百分比）：1. {solcal_lph|0-} (4.2.–5.5.), 2a. {solcal_lph|1-} (6.5.–20.5.), 2b. {solcal_lph|2-} (21.5.–21.7.), 2c. {solcal_lph|3-} (22.7.–6.8.), 3. {solcal_lph|4-} (7.8.–6.11.), 4a. {solcal_lph|5-} (7.11.–21.11.), 4b. {solcal_lph|6-} (22.11.–19.1.)，以及 4c. {solcal_lph|7-} (20.1.–3.2.)。简写：Φx·y。日期基于天文节点，可能与日历略有偏差。[~LF][~LF]月日期类似于我们的日期，但以夜代日：Μx·y (p/z)，其中 x = 年内的月“月”，y = 月内的夜。由于月月长度不同，z 表示该月的总夜数，p 表示满月之夜。夜晚在日出时结束。[DF][DF][DF]",
     "buttonsolcal": "光照日历",
     "char_vowels": "",
