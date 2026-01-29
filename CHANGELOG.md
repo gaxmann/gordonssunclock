@@ -17,7 +17,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
   - Automatic model/provider selection: high-resolution ICON-D2 in Central Europe, otherwise best-match models via Open-Meteo; alternatively met.no can be selected
 
 ### Changed
-- Refraction temperature ‘standard’ now takes the actual sunrise temperature from the weather forecast. 
+- Refraction temperature ‘standard’ now uses the actual sunrise temperature from the weather forecast
 - Texts updated, privacy policy updated to reflect optional weather functionality (via external provider)
 - Legend changed to proportional font only with symbols in DejaVue
 
