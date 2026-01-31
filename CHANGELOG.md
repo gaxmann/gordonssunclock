@@ -16,14 +16,14 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
   - Automatic model/provider selection: high-resolution ICON-D2 in Central Europe, otherwise best-match models via Open-Meteo; alternatively met.no can be selected
 
 ### Changed
-- Privacy policy updated to document the optional weather provider integration
-- Refraction temperature ‘standard’ now uses the actual sunrise temperature from the weather forecast
-- Texts updated, privacy policy updated to reflect optional weather functionality (via external provider)
-- Legend changed to proportional font only with symbols in DejaVue
+- Privacy policy updated to document the optional weather provider integration #2.67.1
+- Refraction temperature ‘standard’ now uses the actual sunrise temperature from the weather forecast #2.67.2
+- Texts updated, privacy policy updated to reflect optional weather functionality (via external provider) #2.67.1
+- Legend changed to proportional font only with symbols in DejaVue #2.67.1
 
 ### Fixed
-- ValueError: cannot determine region size fixed, TypeError: cannot unpack non-iterable int object fixed
-- Corrections to the API retrieval logic of the weather module (offline error, API error) # 2.67.3
+- ValueError: cannot determine region size fixed, TypeError: cannot unpack non-iterable int object fixed #2.67.2
+- Corrections to the API retrieval logic of the weather module (offline error, API error) #2.67.3
 
 ## [2.66-public] - 2026-01-09 (Ephemeris 440s)
 
