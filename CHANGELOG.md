@@ -40,7 +40,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Accordion navigation added to settings page (got too large). Explanation text updated
 - "Show time" setting added for upcoming V3 (and the problems with the digital clock display)
 - Dial now comes directly from texture instead of PNG, plus sped up draft creation
-- Lang V1.7: New variable logic for the lang file ({solcal_lph|0-}). Updated website code to correctly process and display the new language files.
+- Lang V1.7: New variable logic for the lang file ({solcal_lph|0-}). Updated website code to correctly display the new language files
 
 ### Changed/Removed
 - Short season code on dial removed
