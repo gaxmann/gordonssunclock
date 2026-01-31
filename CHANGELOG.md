@@ -23,7 +23,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Fixed
 - ValueError: cannot determine region size fixed, TypeError: cannot unpack non-iterable int object fixed
-- Corrections to the API retrieval logic of the weather module (offline error, API error)
+- Corrections to the API retrieval logic of the weather module (offline error, API error) # 2.67.3
 
 ## [2.66-public] - 2026-01-09 (Ephemeris 440s)
 
