@@ -7,7 +7,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.67.3] - 2026-01-31 (Weather Overview)
+## [2.67.4] - 2026-02-01 (Weather Overview)
 
 ### Added
 - Optional weather information:
@@ -24,6 +24,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Fixed
 - ValueError: cannot determine region size fixed, TypeError: cannot unpack non-iterable int object fixed #2.67.2
 - Corrections to the API retrieval logic of the weather module (offline error, API error) #2.67.3
+- Weather symbol selection: corrected average sunshine hours calculation for global consistency #2.67.4
 
 ## [2.66-public] - 2026-01-09 (Ephemeris 440s)
 
