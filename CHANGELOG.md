@@ -7,7 +7,12 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.67.4] - 2026-02-02 (Weather Overview)
+## [2.67.5] - 2026-02-03
+
+### Changed
+- Fetch weather data moved to separate worker, option to roll back dial to PNG creation introduced 
+
+## [2.67.4-public] - 2026-02-02 (Weather Overview)
 
 ### Added
 - Optional weather information:
