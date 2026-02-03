@@ -7,7 +7,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.67.5] - 2026-02-03
+## [2.67.5-public] - 2026-02-03
 
 ### Fixed
 - Fetch weather data moved to separate worker and no weather fetch prior to dial creation (to avoid slowdown at resume), option to roll back dial to PNG creation introduced 
