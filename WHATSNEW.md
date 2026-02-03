@@ -1,7 +1,7 @@
 # What is new?
 Short summary of the latest changes. – You'll find the [detailed changelog](./CHANGELOG.md) here.
 
-The full [privacy policy](https://sites.google.com/view/sonnenuhr/startseite) is available here.  
+Here you'll find the full [privacy policy/Datenschutzrichtlinie](https://sites.google.com/view/sonnenuhr/startseite).  
 
 ---
 
