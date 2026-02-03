@@ -1,6 +1,9 @@
 # What is new?
 Short summary of the latest changes. – You'll find the [detailed changelog](./CHANGELOG.md) here.
 
+The full privacy policy is available here:  
+[https://sites.google.com/view/sonnenuhr/startseite](https://sites.google.com/view/sonnenuhr/startseite)
+
 ---
 
 ## [2.67] - 2026-02-02 (Weather overview)
