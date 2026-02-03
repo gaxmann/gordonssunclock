@@ -7,12 +7,12 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.67.5-public] - 2026-02-03
+## [2.67.5] - 2026-02-03
 
 ### Fixed
 - Fetch weather data moved to separate worker and no weather fetch prior to dial creation (to avoid slowdown at resume), option to roll back dial to PNG creation introduced 
 
-## [2.67.4-public] - 2026-02-02 (Weather Overview)
+## [2.67.4] - 2026-02-02 (Weather Overview)
 
 ### Added
 - Optional weather information:
@@ -31,7 +31,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Corrections to the API retrieval logic of the weather module (offline error, API error) #2.67.3
 - Weather symbol selection: corrected average sunshine hours calculation for global consistency #2.67.4
 
-## [2.66-public] - 2026-01-09 (Ephemeris 440s)
+## [2.66] - 2026-01-09 (Ephemeris 440s)
 
 ### Changed
 - Ephemeris changed from de421 (data up to 2008) to de440s (observation data up to 2020, updated planetary masses, improved asteroid and Kuiper belt perturbation models, improved relativistic corrections, refined Earth–Moon dynamics and ICRF3)
@@ -40,7 +40,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Fixed
 - App title changed for Play Store search algorithm
 
-## [2.65.2-public] - 2026-01-02 (Settings update)
+## [2.65.2] - 2026-01-02 (Settings update)
 
 ### Added
 - Accordion navigation added to settings page (got too large). Explanation text updated
@@ -53,7 +53,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Long-run logic changed (to apply hotfix corrections quickly after an update)
 - Legend moved to settings page
 
-## [2.65-public] - 2025-12-16 (Light Seasons)
+## [2.65] - 2025-12-16 (Light Seasons)
 
 ### Added
 - Displays the eight light seasons (4 main + 4 sub-phases), based on the midpoints between the 4 astronomical fixpoints ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
@@ -71,7 +71,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Russian word-separation rules fixed
 - Bug fixes (keyerror 12, 8)
 
-## [2.64-public] - 2025-11-18 (GPS time, Russian language)
+## [2.64] - 2025-11-18 (GPS time, Russian language)
 
 ### Added
 - Displayed time is corrected via GPS (if auto location and Agnihotra are selected). Useful when a device has no network connection to sync system time (or user wants precise timings)
@@ -87,7 +87,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Quotes of the label texts are now copied from the label text ({txgpsauto}, no double translating)
 - Bug fixes (file not found to delete)
 
-## [2.63-public] - 2025-11-07 (Temporal change)
+## [2.63] - 2025-11-07 (Temporal change)
 
 ### Added
 - Partially-supported languages added, where only some parts of the app (UI) are translated (since maintaining multiple languages is a lot of work): adds automatic prompt in text about partial support
@@ -105,18 +105,18 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Rotation of the moon fixed: moon_wobble, field_rotation
 - Bug fixes (missing daylight period data, better error_report)
  
-## [2.62-public] - 2025-11-01
+## [2.62] - 2025-11-01
 
 ### Fixed
 - Double Image.open error
 
-## [2.61-public] - 2025-11-01
+## [2.61] - 2025-11-01
 
 ### Fixed
 - Code optimised (img.copy, LF token changed, because of wdiff), a bit faster now
 - Bug fixes (icon[2], 1x location changes revoked)
 
-## [2.60] - 2025-10-31 (Temporal hours)
+## [2.60-internal] - 2025-10-31 (Temporal hours)
 
 ### Added
 - Time display in unequal, temporal hours added (mistakenly from 1.0-12.9; text positions redesigned, because of changes in V3)
@@ -128,7 +128,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Texts updated
 - Bug fixes (keyerror)
 
-## [2.59-public] - 2025-10-21
+## [2.59] - 2025-10-21
 
 ### Fixed
 - Font size bug (since 2.57) corrected
@@ -137,7 +137,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Changed
 - Navigation button on last page greyed out
 
-## [2.57/8] - 2025-10-20
+## [2.57/8-internal] - 2025-10-20
 
 ### Added
 - Changes from V3 incorporated to give both branches the same code basis
@@ -147,7 +147,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Copyright file polished
 - Page navigation buttons rearranged
 
-## [2.56-public] - 2025-10-13 (Api cleanup)
+## [2.56] - 2025-10-13 (Api cleanup)
 
 ### Added
 - Custom version_code generation (to be able to revert back to api 21)
@@ -157,18 +157,18 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Settings page restructured (because swiping between pages kept changing settings)
 - Reverted back to api 21-35 (Android 5+)
 
-## [2.54-public] - 2025-10-08
+## [2.54] - 2025-10-08
 
 ### Fixed
 - Android 15+ bars fixed (finally, since 2025-07-03)
 - KeyError font10
 
-> ## [2.53-android5] - 2025-10-08 (Special legacy version)
+> ## [2.53-android5-internal] - 2025-10-08 (Special legacy version)
 > 
 > ### Changed
 > - Special build (not for Play Store) for api 21-34 ([Android 5+](https://github.com/gaxmann/suhr/releases/tag/v2.xxx)) due to the unavoidable, upcoming Android 7+ requirement 
 
-## [2.52-public] - 2025-10-06
+## [2.52] - 2025-10-06
 
 ### Changed
 - Clickable "Update available" message shown on dial for devices installed via apk (checked quarterly)
@@ -176,24 +176,24 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Fixed
 - no attribute clock_screen
 
-## [2.51-public] - 2025-10-04
+## [2.51] - 2025-10-04
 
 ### Changed
 - Google doesn't add "com.android.vending.CHECK_LICENSE" any more (alternative store work now, e.g. Aurora, Apkpure)
 - Calculation of dial creation time improved
 - Size of saturn increased
 
-## [2.50-public] - 2025-10-02/3
+## [2.50] - 2025-10-02/3
 
 ### Fixed
 - GrapheneOS (app dir not found)
 
-## [2.49-public] - 2025-09-28
+## [2.49] - 2025-09-28
 
 ### Fixed
 - Location string on dial fixed
 
-## [2.48-public] - 2025-09-26
+## [2.48] - 2025-09-26
 
 ### Added
 - Calculates whether the sun moves across the south or north (and adjusts dial accordingly)
@@ -202,25 +202,25 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Android 15+ max altitude corrected for bars
 - Line spacing on dial fixed
 
-## [2.47-public] - 2025-09-20
+## [2.47] - 2025-09-20
 
 ### Changed
 - Size of bar corrected to dpi
 
-## [2.46-public] - 2025-09-17 (Bar handling)
+## [2.46] - 2025-09-17 (Bar handling)
 
 ### Changed
 - Temporary error corrections: bars hid content on Android 15+
 - Moon image moved to design dir
 
-## [2.45-public] - 2025-09-14
+## [2.45] - 2025-09-14
 
 ### Changed
 - Design Telescope: star symbols smaller
 - Error corrections: Agnihotra is None
 - Turned moon image 2°
 
-## [2.44-public] - 2025-09-06
+## [2.44] - 2025-09-06
 
 ### Changed
 - Moon shadow 1 pixel too big,
@@ -231,7 +231,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Fixed
 - Errors in text and translation corrected
 
-## [2.43-public] - 2025-09-01 
+## [2.43] - 2025-09-01 
 
 ### Fixed
 - Error corrections (update message didnt go away)
@@ -241,28 +241,28 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Update text is now clickable (leads to Playstore)
 - Pages rearranged
 
-## [2.42-public] - 2025-08-29 (Update prompt) 
+## [2.42] - 2025-08-29 (Update prompt) 
 
 ### Fixed
 - Error corrections (update avail. and error handling)
 
-## [2.41] - 2025-08-25 
+## [2.41-internal] - 2025-08-25 
 
 ### Changed
 - Display "Update available" on dial on devices that run 24/7 (checks once a week)
 
-## [2.40-public] - 2025-08-21
+## [2.40] - 2025-08-21
 
 ### Fixed
 - Fixed hour figures were printed twice in NZ,
 - Popup global error fixed, 
 
-## [2.39-public] - 2025-08-10 (Smaller Database)
+## [2.39] - 2025-08-10 (Smaller Database)
 
 ### Changed
 - Moon border improved
 
-## [2.38] - 2025-08-09
+## [2.38-internal] - 2025-08-09
 
 ### Changed
 - Planet database reduced (til 2040), 
@@ -272,17 +272,17 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Agnihotra line on dial disappeared after midnight,
 - Timezonefinder error,
 
-## [2.37-public] - 2025-08-06 (Nicer moon)
+## [2.37] - 2025-08-06 (Nicer moon)
 
 ### Fixed
 - Window error fixed 
 
-## [2.36] - 2025-08-05 
+## [2.36-internal] - 2025-08-05 
 
 ### Changed
 - Design Telescope: moon image improved 
 
-## [2.35-public] - 2025-07-30 (Better zoom)
+## [2.35] - 2025-07-30 (Better zoom)
 
 ### Fixed
 - Location error on Honor fixed,
@@ -297,26 +297,26 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Text creation on dial sped up
 - Error corrections: timezonefinder, OSM location
  
-## [2.33-public] - 2025-07-22 (Atmospheric refraction)
+## [2.33] - 2025-07-22 (Atmospheric refraction)
 
 ### Fixed
 - Android 7-12 "1x Location" button fixed
 
-## [2.32] - 2025-07-21
+## [2.32-internal] - 2025-07-21
 
 ### Added
 - Button "1x location" added
 - Popup support added
 - On error report show return text
   
-## [2.31] - 2025-07-20
+## [2.31-internal] - 2025-07-20
 
 ### Changed
 - Altitude and temperature added to location
 - standard design now is Telescope
 - Errors fixed
 
-## [2.30] - 2025-07-19
+## [2.30-internal] - 2025-07-19
 
 ### Changed
 - location update improved,
@@ -324,7 +324,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - "Display Agnihotra" use GPS instead of network for more location accuracy
 - Api 23-35 (Android 6+)
 
-## [2.29] - 2025-07-18
+## [2.29-internal] - 2025-07-18
 
 ### Fixed
 - Dial wasnt properly deleted before recreation, 
@@ -333,14 +333,14 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - White window fix Window.update_viewport,
 - Improved location request, 
 
-## [2.27/28] - 2025-07-17
+## [2.27/28-internal] - 2025-07-17
 
 ### Changed
 - Painting of dial sped up (only one file),
 - Update button also creates new background img,
 - Location can now also be retrieved from GPS module 
 
-## [2.26] - 2025-07-15
+## [2.26-internal] - 2025-07-15
 
 ### Added
 - Atmospheric refraction activated, 
@@ -353,12 +353,12 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Update button now also retrieves GPS (if checked),
 - Api 24-35 (Android 7+)
 
-## [2.25-public] - 2025-07-11 (Agnihotra times)
+## [2.25] - 2025-07-11 (Agnihotra times)
 
 ### Fixed
 - Key error fixed,
 
-## [2.24] - 2025-07-11
+## [2.24-internal] - 2025-07-11
 
 ### Fixed
 - Error with Clock.schedule_once fixed (important!),
@@ -373,13 +373,13 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Texts updated
 - Agnihotra calculation accelerated
 
-## [2.23] - 2025-07-08
+## [2.23-internal] - 2025-07-08
 
 ### Added
 - Dropdown lists now also change language
 - Sky image now zoomable
 
-## [2.22] - 2025-07-06
+## [2.22-internal] - 2025-07-06
 
 ### Fixed
 - Time zone could not be changed manually
@@ -392,12 +392,12 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Daylight info was replaced by Agnihotra time
 - Chinese date formatting added
 
-## [2.21-public] - 2025-07-04 (Chinese language)
+## [2.21] - 2025-07-04 (Chinese language)
 
 ### Fixed
 - Bad "Unknown language" error fixed(!)
 
-## [2.20] - 2025-07-04
+## [2.20-internal] - 2025-07-04
 
 ### Fixed
 - 'NoneType' object has no attribute 'width' fixed,
@@ -410,7 +410,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Changed
 - Navigation buttons changed,
 
-## [2.19] - 2025-07-03
+## [2.19-internal] - 2025-07-03
 
 ### Added
 - Chinese added,
@@ -423,7 +423,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Upgraded to Android api 35 (21-35)
 - Adjusted LocationManager
 
-## [2.17/18-public] - 2025-06-29 (Telescope design)
+## [2.17/18] - 2025-06-29 (Telescope design)
 
 ### Added
 - Time of past new moon displayed
@@ -433,7 +433,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Telescope moon shadow brightened 
 - Below-horizon area in telescope view colored 
 
-## [2.16] - 2025-06-26
+## [2.16-internal] - 2025-06-26
 
 ### Added
 - French added
@@ -443,7 +443,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Size ratio in telescope changed
 - Darker gray for below-horizon area in telescope
 
-## [2.15-public] - 2025-06-24 (Initial release)
+## [2.15] - 2025-06-24 (Initial release)
 
 ### Added/Removed
 - Designs cleaned up (added Telescope in 'de', removed test designs)
@@ -451,7 +451,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Fixed
 - Time zone might not have been saved
 
-## [2.14] - 2025-06-23
+## [2.14-testing] - 2025-06-23
 
 ### Added
 - Design selector added (with test designs)
@@ -464,7 +464,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Fixed
 - Fixed occasional error when saving settings
 
-## [2.13] - 2025-06-18
+## [2.13-testing] - 2025-06-18
 
 ### Added
 - Mercury added
@@ -477,7 +477,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Removed
 - I-SS removed 
 
-## [2.12] - 2025-06-16
+## [2.12-testing] - 2025-06-16
 
 ### Added
 - Added option "Draw objects larger"
@@ -488,7 +488,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Faster redrawing of dial with same coordinates
 - Accelerated location queries (caching)
 
-## [2.11] - 2025-06-14
+## [2.11-testing] - 2025-06-14
 
 ### Added
 - Added "More details" section
@@ -496,7 +496,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Changed
 - Split text across three pages due to rendering issues
 
-## [2.10] - 2025-06-12
+## [2.10-internal] - 2025-06-12
 
 ### Changed
 - Preliminary sketch even faster on slow devices
@@ -504,13 +504,13 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Fixed
 - GPS note font corrected
 
-## [2.9] - 2025-06-11
+## [2.9-testing] - 2025-06-11
 
 ### Fixed
 - Help was not rendered
 - Local sun data deleted after update
 
-## [2.8] - 2025-06-11
+## [2.8-testing] - 2025-06-11
 
 ### Added
 - Now starts faster (shows preview until all calculations are done)
@@ -522,7 +522,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Fixed
 - Moon structure was 1 pixel too small
 
-## [2.7] - 2025-06-09
+## [2.7-testing] - 2025-06-09
 
 ### Changed
 - "More margin" now also moves texts
@@ -532,13 +532,13 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Moon tick marks were partly flipped
 - Missing digital time corrected
 
-## [2.6] - 2025-06-08
+## [2.6-testing] - 2025-06-08
 
 ### Fixed
 - "More margin" now works at startup
 - Moon shadow was 1 pixel too small
 
-## [2.5] - 2025-06-07
+## [2.5-testing] - 2025-06-07
 
 ### Added
 - Added "View direction" setting for fixed direction
@@ -547,7 +547,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Changed
 - Texts updated
 
-## [2.4] - 2025-06-06
+## [2.4-testing] - 2025-06-06
 
 ### Changed
 - Texts updated
@@ -555,7 +555,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Fixed
 - Moon structure 1 pixel too large
 
-## [2.3] - 2025-06-05
+## [2.3-testing] - 2025-06-05
 
 ### Changed
 - Improved left-right swipe detection
@@ -566,7 +566,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Fixed
 - Settings were overwritten during update
 
-## [2.2] - 2025-06-04
+## [2.2-testing] - 2025-06-04
 
 ### Changed
 - Improved text formatting
@@ -574,7 +574,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Fixed
 - Color scheme flickered between day and night
 
-## [2.1] - 2025-06-03
+## [2.1-testing] - 2025-06-03
 
 ### Added
 - Added OSM place search for GPS coordinates (only for newer machines)
@@ -586,7 +586,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Fixed
 - Auto-GPS settings did not save
 
-## [2.0] - 2025-06-01
+## [2.0-testing] - 2025-06-01
 
 ### Changed
 - First release of fully functioning Android version (closed testing)
@@ -623,7 +623,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 V3 and V2 share the same source code (compare features by release date or ≙). Detailed descriptions of features can be found in the corresponding V2 versions above. *V3 means: api 24-35 (Android 7+), arm64-v8a only, 16 kB page memory*
 
-## [3.4 ≙ 2.67] 
+## [3.4 ≙ 2.67.3] 
 
 ### Added
 - Optional weather view with clear, icon-based daily outlook. Reduced to essential information for quick visual understanding
@@ -654,5 +654,3 @@ V3 and V2 share the same source code (compare features by release date or ≙). 
 - Navigation and status bars now transparent on Android 15+
 - Background calculations take longer (25%), UI feels faster
 - Api 24-35 (Android 7+) due to new numpy version, arm64-v8a only, 16 kB page memory  
-
-
