@@ -98,8 +98,8 @@ This project is proprietary (which may change in the future). See `design/COPYRI
 
 ## Changelogs, Wiki
 
-- [Compact changelog](./WHATSNEW.md)
-- [Detailed changelog](./CHANGELOG.md)
+- [Compact WhatsNew](./WHATSNEW.md)
+- [Detailed Changelog](./CHANGELOG.md)
 
 ---
 
