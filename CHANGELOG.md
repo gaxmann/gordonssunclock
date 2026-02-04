@@ -645,17 +645,11 @@ V3 and V2 share the same source code (compare features by release date or ≙). 
 - Time display in unequal, temporal hours
 - GPS time correction for Agnihotra (“+” = current GPS)
 - Russian language added, moon shadow more realistic
-
-## [3.1] - 2025-10-28
-
-### Added
 - V2 and V3 now share the same code
-- Faster background calculations (now nearly matches V2; interesting)
-- New positions for text on dial (if bars are transparent)
 
 ## [3.0] - 2025-10-12 (Transparent bars)
 
 ### Added
 - Navigation and status bars now transparent on Android 15+
-- Background calculations take longer (25%), UI feels faster
+- Calculations take a bit longer, UI feels faster
 - Api 24-35 (Android 7+) due to new numpy version, arm64-v8a only, 16 kB page memory  
