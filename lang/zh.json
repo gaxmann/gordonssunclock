@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.8.17",
-        "updated": "2026-02-01 15:31:29"
+        "version": "1.8.18",
+        "updated": "2026-02-04 11:57:14"
     },
     "txwelcome": "欢迎",
     "quotes": [
@@ -176,9 +176,9 @@
     "txanleitung2d": "[DF][DF][b]–– 天气：[/b][~LF][~LF]左下角可显示本地天气预报：显示当前温度以及当天的降水量和日照时数。当天的主要特征还通过符号表示：晴朗、多阳光、干燥、不确定、下雨、大雨、下雪、无风、有风、风暴。– 雨的符号表示当天确实以降雨为主（6[NDASH]18 时），而非零星小雨。没有符号表示表示当天没有明显的天气特征。[~LF][~LF][~LF][b]–– 历史：[/b][~LF][~LF]{txgordonssunclock} 是二十多年时间研究的成果。最初是一款机械有机时钟，采用 24 小时表盘，并按月份显示日出与日落时间。由此发展出{txsunclock-}的概念，先是可行性研究和 ePaper 挂钟，随后加入了天气显示和 GPS。对位置灵活版本的设想最终形成了这款 Android 应用。[~LF][~LF]本项目的目标，是一种以太阳运行和自然昼夜、年度周期为导向的时间呈现方式——让人重新连接自然，以及我们自身的内在、昼夜节律时间。祝您使用愉快！[DF][DF][DF]",
     "txabout": "[DF]信息",
     "txanleitungprg": "[DF]Gordon-太阳时钟[~LF]版本 [VERSIONNUM][~LF]Gordon Axmann[~LF]版权 2019-[VERSIONYEAR]",
-    "txanleitung3": "[DF]本软件是一个免费的私人项目。它经过多年的开发和维护。[DF][DF]",
-    "txchangelog": "有什么新内容？",
-    "txanleitung4": "[DF]原则上不会收集或有意传输任何个人数据。一切都保留在您的设备上。正常使用不需要互联网连接。例外情况：(1) 当发生软件错误时，如果存在互联网连接，会发送一份高度匿名化的错误报告，以帮助改进 {txsunclock-} 的稳定性。(2) 天气显示（默认启用）会从外部服务商获取天气数据。如果您启用 {txgpsauto-}，将使用您的大致位置（约 1 公里精度，详情请参见隐私政策）。您可以随时关闭天气显示。[~LF][~LF]致谢：Brandon Rhodes（Skyfield）、Rolf、Greg Miller 以及所有测试人员。天体图像由以下机构提供：NASA/ SOHO（太阳和日光层观测站）、ESA/ 哈勃太空望远镜，以及 NASA/ JPL-Caltech（公有领域）。天气数据（可选）：Open-Meteo.com（CC BY 4.0），MET Norway/ Meteorologisk institutt（CC BY 4.0）。所有使用的第三方材料及其许可证列表可在文件 \"design/ COPYRIGHT.txt\" 中找到。[~LF][~LF]{txsunclock} 免费提供给您。请尽情使用。如果您希望支持我的工作，可在此找到我的网站：[DF][DF]",
+    "txanleitung3": "[DF]本软件是一个免费的私人项目。请按其原样使用。原则上不收集或传输任何个人数据。运行不需要互联网连接。有关可选功能（天气显示、地名解析）、错误报告和更新检查的详细信息，请参阅隐私政策。[DF][DF]",
+    "txchangelog": "更新内容",
+    "txanleitung4": "[DF]如果您发现了错误，我很乐意进行修正。为此，我需要错误发生的时间和位置的说明（如有可能请附带屏幕截图）。如果能在错误发生后尽快提供下方日志的屏幕截图，也会非常有帮助（电子邮件联系：[CONTACTSUPPORT]）。[~LF][~LF]致谢：Brandon Rhodes（Skyfield）、Rolf、Greg Miller 以及所有测试人员。图片：NASA/ SOHO、ESA/ Hubble、NASA/ JPL-Caltech（公有领域）。天气数据：Open-Meteo.com（CC BY 4.0）、MET Norway（CC BY 4.0）。详情：\"design/ COPYRIGHT.txt\"。[~LF][~LF]{txsunclock} 免费提供。请尽情使用。如果您希望支持我的工作，可在此找到我的网站：[DF][DF]",
     "txkaffee": "访问网站",
     "solcalmonthsxx": [
         "新二月%天",

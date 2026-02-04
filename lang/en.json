@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.8.17",
-        "updated": "2026-02-01 15:31:29"
+        "version": "1.8.18",
+        "updated": "2026-02-04 11:57:14"
     },
     "txwelcome": "Welcome",
     "quotes": [
@@ -240,9 +240,9 @@
     "txanleitung2d": "[DF][DF][b]–– Weather:[/b][~LF][~LF]At the lower left a local weather forecast can be displayed: it shows the current temperature as well as daily precipitation and sunshine hours. The characteristics of the day are additionally shown using symbols: sunny, lots of sun, dry, uncertain, rain, heavy rain, snow, calm, windy, storm. – A rain symbol stands for an actually rainy day (6[NDASH]18 h), not just occasional drops. No symbol means an unremarkable weather situation.[~LF][~LF][~LF][b]–– History:[/b][~LF][~LF]{txgordonssunclock} is the result of more than twenty years of engagement with time representation. The starting point was a mechanical organ clock with a 24 h dial and month-dependent display of sunrise and sunset. From this developed the concept of a {txsunclock-}, first as a feasibility study and ePaper wall clock; later weather display and GPS were added. The idea of a location-flexible version led to this Android app.[~LF][~LF]The goal of this development is a representation of time oriented to the course of the sun and the natural daily and annual cycles – as a reconnection of humans to nature and to our inner, circadian time. Enjoy exploring and discovering![DF][DF][DF]",
     "txabout": "[DF]Info",
     "txanleitungprg": "[DF]Gordon's Sun Clock[~LF]Version [VERSIONNUM][~LF]Gordon Axmann[~LF]Copyright 2019-[VERSIONYEAR]",
-    "txanleitung3": "[DF]This software is a free, private project. It has been developed and maintained over many years.[DF][DF]",
+    "txanleitung3": "[DF]This software is a free, private project. Please use it as it is. In principle, no personal data is collected or transmitted. No internet connection is required for operation. Details on optional features (weather display, place name resolution), error reports, and update checks can be found in the privacy policy.[DF][DF]",
     "txchangelog": "What’s new?",
-    "txanleitung4": "[DF]As a general rule, no personal data are collected or deliberately transmitted. Everything remains on your device. An internet connection is not required for normal operation. Exceptions: (1) In the event of a software error, a strongly anonymised error report is sent – provided you have an internet connection – to help improve the stability of {txsunclock-}. (2) The weather display (enabled by default) retrieves weather data from an external provider. If you enable {txgpsauto-}, your approximate location (about 1 km accuracy; see privacy policy for details) is used for this purpose. You can disable the weather display at any time.[~LF][~LF]Thanks to: Brandon Rhodes (Skyfield), Rolf, Greg Miller and all testers. Images of celestial bodies provided by: NASA/ SOHO (Solar and Heliospheric Observatory), ESA/ Hubble Space Telescope and NASA/ JPL-Caltech (public domain). Weather data (optional): Open-Meteo.com (CC BY 4.0), MET Norway/ Meteorologisk institutt (CC BY 4.0). A list of all third-party materials and licenses used can be found in the file \"design/ COPYRIGHT.txt\".[~LF][~LF]{txsunclock} is provided free of charge. Simply enjoy it. If you would like to support my work, you can find my website here:[DF][DF]",
+    "txanleitung4": "[DF]If you have found an error, I will be happy to fix it. I need a description of where and when the error occurred (possibly with a screenshot). A screenshot of the log shown below, taken as soon as possible after the error occurred, is also helpful (contact by email: [CONTACTSUPPORT]).[~LF][~LF]Thanks to: Brandon Rhodes (Skyfield), Rolf, Greg Miller, and all testers. Images: NASA/ SOHO, ESA/ Hubble, NASA/ JPL-Caltech (public domain). Weather data: Open-Meteo.com (CC BY 4.0), MET Norway (CC BY 4.0). Details: \"design/ COPYRIGHT.txt\".[~LF][~LF]{txsunclock} is provided free of charge. Simply enjoy using it. If you would like to support my work, you can find my website here:[DF][DF]",
     "txkaffee": "Visit website",
     "solcalmonthsxx": [
         "% New Febru",
