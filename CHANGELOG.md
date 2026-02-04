@@ -7,7 +7,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.67.6] - 2026-02-xx
+## [2.67.6-public] - 2026-02-04
 
 ### Fixed
 - Still problems with slow recreation of dial after restart (start weather only after hires dial creation)
