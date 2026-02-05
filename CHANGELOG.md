@@ -10,7 +10,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.67.6-public] - 2026-02-04
 
 ### Fixed
-- Still problems with slow recreation of dial after restart (begin weather fetch only after hires dial creation)
+- Start weather fetch only after hires dial creation (to address slow recreation of dial after restart)
 
 ## [2.67.5-public] - 2026-02-03
 
