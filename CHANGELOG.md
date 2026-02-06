@@ -7,7 +7,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.68] - 2026-02-06
+## [2.68] - 2026-02-06 (Better Lightyear)
 
 ### Added
 - Light Year Calendar logic has been moved into its own module
