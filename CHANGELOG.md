@@ -9,10 +9,13 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ## [2.68] - 2026-02-06
 
-### Changed
+### Added
 - Light Year Calendar logic has been moved into its own module
 - Light Year Season boundaries are now computed from the Sun’s apparent ecliptic longitude (angle-based, PH0…PH8) instead of time-based midpoints between astronomical fixpoints. This makes the phase progression physically consistent and better aligned with day-length changes over the year, while keeping the existing fixpoints and local-midnight anchoring via PH0
 - Structurally, this approach is interestingly compatible with the Jieqi system, which also defines seasonal markers as fixed angular steps of the Sun’s ecliptic longitude
+
+### Changed
+- Explanatory texts on the data page for Light Year Seasons now include the exact, year-specific date boundaries as astronomically calculated
 
 ## [2.67.6-public] - 2026-02-04
 
