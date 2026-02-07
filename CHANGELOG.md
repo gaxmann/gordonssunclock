@@ -7,7 +7,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.68] - 2026-02-06 (Better Lightyear)
+## [2.68] - 2026-02-xx (Better Lightyear)
 
 ### Added
 - Light Year Calendar logic has been moved into its own module
@@ -15,6 +15,10 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - Explanatory texts on the data page for Light Year Seasons now include the exact, year-specific date boundaries as astronomically calculated
+
+### Fixed
+- Dial rendering is fast again: the quick first-pass dial now reliably displays instead of sometimes not appearing (preventing an unnecessary wait for the HiRes rerun)
+- “1× locate” button works again
 
 ## [2.67.6-public] - 2026-02-04
 
