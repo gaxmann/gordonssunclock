@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.8.19",
-        "updated": "2026-02-08 11:54:30"
+        "version": "1.8.21",
+        "updated": "2026-02-08 20:27:41"
     },
     "txwelcome": "Willkommen",
     "quotes": [
@@ -146,7 +146,7 @@
     "txdata": "[DF]Daten",
     "txlocdata": "[DF]Berechnungen für Ihren Standort stimmen mit dem astronomischen Almanach auf ca. 0,0005 Bogensekunden überein³:[DF]",
     "txobjdata": "– Sonne¹ –[~LF]Uhrzeit: {sun_clocktm}[~LF]Temporalstunde: {sun_temptm}[~LF]Lichttag: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]Sonnenwende: {sun_soli}[~LF]Nachtgleiche: {sun_equi}[~LF][~LF]– Mond² –[~LF]Neumond: {moon_new}[~LF]Vollmond: {moon_full}[~LF]Mondnacht: {moon_gordon}[~LF]Beleuchtet: {moon_illum}[~LF]Größe: {moon_sizep} (85-100){weather_data}[~LF][~LF]– Helligkeit –[~LF]Venus: {venus_magp} (83-100)[~LF]Mars: {mars_magp} (52-100)[~LF]Jupiter: {jupiter_magp} (87-100)[~LF]Saturn: {saturn_magp} (77-100)[~LF]Merkur: {merkur_magp} (0-100)[~LF][~LF]¹ Uhrzeit: GPS = synchronisiert | Temporalstunde: lokale, ungleiche Stunde (0,0[NDASH]11,9) „ἡ“ des Tages oder „ν“ der Nacht. „φ“ Nachtwache mit ungleichen „Minuten“ (0φ00[NDASH]3φ59) | {lighttime-}: s.u. | Lichttag & Agnihotra: Aufgang[NDASH]Untergang heute [Aufgang morgen], ⁺ = aktuelles GPS | ² Voll- und Neumond: Zeitpunkt (in/vor Tagen) | Mondnacht: s.u. | ³ Mond ist ca. 2000 Bogensek. groß | ⁴ Wetter: Tagesverlauf (Sonne, Fortschritt, Regen, Böen), Jetzt (= nächste 3 Stunden, [font=sdata/DejaVuSansMono.ttf]✝[/font] = ältere Daten). | Tageswerte: min...max...[Nachtmin] (χ = Schnee)[DF][DF]",
-    "txlegende0": "[b]–– Erklärungen:[/b][~LF][~LF]Monddatum funktioniert wie unser Datum, aber mit Nächten statt Tagen: Μx·y (p/z) mit x = Mond„monat“ des Jahrs, y = Nacht des Mondmonats. Da Mondmonate verschieden lang sind, gibt z die Gesamtnächte des Mondmonats an, p die Vollmondnacht. Die Nacht endet bei Sonnenaufgang.[~LF][~LF]Die Lichtjahreszeit teilt das Jahr in acht Phasen zunehmenden und abnehmenden Lichts (%-Fortschritt der Phase): 1. {solcal_lph|0-} ({solcal_dat0}, s.a. Imbolc), 2a. {solcal_lph|1-} ({solcal_dat1}, s.a. Lixia), 2b. {solcal_lph|2-} ({solcal_dat2}), 2c. {solcal_lph|3-} ({solcal_dat3}), 3. {solcal_lph|4-} ({solcal_dat4}, s.a. Lughnasadh), 4a. {solcal_lph|5-} ({solcal_dat5}, s.a. Lidong), 4b. {solcal_lph|6-} ({solcal_dat6}) und 4c. {solcal_lph|7-} ({solcal_dat7}). Kurzform: Φx·y. Daten werden astronomisch bestimmt und verschieben sich von Jahr zu Jahr.[DF][DF][DF]",
+    "txlegende0": "[b]–– Erklärungen:[/b][~LF][~LF]Monddatum funktioniert wie unser Datum, aber mit Nächten statt Tagen: Μx·y (p/z) mit x = Mond„monat“ des Jahrs, y = Nacht des Mondmonats. Da Mondmonate verschieden lang sind, gibt z die Gesamtnächte des Mondmonats an, p die Vollmondnacht. Die Nacht endet bei Sonnenaufgang.[~LF][~LF]Die Lichtjahreszeit teilt das Jahr in acht Phasen zunehmenden und abnehmenden Lichts (%-Fortschritt der Phase): 1. {solcal_lph|0-} ({solcal_dat0}, s.a. Imbolc), 2a. {solcal_lph|1-} ({solcal_dat1}, s.a. Lixia), 2b. {solcal_lph|2-} ({solcal_dat2}), 2c. {solcal_lph|3-} ({solcal_dat3}), 3. {solcal_lph|4-} ({solcal_dat4}, s.a. Lughnasadh), 4a. {solcal_lph|5-} ({solcal_dat5}, s.a. Lidong), 4b. {solcal_lph|6-} ({solcal_dat6}) und 4c. {solcal_lph|7-} ({solcal_dat7}). Kurzform: Ϟx·y. Daten werden astronomisch bestimmt und verschieben sich von Jahr zu Jahr.[DF][DF][DF]",
     "buttonsolcal": "Lichtkalender",
     "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
     "char_consonants": "bcdfghjklmnpqrstvwxyzñÑ",

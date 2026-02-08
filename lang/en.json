@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.8.19",
-        "updated": "2026-02-08 11:54:30"
+        "version": "1.8.21",
+        "updated": "2026-02-08 20:27:41"
     },
     "txwelcome": "Welcome",
     "quotes": [
@@ -152,7 +152,7 @@
     "txdata": "[DF]Data",
     "txlocdata": "[DF]Calculations for your location match the astronomical almanac to approx. 0.0005 arcseconds³:[DF]",
     "txobjdata": "– Sun¹ –[~LF]Clock time: {sun_clocktm}[~LF]Temporal hour: {sun_temptm}[~LF]Daylight: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]Solstice: {sun_soli}[~LF]Equinox: {sun_equi}[~LF][~LF]– Moon² –[~LF]New Moon: {moon_new}[~LF]Full Moon: {moon_full}[~LF]Moon night: {moon_gordon}[~LF]Illuminated: {moon_illum}[~LF]Size: {moon_sizep} (85-100){weather_data}[~LF][~LF]– Brightness –[~LF]Venus: {venus_magp} (83-100)[~LF]Mars: {mars_magp} (52-100)[~LF]Jupiter: {jupiter_magp} (87-100)[~LF]Saturn: {saturn_magp} (77-100)[~LF]Mercury: {merkur_magp} (0-100)[~LF][~LF]¹ Clock time: GPS = synchronised | Temporal hour: local, unequal hour (0,0[NDASH]11,9) “ἡ” of day or “ν” of night. “φ” night watch with unequal “minutes” (0φ00[NDASH]3φ59) | {lighttime-}: see below | Light day & Agnihotra: rise[NDASH]set today [rise tomorrow], ⁺ = current GPS | ² Full and New Moon: moment (in/ago days) | Moon night: see below | ³ Moon is approx. 2000 arcsec in size | ⁴ Weather: daily course (Sun, progress, rain, gusts), now (= next 3 hours, [font=sdata/DejaVuSansMono.ttf]✝[/font] = older data). | Daily values: min...max...[night min] (χ = snow)[DF][DF]",
-    "txlegende0": "[b]–– Explanations:[/b][~LF][~LF]The lunar date works like our calendar date, but with nights instead of days: Μx·y (p/z) with x = lunar “month” of the year, y = night of the lunar month. As lunar months differ in length, z gives the total nights of the lunar month, p the full-moon night. The night ends at sunrise.[~LF][~LF]The light-year season divides the year into eight phases of increasing and decreasing light (% progress of the phase): 1. {solcal_lph|0-} ({solcal_dat0}, see also Imbolc), 2a. {solcal_lph|1-} ({solcal_dat1}, see also Lixia), 2b. {solcal_lph|2-} ({solcal_dat2}), 2c. {solcal_lph|3-} ({solcal_dat3}), 3. {solcal_lph|4-} ({solcal_dat4}, see also Lughnasadh), 4a. {solcal_lph|5-} ({solcal_dat5}, see also Lidong), 4b. {solcal_lph|6-} ({solcal_dat6}) and 4c. {solcal_lph|7-} ({solcal_dat7}). Short form: Φx·y. Dates are determined astronomically and shift from year to year.[DF][DF][DF]",
+    "txlegende0": "[b]–– Explanations:[/b][~LF][~LF]The lunar date works like our calendar date, but with nights instead of days: Μx·y (p/z) with x = lunar “month” of the year, y = night of the lunar month. As lunar months differ in length, z gives the total nights of the lunar month, p the full-moon night. The night ends at sunrise.[~LF][~LF]The light-year season divides the year into eight phases of increasing and decreasing light (% progress of the phase): 1. {solcal_lph|0-} ({solcal_dat0}, see also Imbolc), 2a. {solcal_lph|1-} ({solcal_dat1}, see also Lixia), 2b. {solcal_lph|2-} ({solcal_dat2}), 2c. {solcal_lph|3-} ({solcal_dat3}), 3. {solcal_lph|4-} ({solcal_dat4}, see also Lughnasadh), 4a. {solcal_lph|5-} ({solcal_dat5}, see also Lidong), 4b. {solcal_lph|6-} ({solcal_dat6}) and 4c. {solcal_lph|7-} ({solcal_dat7}). Short form: Ϟx·y. Dates are determined astronomically and shift from year to year.[DF][DF][DF]",
     "buttonsolcal": "Light calendar",
     "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
     "char_consonants": "bcdfghjklmnpqrstvwxyzñÑ",

@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.8.19",
-        "updated": "2026-02-08 11:54:30"
+        "version": "1.8.21",
+        "updated": "2026-02-08 20:27:41"
     },
     "txwelcome": "欢迎",
     "quotes": [
@@ -159,7 +159,7 @@
     "txdata": "[DF]数据",
     "txlocdata": "[DF]您所在地的计算结果与天文年鉴的误差约为 0.0005 角秒³:[DF]",
     "txobjdata": "– 太阳¹ –[~LF]时间: {sun_clocktm}[~LF]时辰（不等时）: {sun_temptm}[~LF]昼光时段: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]至日: {sun_soli}[~LF]分点: {sun_equi}[~LF][~LF]– 月亮² –[~LF]新月: {moon_new}[~LF]满月: {moon_full}[~LF]月夜: {moon_gordon}[~LF]照明度: {moon_illum}[~LF]大小: {moon_sizep} (85-100){weather_data}[~LF][~LF]– 亮度 –[~LF]金星: {venus_magp} (83-100)[~LF]火星: {mars_magp} (52-100)[~LF]木星: {jupiter_magp} (87-100)[~LF]土星: {saturn_magp} (77-100)[~LF]水星: {merkur_magp} (0-100)[~LF][~LF]¹ 时间: GPS = 已同步 | 时辰（不等时）: 当地不等时（0,0[NDASH]11,9），白昼为「ἡ」，夜晚为「ν」。 「φ」为夜更，采用不等“分钟”（0φ00[NDASH]3φ59） | {lighttime-}: 见下文 | 昼光时段 与 Agnihotra: 今日 日出[NDASH]日落 [明日日出]，⁺ = 当前 GPS | ² 满月与新月: 时刻（距今/之前 天） | 月夜: 见下文 | ³ 月亮视直径约为 2000 角秒 | ⁴ 天气: 日变化（太阳、进度、降雨、阵风），当前 (= 接下来 3 小时，[font=sdata/DejaVuSansMono.ttf]✝[/font] = 较旧数据)。 | 日值: 最低...最高...[夜间最低] (χ = 雪)[DF][DF]",
-    "txlegende0": "[b]–– 说明:[/b][~LF][~LF]月历日期的工作方式类似于我们的日期，但以夜晚代替白天：Μx·y (p/z)，其中 x = 年内的月“月”，y = 该月的夜晚编号。由于朔望月长度不同，z 表示该月的总夜数，p 表示满月之夜。夜晚在日出时结束。[~LF][~LF]光照年周期将一年划分为八个光照增加与减少的阶段（阶段进度的百分比）：1. {solcal_lph|0-} ({solcal_dat0}，另见 Imbolc)，2a. {solcal_lph|1-} ({solcal_dat1}，另见 Lixia)，2b. {solcal_lph|2-} ({solcal_dat2})，2c. {solcal_lph|3-} ({solcal_dat3})，3. {solcal_lph|4-} ({solcal_dat4}，另见 Lughnasadh)，4a. {solcal_lph|5-} ({solcal_dat5}，另见 Lidong)，4b. {solcal_lph|6-} ({solcal_dat6})，以及 4c. {solcal_lph|7-} ({solcal_dat7})。简写形式：Φx·y。日期以天文学方式确定，并会逐年移动。[DF][DF][DF]",
+    "txlegende0": "[b]–– 说明:[/b][~LF][~LF]月历日期的工作方式类似于我们的日期，但以夜晚代替白天：Μx·y (p/z)，其中 x = 年内的月“月”，y = 该月的夜晚编号。由于朔望月长度不同，z 表示该月的总夜数，p 表示满月之夜。夜晚在日出时结束。[~LF][~LF]光照年周期将一年划分为八个光照增加与减少的阶段（阶段进度的百分比）：1. {solcal_lph|0-} ({solcal_dat0}，另见 Imbolc)，2a. {solcal_lph|1-} ({solcal_dat1}，另见 Lixia)，2b. {solcal_lph|2-} ({solcal_dat2})，2c. {solcal_lph|3-} ({solcal_dat3})，3. {solcal_lph|4-} ({solcal_dat4}，另见 Lughnasadh)，4a. {solcal_lph|5-} ({solcal_dat5}，另见 Lidong)，4b. {solcal_lph|6-} ({solcal_dat6})，以及 4c. {solcal_lph|7-} ({solcal_dat7})。简写形式：Ϟx·y。日期以天文学方式确定，并会逐年移动。[DF][DF][DF]",
     "buttonsolcal": "光照日历",
     "char_vowels": "",
     "char_consonants": "",

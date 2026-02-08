@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.8.19",
-        "updated": "2026-02-08 11:54:30"
+        "version": "1.8.21",
+        "updated": "2026-02-08 20:27:41"
     },
     "txwelcome": "Bienvenido",
     "quotes": [
@@ -146,7 +146,7 @@
     "txdata": "[DF]Datos",
     "txlocdata": "[DF]Los cálculos para su ubicación coinciden con el almanaque astronómico con aprox. 0,0005 segundos de arco³:[DF]",
     "txobjdata": "– Sol¹ –[~LF]Hora: {sun_clocktm}[~LF]Hora temporal: {sun_temptm}[~LF]Día luminoso: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]Solsticio: {sun_soli}[~LF]Equinoccio: {sun_equi}[~LF][~LF]– Luna² –[~LF]Luna nueva: {moon_new}[~LF]Luna llena: {moon_full}[~LF]Noche lunar: {moon_gordon}[~LF]Iluminada: {moon_illum}[~LF]Tamaño: {moon_sizep} (85-100){weather_data}[~LF][~LF]– Brillo –[~LF]Venus: {venus_magp} (83-100)[~LF]Marte: {mars_magp} (52-100)[~LF]Júpiter: {jupiter_magp} (87-100)[~LF]Saturno: {saturn_magp} (77-100)[~LF]Mercurio: {merkur_magp} (0-100)[~LF][~LF]¹ Hora: GPS = sincronizado | Hora temporal: hora local, desigual (0,0[NDASH]11,9) “ἡ” del día o “ν” de la noche. “φ” guardia nocturna con “minutos” desiguales (0φ00[NDASH]3φ59) | {lighttime-}: ver abajo | Día luminoso & Agnihotra: salida[NDASH]puesta hoy [salida mañana], ⁺ = GPS actual | ² Luna llena y nueva: momento (en/hace días) | Noche lunar: ver abajo | ³ La Luna mide aprox. 2000 segundos de arco | ⁴ Tiempo: evolución diaria (Sol, progreso, lluvia, rachas), ahora (= próximas 3 horas, [font=sdata/DejaVuSansMono.ttf]✝[/font] = datos antiguos). | Valores diarios: mín...máx...[mín nocturno] (χ = nieve)[DF][DF]",
-    "txlegende0": "[b]–– Explicaciones:[/b][~LF][~LF]La fecha lunar funciona como nuestra fecha, pero con noches en lugar de días: Μx·y (p/z) con x = “mes” lunar del año, y = noche del mes lunar. Como los meses lunares tienen distinta duración, z indica el total de noches del mes lunar y p la noche de luna llena. La noche termina al amanecer.[~LF][~LF]La estación del año luminoso divide el año en ocho fases de aumento y disminución de la luz (% de progreso de la fase): 1. {solcal_lph|0-} ({solcal_dat0}, véase también Imbolc), 2a. {solcal_lph|1-} ({solcal_dat1}, véase también Lixia), 2b. {solcal_lph|2-} ({solcal_dat2}), 2c. {solcal_lph|3-} ({solcal_dat3}), 3. {solcal_lph|4-} ({solcal_dat4}, véase también Lughnasadh), 4a. {solcal_lph|5-} ({solcal_dat5}, véase también Lidong), 4b. {solcal_lph|6-} ({solcal_dat6}) y 4c. {solcal_lph|7-} ({solcal_dat7}). Forma corta: Φx·y. Las fechas se determinan astronómicamente y se desplazan de un año a otro.[DF][DF][DF]",
+    "txlegende0": "[b]–– Explicaciones:[/b][~LF][~LF]La fecha lunar funciona como nuestra fecha, pero con noches en lugar de días: Μx·y (p/z) con x = “mes” lunar del año, y = noche del mes lunar. Como los meses lunares tienen distinta duración, z indica el total de noches del mes lunar y p la noche de luna llena. La noche termina al amanecer.[~LF][~LF]La estación del año luminoso divide el año en ocho fases de aumento y disminución de la luz (% de progreso de la fase): 1. {solcal_lph|0-} ({solcal_dat0}, véase también Imbolc), 2a. {solcal_lph|1-} ({solcal_dat1}, véase también Lixia), 2b. {solcal_lph|2-} ({solcal_dat2}), 2c. {solcal_lph|3-} ({solcal_dat3}), 3. {solcal_lph|4-} ({solcal_dat4}, véase también Lughnasadh), 4a. {solcal_lph|5-} ({solcal_dat5}, véase también Lidong), 4b. {solcal_lph|6-} ({solcal_dat6}) y 4c. {solcal_lph|7-} ({solcal_dat7}). Forma corta: Ϟx·y. Las fechas se determinan astronómicamente y se desplazan de un año a otro.[DF][DF][DF]",
     "buttonsolcal": "Calendario de luz",
     "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
     "char_consonants": "bcdfghjklmnpqrstvwxyzñÑ",
