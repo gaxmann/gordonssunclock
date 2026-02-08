@@ -10,6 +10,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.68] - 2026-02-xx (Fixes)
 
 ### Fixed
+- Short notation for light year season changed from Φ to Ϟ (due to risk of confusion with night watch φ)
 - Dial rendering on startup is fast again:
   - Quick draft-pass dial now reliably displays instead of not appearing, which previously caused an unnecessary wait for the hires rerun (force RGBA)
   - Location updates now start 1s later (on coldstart)
