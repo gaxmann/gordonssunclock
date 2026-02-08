@@ -11,8 +11,8 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Fixed
 - Dial rendering on startup is fast again:
- - the quick draft-pass dial now reliably displays instead of not appearing, which previously caused an unnecessary wait for the hires rerun (force RGBA)
- - Location updates now start 1s later (on coldstart)
+  - the quick draft-pass dial now reliably displays instead of not appearing, which previously caused an unnecessary wait for the hires rerun (force RGBA)
+  - Location updates now start 1s later (on coldstart)
 - “1× locate” button works again
 
 ### Added
