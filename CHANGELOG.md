@@ -10,7 +10,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.68] - 2026-02-xx (Fixes)
 
 ### Fixed
-- Dial rendering is fast again: the quick draft-pass dial now reliably displays instead of not appearing, which previously caused an unnecessary wait for the hires rerun
+- Dial rendering on startup is fast again: the quick draft-pass dial now reliably displays instead of not appearing, which previously caused an unnecessary wait for the hires rerun
 - “1× locate” button works again
 
 ### Added
