@@ -642,30 +642,15 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 <a name="dev"></a>
 # Preview versions (V3)
 
-V3 and V2 share the same source code (compare features by release date or ≙). Detailed descriptions of features can be found in the corresponding V2 versions above. *V3 means: api 24-35 (Android 7+), arm64-v8a only, 16 kB page memory*
+V3 and V2 share the same source code (compare features by release date). Detailed descriptions of features can be found in the corresponding V2 versions above. *V3 means: api 24-35 (Android 7+), arm64-v8a only, 16 kB page memory*
 
-## [3.4 ≙ 2.67] 
-
-### Added
-- Optional weather view with clear, icon-based daily outlook. Reduced to essential information for quick visual understanding
-
-## [3.3 ≙ 2.65.1] 
-
-### Added
-- Accordion navigation added to settings page
-- Dial now comes directly from texture instead of PNG
-
-## [3.2 ≙ 2.64] 
-
-### Added
-- Time display in unequal, temporal hours
-- GPS time correction for Agnihotra (“+” = current GPS)
-- Russian language added, moon shadow more realistic
-- V2 and V3 now share the same code
-
-## [3.0] - 2025-10-12 (Transparent bars)
+## [3.x] - 2025-10-12 (Transparent bars)
 
 ### Added
 - Navigation and status bars now transparent on Android 15+
 - Calculations take a bit longer, UI feels faster
 - Api 24-35 (Android 7+) due to new numpy version, arm64-v8a only, 16 kB page memory  
+
+### Notes
+- To see which features your V3 includes, please refer to the V2 entry with the corresponding release date (V3 shares the same code base as V2)
+
