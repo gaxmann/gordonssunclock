@@ -7,7 +7,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.68] - 2026-02-xx (Season Logic)
+## [2.68] - 2026-02-09 (Season Logic)
 
 ### Fixed
 - Short notation for light-year season changed from Φ to Ϟ to avoid confusion with night-watch symbol φ
