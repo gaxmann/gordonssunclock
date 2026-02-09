@@ -17,7 +17,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - “1× locate” button works again
 
 ### Added
-- Light Year Calendar logic has been moved into its own module
+- Light Year Calendar logic has been moved into its own module (buffer now in UTC to keep buffer values)
 - Light Year Season boundaries are now computed from the Sun’s apparent ecliptic longitude (angle-based, PH0…PH8) instead of time-based midpoints between astronomical fixpoints. This makes the phase progression physically consistent and better aligned with day-length changes over the year, while keeping the existing fixpoints and local-midnight anchoring via PH0 (structurally, this approach is interestingly compatible with the Jieqi system, which also defines seasonal markers as fixed angular steps of the Sun’s ecliptic longitude)
 
 ### Changed
