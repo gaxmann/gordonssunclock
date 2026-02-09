@@ -13,7 +13,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Short notation for light-year season changed from Φ to Ϟ to avoid confusion with night-watch symbol φ
 - Dial rendering on startup is fast again:
   - Quick draft-pass dial now reliably displays instead of not appearing, which previously caused an unnecessary wait for the hires rerun
-  - Location updates now start 1s later (on coldstart)
+  - Location updates now start only after draft sketch has shown
 - “1× locate” button works again
 
 ### Added
