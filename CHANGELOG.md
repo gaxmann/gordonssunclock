@@ -644,7 +644,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 V3 and V2 share the same source code (compare features by release date). Detailed descriptions of features can be found in the corresponding V2 versions above. *V3 means: api 24-35 (Android 7+), arm64-v8a only, 16 kB page memory*
 
-## [3.x] - 2025-10-12 (Transparent bars)
+## [3.+] - 2025-10-12 (Transparent bars)
 
 ### Added
 - Navigation and status bars now transparent on Android 15+
