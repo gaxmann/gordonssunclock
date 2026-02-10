@@ -65,12 +65,12 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ### *Android 7+ (arm64-v8a only)*
 
-V3 and V2 share the same source code (please compare features by ≙). 
+V3 and V2 share the same source code (please compare features by date). 
 
 ## [3.+] - (Transparent bars)
 - Transparent navigation and status bars on Android 15+
 - Android 7+, 16 kB page support, arm64-v8a only
-- Other features, please see the corresponding V2 (≙) in the detailed changelog
+- Other features, please refer to the V2 entry with the corresponding release date
 
 
 
