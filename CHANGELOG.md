@@ -46,8 +46,6 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Refraction temperature ‘standard’ now uses the actual sunrise temperature from the weather forecast #2.67.2
 - Texts updated, privacy policy updated to reflect optional weather functionality (via external provider) #2.67.1
 - Legend changed to proportional font only with symbols in DejaVue #2.67.1
-
-### Fixed
 - ValueError: cannot determine region size fixed, TypeError: cannot unpack non-iterable int object fixed #2.67.2
 - Corrections to the API retrieval logic of the weather module (offline error, API error) #2.67.3
 - Weather symbol selection: corrected average sunshine hours calculation for global consistency #2.67.4
