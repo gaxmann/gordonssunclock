@@ -178,7 +178,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Settings page restructured (because swiping between pages kept changing settings)
 - Reverted back to api 21-35 (Android 5+)
 
-## [2.54-public] - 2025-10-08
+## [2.54-stable] - 2025-10-08
 
 ### Fixed
 - Android 15+ bars fixed (finally, since 2025-07-03)
