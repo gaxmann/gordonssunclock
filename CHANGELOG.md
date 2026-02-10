@@ -10,7 +10,8 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.68.1] - 2026-02-xx
 
 ### Changed
-- Key for recalc day now rounds celsius /10 instead of /5 (less recalculation when getting weather on startup)
+- Day recalculation key now rounds Celsius to /10 instead of /5 (reduces recalculations after weather update on startup)
+- Weather updates are now blocked for 30s instead of 50s when device is offline (retry occurs every minute for 15 minutes, so this mainly affects startup)
 
 ## [2.68-stable] - 2026-02-09 (Season Logic)
 
