@@ -63,6 +63,27 @@ File(s): Jupiter_symbol.png, Mars_symbol.png, Saturn_symbol.png, Venus_symbol.pn
 Notes: Resized
 
 
+Weather Icons
+--------------------
+Title: Weather Icons (SVG)
+Author: Erik Flowers
+Source: https://github.com/erikflowers/weather-icons
+License: SIL Open Font License (OFL) 1.1
+License URL: https://openfontlicense.org
+File(s): Various weather icon files (converted to PNG for app use)
+Notes: Modified (light/dark variants generated)
+Copyright: (c) 2013-2014 Erik Flowers
+
+
+Custom Weather Icons
+--------------------
+Title: Custom weather symbols (uncertain, still, cactus)
+Author: Gordon Axmann
+Source: Original work
+License: Copyright © - All rights reserved
+Notes: Created specifically for this application
+
+
 Processing Animation
 --------------------
 Title: Process, Factory, Circle GIF
@@ -93,14 +114,14 @@ Notes: Original code adapted and modified for this project
 Copyright: Filipe March
 
 
-Ephemeris Data (de421.bsp)
+Ephemeris Data (de440s.bsp)
 --------------------
-Title: DE421 Planetary Ephemeris
+Title: DE440S Planetary Ephemeris (excerpt)
 Author: Jet Propulsion Laboratory (JPL), NASA
 Source: https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/
 License: Public Domain
-Notes: JPL ephemeris data for planetary positions, subset for years 2025-2040
-File(s): de421_2025-40.bsp
+Notes: JPL ephemeris data for planetary positions, subset for years 2024-2040
+File(s): de_excerpt.bsp
 
 
 ================================================================================
@@ -124,7 +145,7 @@ Notes: Numerical computing
 
 Library: PyTZ
 License: MIT License
-Source: https://github.com/stub/pytz
+Source: https://github.com/stub42/pytz
 Notes: Timezone database
 
 Library: Pillow
@@ -144,15 +165,57 @@ Notes: Timezone detection from coordinates
 
 
 ================================================================================
+WEATHER DATA & APIS
+================================================================================
+
+Open-Meteo API
+--------------------
+Service: Weather forecast data (DWD ICON / Global)
+Provider: Open-Meteo.com
+Source: https://open-meteo.com
+License: CC BY 4.0 (Attribution required)
+License URL: https://creativecommons.org/licenses/by/4.0/
+API URL: https://api.open-meteo.com/v1/dwd-icon (ICON-D2 area)
+          https://api.open-meteo.com/v1/forecast (global)
+Notes: Usage subject to Open-Meteo Terms. Attribution required: credit provider and include a link to Open-Meteo where weather data is presented (or via an in-app “About / Licences” page that is accessible from the weather UI).
+Data Attribution: Weather data by Open-Meteo.com (CC BY 4.0)
+
+
+MET Norway Locationforecast API
+--------------------
+Service: Weather forecast data
+Provider: Norwegian Meteorological Institute (MET Norway)
+Source: https://api.met.no
+License: CC BY 4.0 (Attribution required)
+License URL: https://creativecommons.org/licenses/by/4.0/
+API URL: https://api.met.no/weatherapi/locationforecast/2.0/compact
+Notes: No API key required, User-Agent header required. Must not appear to be made by Yr/NRK/MET; do not use “Yr” in the service name or use the Yr logo/branding.
+Terms: https://api.met.no/doc/TermsOfService
+Data Attribution: Weather data from MET Norway (CC BY 4.0)
+
+
+OpenWeatherMap API
+--------------------
+Service: Weather forecast data
+Provider: OpenWeather Ltd.
+Source: https://openweathermap.org/api
+License: API usage subject to OpenWeatherMap Terms of Service
+API URL: https://api.openweathermap.org/data/3.0/onecall
+Notes: Requires API key, free tier: 1000 calls/day. This service is currently not selectable via the user interface, but code support exists and may be enabled via configuration
+Terms: https://openweathermap.org/terms
+Data Attribution: Weather data provided by OpenWeatherMap
+
+
+================================================================================
 SUMMARY OF LICENSES USED
 ================================================================================
 
 - SIL Open Font License (OFL) 1.1: https://openfontlicense.org
-  Used for: Fonts (Fira Sans, Noto Sans SC)
+  Used for: Fonts (Fira Sans, Noto Sans SC) and Weather Icons
   Key requirement: Include this license text and copyright notice
 
 - Public Domain
-  Used for: DejaVu Sans font
+  Used for: DejaVu Sans font, NASA/ESA images, JPL ephemeris data
   Key requirement: None required, but attribution appreciated
 
 
@@ -166,5 +229,5 @@ respective licenses. This file serves as the definitive attribution record.
 For questions about specific assets, refer to the URLs listed above or
 contact the original copyright holders.
 
-Last updated: 2025-10-25 (or see date of file)
+Last updated: 2025-12-13 (or see date of file)
 ================================================================================
