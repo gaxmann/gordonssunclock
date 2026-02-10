@@ -7,6 +7,11 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
+## [2.68.1] - 2026-02-xx
+
+### Changed
+- Key for recalc day now rounds celsius /10 instead of /5 (less recalculation when getting weather on startup)
+
 ## [2.68-stable] - 2026-02-09 (Season Logic)
 
 ### Fixed
