@@ -5,7 +5,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 
-## [2.68] - 2026-02-09 (Weather overview)
+## [2.68-stable] - 2026-02-09 (Weather overview)
 - Optional drama-free weather view with a clear icon-based daily outlook
 - Light Year Seasons now use more precise angle-based boundaries, bug fixes
 
