@@ -55,8 +55,6 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Changed
 - Ephemeris changed from de421 (data up to 2008) to de440s (observation data up to 2020, updated planetary masses, improved asteroid and Kuiper belt perturbation models, improved relativistic corrections, refined Earth–Moon dynamics and ICRF3)
 - Order of drawing the planets changed due to their size (Mars was obscured by Venus)
-
-### Fixed
 - App title changed for Play Store search algorithm
 
 ## [2.65.2-public] - 2026-01-02 (Settings update)
@@ -104,6 +102,8 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - When flipping Agnihotra checkbox, requestLocationUpdates are re-applied
 - The digital time display has been restored to the top-right of the dial
 - Quotes of the label texts are now copied from the label text ({txgpsauto}, no double translating)
+
+### Fixed
 - Bug fixes (file not found to delete)
 
 ## [2.63-public] - 2025-11-07 (Temporal change)
@@ -131,7 +131,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ## [2.61-public] - 2025-11-01
 
-### Fixed
+### Changed
 - Code optimised (img.copy, LF token changed, because of wdiff), a bit faster now
 - Bug fixes (icon[2], 1x location changes revoked)
 
