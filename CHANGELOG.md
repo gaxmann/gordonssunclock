@@ -14,7 +14,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Weather updates are now blocked for 30s instead of 50s when device is offline (retry occurs every minute for 15 minutes, so this mainly affects startup)
 
 ### Fixed
-- Fixed two errors on Android<7
+- Fixed two errors on Android 5-6
 
 ## [2.68-stable] - 2026-02-09 (Season Logic)
 
