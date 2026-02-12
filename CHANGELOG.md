@@ -10,7 +10,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.68.1] - 2026-02-xx
 
 ### Added
-- Weather symbols added as text: Weather symbols for the day added to the daily forecast and included in the explanatory text
+- Weather symbol font added: Weather symbols added to the daily forecast on data page, added weather symbols in the explanatory text
 
 ### Changed
 - Day recalculation key now rounds Celsius to /10 instead of /5 (reduces recalculations after weather update on startup)
