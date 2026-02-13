@@ -12,7 +12,6 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Changed
 - Faster cold start by persisting the last sunrise temperature to disk
 - Faster cold start by setting the temperature buffer key to an always-available estimated temperature, avoiding unnecessary recalculations when small GPS jitter occurs
-- Day recalculation key now rounds Celsius to /10 instead of /5 (reduces recalculations after weather update on startup)
 - Weather updates are now blocked for 30s instead of 50s when device is offline (retry occurs every minute for 15 minutes, so this mainly affects startup)
 - Removed mid-column gap in daily course
 
