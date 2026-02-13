@@ -46,7 +46,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ## [2.21] - 2025-07-04 (Chinese language)
 
-- Chinese language added, api 35 upgrade (Android 15+ bar issue till 2.54), bug fixes (unknown language)
+- Chinese language added, api 35 upgrade (Android 15+ bar issue till 2.54), bug fixes (unknown lang)
 
 ## [2.18] - 2025-06-29 (Telescope design)
 
