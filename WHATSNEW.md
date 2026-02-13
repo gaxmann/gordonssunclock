@@ -16,21 +16,21 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 ## [2.63] - 2025-11-07 (Temporal hours)
 
 - Time display in unequal, temporal hours added, bug fixes
+<!--## [2.59] - 2025-10-21 (Legacy support)
 
-## [2.59] - 2025-10-21 (Legacy support)
-
-- Android 5+ support added to enable legacy devices to be used as wall clocks, bug fixes
+- Android 5+ support added to enable legacy devices to be used as wall clocks, bug fixes-->
  
 ## [2.54-stable] - 2025-10-08 (Bar fixes)
 
 - Fixed system bars on Android 15+
+- Planetary data size reduced, improved moon border, bug fixes  
+- Update check for devices running 24/7
 - Many bug fixes (GrapheneOS, Aurora & Apkpure downloads, max alt+bars, line spacing, no-attr clockscr)
-
-## [2.42] - 2025-08-29 (Update prompt) 
+<!--## [2.42] - 2025-08-29 (Update prompt) 
 
 - Clickable "Update available" message (dial) for devices running 24/7
 - Planetary data size reduced, improved moon border, bug fixes  
-<!--## [2.39] - 2025-08-10 (Smaller database) 
+## [2.39] - 2025-08-10 (Smaller database) 
 
 - Planetary data size reduced, improved moon, bug fixes--> 
   
