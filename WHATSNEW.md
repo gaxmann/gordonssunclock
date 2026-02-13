@@ -10,7 +10,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 - Light Year Seasons now use more precise angle-based boundaries, bug fixes
 
 ## [2.65] - 2025-12-16 (Light seasons)
-- Displays (eight) light seasons, solistice, equinox and the moon date ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
+- Displays (eight) light seasons, solstice, equinox and the moon date ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
 - GPS time sync (for exact Agnihotra), better moon shadow, Russian language added, bug fixes
 
 ## [2.63] - 2025-11-07 (Temporal hours)
