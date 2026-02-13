@@ -7,7 +7,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.68.1] - 2026-02-xx
+## [2.68.1] - 2026-02-13
 
 ### Added
 - Weather symbol font added: Weather symbols added to the daily forecast on data page, added weather symbols in the explanatory text
