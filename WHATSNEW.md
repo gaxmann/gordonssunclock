@@ -54,7 +54,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ## [2.15] - 2025-06-24 (Initial release)
 
-- Android release with German, English and Spanish
+- Android release with the original greyscale dial design (German, English, Spanish)
 
 ---
 
