@@ -63,16 +63,28 @@ File(s): Jupiter_symbol.png, Mars_symbol.png, Saturn_symbol.png, Venus_symbol.pn
 Notes: Resized
 
 
-Weather Icons
+Weather Icons (modified font)
 --------------------
-Title: Weather Icons (SVG)
+Title: Weather icon font (based on Weather Icons by Erik Flowers)
+Author: Erik Flowers (original), Gordon Axmann (modifications)
+Source: https://github.com/erikflowers/weather-icons (original)
+License: SIL Open Font License (OFL) 1.1
+License URL: https://openfontlicense.org
+File(s): wicons.ttf
+Notes: Based on Weather Icons by Erik Flowers. Three custom weather symbols (uncertain, still, cactus) added by Gordon Axmann. Font scaled to 80% of original size for better UI integration. Font renamed to wicons.ttf per OFL license requirements.
+Copyright: (c) 2013–2014 Erik Flowers (original icons)
+
+
+Weather Icons (PNG)
+--------------------
+Title: Weather Icons (converted to PNG)
 Author: Erik Flowers
 Source: https://github.com/erikflowers/weather-icons
 License: SIL Open Font License (OFL) 1.1
 License URL: https://openfontlicense.org
-File(s): Various weather icon files (converted to PNG for app use)
-Notes: Modified (light/dark variants generated)
-Copyright: (c) 2013-2014 Erik Flowers
+File(s): Various weather icon PNG files
+Notes: SVG icons from Weather Icons project, converted to PNG with light/dark variants
+Copyright: (c) 2013–2014 Erik Flowers
 
 
 Custom Weather Icons
@@ -81,7 +93,8 @@ Title: Custom weather symbols (uncertain, still, cactus)
 Author: Gordon Axmann
 Source: Original work
 License: Copyright © - All rights reserved
-Notes: Created specifically for this application
+File(s): uncertain.png, still2.png, kaktus2.png
+Notes: Created specifically for this application. Also integrated into wicons.ttf
 
 
 Processing Animation
