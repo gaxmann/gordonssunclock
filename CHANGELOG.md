@@ -19,6 +19,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Fixed
 - Fixed two errors on Android 5-6
+- Update solcal dates every minute on screen 
 
 ## [2.68-stable] - 2026-02-09 (Season Logic)
 
