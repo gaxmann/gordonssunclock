@@ -7,7 +7,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.68.2-stable] - 2026-02-xx
+## [2.68.2-stable] - 2026-02-14
 
 ### Changed
 - Faster cold start by persisting the last sunrise temperature to disk
