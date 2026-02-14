@@ -3,11 +3,11 @@
 Keys that have been added, changed, or removed are listed here, as well as structural changes and language files that were added or removed, or whose support status changed.
 
 ## [1.8] - 2026-01-23
-- **Added:** txweathapi, txweathapiarr, txsiformat, txnow, weath_c, weath_f, weath_in, weath_kmh, weath_lm2, weath_mph, weath_pct, txd0, txd1, txd2
+- **Added:** txweathapi, txweathapiarr, txsiformat, txnow, weath_c, weath_f, weath_in, weath_kmh, weath_lm2, weath_mph, weath_pct
 
 ## [1.7] - 2025-12-28
 - **Added:** tx_acc, txgpslabel, txgordonssunclock, txsunclock, 
-- **Structure:** list variable format without quotes changed to {xxx|y-} (labels and lists are now treated similarly); special entry {auto} removed in favour of {txlangarr|auto}
+- **Structure:** list variable format without quotes changed to {xxx|y-} (labels and lists are now treated similarly)
 
 ## [1.6] - 2025-12-16
 - **Added:** solcal_lph, lighttime, moon, buttonsolcal (unused), txlegende0 

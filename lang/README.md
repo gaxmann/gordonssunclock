@@ -2,7 +2,9 @@
 
 ## Language Files
 
-The German language file (`de.json`) is the **original source language**. English serves as the fallback language and will be used whenever a language or translation entry is missing.
+The German language file (`de.json`) is the **original source language**. It is recommended to start translations from German if possible. 
+
+English serves as the fallback language and will be used whenever a language or translation entry is missing.
 
 ---
 
@@ -96,7 +98,7 @@ Most languages use different words for ’day’ depending on the number (e.g. 1
 
 ### Short Form of Ordinal Numbers
 
-The same rules are used for `"ordinalsh"`, which defines the short form of ordinal numbers (such as ’3.’ or ’3rd’). Additionally: if your language distinguishes grammatical gender, you can specify gendered endings in the order masculine/feminine/neuter, separated by slashes, for example in Russian: %-й/%-я/%-е. (If your language has only two genders or only one, simply provide the corresponding forms.) E.g. (Use % where the number should appear.)
+The same rules are used for `"oridinalsh"`, which defines the short form of ordinal numbers (such as ’3.’ or ’3rd’). Additionally: if your language distinguishes grammatical gender, you can specify gendered endings in the order masculine/feminine/neuter, separated by slashes, for example in Russian: %-й/%-я/%-е. (If your language has only two genders or only one, simply provide the corresponding forms.) E.g. (Use % where the number should appear.)
 
 **French**
 ```json
