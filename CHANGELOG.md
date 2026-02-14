@@ -7,6 +7,11 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
+## [2.68.3] - 2026-02-xx
+
+### Changed
+- Daily course rain and sun coloured (when not greyscale design)
+
 ## [2.68.2-stable] - 2026-02-14
 
 ### Changed
