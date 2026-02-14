@@ -42,7 +42,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
-- Agnihotra time display, zoomable dial, fifth page for local data, bug fixes (time zone change)
+- Agnihotra time display, zoomable dial, Chinese language added, bug fixes (time zone change)
 <!--## [2.21] - 2025-07-04 (Chinese language)
 
 - Chinese language added, api 35 upgrade (Android 15+ bar issue till 2.54), bug fixes (unknown lang)-->
