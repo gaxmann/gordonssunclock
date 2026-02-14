@@ -645,7 +645,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - The project’s first digital incarnation runs on a Raspberry Pi Zero W with a small e-paper display
 - The second version uses a Raspberry Pi 3A+ and a 10-inch, 16-greyscale e-paper display mounted in a picture frame as a wall clock
 
-## [0.0 - 0.2] - 2012..2019
+## [0.0 - 0.2] - 2011..2019
 
 ### Added
 - Predecessor versions based on a purely mechanical 24-hour clock movement with a single hand — an actual wall clock with dial and hand, predating any software implementation
