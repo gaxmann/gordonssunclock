@@ -7,11 +7,11 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ## [2.68-stable] - 2026-02-09 (Weather overview)
 - Optional drama-free weather view with a clear icon-based daily outlook
-- Light Year Seasons now use more precise angle-based boundaries, many bug fixes (quicker start)
+- Many bug fixes (faster startup)
 
 ## [2.65] - 2025-12-16 (Light seasons)
 - Displays (eight) light seasons, solstice, equinox and the moon date ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
-- GPS time sync (for exact Agnihotra), better moon shadow, Russian language added, bug fixes
+- GPS time sync (for exact Agnihotra), Russian language added, bug fixes
 
 ## [2.63] - 2025-11-07 (Temporal hours)
 
