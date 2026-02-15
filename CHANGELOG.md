@@ -11,6 +11,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - Daily course rain and sun bar now coloured (when not greyscale design)
+- Weather location mismatch handling refined: within 5 km the weather remains now “good”, only beyond 5 km (up to 100 km) it is marked grey due to location drift (or age >6h)
 
 ## [2.68.2-stable] - 2026-02-14
 
