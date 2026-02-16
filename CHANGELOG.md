@@ -13,7 +13,8 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Rain and sun bar in daily course now coloured (when design not set to greyscale)
 - Weather info on data page is now slightly grey to fade into the background
 - Weather location mismatch handling refined: within 5 km the weather remains now valid, only beyond that point (and up to 100 km) it is marked grey (due to location drift or if older than 6h)
-- Weath and fns module optimised
+- Daily course display limited to the next 48 hours (everything beyond that is too volatile and uncertain)
+- Weath module optimised
 
 ## [2.68.2-stable] - 2026-02-14
 
