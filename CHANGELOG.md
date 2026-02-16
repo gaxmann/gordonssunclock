@@ -13,7 +13,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Sun/Moon ephemeris sampling now computed in vectorised Skyfield batches instead of per-step calls (3-5× faster dial calculation)
 
 ### Changed
-- Rain and sun bar in Detailed Weather Timeline now coloured (when design not set to greyscale)
+- Rain and sun bar in _Detailed Weather Timeline_ now coloured (when design not set to greyscale)
 - Weather info on data page is now slightly grey to fade into the background
 - Weather location mismatch handling refined: within 5 km the weather remains valid; only beyond that point (and up to 100 km) it is marked grey (due to location drift or if older than 6h)
 - Detailed Weather Timeline limited to the next 48 hours (everything beyond that is too volatile and uncertain)
