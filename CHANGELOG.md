@@ -10,11 +10,11 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.68.3] - 2026-02-xx
 
 ### Changed
-- Rain and sun bar in daily course now coloured (when design not set to greyscale)
+- Rain and sun bar in Detailed Weather Timeline now coloured (when design not set to greyscale)
 - Weather info on data page is now slightly grey to fade into the background
-- Weather location mismatch handling refined: within 5 km the weather remains now valid, only beyond that point (and up to 100 km) it is marked grey (due to location drift or if older than 6h)
-- Daily course display limited to the next 48 hours (everything beyond that is too volatile and uncertain)
-- Weath module optimised
+- Weather location mismatch handling refined: within 5 km the weather remains valid; only beyond that point (and up to 100 km) it is marked grey (due to location drift or if older than 6h)
+- Detailed Weather Timeline limited to the next 48 hours (everything beyond that is too volatile and uncertain)
+- Weather module optimised
 
 ## [2.68.2-stable] - 2026-02-14
 
@@ -22,10 +22,10 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Faster cold start by persisting the last sunrise temperature to disk
 - Faster cold start by setting the temperature buffer key to an always-available estimated temperature, avoiding unnecessary recalculations when small GPS jitter occurs
 - Weather updates are now blocked for 30s instead of 50s when device is offline (retry occurs every minute for 15 minutes, so this mainly affects startup)
-- Removed mid-column gap in daily course
+- Removed mid-column gap in Detailed Weather Timeline
 
 ### Added
-- Weather symbol font added: Weather symbols added to the daily forecast on data page, added weather symbols in the explanatory text
+- Weather symbol font added: Weather symbols added to the 3-Day Forecast on data page, added weather symbols in the explanatory text
 
 ### Fixed
 - Fixed two errors on Android 5-6
@@ -60,8 +60,9 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Added
 - Optional weather information:
-  - On dial: current temperature and daily forecast, with compact icon-based presentation and clear daily weather states derived from forecast analysis (not raw values)
-  - Time-based weather overview on the data page (daily course in 3-hour resolution, visual progress indicator, and “Now” outlook)
+  - On dial: current temperature and "Daily Weather State", with compact icon-based presentation derived from forecast analysis (not raw values)
+  - On data page: "Detailed Weather Timeline" (3-hour resolution, visual progress indicator, and "Now" outlook)
+  - On data page: "3-Day Forecast"
   - Automatic model/provider selection: high-resolution ICON-D2 in Central Europe, otherwise best-match models via Open-Meteo; alternatively met.no can be selected
 
 ### Changed
