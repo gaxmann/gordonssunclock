@@ -7,10 +7,10 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.69] - 2026-02-xx (Overall Optimisations)
+## [2.69] - 2026-02-xx (Core Optimisation)
 
 ### Added
-- Sun/Moon ephemeris sampling now computed in vectorised Skyfield batches instead of per-step calls (~80% faster full recalculation)
+- Sun/Moon ephemeris sampling now computed in vectorised Skyfield batches instead of per-step calls (~4× faster full recalculation)
 
 ### Changed
 - Rain and sun bar in Detailed Weather Timeline now coloured (when design not set to greyscale)
