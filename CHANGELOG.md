@@ -63,9 +63,9 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Added
 - Optional weather information:
-  - On dial: current temperature and "Daily Weather State", with compact icon-based presentation derived from forecast analysis (not raw values)
-  - On data page: "Detailed Weather Timeline" (3-hour resolution, visual progress indicator, and "Now" outlook)
-  - On data page: "3-Day Forecast"
+  - On dial: current temperature and _Daily Weather State_, with compact icon-based presentation derived from forecast analysis (not raw values)
+  - On data page: _Detailed Weather Timeline_ (3-hour resolution, visual progress indicator, and "Now" outlook)
+  - On data page: _3-Day Forecast_
   - Automatic model/provider selection: high-resolution ICON-D2 in Central Europe, otherwise best-match models via Open-Meteo; alternatively met.no can be selected
 
 ### Changed
