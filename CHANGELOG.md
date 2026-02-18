@@ -12,6 +12,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Added
 - Sun/Moon ephemeris sampling now computed in vectorised Skyfield batches instead of per-step calls (3-5× faster dial calculation)
 - Draft mode disabled on all devices except those classified as slow
+- Processing animation moved to a different layer to not collide with dial image
 
 ### Changed
 - Rain and sun bar in _Detailed Weather Timeline_ now coloured (when design not set to greyscale)
