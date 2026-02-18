@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.8.25",
-        "updated": "2026-02-16 21:21:12"
+        "version": "1.8.26",
+        "updated": "2026-02-18 22:05:32"
     },
     "txwelcome": "Добро пожаловать",
     "quotes": [
@@ -119,8 +119,8 @@
         "a-gord": "Искусство"
     },
     "txstatuslog": "[b]–– Журнал статуса:[/b]",
-    "txgpslabel": "1× локация",
-    "txgpsbutton": "Найти сейчас",
+    "txgpslabel": "Определение",
+    "txgpsbutton": "1x определить",
     "txshowclock": "Показывать время",
     "txpopuphead": {
         "updateavail": "Доступно обновление",

@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.8.25",
-        "updated": "2026-02-16 21:21:12"
+        "version": "1.8.26",
+        "updated": "2026-02-18 22:05:32"
     },
     "txwelcome": "Willkommen",
     "quotes": [
@@ -118,8 +118,8 @@
         "a-gord": "Kunst"
     },
     "txstatuslog": "[b]–– Status-Log:[/b]",
-    "txgpslabel": "1x Ortung",
-    "txgpsbutton": "Jetzt orten",
+    "txgpslabel": "Ortung",
+    "txgpsbutton": "1x orten",
     "txpopuphead": {
         "updateavail": "Update verfügbar",
         "notice": "Hinweis"

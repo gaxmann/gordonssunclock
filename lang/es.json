@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.8.25",
-        "updated": "2026-02-16 21:21:12"
+        "version": "1.8.26",
+        "updated": "2026-02-18 22:05:32"
     },
     "txwelcome": "Bienvenido",
     "quotes": [
@@ -118,8 +118,8 @@
         "a-gord": "Arte"
     },
     "txstatuslog": "[b]-- Registro de estado:[/b]",
-    "txgpslabel": "1× ubicar",
-    "txgpsbutton": "Ubicar ahora",
+    "txgpslabel": "Ubicación",
+    "txgpsbutton": "Ubicar 1x",
     "txpopuphead": {
         "updateavail": "Actualización disponible",
         "notice": "Aviso"

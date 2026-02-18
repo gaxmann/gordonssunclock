@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.8.25",
-        "updated": "2026-02-16 21:21:12"
+        "version": "1.8.26",
+        "updated": "2026-02-18 22:05:32"
     },
     "txwelcome": "欢迎",
     "quotes": [
@@ -131,8 +131,8 @@
         "a-gord": "艺术"
     },
     "txstatuslog": "[b]–– 状态日志:[/b]",
-    "txgpslabel": "定位1次",
-    "txgpsbutton": "立即定位",
+    "txgpslabel": "定位",
+    "txgpsbutton": "定位1次",
     "txpopuphead": {
         "updateavail": "更新可用",
         "notice": "注意"
