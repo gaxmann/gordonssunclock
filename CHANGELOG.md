@@ -21,6 +21,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Detailed Weather Timeline limited to the next 48 hours (everything beyond that is too volatile and uncertain), symbols for day+2 are now always grey
 - Weather module calls performance optimised
 - More edge now also leaves more space at the bottom edge when displaying the weather
+- GPS field moved to bottom of accordion
 
 ### Fixed
 - Bug fixes in V3
