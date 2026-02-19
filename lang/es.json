@@ -1,7 +1,7 @@
 {
     "_meta": {
         "version": "1.8.26",
-        "updated": "2026-02-18 22:05:32"
+        "updated": "2026-02-19 12:16:47"
     },
     "txwelcome": "Bienvenido",
     "quotes": [
@@ -128,7 +128,7 @@
         "txgpsdeact": "GPS está desactivado. Active GPS en la configuración de su dispositivo",
         "activatewlan": "Ubicación no disponible.[~LF][~LF]¿Están activados el Wi-Fi y/o las redes móviles en la configuración de tu dispositivo?",
         "updateexists": "Hay una actualización para el Reloj de sol de Gordon con correcciones de errores.[~LF][~LF]Recomiendo actualizar el software.",
-        "waitforgps": "Esperando ubicación...[~LF][~LF]Por favor, tenga paciencia."
+        "waitforgps": "Se está determinando la ubicación...[~LF][~LF]Esto puede tardar unos segundos."
     },
     "txbodywrap": {
         "txgpsinstruct": "Para ajustar su ubicación, deslice 2x hacia la izquierda",

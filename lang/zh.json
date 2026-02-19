@@ -1,7 +1,7 @@
 {
     "_meta": {
         "version": "1.8.26",
-        "updated": "2026-02-18 22:05:32"
+        "updated": "2026-02-19 12:16:47"
     },
     "txwelcome": "欢迎",
     "quotes": [
@@ -141,7 +141,7 @@
         "txgpsdeact": "GPS已禁用。请在设备设置中启用GPS",
         "activatewlan": "无法获取位置。[~LF][~LF]您设备的 Wi-Fi 和/或移动网络是否已启用？",
         "updateexists": "戈登日晷有更新，包含错误修复。[~LF][~LF]我建议更新软件。",
-        "waitforgps": "正在等待位置...[~LF][~LF]请稍等。"
+        "waitforgps": "正在确定位置...[~LF][~LF]这可能需要几秒钟。"
     },
     "txbodywrap": {
         "txgpsinstruct": "要调整您的位置，请向左滑动两次",

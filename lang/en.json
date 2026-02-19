@@ -1,7 +1,7 @@
 {
     "_meta": {
         "version": "1.8.26",
-        "updated": "2026-02-18 22:05:32"
+        "updated": "2026-02-19 12:16:47"
     },
     "txwelcome": "Welcome",
     "quotes": [
@@ -134,7 +134,7 @@
         "txgpsdeact": "GPS is disabled. Please enable GPS in your device settings",
         "activatewlan": "Location unavailable.[~LF][~LF]Are Wi-Fi and/or mobile networks enabled in your device settings?",
         "updateexists": "There is an update for Gordon's Sun Clock with bug fixes.[~LF][~LF]I recommend updating the software.",
-        "waitforgps": "Waiting for location...[~LF][~LF]Please be patient."
+        "waitforgps": "Location is being determined...[~LF][~LF]This may take a few seconds."
     },
     "txbodywrap": {
         "txgpsinstruct": "To adjust your location, swipe left twice",
