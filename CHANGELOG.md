@@ -25,7 +25,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Fixed
 - Bug fixes in V3
-- Changing design now now redrawns the dial
+- Changing the design will now redraw the dial
 
 ## [2.68.2-stable] - 2026-02-14
 
