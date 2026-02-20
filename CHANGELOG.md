@@ -13,7 +13,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Sun/Moon ephemeris sampling now computed in vectorised Skyfield batches instead of per-step calls (3-5× faster dial calculation)
 - Draft mode disabled on all devices except those classified as slow
 - Processing animation moved to a different layer to not collide with dial image
-- New symbols for overcast/cloudy conditions and severe storm warning added
+- New symbols for overcast conditions and severe storm warning added
 
 ### Changed
 - Rain and sun bar in _Detailed Weather Timeline_ now coloured (when design not set to greyscale)
