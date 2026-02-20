@@ -21,7 +21,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Detailed Weather Timeline limited to the next 48 hours (everything beyond that is too volatile and uncertain), same with day+2 (greyed out until 19:00h)
 - Weather module calls performance optimised
 - More edge now also leaves more space at the bottom edge when displaying the weather
-- GPS field moved to bottom of accordion
+- GPS field moved to bottom of accordion and is now grey when auto location is enabled
 - Dark mode switching now optimised (checking before dial creation)
 
 ### Fixed
