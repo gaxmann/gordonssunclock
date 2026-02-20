@@ -22,6 +22,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Weather module calls performance optimised
 - More edge now also leaves more space at the bottom edge when displaying the weather
 - GPS field moved to bottom of accordion
+- Dark mode switching now optimised (checking before dial creation)
 
 ### Fixed
 - Bug fixes in V3
