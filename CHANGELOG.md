@@ -12,7 +12,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Added
 - Sun/Moon ephemeris sampling now computed in vectorised Skyfield batches instead of per-step calls (3-5× faster dial calculation)
 - Draft mode disabled on all devices except those classified as slow
-- Processing animation moved to a different layer to not collide with dial image
+- Processing animation at startup moved to a different layer to not collide with dial image
 - Symbol for severe storms added
 
 ### Changed
@@ -28,7 +28,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Fixed
 - Bug fixes in V3
 - Changing the design will now redraw the dial
-- When getting a new location dial is immediately updated (and not only to the full minute)
+- When getting a new location dial is immediately updated (instead of at the next full minute)
 
 ## [2.68.2-stable] - 2026-02-14
 
