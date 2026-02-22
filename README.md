@@ -88,6 +88,8 @@ Contribute [translations](https://github.com/gaxmann/gordonssunclock/tree/main/l
 ### 3. Resources
 Create new images of celestial bodies or assets (if original or properly licensed).
 
+By submitting content, you grant the project owner a non-exclusive, perpetual, worldwide right to use, modify and distribute your contribution within the app.
+
 ---
 
 ## License & Source Code
