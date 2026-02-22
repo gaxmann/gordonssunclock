@@ -26,7 +26,8 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Dark mode switching optimised (check right before dial creation)
 
 ### Fixed
-- Preceding hour values in Open-meteo moved to correct hour (rain, snowfall, precipitation_probability, wind_gusts_10m, sunshine_duration) 
+- Preceding hour values in Open-meteo moved to correct hour (rain, snowfall, precipitation_probability, wind_gusts_10m, sunshine_duration)
+- Error with missing probability of precipitation in met.no fixed
 - Bug fixes in V3
 - Changing the design will now redraw the dial
 - When getting a new location dial is immediately updated (instead of at the next full minute)
