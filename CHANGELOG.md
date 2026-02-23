@@ -26,6 +26,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Dark mode switching optimised (check right before dial creation)
 - Small text and design changes #2.69.1
 - Greatly reduced save file size by storing cached times without Skyfield Time objects #2.69.1
+- Weather buffer now compressed to 85% #2.69.1
 
 ### Fixed
 - Preceding hour values in Open-meteo moved to correct hour -1 (rain, snowfall, precipitation_probability, wind_gusts_10m, sunshine_duration)
