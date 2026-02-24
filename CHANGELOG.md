@@ -14,7 +14,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Draft mode disabled on all devices except those classified as slow
 - Processing animation at startup moved to a different layer to not collide with dial image
 - Symbol for severe storms added
-- Clicking the rain/snow row in _Detailed Weather Timeline_ opens the rain radar # 2.69.1
+- Clicking the rain/snow row in _Detailed Weather Timeline_ opens the rain radar #2.69.1
 
 ### Changed
 - Rain and sun bar in _Detailed Weather Timeline_ now coloured (when design not set to greyscale)
