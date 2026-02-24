@@ -7,7 +7,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.69] - 2026-02-22 (Core optimisation)
+## [2.69.1] - 2026-02-22xx (Core optimisation)
 
 ### Added
 - Sun/Moon ephemeris sampling now computed in vectorised Skyfield batches instead of per-step calls (3-5× faster dial calculation)
