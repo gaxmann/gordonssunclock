@@ -40,6 +40,16 @@ File(s): DejaVuSans.ttf
 Notes: Derivative of Bitstream Vera Fonts
 
 
+Font: 04B_03
+--------------------
+Copyright: Copyright 1998-2003 Yuji Oshimoto
+Source: dafont.com (https://www.dafont.com/04b-03.font)
+License: Freeware – free to use as you like
+License URL: https://www.dafont.com/04b-03.font
+File(s): 04B_03__.TTF
+Notes: Pixel/bitmap style font, very small sizes (8px). Freeware for personal and commercial use.
+
+
 ================================================================================
 IMAGES & GRAPHICS
 ================================================================================
@@ -231,6 +241,10 @@ SUMMARY OF LICENSES USED
   Used for: DejaVu Sans font, NASA/ESA images, JPL ephemeris data
   Key requirement: None required, but attribution appreciated
 
+- Freeware (free to use as you like)
+  Used for: 04B_03 font
+  Key requirement: None
+
 
 ================================================================================
 GENERAL NOTES
@@ -242,5 +256,7 @@ respective licenses. This file serves as the definitive attribution record.
 For questions about specific assets, refer to the URLs listed above or
 contact the original copyright holders.
 
-Last updated: 2025-12-13 (or see date of file)
+Last updated: 2026-02-25 (or see date of file)
+
+
 ================================================================================
