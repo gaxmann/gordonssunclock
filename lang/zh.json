@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.8.33",
-        "updated": "2026-02-22 19:00:21"
+        "version": "1.9.1",
+        "updated": "2026-02-24 18:54:28"
     },
     "txwelcome": "欢迎",
     "quotes": [
@@ -158,9 +158,10 @@
     "txlegende": "[DF][b]–– 表盘图例:[/b][~LF][~LF][font=sdata/DejaVuSansMono.ttf]☉[/font] 太阳, [font=sdata/DejaVuSansMono.ttf]●[/font] 月亮（含月相）[~LF][~LF][font=sdata/DejaVuSansMono.ttf]♀[/font] 金星（珍珠色）, [font=sdata/DejaVuSansMono.ttf]♂[/font] 火星（微红）, [font=sdata/DejaVuSansMono.ttf]♃[/font] 木星（条纹状）, [font=sdata/DejaVuSansMono.ttf]♄[/font] 土星（有光环）, [font=sdata/DejaVuSansMono.ttf]☿[/font] 水星（灰色）[~LF][~LF]&bl;s] 天狼星, &bl;k] 老人星, &bl;f] 半人马座α, &bl;a] 大角星, &bl;w] 织女星, &bl;c] 五车二, &bl;r] 参宿七, &bl;p] 南河三, &bl;b] 参宿四, &bl;h] 水委一[~LF][~LF]天气：当前气温，上方为当日数据：降水（χ = 雪），日照时数，上方符号（{wx/dry} 干燥, {wx/uncertain} 不确定, {wx/wind} 有风）；星期 = 明日；灰色 = 旧数据[DF][DF][DF]",
     "txdata": "[DF]数据",
     "txlocdata": "[DF]您所在位置的计算结果与天文年鉴一致，误差约为 0.0005 角秒³：[DF]",
-    "txobjdata": "– 太阳¹ –[~LF]时间: {sun_clocktm}[~LF]不等时: {sun_temptm}[~LF]昼长: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]至日: {sun_soli}[~LF]分点: {sun_equi}[~LF][~LF]– 月亮² –[~LF]新月: {moon_new}[~LF]满月: {moon_full}[~LF]月夜: {moon_gordon}[~LF]照明率: {moon_illum}[~LF]视直径: {moon_sizep} (85-100){weather_data}[~LF][~LF]– 亮度 –[~LF]金星: {venus_magp} (83-100)[~LF]火星: {mars_magp} (52-100)[~LF]木星: {jupiter_magp} (87-100)[~LF]土星: {saturn_magp} (77-100)[~LF]水星: {merkur_magp} (0-100)[~LF][~LF]¹ 时间: GPS = 同步 | 不等时: (0,0[NDASH]11,9), 「ἡ」昼 / 「ν」夜。「φ」守更 (0φ00[NDASH]3φ59) | {lighttime-}: 见下 | 昼长 & Agnihotra: 今日出[NDASH]落 [明日出], ⁺ = 当前 GPS | ² 满/新月: 时刻（前/后若干日） | 月夜: 见下 | ³ 月亮 ≈ 2000″ | ⁴ 天气：当日变化 ([font=sdata/DejaVuSansMono.ttf]☀[/font] 太阳, [font=sdata/DejaVuSansMono.ttf]◴[/font] 进度（₁₂₃ = 当前3小时区块）, [font=sdata/DejaVuSansMono.ttf]☂[/font] 降雨, [font=sdata/DejaVuSansMono.ttf]✈[/font] 阵风）。现在 = 接下来的3小时, [font=sdata/DejaVuSansMono.ttf]✝[/font] = 较早数据 | 下方为当日数值：最小...最大...[夜间最低] (χ = 降雪)[DF][DF]",
-    "txlegende0": "[b]–– 说明:[/b][~LF][~LF]月历日期类似于我们的日期，但以夜晚而非白昼计: Μx·y (p/z)，其中 x = 年内的月，y = 该月的第几夜。由于阴历月长短不一，z 表示该月的总夜数，p 表示满月之夜。夜晚在日出时结束。[~LF][~LF]光季将一年分为八个昼光增减阶段: 1. {solcal_lph|0-} ({solcal_dat0}, 亦见 Imbolc), 2a. {solcal_lph|1-} ({solcal_dat1}, 亦见 Lixia), 2b. {solcal_lph|2-} ({solcal_dat2}), 2c. {solcal_lph|3-} ({solcal_dat3}), 3. {solcal_lph|4-} ({solcal_dat4}), 4a. {solcal_lph|5-} ({solcal_dat5}), 4b. {solcal_lph|6-} ({solcal_dat6}) 及 4c. {solcal_lph|7-} ({solcal_dat7})。简式: Ϟx·y (x = 阶段, y = 进度[SP]%)。日期以天文方式确定，并逐年变化。[DF][DF][DF]",
+    "txobjdata": "– 太阳¹ –[~LF]时间: {sun_clocktm}[~LF]不等时: {sun_temptm}[~LF]昼长: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]至日: {sun_soli}[~LF]分点: {sun_equi}[~LF][~LF]– 月亮² –[~LF]新月: {moon_new}[~LF]满月: {moon_full}[~LF]月夜: {moon_gordon}[~LF]照明率: {moon_illum}[~LF]视直径: {moon_sizep} (85-100){weather_data}[~LF][~LF]– 亮度 –[~LF]金星: {venus_magp} (83-100)[~LF]火星: {mars_magp} (52-100)[~LF]木星: {jupiter_magp} (87-100)[~LF]土星: {saturn_magp} (77-100)[~LF]水星: {merkur_magp} (0-100)[~LF][~LF]¹ 时间: GPS = 同步 | 不等时: (0,0[NDASH]11,9), 「ἡ」昼 / 「ν」夜。「φ」守更 (0φ00[NDASH]3φ59) | {lighttime-}: 见下 | 昼长 & Agnihotra: 今日出[NDASH]落 [明日出], ⁺ = 当前 GPS | ² 满/新月: 时刻（前/后若干日） | 月夜: 见下 | ³ 月亮 ≈ 2000″ | ⁴ 天气：当日变化 ([font=sdata/DejaVuSansMono.ttf]☀[/font] 太阳, [font=sdata/DejaVuSansMono.ttf]◴[/font] 进度（₁₂₃ = 当前3小时区块）, [font=sdata/DejaVuSansMono.ttf]☂[/font] 降雨可点击 = 雷达, [font=sdata/DejaVuSansMono.ttf]✈[/font] 阵风）。现在 = 接下来的3小时, [font=sdata/DejaVuSansMono.ttf]✝[/font] = 较早数据 | 下方为当日数值：最小...最大...[夜间最低] (χ = 降雪)[DF][DF]",
+    "txlegende0": "[b]–– 说明:[/b][~LF][~LF]月日期的用法类似于普通日期，但以“夜”代替“天”：Μx·y (p/z)，其中 x = 光历年的月周期，y = 该月周期的第几夜。Μ1 是光历年中的第一个满月。由于月周期的长度不同，z 表示该月周期的总夜数，p 表示满月之夜。夜晚在日出时结束。[~LF][~LF]光历年的季节将一年划分为八个昼长增加与减少的阶段：1. {solcal_lph|0-} ({solcal_dat0}，参见 Imbolc)，2a. {solcal_lph|1-} ({solcal_dat1}，参见 Lixia)，2b. {solcal_lph|2-} ({solcal_dat2})，2c. {solcal_lph|3-} ({solcal_dat3})，3. {solcal_lph|4-} ({solcal_dat4})，4a. {solcal_lph|5-} ({solcal_dat5})，4b. {solcal_lph|6-} ({solcal_dat6})，4c. {solcal_lph|7-} ({solcal_dat7})。简写：Ϟx·y（x = 阶段，y = 进度[SP]%）。日期按天文计算确定，每年会有所变化。[DF][DF][DF]",
     "buttonsolcal": "光照日历",
+    "txradar": "降雨雷达",
     "char_vowels": "",
     "char_consonants": "",
     "char_splitafter": "，：、。.,;:!?“‘”-—)]}%&*+=/\\|>@#_×÷≈≠≤≥°¶•…”’»`",
