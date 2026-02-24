@@ -25,7 +25,6 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - More edge now also leaves more space at the bottom edge when displaying the weather
 - GPS field moved to bottom of accordion and is now grey when auto location is enabled
 - Dark mode switching optimised (check right before dial creation)
-- Small text and design changes #2.69.1
 - Greatly reduced save file size by storing cached times without Skyfield Time objects #2.69.1
 - Weather buffer now compressed to 15% of previous space #2.69.1
 
