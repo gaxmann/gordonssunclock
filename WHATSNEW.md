@@ -5,7 +5,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 
-## [2.69] - 2026-02-xx (Core optimisation)
+## [2.69] - 2026-02-25 (Core optimisation)
 
 - Improved weather visualisation, rain radar, major performance update, bug fixes 
 
