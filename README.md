@@ -49,6 +49,7 @@ Since June 2025 Sun Clock is available as an Android app. The app is also known 
 <p float="left">
   <img src="_gitdesign/sunclock_0.png" width="250" />
   <img src="_gitdesign/tablet.jpg" width="250" />
+  <img src="_gitdesign/screen_3b.png" width="250" />
   <!-- <img src="_gitdesign/eink.jpg" width="250" /> -->
 </p>
 
