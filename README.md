@@ -21,7 +21,7 @@ For more visual impressions and a detailed description in German, check out the 
 
 - ***If you are on iOS:** The app is currently only available for Android. With Apple, I would practically have to start from scratch. If you would like to test the app anyway, I see two options:*
   - *Use an emulator on Mac/PC: BlueStacks, Waydroid (Linux) or Genymotion work well*
-  - *Buy a used Android tablet: from $50 (Android 7 is sufficient; e.g. Samsung Tab A SM-T510/515, HONOR Pad 8) → a tablet as a wall clock is really worth it!*
+  - ***Buy a used Android tablet:** from $50 (Android 7 is sufficient; e.g. Samsung Tab A SM-T510/515, HONOR Pad 8) → a tablet as a wall clock is really worth it!*
 
 ## Features
 
