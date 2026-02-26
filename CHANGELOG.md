@@ -685,7 +685,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 <a name="dev"></a>
 # Preview versions (V3)
 
-V3 and V2 share the same source code (compare features by release date). Detailed descriptions of features can be found in the corresponding V2 versions above. *V3 means: api 24-35 (Android 7+), arm64-v8a only, 16 kB page memory*
+V3 and V2 share the same source code (compare features by release date). Detailed descriptions of features can be found in the corresponding V2 versions above. *V3 means: api 24-35 (Android 7+), arm64-v8a only, 16 kB page memory, newer and slower numpy version*
 
 ## [3.+] - 2025-10-12 (Transparent bars)
 
