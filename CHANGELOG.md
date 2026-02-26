@@ -11,6 +11,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - Calculation of lowest sun position optimised
+- Text updated
 
 ## [2.69.1] - 2026-02-25 (Core optimisation)
 
