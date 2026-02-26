@@ -30,9 +30,9 @@ For more visual impressions and a detailed description in German, check out the 
 - **Single-hand design**: Simple, clear, intuitive
 - **Location-based**: Adjusts to your coordinates (manual input or location detection)
 - **Offline capable**: No internet required after first setup (optional GPS time sync)
-- **Agnihotra support**: Display precise Agnihotra times with countdown
 - **Optional weather overview**: Clear icon-based, drama-free daily outlook
 - **Temporal hours clock**: Display of ancient unequal hours (12 day hours & 4 night watches) – e.g. for historians or anyone seeking a deeper connection to historical timekeeping
+- **Agnihotra support**: Display precise Agnihotra times with countdown
 - **Tablet mode**: Hang on your wall as a living clock
 - **Free & private**: No ads, privacy-friendly
 - **Accurate solar geometry worldwide**: From equator to poles
