@@ -16,7 +16,7 @@ For more visual impressions and a detailed description in German, check out the 
 
 - **[Play Store](https://play.google.com/store/apps/details?id=de.ax12.zunclock)** (with automatic updates)
 - **"Aurora store"** (with automatic updates - search for "Sun Clock Gordon's", since direct linking is not available)
-- **[GitHub releases](https://github.com/gaxmann/gordonssunclock/releases/latest/download/zunclock.apk)** (apk downloads)
+- **[GitHub releases](https://github.com/gaxmann/gordonssunclock/releases/latest/)** (apk downloads)
 - **[APKPure](https://apkpure.com/de/gordon%E2%80%99s-sun-clock/de.ax12.zunclock)** (alternative)
 
 > *P.S. If you are on iOS: The app is currently only available for Android. With Apple, I would practically have to start from scratch. If you would like to test the app anyway, I see two options:*
