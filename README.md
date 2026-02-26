@@ -35,7 +35,7 @@ For more visual impressions and a detailed description in German, check out the 
 - **Agnihotra support**: Display precise Agnihotra times with countdown
 - **Tablet mode**: Hang on your wall as a living clock<!-- - **Accurate solar geometry worldwide**: From equator to poles-->
 - **Multi-language**: Deutsch, English, Español, Français, Русский, 中文 (translations or corrections welcome)
-- **Free & private**: No ads, privacy-friendly
+- **Free & private**: Free of charge, no ads, privacy-friendly
 
 ## About
 
