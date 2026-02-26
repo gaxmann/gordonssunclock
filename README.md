@@ -10,7 +10,7 @@ I was dissatisfied with standard time, the recurring time changes and the fact t
 
 The app is free, shows no ads, and is privacy-friendly. It's simply a gift from me to the world. 
 
-For more visual impressions and a detailed description in German, check out the Play Store page.
+For more visual impressions and a detailed description, check out the Play Store page.
 
 ## Download
 
