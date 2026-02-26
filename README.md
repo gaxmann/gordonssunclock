@@ -39,7 +39,7 @@ For more visual impressions and a detailed description in German, check out the 
 
 ## About
 
-I've been living with this clock for seven years, and it has taught me a lot. It helps reconnect with natural rhythms – not just daily, but seasonally. It's also fascinating for children to understand the movements of the stars intuitively.
+I've been living with this clock for seven years, and it has taught me a lot. It helps reconnect with natural rhythms – not just daily, but seasonally. It's also fascinating **for children** to understand the movements of the stars intuitively.
 
 Since June 2025 Sun Clock is available as an Android app. The app is also known as: astronomical clock, astronomy app, horologium, horologion, orloj, astrolabe, star clock, sky clock, single-hand clock, solar clock, temporal hour clock.
 
