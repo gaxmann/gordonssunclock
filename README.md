@@ -15,7 +15,7 @@ For more visual impressions and a detailed description in German, check out the 
 ## Download
 
 - **[Play Store](https://play.google.com/store/apps/details?id=de.ax12.zunclock)** (with automatic updates)
-- **"Aurora store"** (with automatic updates - search for "Gordon's Sun Clock", since direct linking is not available)
+- **"Aurora store"** (with automatic updates - search for "Sun Clock Gordon's", since direct linking is not available)
 - **[GitHub releases](https://github.com/gaxmann/gordonssunclock/releases/latest/download/zunclock.apk)** (apk downloads)
 - **[APKPure](https://apkpure.com/de/gordon%E2%80%99s-sun-clock/de.ax12.zunclock)** (alternative)
 
