@@ -117,6 +117,14 @@ The same rules are used for `"oridinalsh"`, which defines the short form of ordi
 
 ### Word Separation Rules
 
+For languages whose names cannot be represented in the Latin character set, an additional key `lang_latin` must exist, e.g. for Chinese 
+
+```json
+"lang_latin": "Zhōngwén",
+```
+
+### Word Separation Rules
+
 The language dictionary contains entries to help with correct word separation in your language. If you're unsure what to enter, leave them empty `[]`.
 
 Example entries:
