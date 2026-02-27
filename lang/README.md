@@ -115,9 +115,9 @@ The same rules are used for `"oridinalsh"`, which defines the short form of ordi
 ```
 ---
 
-### Word Separation Rules
+### Languages with special fonts (characters not included in FiraSans)
 
-For languages whose names cannot be represented in the Latin character set, an additional key `lang_latin` must exist, e.g. for Chinese 
+For languages whose names cannot be represented in the Latin character set, the key `lang_latin` must not be empty, e.g. for Chinese:
 
 ```json
 "lang_latin": "Zhōngwén",
