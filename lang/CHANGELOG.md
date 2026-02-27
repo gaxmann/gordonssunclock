@@ -2,6 +2,9 @@
 
 Keys that have been added, changed, or removed are listed here, as well as structural changes and language files that were added or removed, or whose support status changed.
 
+## [1.10] - 2026-02-27
+- **Added:** lang_latin
+
 ## [1.9] - 2026-02-24
 - **Added:** txradar
 
