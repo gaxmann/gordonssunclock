@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.9.4",
-        "updated": "2026-02-26 14:14:19"
+        "version": "1.9.5",
+        "updated": "2026-02-27 15:40:43"
     },
     "txwelcome": "Bienvenue",
     "quotes": [
@@ -90,6 +90,7 @@
         "it": "Italiano",
         "zh": "Chinois"
     },
+    "lang_latin": "",
     "txweathapi": "Météo",
     "txweathapiarr": {
         "auto": "automatique",
