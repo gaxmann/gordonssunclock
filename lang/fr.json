@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.9.5",
-        "updated": "2026-02-27 15:40:43"
+        "version": "1.10.2",
+        "updated": "2026-02-28 21:20:17"
     },
     "txwelcome": "Bienvenue",
     "quotes": [
@@ -140,7 +140,8 @@
     "txgordonssunclock": "Horloge solaire de Gordon",
     "txsunclock": "Horloge solaire",
     "txpartsupport": "[i]REMARQUE : (β) Cette langue n'est que partiellement prise en charge. Certaines sections sont donc en anglais. Toute aide est la bienvenue (Github). - Vous trouverez un bouton « Traduction automatique » sur la dernière page[/i]",
-    "txnosupport": "[i]REMARQUE : votre langue n'est pas encore traduite. Vous trouverez un bouton « Traduction automatique » sur la dernière page[/i]",
+    "txnosupport": "[i]REMARQUE : votre langue n'est pas (encore) traduite. Vous trouverez un bouton « Traduction automatique » sur la dernière page[/i]",
+    "txautotranslate": "[i]REMARQUE : Cette langue n’est pas (encore) officiellement prise en charge. Il s’agit d’une traduction automatique[/i]",
     "uebanleitung": "Instructions",
     "txanleitung": "[DF]{LANGSUPPORT}1. Activez la case {txgpsauto} afin de mettre à jour automatiquement votre position pendant l’utilisation. ({txgpsbutton} détermine votre position actuelle une seule fois et la mémorise.) Rien de plus n’est nécessaire pour le moment. – Pour une meilleure précision, voir {quotes|0-}4. {txshowagni-}{quotes|1-}.[~LF][~LF]Vous pouvez également saisir un nom de lieu ou une adresse dans le champ de texte (si votre appareil le permet) ou des coordonnées (par ex. 50.94, 6.96). Une 3e et une 4e saisie sont optionnelles : l’altitude approximative &bl;m], la température approximative au crépuscule &bl;°C]. Activez ensuite la case {txwelcomescr}. – Lors de modifications de données fondamentales, {txsunclock-} effectue un calcul journalier pouvant durer entre 1[NDASH]30 secondes selon l’appareil.[~LF][~LF]2. {txshowclock} affiche une horloge numérique en haut à droite du cadran. {txuhrsinn} définit si l’horloge tourne dans le sens horaire (sud) ou antihoraire : en changeant le sens de rotation, la partie du cercle solaire située sous l’horizon se trouve face à vous (détails voir page suivante).",
     "txmore": "[DF]3. {txnachtmodus} {txlangarr|auto-} bascule au coucher du Soleil, à −6° jusqu’à la fin du crépuscule, +6° avant. {txfarben} sélectionne différents cadrans.[~LF][~LF]4. {txfullscr} empêche l’extinction de l’écran et passe en plein écran. {txweathapi} superpose une prévision sur l’horloge (voir ci-dessous, connexion requise). {txagnihotra} affiche des repères pour l’aiguille solaire ainsi que l’heure du prochain passage du Soleil au zéro & compte à rebours. Six minutes avant l’Agnihotra, l’affichage est agrandi et les secondes sont affichées (⁺ = GPS actuel). – Si vos réglages ne sont pas pris en compte, touchez le bouton d’actualisation en bas à droite du cadran.[~LF][~LF]Vous pouvez zoomer dans le cadran avec deux doigts (ou par triple tap). Pour déplacer l’image zoomée, procédez lentement. Les mouvements rapides font passer à la page suivante. – La page suivante contient une explication du cadran.[DF]",

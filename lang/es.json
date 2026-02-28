@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.9.5",
-        "updated": "2026-02-27 15:40:43"
+        "version": "1.10.2",
+        "updated": "2026-02-28 21:20:17"
     },
     "txwelcome": "Bienvenido",
     "quotes": [
@@ -140,6 +140,7 @@
     "txsunclock": "Reloj de sol",
     "txpartsupport": "[i]NOTA: (β) Este idioma solo es compatible parcialmente. Por lo tanto, algunas secciones están en inglés. Se agradece cualquier ayuda (Github). - En la última página encontrará un botón «Traducción automática».[/i]",
     "txnosupport": "[i]NOTA: Su idioma aún no ha sido traducido. En la última página encontrará un botón «Traducción automática»[/i]",
+    "txautotranslate": "[i]AVISO: Este idioma no está (todavía) oficialmente soportado. Esta es una traducción automática[/i]",
     "uebanleitung": "Instrucciones",
     "txanleitung": "[DF]{LANGSUPPORT}1. Active la casilla {txgpsauto} para actualizar automáticamente su ubicación durante el uso. ({txgpsbutton} determina su posición actual una sola vez y la guarda.) Por el momento no es necesario nada más. – Para mayor precisión véase {quotes|0-}4. {txshowagni-}{quotes|1-}.[~LF][~LF]Alternativamente, puede introducir un nombre de lugar o una dirección en el campo de texto (si su dispositivo lo admite) o coordenadas (p. ej. 50.94, 6.96). Una 3.ª y 4.ª entrada son opcionales: la altitud aproximada &bl;m], la temperatura aproximada al crepúsculo &bl;°C]. A continuación active la casilla {txwelcomescr}. – Al cambiar datos básicos, {txsunclock-} realiza un cálculo diario que puede tardar entre 1[NDASH]30 segundos según el dispositivo.[~LF][~LF]2. {txshowclock} muestra un reloj digital en la parte superior derecha de la esfera. {txuhrsinn} define si el reloj gira en sentido horario (sur) o antihorario: al cambiar el sentido de giro, la parte del círculo solar situada bajo el horizonte queda frente a usted (detalles en la página siguiente).",
     "txmore": "[DF]3. {txnachtmodus} {txlangarr|auto-} cambia al atardecer, a −6° hasta el final del crepúsculo, +6° antes. {txfarben} selecciona diferentes esferas.[~LF][~LF]4. {txfullscr} evita que la pantalla se apague y cambia a pantalla completa. {txweathapi} superpone una previsión en el reloj (véase abajo, se requiere red). {txagnihotra} muestra marcas para el indicador solar así como la hora del próximo cruce cero del Sol & cuenta atrás. Seis minutos antes de Agnihotra la pantalla se amplía y se muestran los segundos (⁺ = GPS actual). – Si alguna vez no se aplican sus ajustes, toque el botón de actualización en la parte inferior derecha de la esfera.[~LF][~LF]Puede ampliar la esfera con dos dedos (o con triple toque). Para mover la imagen ampliada, hágalo lentamente. Los movimientos rápidos pasan a la página siguiente. – En la página siguiente encontrará una explicación de la esfera.[DF]",

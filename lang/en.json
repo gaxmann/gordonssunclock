@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.9.5",
-        "updated": "2026-02-27 15:40:43"
+        "version": "1.10.2",
+        "updated": "2026-02-28 21:20:17"
     },
     "txwelcome": "Welcome",
     "quotes": [
@@ -33,11 +33,11 @@
     "solcal_lph": [
         "Waxing (%)",
         "Arrival in light (%)",
-        "Light rest (%)",
-        "Farewell to light (%)",
+        "Light repose (%)",
+        "Departure from light (%)",
         "Waning (%)",
         "Arrival in darkness (%)",
-        "Dark rest (%)",
+        "Dark repose (%)",
         "Departure from darkness (%)"
     ],
     "moon": "Moon",
@@ -73,12 +73,12 @@
     "txtimezone": "Time zone",
     "txtimeformat": "24h format",
     "txsiformat": "Metric units",
-    "txshowclock": "Show time",
+    "txshowclock": "Show digital clock",
     "txwelcomescr": "Hide GPS notice",
     "txshowagni": "Agnihotra (GPS)",
     "txagnihotrain": "Agnihotra in: {agnih_countdo}",
     "txagnihotra": "Agnihotra",
-    "txedgescreen": "More edge",
+    "txedgescreen": "Extra margin",
     "txenlargeobj": "Large objects",
     "txuhrsinn": "Viewing direction",
     "txuhrsinnarr": {
@@ -146,7 +146,8 @@
     "txgordonssunclock": "Gordon’s Sun Clock",
     "txsunclock": "Sun Clock",
     "txpartsupport": "[i]NOTE: (β) This language is only partially supported. Therefore, some sections are in English. Support is welcome (Github). - On the last page, you will find an [ref=autotr][u]‘Auto-Translate’[/u][/ref] button[/i]",
-    "txnosupport": "[i]NOTE: Your language is not yet supported, so English is shown. An [ref=autotr][u]‘Auto-Translate’[/u][/ref] button is available on the last page[/i]",
+    "txnosupport": "[i]NOTE: Your language is not (yet) supported, so English is shown. An [ref=autotr][u]‘Auto-Translate’[/u][/ref] button is available on the last page[/i]",
+    "txautotranslate": "[i]NOTE: This language is not (yet) officially supported. This is an automatic translation[/i]",
     "uebanleitung": "Instructions",
     "txanleitung": "[DF]{LANGSUPPORT}1. Enable the checkbox {txgpsauto} to automatically update your location during use. ({txgpsbutton} determines your current position once and stores it.) Nothing more is required for now. – For higher accuracy see {quotes|0-}4. {txshowagni-}{quotes|1-}.[~LF][~LF]Alternatively, you may enter a place name or an address into the text field (if supported by your device) or coordinates (e.g. 50.94, 6.96). A 3rd and 4th entry are optional: approximate altitude &bl;m], approximate temperature at twilight &bl;°C]. Then enable the checkbox {txwelcomescr}. – When basic data are changed, {txsunclock-} performs a daily calculation which may take between 1[NDASH]30 seconds depending on the device.[~LF][~LF]2. {txshowclock} displays a digital clock at the upper right of the dial. {txuhrsinn} defines whether the clock runs clockwise (south) or counter-clockwise: when changing the direction of rotation, the part of the solar circle below the horizon is positioned in front of you (details see next page).",
     "txmore": "[DF]3. {txnachtmodus} {txlangarr|auto-} switches at sunset, at −6° until the end of twilight, +6° before it. {txfarben} selects different dials.[~LF][~LF]4. {txfullscr} prevents the screen from turning off and switches to full screen. {txweathapi} overlays a forecast on the clock (see below, network required). {txagnihotra} shows markers for the solar hand as well as the time of the next solar zero crossing & countdown. Six minutes before Agnihotra the display is enlarged and seconds are shown (⁺ = GPS current). – If your settings are not applied, tap the refresh button at the lower right of the dial.[~LF][~LF]You can zoom into the dial using two fingers (or triple tap). To move the zoomed image, do so slowly. Fast movements swipe to the next page. – On the next page you will find an explanation of the dial.[DF]",
