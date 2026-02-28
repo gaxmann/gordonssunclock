@@ -14,6 +14,9 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Word separation rules are now removed before packing the app
 - Texts updated, new keys for possible autotranslation
 
+### Fixed
+- Switching 24h depiction didn't recreate background image
+
 ## [2.69.1] - 2026-02-25 (Core optimisation)
 
 ### Added
