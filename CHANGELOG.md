@@ -15,7 +15,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Texts updated, new keys for possible autotranslation
 
 ### Fixed
-- Switching 24h depiction didn't recreate background image
+- 24h toggle did not recreate background image
 
 ## [2.69.1] - 2026-02-25 (Core optimisation)
 
