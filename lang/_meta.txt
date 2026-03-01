@@ -1,0 +1,12 @@
+{
+    "official_langs": {
+        "de": "Deutsch",
+        "en": "English",
+        "es": "Español",
+        "fr": "Français",
+        "ru": "Русский",
+        "zh": "Zhōngwén"
+    },
+    "alphamark": " (α)",
+    "betamark": " (β)"
+}
