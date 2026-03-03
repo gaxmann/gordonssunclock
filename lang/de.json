@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.10.3",
-        "updated": "2026-03-01 10:32:44"
+        "version": "1.11.1",
+        "updated": "2026-03-03 11:08:38"
     },
     "txwelcome": "Willkommen",
     "quotes": [
@@ -129,7 +129,8 @@
         "txgpsdeact": "GPS ist deaktiviert. Bitte aktivieren Sie GPS in Ihrer Geräteeinstellung",
         "activatewlan": "Ortung nicht möglich.[~LF][~LF]Sind WLAN und/oder Funknetz in Ihrer Geräteeinstellung aktiviert?",
         "updateexists": "Es gibt ein Update von Gordons Sonnenuhr mit Fehlerkorrekturen.[~LF][~LF]Ich empfehle ein Update der Software.",
-        "waitforgps": "Warten auf Standort...[~LF][~LF]Dies kann einige Sekunden dauern."
+        "waitforgps": "Warten auf Standort...[~LF][~LF]Dies kann einige Sekunden dauern.",
+        "autotravail": "Für [LANG] wurde eine automatisch erstellte Übersetzung geladen. Du kannst sie in den Einstellungen unter Sprache auswählen"
     },
     "txbodywrap": {
         "txgpsinstruct": "Um Ihren Standort anzupassen, wischen Sie 2x nach links",
