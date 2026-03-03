@@ -14,7 +14,8 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Calculation of lowest sun position optimised
 - Word separation rules are now removed before packing the app
 - Texts updated, new keys for possible autotranslation, new marker for language in alpha state (auto translated; beta means partially translated official language)
-- A fresh marker is also added at the weather on the dial after the sun hours: ⁺  
+- A fresh marker is also added at the weather on the dial after the sun hours: ⁺
+- Windstill image changed
 
 ### Fixed
 - 24h toggle now recreates "background image"
