@@ -7,11 +7,13 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ## [2.69.2] - 2026-02-xx
 
+### Added
+- Experimental: If system_lang is not within supported languages, an auto translation will be tried to download from my website. If successfull a popup will occur and the autotranslated language can be selected via the language selector (marked with "(α)" however)
+
 ### Changed
 - Calculation of lowest sun position optimised
 - Word separation rules are now removed before packing the app
 - Texts updated, new keys for possible autotranslation, new marker for language in alpha state (auto translated; beta means partially translated official language)
-- Experiments with auto tranlated language json for unsupported languages
 
 ### Fixed
 - 24h toggle now recreates "background image"
