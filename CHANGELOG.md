@@ -15,7 +15,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Texts updated, new keys for possible autotranslation, new marker for language in alpha state (auto translated; beta means partially translated official language)
 
 ### Fixed
-- 24h toggle now recreates background image
+- 24h toggle now recreates "background image"
 
 ## [2.69.1] - 2026-02-25 (Core optimisation)
 
