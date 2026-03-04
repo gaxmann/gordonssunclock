@@ -11,11 +11,12 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - [Experimental] If the system language is not among the supported languages, an auto-translation download will be attempted from my website. If successful, a popup appears and the auto-translated language (marked with "α") can be selected via the language selector
 
 ### Changed
+- Buffer for fontsize and saveappdata optimised (faster startup)
+- Optimised image file cache tracks viewport changes (faster startup)
+- Optimised caching for planet images when dark and light mode use the same asset
 - Calculation of lowest sun position optimised
 - Word separation rules are now removed before packing the app
 - Texts updated, new keys for possible autotranslation, new marker for language in alpha state (auto translated; beta means partially translated official language)
-- Optimised caching for planet images when dark and light mode use the same asset
-- Optimised image file cache tracks viewport changes (faster startup)
 - A fresh marker is also added at the weather on the dial after the sun hours: ⁺ . This is the reason why the stale marker was changed to "⚒" to avoid confusion
 - Wind calm image changed
 - Popup time display increased
