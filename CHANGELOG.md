@@ -18,6 +18,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Optimised image file cache tracks viewport changes (faster startup)
 - A fresh marker is also added at the weather on the dial after the sun hours: ⁺
 - Wind calm image changed
+- Popup time display increased
 
 ### Fixed
 - 24h toggle now recreates "background image"
