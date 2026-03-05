@@ -11,8 +11,8 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - [Experimental option] If the system language is not among the supported languages, an auto-translation download will be attempted from my website. If successful, a popup appears and the auto-translated language (marked with "α") can be selected via the language selector
 
 ### Changed
-- Buffer for fontsize and saveappdata optimised (faster startup)
-- Optimised image file cache tracks viewport changes (faster startup)
+- Buffer for setfontsize and saveappdata optimised (faster startup)
+- Optimised image file cache tracks viewport and image size changes (faster startup)
 - Optimised caching for planet images when dark and light mode use the same asset
 - Calculation of lowest sun position optimised
 - Word separation rules are now removed before packing the app
