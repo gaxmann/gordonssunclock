@@ -19,7 +19,6 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Texts updated, new keys for possible autotranslation, new marker for language in alpha state (auto translated; beta means partially translated official language)
 - Fresh marker is also to the weather on the dial (after sun hours): "⁺". Therefore stale marker was changed to "⚒" to avoid confusion
 - Wind calm image modified
-- Popup time increased
 
 ### Fixed
 - 24h toggle now recreates "background image"
