@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.12.2",
-        "updated": "2026-03-05 16:51:39"
+        "version": "1.12.3",
+        "updated": "2026-03-05 18:14:53"
     },
     "txwelcome": "Willkommen",
     "quotes": [
@@ -130,7 +130,7 @@
         "activatewlan": "Ortung nicht möglich.[~LF][~LF]Sind WLAN und/oder Funknetz in Ihrer Geräteeinstellung aktiviert?",
         "updateexists": "Es gibt ein Update von Gordons Sonnenuhr mit Fehlerkorrekturen.[~LF][~LF]Ich empfehle ein Update der Software.",
         "waitforgps": "Warten auf Standort...[~LF][~LF]Dies kann einige Sekunden dauern.",
-        "autotravail": "Für [LANG] wurde eine automatisch erstellte Übersetzung geladen. Sie können in den Einstellungen unter {txlang} eine der offiziellen Sprachen auswählen."
+        "autotravail": "Für [LANG] wurde eine automatisch erstellte Übersetzung geladen.[~LF][~LF]In den Einstellungen können Sie zu einer offiziellen Sprache wechseln."
     },
     "txbodywrap": {
         "txgpsinstruct": "Um Ihren Standort anzupassen, wischen Sie 2x nach links",
