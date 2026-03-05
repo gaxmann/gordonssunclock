@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.12.1",
-        "updated": "2026-03-05 14:52:22"
+        "version": "1.12.2",
+        "updated": "2026-03-05 16:51:39"
     },
     "txwelcome": "Welcome",
     "quotes": [
@@ -137,7 +137,7 @@
         "activatewlan": "Location unavailable.[~LF][~LF]Are Wi-Fi and/or mobile networks enabled in your device settings?",
         "updateexists": "There is an update for Gordon's Sun Clock with bug fixes.[~LF][~LF]I recommend updating the software.",
         "waitforgps": "Location is being determined...[~LF][~LF]This may take a few seconds.",
-        "autotravail": "An automatically generated translation for [LANG] has been loaded. You can select it in the settings under Language"
+        "autotravail": "An automatically generated translation for [LANG] has been loaded. You can select one of the official languages in the settings under {txlang}."
     },
     "txbodywrap": {
         "txgpsinstruct": "To adjust your location, swipe left twice",

@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.12.1",
-        "updated": "2026-03-05 14:52:22"
+        "version": "1.12.2",
+        "updated": "2026-03-05 16:51:39"
     },
     "txwelcome": "Bienvenue",
     "quotes": [
@@ -131,7 +131,7 @@
         "activatewlan": "Localisation indisponible.[~LF][~LF]Le Wi-Fi et/ou les réseaux mobiles sont-ils activés dans les paramètres de votre appareil ?",
         "updateexists": "Il y a une mise à jour pour l'Horloge solaire de Gordon avec des corrections de bugs.[~LF][~LF]Je recommande de mettre à jour le logiciel.",
         "waitforgps": "Détermination de la position en cours...[~LF][~LF]Cela peut prendre quelques secondes.",
-        "autotravail": "Une traduction générée automatiquement pour [LANG] a été chargée. Vous pouvez la sélectionner dans les paramètres, sous Langue"
+        "autotravail": "Une traduction générée automatiquement pour [LANG] a été chargée. Vous pouvez sélectionner l’une des langues officielles dans les paramètres sous {txlang}."
     },
     "txbodywrap": {
         "txgpsinstruct": "Pour ajuster votre emplacement, balayez 2x vers la gauche",
