@@ -8,7 +8,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.69.2] - 2026-02-xx
 
 ### Added
-- [Experimental option] If the system language is not among the supported languages, an auto-translation download will be attempted from my website. If successful, a popup appears and the auto-translated language (marked with "α") can be selected via the language selector
+- [Experimental] If the system language is not among the supported languages, an auto-translation download will be attempted from my website. If successful, a popup appears and the auto-translated language (marked with "α") can be selected via the language selector
 
 ### Changed
 - Buffer for setfontsize and saveappdata optimised (faster startup)
