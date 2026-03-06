@@ -15,8 +15,8 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Optimised resized image file cache tracks viewport and size changes (faster startup)
 - Optimised caching for planet images when dark and light mode use the same asset
 - Calculation of lowest sun position optimised
-- Word separation rules are now removed before packing the app (smaller apk size)
-- Texts updated, new keys for possible autotranslation, new marker for language in alpha state (auto translated; beta means partially translated official language)
+- Word separation rules are now removed before packing the app (smaller size)
+- Texts updated, new lang keys for autotranslation in use, new marker for language (alpha = auto translated; beta = partially translated supported language)
 - Fresh marker is also to the weather on the dial (after sun hours): "⁺". Therefore stale marker was changed to "⚒" to avoid confusion
 - Wind calm image modified
 
