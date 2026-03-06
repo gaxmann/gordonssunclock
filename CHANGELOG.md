@@ -12,7 +12,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - Buffer for setfontsize and saveappdata optimised (faster startup)
-- Optimised image file cache tracks viewport and image size changes (faster startup)
+- Optimised resized image file cache tracks viewport and size changes (faster startup)
 - Optimised caching for planet images when dark and light mode use the same asset
 - Calculation of lowest sun position optimised
 - Word separation rules are now removed before packing the app (smaller apk size)
