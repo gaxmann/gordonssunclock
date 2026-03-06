@@ -18,7 +18,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Word separation rules are now removed before packing the app (smaller size)
 - Texts updated, new lang keys for autotranslation in use, new marker for language (alpha = auto translated; beta = partially translated supported language)
 - Fresh marker added also to the weather on the dial: "⁺". Therefore stale marker was changed to "◵" to avoid confusion
-- Wind calm image modified
+- Wind calm image modified in png and ttf
 
 ### Fixed
 - 24h toggle now recreates "background image"
