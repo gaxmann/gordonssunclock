@@ -24,7 +24,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - 24h toggle now recreates "background image"
 - Square brackets containing text that must be translated are now written as {sb0|1}
 
-## [2.69.1] - 2026-02-25 (Core optimisation)
+## [2.69.1-public] - 2026-02-25 (Core optimisation)
 
 ### Added
 - Sun/Moon ephemeris sampling now computed in vectorised Skyfield batches instead of per-step calls (3-5× faster dial calculation)
