@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.12.8",
-        "updated": "2026-03-06 19:33:25"
+        "version": "1.12.9",
+        "updated": "2026-03-07 10:24:45"
     },
     "txwelcome": "欢迎",
     "quotes": [
@@ -184,19 +184,5 @@
     "txchangelog": "更新内容",
     "txanleitung4": "[DF]如果您发现了错误，我很乐意进行修正。为此，我需要错误发生的时间和位置的说明（如有可能请附带屏幕截图）。如果能在错误发生后尽快提供下方日志的屏幕截图，也会非常有帮助（电子邮件联系：[CONTACTSUPPORT]）。[~LF][~LF]致谢：Brandon Rhodes（Skyfield）、Rolf、Greg Miller 以及所有测试人员。图片：NASA/ SOHO、ESA/ Hubble、NASA/ JPL-Caltech（公有领域）。天气数据：Open-Meteo.com（CC BY 4.0）、MET Norway（CC BY 4.0）。详情：\"design/ COPYRIGHT.txt\"。[~LF][~LF]{txsunclock} 免费提供。请尽情使用。如果您希望支持我的工作，可在此找到我的网站：[DF][DF]",
     "txkaffee": "访问网站",
-    "solcalmonthsxx": [
-        "新二月%天",
-        "新三月%天",
-        "新四月%天",
-        "新五月%天",
-        "新六月%天",
-        "新七月%天",
-        "新八月%天",
-        "新九月%天",
-        "新十月%天",
-        "新十一月%天",
-        "新十二月%天",
-        "新一月%天"
-    ],
     "XXEOF": ""
 }

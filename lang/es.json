@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.12.8",
-        "updated": "2026-03-06 19:33:25"
+        "version": "1.12.9",
+        "updated": "2026-03-07 10:24:45"
     },
     "txwelcome": "Bienvenido",
     "quotes": [
@@ -224,19 +224,5 @@
     "txchangelog": "¿Qué hay de nuevo?",
     "txanleitung4": "[DF]Si ha encontrado un error, con gusto lo corregiré. Para ello necesito una descripción de dónde y cuándo ocurrió el error (posiblemente con una captura de pantalla). También es útil una captura de pantalla del registro que se muestra a continuación, tomada lo antes posible después de que ocurra el error (contacto por correo electrónico: [CONTACTSUPPORT]).[~LF][~LF]Gracias a: Brandon Rhodes (Skyfield), Rolf, Greg Miller y todos los testers. Imágenes: NASA/ SOHO, ESA/ Hubble, NASA/ JPL-Caltech (dominio público). Datos meteorológicos: Open-Meteo.com (CC BY 4.0), MET Norway (CC BY 4.0). Detalles: \"design/ COPYRIGHT.txt\".[~LF][~LF]{txsunclock} se ofrece de forma gratuita. Simplemente disfrútela. Si desea apoyar mi trabajo, puede encontrar mi sitio web aquí:[DF][DF]",
     "txkaffee": "Ir a la página web",
-    "solcalmonthsxx": [
-        "% nuevo febr",
-        "% nuevo marzo",
-        "% nuevo abril",
-        "% nuevo mayo",
-        "% nuevo junio",
-        "% nuevo julio",
-        "% nuevo agos",
-        "% nuevo sept",
-        "% nuevo octu",
-        "% nuevo novi",
-        "% nuevo dici",
-        "% nuevo enero"
-    ],
     "XXEOF": ""
 }
