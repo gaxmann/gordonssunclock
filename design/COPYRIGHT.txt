@@ -30,6 +30,16 @@ File(s): NotoSansSC-Regular.ttf
 Notes: Simplified Chinese support
 
 
+Font: Noto Sans Devanagari Regular
+--------------------
+Copyright: Copyright 2014-2023 Adobe (http://www.adobe.com/), with Reserved Font Names 'Noto' and 'Adobe'
+Source: Google Fonts (https://fonts.google.com)
+License: SIL Open Font License (OFL) 1.1
+License URL: https://openfontlicense.org
+File(s): NotoSansDevanagari-Regular.ttf
+Notes: Hindi / Devanagari script support
+
+
 Font: DejaVu Sans
 --------------------
 Copyright: (c) 2003-2008 DejaVu fonts team
