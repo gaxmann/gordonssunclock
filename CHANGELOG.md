@@ -8,7 +8,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.69.2] - 2026-02-xx
 
 ### Added
-- [Experimental option, not yet activated] If the system language is not among the supported languages, an auto-translation download will be attempted from my website. If successful, a popup appears and the auto-translated language (marked with "α") can be selected via the language selector
+- [Experimental] The app now ships with a number of auto-translated languages as JSON files. These languages appear in the normal language selector and are marked with "α" to indicate that they were automatically translated
 
 ### Changed
 - Buffer for setfontsize and saveappdata optimised (faster startup)
