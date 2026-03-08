@@ -5,7 +5,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.69.2] - 2026-02-xx
+## [2.69.2] - 2026-02-xx (Auto translations)
 
 ### Added
 - [Experimental] The app now ships with additional auto-translated languages. These languages appear in the normal language selector and are marked with "α". As this feature is experimental, the set of available auto-translated languages may change or be removed at any time
