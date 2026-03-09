@@ -8,7 +8,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.69.2] - 2026-02-xx (Auto translations)
 
 ### Added
-- [Experimental] The app now ships with additional auto-translated languages. These languages are marked with "α". - As this feature is experimental, the set of available auto-translated languages may change (or be removed) at any time
+- [Experimental] The app now ships with additional auto-translated languages. These languages are marked with "α". Auto-translated languages included: Português, Türkçe, Italiano. - As this feature is experimental, the set of available auto-translated languages may change (or be removed) at any time
 
 ### Changed
 - Buffer for setfontsize and saveappdata optimised (faster startup)
@@ -18,7 +18,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Word separation rules are now removed before packing the app (smaller size)
 - Fresh marker added also to the weather on the dial: "⁺". Therefore stale marker was changed to "◵" to avoid confusion
 - Wind calm image modified in png and ttf
-- New lang keys for autotranslation option, new marker for languages (alpha = auto translated)
+- New lang keys for autotranslation option, new marker for languages (α = auto translated)
 
 ### Fixed
 - 24h toggle now recreates "background image"
