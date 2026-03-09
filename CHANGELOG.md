@@ -8,7 +8,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.69.2] - 2026-02-xx (Auto translations)
 
 ### Added
-- [Experimental] The app now ships with additional auto-translated languages. These languages appear in the normal language selector and are marked with "α". As this feature is experimental, the set of available auto-translated languages may change or be removed at any time
+- [Experimental] The app now ships with additional auto-translated languages. These languages are marked with "α". - As this feature is experimental, the set of available auto-translated languages may change (or be removed) at any time
 
 ### Changed
 - Buffer for setfontsize and saveappdata optimised (faster startup)
@@ -16,9 +16,9 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Optimised caching for planet images when dark and light mode use the same asset
 - Calculation of lowest sun position optimised
 - Word separation rules are now removed before packing the app (smaller size)
-- Texts updated, new lang keys for autotranslation in use, new marker for language (alpha = auto translated; beta = partially translated supported language)
 - Fresh marker added also to the weather on the dial: "⁺". Therefore stale marker was changed to "◵" to avoid confusion
 - Wind calm image modified in png and ttf
+- New lang keys for autotranslation option, new marker for languages (alpha = auto translated)
 
 ### Fixed
 - 24h toggle now recreates "background image"
