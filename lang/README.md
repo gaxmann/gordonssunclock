@@ -42,9 +42,7 @@ This level ensures basic usability while keeping translation effort minimal.
 
 ### Machine translated languages
 
-Machine translated languages may also be included in the app in the `autotr` directory. These languages can be selected via the normal language selector and are marked with "α" to indicate that they were translated automatically. The quality is expected to be less good.
-
-As this is an experimental feature, the set of available machine translated languages may change or be removed at any time.
+Machine translated languages may also be included in the app (see `./lang/autotr` directory). These languages are marked with "α" to indicate that they were translated automatically. The quality is likely to be lower. _(As this is an experimental feature, the set of available machine translated languages may change or be removed at any time.)_
 
 ---
 
