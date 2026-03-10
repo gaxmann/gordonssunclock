@@ -1,13 +1,13 @@
 {
     "version": "1.12.12",
-    "official_langs": [
-        "en",
-        "zh",
-        "ru",
-        "de",
-        "es",
-        "fr"
-    ],
+    "official_langs": {
+        "de": "Deutsch",
+        "en": "English",
+        "es": "Español",
+        "fr": "Français",
+        "ru": "Русский",
+        "zh": "Zhongwen"
+    },
     "alphamark": " (α)",
     "betamark": " (β)"
 }
