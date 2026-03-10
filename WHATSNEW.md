@@ -7,12 +7,11 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ## [2.69] - 2026-02-25 (Core optimisation)
 
-- Improved weather visualisation, rain radar, major performance update, auto-translated languages added  (trial), bug fixes 
+- Improved weather visualisation, rain radar, major performance update, auto-translated languages added (trial), bug fixes 
 
 ## [2.68-stable] - 2026-02-14 (Weather overview)
 
-- Optional drama-free weather view with a clear icon-based daily outlook
-- Many bug fixes (faster startup)
+- Optional drama-free weather view with a clear icon-based daily outlook, many bug fixes (faster startup)
 
 ## [2.65] - 2025-12-16 (Light seasons)
 
