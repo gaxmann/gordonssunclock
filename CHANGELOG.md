@@ -8,7 +8,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.69.3] - 2026-03-xx
 
 ### Changed
-- Auto dial center clock starts quicker
+- Auto dial centering starts quicker after startup (for wall clocks)
 
 ## [2.69.2-public] - 2026-03-10
 
