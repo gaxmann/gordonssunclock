@@ -13,7 +13,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.69.2-public] - 2026-03-10
 
 ### Added
-- [Experimental] The app now ships with additional auto-translated languages: Português, Türkçe, Italiano. Auto-translated languages are marked with "α". – _As this feature is experimental and dependent on other servies, the set of available auto-translated languages may change (or be removed) at any time_
+- [Experimental] The app now ships with additional auto-translated languages: Português, Türkçe, Italiano. Auto-translated languages are marked with "α". – _As this feature is experimental and dependent on other services, the set of available auto-translated languages may change (or be removed) at any time_
 
 ### Changed
 - Buffer for setfontsize and saveappdata optimised (faster startup)
