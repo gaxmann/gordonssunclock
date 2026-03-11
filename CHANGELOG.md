@@ -5,10 +5,11 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.69.3] - 2026-03-xx
+## [2.69.3] - 2026-03-xx (Time shift) 2.70
 
 ### Added
 - Error popup when auto translated language is suddenly missing
+- Time shift added to move the dial forwards and backwards in time
 
 ### Changed
 - Auto dial centering starts quicker after startup (for wall clocks)
