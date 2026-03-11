@@ -9,7 +9,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Added
 - Error popup when auto translated language is suddenly missing
-- Time shift added to move the dial forwards and backwards in time
+- Time shift added to move the dial forward and backward in time
 
 ### Changed
 - Auto dial centering starts quicker after startup (for wall clocks)
