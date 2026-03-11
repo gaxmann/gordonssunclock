@@ -9,6 +9,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - Auto dial centering starts quicker after startup (for wall clocks)
+- Error popup when auto translated language is suddenly missing
 
 ## [2.69.2-public] - 2026-03-10
 
