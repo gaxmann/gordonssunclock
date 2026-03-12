@@ -16,6 +16,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Texts updated
 
 ### Fixed
+- Error with font cache when changing to fullscreen (clock font too small)
 - Error with fns prefix
 - Moon terminator shadow image cached
 - Errors with time.time instead of utc_timeshift
