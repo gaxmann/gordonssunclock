@@ -5,10 +5,10 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.69.3] - 2026-03-xx (Time shift) 2.70
+## [2.69.3] - 2026-03-xx (Time control) 2.70
 
 ### Added
-- Time shift added to move the dial forward and backward in time: red border when time shifting, processing animation when calulating
+- Time control added to move the dial forward and backward in time: red border when time shifting, processing animation when calulating
 - Error popup when auto translated language is suddenly missing
 
 ### Changed
