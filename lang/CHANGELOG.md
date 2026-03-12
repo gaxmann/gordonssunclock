@@ -3,7 +3,7 @@
 Keys that have been added, changed, or removed are listed here, as well as structural changes and language files that were added or removed, or whose support status changed.
 
 ## [1.13] - 2026-03-12
-- **Added:** txpopupbody/noautotrlg, txtimeshift, txcalcing, txtimeshstart
+- **Added:** txpopupbody/updatenote, txpopupbody/noautotrlg, txtimeshift, txtimeshstart, txcalcing
 
 ## [1.12] - 2026-03-05
 - **Structure:** Square brackets containing text that must be translated are now written as {sb0|1}
