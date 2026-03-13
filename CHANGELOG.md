@@ -20,6 +20,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Error with fns prefix
 - Moon terminator shadow image cached
 - Errors with time.time instead of utc_timeshift
+- Superfluous onchange set value removed
 
 ## [2.69.2-public] - 2026-03-10
 
