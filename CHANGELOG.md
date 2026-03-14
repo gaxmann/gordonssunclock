@@ -12,7 +12,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Download (and delete) button added for de421 ephemeris to be able to view the sky outside the default range (2024–2040)
 - Error popup when auto translated language is suddenly missing
 - Flexible range control for different ephemeris datasets
-- Added protection mode for public wall clocks
+- Added protection mode for public wall clocks. Prevents access to the Settings and About pages
 
 ### Changed
 - Auto-centering of the dial starts quicker after startup (for wall clocks)
