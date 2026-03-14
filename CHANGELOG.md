@@ -8,21 +8,21 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.70] - 2026-03-xx (Time control)
 
 ### Added
-- Time control added to move the dial forward and backward in time: red border when time shifting, processing animation when calulating
+- Time control mode added to move the dial forward and backward in time: red border when time shifting, processing animation when calculating
 - Download button added for de421 ephemeris to be able to view the sky outside the default range (2024–2040)
 - Error popup when auto translated language is suddenly missing
 
 ### Changed
 - Auto dial centering starts quicker after startup (for wall clocks)
 - Solar calendar optimised to use a smaller ephemeris search range
-- Texts updated
+- Text updates
 
 ### Fixed
 - Error with font cache when changing to fullscreen (clock font too small)
 - Error with fns prefix
 - Moon terminator image cached
 - Errors with time.time instead of utc_timeshift
-- Superfluous onchange set value removed
+- Superfluous "onchange set value" removed
 
 ## [2.69.2-public] - 2026-03-10
 
