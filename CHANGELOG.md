@@ -9,7 +9,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Added
 - Time control mode added to move the dial forward and backward in time: red border when time shifting, processing animation when calculating
-- Download button added for de421 ephemeris to be able to view the sky outside the default range (2024–2040)
+- Download (and delete) button added for de421 ephemeris to be able to view the sky outside the default range (2024–2040)
 - Error popup when auto translated language is suddenly missing
 - Flexible range control for different ephemeris datasets
 
