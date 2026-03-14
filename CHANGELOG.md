@@ -14,6 +14,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - Auto dial centering starts quicker after startup (for wall clocks)
+- Solar calendar optimised to use a smaller ephemeris search range
 - Texts updated
 
 ### Fixed
