@@ -9,6 +9,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Added
 - Time control added to move the dial forward and backward in time: red border when time shifting, processing animation when calulating
+- Download button added for de421 ephemeris, if user wants to check the sky outside of the excerpt range (currently 2024-2040)
 - Error popup when auto translated language is suddenly missing
 
 ### Changed
