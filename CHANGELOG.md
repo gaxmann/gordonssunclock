@@ -14,7 +14,8 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Flexible range control for different ephemeris datasets
 
 ### Changed
-- Auto dial centering starts quicker after startup (for wall clocks)
+- Auto-centering of the dial starts quicker after startup (for wall clocks)
+- After 5 min: dial position and zoom reset, exit time control mode and return to the dial screen (mainly for wall clocks)
 - Solar calendar optimised to use a smaller ephemeris search range 
 - Text updates
 
