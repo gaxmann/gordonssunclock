@@ -3,7 +3,7 @@
 Keys that have been added, changed, or removed are listed here, as well as structural changes and language files that were added or removed, or whose support status changed.
 
 ## [1.14] - 2026-03-14
-- **Added:** txephdownld, txephdelete
+- **Added:** txanleitung5, txephdownld, txephdelete
 
 ## [1.13] - 2026-03-12
 - **Added:** txpopupbody/updatenote, txpopupbody/noautotrlg, txtimecontrol, txtimecstart, txcalcing
