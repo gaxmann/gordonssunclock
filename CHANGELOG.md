@@ -23,6 +23,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Fixed
 - Error with font cache when changing to fullscreen (clock font too small)
 - Error with fns prefix
+- Error with an element behind the digital clock for slow devices and ont the first startup after installation for all devices
 - Moon terminator image cached
 - Errors with time.time instead of utc_timeshift
 - Superfluous "onchange set value" removed
