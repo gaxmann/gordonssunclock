@@ -13,10 +13,10 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Error popup if an auto-translated language is suddenly missing
 - Flexible range control for different ephemeris datasets, switchable
 - Protection mode added for public wall clocks to prevent access to the Settings and About pages
+- After 5 min: dial position and zoom reset, exit time control mode and return to the dial screen (mainly for wall clocks)
 
 ### Changed
 - Auto-centering of the dial starts quicker after startup (for wall clocks)
-- After 5 min: dial position and zoom reset, exit time control mode and return to the dial screen (mainly for wall clocks)
 - Solar calendar optimised to use a smaller ephemeris search range 
 - Text updates
 
