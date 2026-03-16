@@ -17,6 +17,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - Auto-centering of the dial starts quicker after startup (for wall clocks)
+- Weather data is now located further up on the data page in a single block
 - Solar calendar optimised to use a smaller ephemeris search range 
 - Text updates
 
