@@ -10,9 +10,9 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Added
 - Time control mode added to move the dial forward and backward in time: red border when time shifting, processing animation when calculating
 - Download (and delete) button added for de421 ephemeris to be able to view the sky outside the default range (2024–2040)
-- Error popup when auto translated language is suddenly missing
+- Error popup if an auto-translated language is suddenly missing
 - Flexible range control for different ephemeris datasets, switchable
-- Protection mode added for public wall clocks. Prevents access to the Settings and About pages
+- Protection mode added for public wall clocks to prevent access to the Settings and About pages
 
 ### Changed
 - Auto-centering of the dial starts quicker after startup (for wall clocks)
@@ -23,7 +23,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Fixed
 - Error with font cache when changing to fullscreen (clock font too small)
 - Error with fns prefix
-- Error with an element behind the digital clock for slow devices and ont the first startup after installation for all devices
+- Error with an element behind the digital clock for slow devices and on the first startup after installation for all devices
 - Moon terminator image cached
 - Errors with time.time instead of utc_timeshift
 - Superfluous "onchange set value" removed
