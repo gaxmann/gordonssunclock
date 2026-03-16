@@ -27,6 +27,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Moon terminator image cached
 - Errors with time.time instead of utc_timeshift
 - Superfluous "onchange set value" removed
+- Agnihotra marks on dial were not shown anymore
 
 ## [2.69.2-public] - 2026-03-10
 
