@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.14.1",
-        "updated": "2026-03-15 17:30:02"
+        "version": "1.14.2",
+        "updated": "2026-03-16 18:03:18"
     },
     "txwelcome": "欢迎",
     "quotes": [
@@ -162,7 +162,7 @@
     "txautotranslate": "[i]提示：(α) 此语言（尚未）得到官方支持。此为自动翻译[/i]",
     "uebanleitung": "说明",
     "txanleitung": "[DF]{LANGSUPPORT}1. 勾选 {txgpsauto}，以在使用期间自动更新您的位置。({txgpsbutton} 会一次性确定并保存当前坐标。) 目前不需要更多设置。– 如需更高精度，请参见 {quotes|0-}4. {txshowagni-}{quotes|1-}.[~LF][~LF]或者，您也可以在文本框中输入地名或地址（如果设备支持），或直接输入坐标（例如 50.94, 6.96）。第 3 和第 4 项为可选：大致海拔 &bl;m]，黄昏时的大致温度 &bl;°C]。随后勾选 {txwelcomescr}。– 当基础数据发生变化时，{txsunclock-} 会执行一次日计算，根据设备不同可能需要 1[NDASH]30 秒。[~LF][~LF]2. {txshowclock} 会在表盘右上角显示数字时钟。{txuhrsinn} 用于设置时钟是顺时针（南方）还是逆时针运行：当改变旋转方向时，位于地平线以下的太阳圆环部分会显示在您面前（详见下一页）。",
-    "txmore": "[DF]3. {txnachtmodus} {txlangarr|auto-} 在日落时切换，在 −6° 到暮光结束之间，以及其前 +6°。{txfarben} 用于选择不同的表盘。[~LF][~LF]4. {txfullscr} 防止屏幕关闭并切换到全屏模式。{txweathapi} 在时钟上叠加天气预报（见下文，需要网络）。{txagnihotra} 显示太阳指针的标记，以及下一次太阳零点通过的时间 & 倒计时。Agnihotra 前 6 分钟，显示会放大并显示秒数（⁺ = GPS 为当前）。如果您的设置有时未被应用，请点击表盘右下角的 [font=DejaVuSans.ttf]⟳[/font] 按钮。[~LF][~LF]您可以用两根手指放大表盘（或三击）。如果要移动放大的画面，请慢慢移动。快速滑动会切换到下一页。- 使用 [font=DejaVuSans.ttf]✸[/font] 按钮可激活 {txtimecontrol}（见下一页）。",
+    "txmore": "[DF]3. {txnachtmodus} {txlangarr|auto-} 在日落时切换，在 −6° 到暮光结束之间，以及其前 +6°。{txfarben} 用于选择不同的表盘。{txedgescreen} 增加与屏幕边缘的距离。[~LF][~LF]4. {txfullscr} 防止屏幕关闭并切换到全屏模式。{txweathapi} 在时钟上叠加天气预报（见下文，需要网络）。{txagnihotra} 显示太阳指针的标记，以及下一次太阳零点通过的时间 & 倒计时。Agnihotra 前 6 分钟，显示会放大并显示秒数（⁺ = GPS 为当前）。如果您的设置有时未被应用，请点击表盘右下角的 [font=DejaVuSans.ttf]⟳[/font] 按钮。[~LF][~LF]您可以用两根手指放大表盘（或三击）。如果要移动放大的画面，请慢慢移动。快速滑动会切换到下一页。- 使用 [font=DejaVuSans.ttf]✸[/font] 按钮可激活 {txtimecontrol}（见下一页）。",
     "txlegende": "[DF][b]–– 表盘图例:[/b][~LF][~LF]天气：当前气温，上方为当日数据(⁺ = 当前)：降水（{s_sn-} = 雪），日照时数，上方符号（{wx/dry} 干燥, {wx/uncertain} 不确定, {wx/wind} 有风）；星期 = 明日；灰色 = 旧数据[DF][DF][DF]",
     "txdata": "[DF]数据",
     "txlocdata": "[DF]您所在位置的计算结果与天文年鉴一致，误差约为 0.0005 角秒³：[DF]",
@@ -188,10 +188,11 @@
     "txanleitungprg": "[DF]Gordon-太阳时钟[~LF]版本 [VERSIONNUM][~LF]Gordon Axmann[~LF]版权 2019-[VERSIONYEAR]",
     "txanleitung3": "[DF]本软件是一个免费的私人项目。请按其原样使用。原则上不收集或传输任何个人数据。运行不需要互联网连接。有关可选功能（天气显示、地名解析）、错误报告和更新检查的详细信息，请参阅隐私政策。[DF][DF]",
     "txchangelog": "更新内容",
-    "txanleitung4": "[DF]如果您发现了错误，我很乐意进行修正。为此我需要说明错误发生的时间和位置（最好附带截图）。如果能在错误出现后尽快提供下方日志的截图，也会很有帮助（邮件联系：[CONTACTSUPPORT]）。对于 {txtimecontrol}，您可以在这里下载额外的星历数据（也可以再次删除：约 17 MB，见上一页）。[DF][DF]",
+    "txanleitung4": "[DF]如果您发现了错误，我很乐意进行修正。为此我需要说明错误发生的时间和位置（最好附带截图）。如果能在错误出现后尽快提供下方日志的截图，也会很有帮助（邮件联系：[CONTACTSUPPORT]）。[~LF][~LF]感谢：Brandon Rhodes（Skyfield）、Rolf、Greg Miller 以及所有测试人员。图片：NASA/ SOHO、ESA/ Hubble、NASA/ JPL-Caltech（公共领域）。天气数据：Open-Meteo.com（CC BY 4.0）、MET Norway（CC BY 4.0）。详情：{quotes|0-}design/ COPYRIGHT.txt{quotes|1-}。[~LF][~LF]{txsunclock} 向您免费提供。希望您能从中获得乐趣。如果您愿意支持我的工作，可以在这里访问我的网站。 - 对于 {txtimecontrol}，您可以在这里下载额外的星历数据（也可以再次删除：约 17 MB，见上一页）。[DF][DF]",
     "txephdownld": "加载星历",
+    "txloading": "加载中...",
     "txephdelete": "删除星历",
-    "txanleitung5": "[DF]致谢：Brandon Rhodes（Skyfield）、Rolf、Greg Miller 以及所有测试人员。图片：NASA/ SOHO、ESA/ Hubble、NASA/ JPL-Caltech（公有领域）。天气数据：Open-Meteo.com（CC BY 4.0）、MET Norway（CC BY 4.0）。详情：\"design/ COPYRIGHT.txt\"。[~LF][~LF]{txsunclock} 免费提供。请尽情使用。如果您希望支持我的工作，可在此找到我的网站：[DF][DF]",
+    "txpressagain": "真的删除吗？",
     "txkaffee": "访问网站",
     "XXEOF": ""
 }
