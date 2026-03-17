@@ -22,6 +22,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Text updates
 
 ### Fixed
+- Fixed issue where location updates caused a delay in displaying the watch face on startup
 - Error with font cache when changing to fullscreen (clock font too small)
 - Error with fns prefix
 - Error with an element behind the digital clock for slow devices and on the first startup after installation for all devices
