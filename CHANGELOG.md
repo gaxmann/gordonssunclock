@@ -24,6 +24,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Fixed
 - Startup with GPS: Location services/request permissions caused a delay in displaying the dial on startup
 - Error with font cache when changing to fullscreen (clock font too small)
+- Error with background colour of star symbols (wasn't saved)
 - Error with fns prefix
 - Error with an element behind the digital clock for slow devices and on the first startup after installation for all devices
 - Moon terminator image cached
