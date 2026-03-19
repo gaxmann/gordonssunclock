@@ -8,7 +8,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.70] - 2026-03-xx (Time control)
 
 ### Added
-- Display of the 5 most significant meteor showers at the times when they reach their peak (shows radiant and approximate viewing area)
+- [Experimental] Display of the 5 most significant meteor showers at the times when they reach their peak (shows radiant and approximate viewing area)
 - Time control mode added to move the dial forward and backward in time: red border when time shifting, processing animation when calculating
 - Download (and delete) button added for de421 ephemeris to be able to view the sky outside the default range (2024–2040)
 - Error popup if an auto-translated language is suddenly missing
