@@ -14,7 +14,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Error popup if an auto-translated language is suddenly missing
 - Protection mode added for public wall clocks to prevent access to the Settings and About pages
 - After 5 min: dial position and zoom reset, exit time control mode and return to the dial screen (mainly for wall clocks)
-- [Experimental] Display of the 5 most significant meteor showers at the times when they reach their peak (shows radiant and approximate viewing area). Meteor ranges are now part of the solarcalendar to provide cheap calcuation
+- Display of the 5 most significant meteor showers at the times when they reach their peak (shows radiant and approximate viewing area). Meteor ranges are now part of the solarcalendar to provide cheap calcuation
 
 ### Changed
 - Auto-centering of the dial starts quicker after startup (for wall clocks)
