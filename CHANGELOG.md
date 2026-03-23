@@ -5,7 +5,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.70] - 2026-03-xx (Time control)
+## [2.70] - 2026-03-23 (Time control)
 
 ### Added
 - Time control mode added to move the dial forward and backward in time: red border when time shifting, processing animation when calculating
