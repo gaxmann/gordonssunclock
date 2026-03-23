@@ -22,7 +22,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Meteor ranges are now part of the solarcalendar to provide cheap calcuation
 - Protection mode added for public wall clocks to prevent access to the Settings and About pages
 - After 5 min: dial position and zoom reset, exit time control mode and return to the dial screen (mainly for wall clocks)
-- The app now also ships with the auto-translated languages: Polish – _As this feature is experimental and dependent on other services, auto-translated languages may be temporarily or permanently unavailable_
+- The app now also ships with the auto-translated language: Polish – _As this feature is experimental and dependent on other services, auto-translated languages may be temporarily or permanently unavailable_
 - Error popup if an auto-translated language is suddenly missing
 
 ### Changed
