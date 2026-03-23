@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.14.11",
-        "updated": "2026-03-23 09:48:55"
+        "version": "1.14.12",
+        "updated": "2026-03-23 13:29:43"
     },
     "txwelcome": "Welcome",
     "quotes": [
@@ -153,7 +153,7 @@
     "txtimecstart": "Swipe to start",
     "txpartsupport": "[i]NOTE: (β) This language is only partially supported. Therefore, some sections are in English. Support is welcome (Github). - On the last page, you will find an [ref=autotr][u]‘Auto-Translate’[/u][/ref] button[/i]",
     "txnosupport": "[i]NOTE: Your language is not (yet) supported, so English is shown. An [ref=autotr][u]‘Auto-Translate’[/u][/ref] button is available on the last page[/i]",
-    "txautotranslate": "[i]NOTE: (α) This language is not (yet) supported. This is a machine translation. (Auto-translated languages may be removed in future versions.)[/i]",
+    "txautotranslate": "[i]NOTE: (α) This language is not (yet) supported. This is a machine translation. (Machine-translated languages may be temporarily or permanently unavailable.)[/i]",
     "uebanleitung": "Instructions",
     "txanleitung": "[DF]{LANGSUPPORT}1. Enable the checkbox {txgpsauto} to automatically update your location during use. ({txgpsbutton} determines your current position once and stores it.) Nothing more is required for now. – For higher accuracy see {quotes|0-}4. {txshowagni-}{quotes|1-}.[~LF][~LF]Alternatively, you may enter a place name or an address into the text field (if supported by your device) or coordinates (e.g. 50.94, 6.96). A 3rd and 4th entry are optional: approximate altitude &bl;m], approximate temperature at twilight &bl;°C]. Then enable the checkbox {txwelcomescr}. – When basic data are changed, {txsunclock-} performs a daily calculation which may take between 1[NDASH]30 seconds depending on the device.[~LF][~LF]2.{txuhrsinn} defines whether the clock runs clockwise (south) or counter-clockwise: when changing the direction of rotation, the part of the solar circle below the horizon is positioned in front of you (details see next page). {txshowclock} displays a digital clock at the upper right of the dial. ",
     "txmore": "[DF]3. {txnachtmodus} {txlangarr|auto-} switches at sunset, -6° at the end of twilight, +6° before. {txfarben} selects different dials. {txedgescreen} increases the distance to the screen edge.[~LF][~LF]4. {txfullscr} prevents the screen from turning off and switches to full screen. {txweathapi} displays a forecast on the clock (see below, internet required). {txagnihotra} shows markers for the sun hand as well as the time of the next zero crossing of the sun & countdown. Six minutes before Agnihotra, the display is enlarged and seconds are shown ({s_fr-} = GPS current). If your settings are not applied at any point, tap the [font=DejaVuSans.ttf]⟳[/font] button at the bottom right of the clock face.[~LF][~LF]You can zoom into the clock face with two fingers (or with a triple tap). If you want to move the zoomed view, do it slowly. Fast movements swipe to the next page. Use the [font=DejaVuSans.ttf]⬌[/font] button to activate {txtimecontrol} (see next page).",

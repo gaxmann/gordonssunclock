@@ -1,5 +1,5 @@
 {
-    "version": "1.14.11",
+    "version": "1.14.12",
     "official_langs": {
         "de": "Deutsch",
         "en": "English",
