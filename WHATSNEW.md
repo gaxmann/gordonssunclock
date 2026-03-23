@@ -5,10 +5,10 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 
-## [2.70] - 2026-03-23 (Time control & meteor showers)
+## [2.70] - 2026-03-23 (Meteor showers & time control)
 
-- Time control added to move the dial forward and backward in time (e.g. preview the Perseids in August)
-- Display of the 5 most significant meteor showers, bug fixes 
+- Display of the 5 most significant meteor showers
+- Time control added to move the dial forward and backward in time (e.g. preview the Perseids in August), bug fixes
 
 ## [2.69] - 2026-02-25 (Core optimisation)
 
