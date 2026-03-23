@@ -12,7 +12,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ## [2.70-public] - 2026-03-23 (Time control & Meteor showers)
 
-_Version 2.70 marks a major project milestone: for the first time, the Android app includes all core functions of the original Raspberry Pi clock (and more)_
+_Version 2.70 marks a major project milestone: for the first time, the Android app includes all core functions of the original Raspberry Pi clock_
 
 ### Added
 - Time control mode added to move the dial forward and backward in time: red border when time shifting, processing animation when calculating
