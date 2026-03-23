@@ -18,7 +18,8 @@ _Version 2.70 marks a major project milestone: for the first time, the Android a
 - Time control mode added to move the dial forward and backward in time: red border when time shifting, processing animation when calculating
 - Download (and delete) button added for de421 ephemeris to be able to view the sky outside the default range (2024–2040)
 - Flexible range control for different ephemeris datasets, switchable
-- Display of the 5 most significant meteor showers at the times when they reach their peak (shows radiant and approximate viewing area). Meteor ranges are now part of the solarcalendar to provide cheap calcuation
+- Display of the 5 most significant meteor showers at the times when they reach their peak on the dial (shows radiant and approximate viewing area), together with an overview of the viewing times on the manual page. 
+- Meteor ranges are now part of the solarcalendar to provide cheap calcuation
 - Protection mode added for public wall clocks to prevent access to the Settings and About pages
 - After 5 min: dial position and zoom reset, exit time control mode and return to the dial screen (mainly for wall clocks)
 - Error popup if an auto-translated language is suddenly missing
