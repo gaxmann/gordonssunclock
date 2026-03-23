@@ -31,6 +31,8 @@ For more visual impressions and a detailed description, check out the Play Store
 - **Offline capable**: No internet required after first setup (optional GPS time sync)
 - **Optional weather overview**: Clear icon-based, drama-free daily outlook
 - **Temporal hours clock**: Display of ancient unequal hours (12 day hours & 4 night watches) – e.g. for historians or anyone seeking a deeper connection to historical timekeeping
+- **Time travel:** explore past and future, up to the sky at your birth
+- **Meteor showers:** the five major streams with search area and radiant  
 - **Agnihotra support**: Display precise Agnihotra times with countdown
 - **Tablet mode**: Hang on your wall as a living clock<!-- - **Accurate solar geometry worldwide**: From equator to poles-->
 - **Multi-language**: Deutsch, English, Español, Français, Русский, 中文 (translations or corrections welcome)
