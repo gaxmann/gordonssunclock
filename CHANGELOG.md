@@ -20,7 +20,9 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Auto-centering of the dial starts quicker after startup (for wall clocks)
 - Light calendar calculations sped up by 80%
 - Weather data is now located further up on the data page in a single block
-- Solar calendar optimised to use a smaller ephemeris search range 
+- Solar calendar optimised to use a smaller ephemeris search range
+- 3s lock for update button (when navigation furiously)
+- 3s timeout for OTD height checks
 - Text updates
 
 ### Fixed
