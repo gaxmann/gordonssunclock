@@ -29,8 +29,8 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Light calendar calculations sped up by 80%
 - Weather data is now located further up on the data page in a single block
 - Solar calendar optimised to use a smaller ephemeris search range
-- 3s lock for update button (when navigating furiously)
-- 3s timeout for height checks
+- 3 sec lock for update button (when navigating furiously)
+- 3 sec timeout for height checks
 - Text updates
 
 ### Fixed
