@@ -9,14 +9,14 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 - Display of meteor showers on the dial, with an overview of the viewing times
 - Time control to move the dial forward and backward in time, bug fixes
+<!--## [2.69] - 2026-02-25 (Core optimisation)
 
-## [2.69] - 2026-02-25 (Core optimisation)
-
-- Improved weather visualisation, rain radar, major performance update, auto-translated languages added (trial), bug fixes 
+- Improved weather visualisation, rain radar, major performance update, auto-translated languages added, bug fixes -->
 
 ## [2.68-stable] - 2026-02-14 (Weather overview)
 
-- Optional drama-free weather view with a clear icon-based daily outlook, many bug fixes (faster startup)
+- Optional drama-free weather view with a clear icon-based daily outlook, rain radar, many bug fixes (faster startup)
+- Major performance update, auto-translated languages added
 
 ## [2.65] - 2025-12-16 (Light seasons)
 
