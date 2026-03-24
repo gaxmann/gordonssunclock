@@ -42,7 +42,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 - Planetary data size reduced, improved moon, bug fixes--> 
   
-## [2.35] - 2025-07-30 (Atmospheric refraction
+## [2.35] - 2025-07-30 (Atmospheric refraction)
 
 - Zoom resolution doubled, bug fixes
 - Atmospheric refraction (altitude & temperature support)
