@@ -12,7 +12,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 - Major performance update, auto-translated languages, improved weather
 <!--## [2.69] - 2026-02-25 (Core optimisation)
 
-- Improved weather visualisation, rain radar, major performance update, auto-translated languages added, bug fixes -->
+- Improved weather visualisation, rain radar, major performance update, auto-translated languages, bug fixes -->
 
 ## [2.68-stable] - 2026-02-14 (Weather overview)
 
@@ -21,14 +21,14 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 ## [2.65] - 2025-12-16 (Light seasons)
 
 - Displays (eight) light seasons, solstice, equinox and the moon date ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
-- GPS time sync (for exact Agnihotra), Russian language added, bug fixes
+- GPS time sync (for exact Agnihotra), Russian language, bug fixes
 
 ## [2.63] - 2025-11-07 (Temporal hours)
 
-- Time display in unequal, temporal hours added, bug fixes
+- Time display in unequal, temporal hours, bug fixes
 <!--## [2.59] - 2025-10-21 (Legacy support)
 
-- Android 5+ support added to enable legacy devices to be used as wall clocks, bug fixes-->
+- Android 5+ support to enable legacy devices to be used as wall clocks, bug fixes-->
  
 ## [2.54-stable] - 2025-10-08 (Bar fixes)
 
@@ -48,18 +48,18 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
   
 ## [2.33] - 2025-07-22 (Atmospheric refraction)
 
-- Atmospheric refraction added (altitude & temperature support), bug fixes
+- Atmospheric refraction (altitude & temperature support), bug fixes
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
-- Agnihotra time display, zoomable dial, Chinese language added, bug fixes (time zone change)
+- Agnihotra time display, zoomable dial, Chinese language, bug fixes (time zone change)
 <!--## [2.21] - 2025-07-04 (Chinese language)
 
-- Chinese language added, api 35 upgrade (Android 15+ bar issue till 2.54), bug fixes (unknown lang)-->
+- Chinese language, api 35 upgrade (Android 15+ bar issue till 2.54), bug fixes (unknown lang)-->
 
 ## [2.18] - 2025-06-29 (Telescope design)
 
-- Telescope design added, French language added, bug fixes
+- Telescope design, French language, bug fixes
 
 ## [2.15] - 2025-06-24 (Initial release)
 
