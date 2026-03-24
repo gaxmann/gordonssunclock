@@ -10,6 +10,9 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Changed
 - Time control: tap the right or left edge of the screen to jump 1h forward or backward
 
+### Fixed
+- More edge option also enlarges the timeshift border 
+
 ## [2.70-public] - 2026-03-23 (Time control & Meteor showers)
 
 > _With version 2.70 for the first time, the Android app includes all core functions of the original Raspberry Pi clock_
