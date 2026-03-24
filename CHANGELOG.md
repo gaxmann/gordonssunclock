@@ -9,6 +9,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - Time control: tap the right or left edge of the screen to jump 1h forward or backward
+- Navigation button label changed
 
 ### Fixed
 - More edge option also enlarges the timeshift border 
