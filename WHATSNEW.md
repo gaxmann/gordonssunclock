@@ -5,10 +5,10 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 
-## [2.70] - 2026-03-23 (Meteor showers)
+## [2.70] - 2026-03-23 (Time control)
 
-- Display of meteor showers, with an overview of the viewing times, many bug fixes
-- Time control to move the dial forward and backward in time
+- Time control to move the dial forward and backward in time, many bug fixes
+- Display of meteor showers, with an overview of the viewing times
 - Major performance update, auto-translated languages (Português, Türkçe, Italiano, polski)
 <!--## [2.69] - 2026-02-25 (Core optimisation)
 
