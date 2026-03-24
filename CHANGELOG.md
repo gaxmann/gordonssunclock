@@ -116,14 +116,14 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ## [2.68] - 2026-02-09 (Season Logic)
 
+### Added
+- Light Year Season boundaries are now computed from the Sun’s apparent ecliptic longitude (angle-based, PH0…PH8) instead of time-based midpoints between astronomical fixpoints. This makes the phase progression physically consistent and better aligned with day-length changes over the year, while keeping the existing fixpoints and local-midnight anchoring via PH0 (structurally, this approach is interestingly compatible with the Jieqi system, which also defines seasonal markers as fixed angular steps of the Sun’s ecliptic longitude)
+- Light Year Calendar logic has been moved into its own module (buffer of astronomical values now in UTC to avoid recalculation)
+
 ### Fixed
 - Short notation for light-year season changed from Φ to Ϟ to avoid confusion with night-watch symbol φ
-- Dial rendering on startup has never been faster: Location updates now start only after draft sketch has shown, which results in quick draft-pass dial now reliably displays instead of not appearing, which previously caused an unnecessary wait for the hires rerun
+- Dial rendering on startup faster: Location updates now start only after draft sketch has shown, which results in quick draft-pass dial now reliably displays instead of not appearing, which previously caused an unnecessary wait for the hires rerun
 - “1× locate” button works again
-
-### Added
-- Light Year Calendar logic has been moved into its own module (buffer of astronomical values now in UTC to avoid recalculation)
-- Light Year Season boundaries are now computed from the Sun’s apparent ecliptic longitude (angle-based, PH0…PH8) instead of time-based midpoints between astronomical fixpoints. This makes the phase progression physically consistent and better aligned with day-length changes over the year, while keeping the existing fixpoints and local-midnight anchoring via PH0 (structurally, this approach is interestingly compatible with the Jieqi system, which also defines seasonal markers as fixed angular steps of the Sun’s ecliptic longitude)
 
 ### Changed
 - Explanatory texts on the data page for Light Year Seasons now include the exact, year-specific date boundaries as astronomically calculated
