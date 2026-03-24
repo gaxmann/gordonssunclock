@@ -8,15 +8,15 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 ## [2.70] - 2026-03-23 (Time control)
 
 - Time control to move the dial forward and backward in time, many bug fixes
-- Display of meteor showers, with an overview of the viewing times
-- Major performance update, auto-translated languages (Português, Türkçe, Italiano, polski)
+- Display of meteor showers, with an overview of the viewing times, polski auto-translated language
 <!--## [2.69] - 2026-02-25 (Core optimisation)
 
 - Improved weather visualisation, rain radar, major performance update, auto-translated languages, bug fixes -->
 
-## [2.68-stable] - 2026-02-14 (Weather overview)
+## [2.69] - 2026-02-25 (Weather overview)
 
-- Optional drama-free weather view with a clear icon-based daily outlook, many bug fixes (faster startup)
+- Optional drama-free weather view with a clear icon-based daily outlook, rain radar, many bug fixes (faster startup)
+- Major performance update, auto-translated languages (Português, Türkçe, Italiano)
 
 ## [2.65] - 2025-12-16 (Light seasons)
 
