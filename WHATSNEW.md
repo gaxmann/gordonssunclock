@@ -9,7 +9,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 - Display of meteor showers, with an overview of the viewing times, many bug fixes
 - Time control to move the dial forward and backward in time
-- Major performance update, improved weather, auto-translated languages (Português, Türkçe, Italiano, polski)
+- Major performance update, auto-translated languages (Português, Türkçe, Italiano, polski)
 <!--## [2.69] - 2026-02-25 (Core optimisation)
 
 - Improved weather visualisation, rain radar, major performance update, auto-translated languages, bug fixes -->
@@ -42,13 +42,13 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 - Planetary data size reduced, improved moon, bug fixes--> 
   
-## [2.35] - 2025-07-30 (Better zoom)
+## [2.35] - 2025-07-30 (Atmospheric refraction, better zoom)
 
-- Zoom resolution doubled, triple-tap, bug fixes
-  
-## [2.33] - 2025-07-22 (Atmospheric refraction)
+- Atmospheric refraction (altitude & temperature support)
+- Zoom resolution doubled, bug fixes
+<!--## [2.33] - 2025-07-22 (Atmospheric refraction)
 
-- Atmospheric refraction (altitude & temperature support), bug fixes
+- Atmospheric refraction (altitude & temperature support), bug fixes-->
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
