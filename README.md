@@ -25,7 +25,7 @@ For more visual impressions and a detailed description, check out the Play Store
 
 ## Features
 
-- **Accurate solar positioning**: Calculations match astronomical almanac to 0.0005 arc seconds (powered by Skyfield)
+- **Accurate solar positioning**: Precise calculations using JPL ephemerides 
 - **Single-hand design**: Simple, clear, intuitive
 - **Location-based**: Adjusts to your coordinates (manual input or location detection)
 - **Offline capable**: No internet required after first setup (optional GPS time sync)
