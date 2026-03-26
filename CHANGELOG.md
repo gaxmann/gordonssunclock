@@ -67,7 +67,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Fixed
 - 24h toggle now recreates "background image"
-- Square brackets containing text that must be translated are now written as {sb0|1}
+- Lang 1.12: Square brackets containing text that must be translated are now written as {sb0/1}
 
 ## [2.69.1-public] - 2026-02-25 (Core optimisation)
 
@@ -170,7 +170,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Accordion navigation added to settings page (got too large). Explanation text updated
 - "Show time" setting added for upcoming V3 (and the problems with the digital clock display)
 - Dial now comes directly from texture instead of PNG, plus sped up draft creation
-- Lang V1.7: New variable logic for the lang file ({solcal_lph|0-}). Updated website code to correctly display the new language files
+- Lang 1.7: New variable logic for the lang file ({solcal_lph|0-}). Updated website code to correctly display the new language files
 
 ### Changed/Removed
 - Short season code on dial removed
@@ -183,7 +183,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Displays the eight light seasons (4 main + 4 sub-phases), based on the midpoints between the 4 astronomical fixpoints ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
 - Displays the moon-night calendar (lunar night indexing within the year)
 - Displays the solistice and equinox
-- Lang V1.6: Ordinal numbers added to lang files
+- Lang 1.6: Ordinal numbers added to lang files
 - Moon illumination trend is now second-precise
 
 ### Changed
