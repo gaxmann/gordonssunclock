@@ -7,9 +7,6 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ## [2.70.1] - 2026-03-xx 
 
-### Added
-- Journal added in Solar Calendar to output a full year list of solar events
-
 ### Changed
 - Time control: tap the right or left edge of the screen to jump 1h forward or backward
 - Navigation button labels changed
