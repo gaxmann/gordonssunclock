@@ -9,7 +9,7 @@ Keys that have been added, changed, or removed are listed here, as well as struc
 - **Added:** txpopupbody/updatenote, txpopupbody/noautotrlg, txtimecontrol, txtimecstart, txcalcing
 
 ## [1.12] - 2026-03-05
-- **Structure:** Square brackets containing text that must be translated are now written as {sb0|1}
+- **Structure:** Square brackets containing text that must be translated are now written as {sb0/1}
 
 ## [1.11] - 2026-03-03
 - **Added:** txpopupbody/autotravail
