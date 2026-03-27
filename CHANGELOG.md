@@ -14,7 +14,8 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Texts updated
 
 ### Fixed
-- More edge option also enlarges the timeshift border 
+- More edge option also enlarges the timeshift border
+- Weather missing precipation display because of missing DST hour
 
 ## [2.70-public] - 2026-03-23 (Time control & Meteor showers)
 
