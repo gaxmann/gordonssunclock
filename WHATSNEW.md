@@ -65,7 +65,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ## [2.15] - 2025-06-24 (Initial release)
 
-- Initial Android release with the original e-paper greyscale design (German, English, Spanish)
+- Initial Android release with the original e-paper greyscale design (in German, English, Spanish)
 
 ---
 
