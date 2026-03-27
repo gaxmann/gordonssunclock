@@ -10,7 +10,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Changed
 - Time control: tap the right or left edge of the screen to jump 1h forward or backward
 - Navigation button labels changed
-- Experiments with solc journal that have been discontinued as they offer no added value
+- Some experiments with an additional solc journal that have been discontinued as they offer no added value
 - Texts updated
 
 ### Fixed
