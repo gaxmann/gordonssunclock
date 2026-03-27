@@ -15,7 +15,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Fixed
 - More edge option also enlarges the timeshift border
-- Weather fix for missing DST hour
+- Weather fix for missing (and double) DST hour
 
 ## [2.70-public] - 2026-03-23 (Time control & Meteor showers)
 
