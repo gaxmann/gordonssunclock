@@ -5,7 +5,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.70.1-public] - 2026-03-27
+## [2.70.1-stable] - 2026-03-27
 
 ### Changed
 - Time control: tap the right or left edge of the screen to jump 1h forward or backward
