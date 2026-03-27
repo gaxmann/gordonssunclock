@@ -14,7 +14,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ## [2.69] - 2026-02-25 (Weather overview)
 
-- Optional drama-free weather view with a clear icon-based daily outlook, rain radar #2.67 (2026-02-02)
+- Optional drama-free weather view with a clear icon-based daily outlook, rain radar _#2.67 2026-02-02_
 - Major performance update, auto-translated languages (Português, Türkçe, Italiano), many bug fixes
 <!--## [2.67] - 2026-02-02 (Weather overview)
 - Optional drama-free weather view with a clear icon-based daily outlook, rain radar
@@ -46,7 +46,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
   
 ## [2.35] - 2025-07-30 (Atmospheric refraction)
 
-- Atmospheric refraction (altitude & temperature support) #2.33 (2025-07-22)
+- Atmospheric refraction (altitude & temperature support) _#2.33 2025-07-22_
 - Zoom resolution doubled, bug fixes
 <!--## [2.33] - 2025-07-22 (Atmospheric refraction)
 
