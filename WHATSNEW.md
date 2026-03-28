@@ -5,7 +5,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 
-## [2.70] - 2026-03-23 (Time control)
+## [2.70-stable] - 2026-03-23 (Time control)
  
 - Time control to move the dial forward and backward in time, _feature-complete with the original hardware clock_ 🎉
 - Display of meteor showers (dial), with an overview of the viewing times, polski auto-translated language, many bug fixes
