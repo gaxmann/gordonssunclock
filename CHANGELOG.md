@@ -5,6 +5,11 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
+# [2.70.2] - 2026-03-xx
+
+### Fixed
+- Navigation swipe changed to relative values for better tablet support
+
 ## [2.70.1-public] - 2026-03-27
 
 ### Changed
