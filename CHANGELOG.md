@@ -10,7 +10,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Fixed
 - Navigation swipe changed to relative values for better tablet support
 
-## [2.70.1-public] - 2026-03-27
+## [2.70.1] - 2026-03-27
 
 ### Changed
 - Time control: tap the right or left edge of the screen to jump 1h forward or backward
