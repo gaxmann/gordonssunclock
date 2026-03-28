@@ -34,7 +34,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
  
 ## [2.54-stable] - 2025-10-08 (Bar fixes)
 
-- Fixed system bars on Android 15+
+- Fixed system bars on Android 15+ _#2.47 2025-09-20_
 - Many bug fixes (GrapheneOS, Aurora & Apkpure downloads, max alt+bars, line spacing, no-attr clockscr)
 <!--## [2.42] - 2025-08-29 (Update prompt) 
 
