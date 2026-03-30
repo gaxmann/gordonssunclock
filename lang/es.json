@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.14.16",
-        "updated": "2026-03-30 13:50:42"
+        "version": "1.15.2",
+        "updated": "2026-03-30 22:37:29"
     },
     "txwelcome": "Bienvenido",
     "quotes": [
@@ -132,6 +132,7 @@
         "updateexists": "Hay una actualización para el Reloj de sol de Gordon con correcciones de errores.[~LF][~LF]Recomiendo actualizar el software.",
         "updatenote": "% ha sido actualizado. Por favor ten en cuenta lo siguiente:[~LF][~LF]",
         "waitforgps": "Se está determinando la ubicación...[~LF][~LF]Esto puede tardar unos segundos.",
+        "lastandr5": "Esta es la última versión de {txgordonssunclock} para Android 5–6 en Google Play.[~LF][~LF]Puede haber versiones más recientes en GitHub; véase el botón {txchangelog} en la página 4 de la aplicación.",
         "noautotrlg": "La traducción automática que está utilizando no está disponible actualmente.[~LF][~LF]Este servicio es experimental y puede fallar temporal o permanentemente.",
         "autotravail": "Se ha cargado una traducción generada automáticamente para [LANG].[~LF][~LF]Si no está satisfecho con la calidad, puede seleccionar uno de los idiomas oficiales en los ajustes."
     },

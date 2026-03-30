@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.14.16",
-        "updated": "2026-03-30 13:50:42"
+        "version": "1.15.2",
+        "updated": "2026-03-30 22:37:29"
     },
     "txwelcome": "Welcome",
     "quotes": [
@@ -139,6 +139,7 @@
         "updateexists": "There is an update for Gordon's Sun Clock with bug fixes.[~LF][~LF]I recommend updating the software.",
         "updatenote": "% has been updated. Please note the following:[~LF][~LF]",
         "waitforgps": "Location is being determined...[~LF][~LF]This may take a few seconds.",
+        "lastandr5": "This is the last version of {txgordonssunclock} for Android 5–6 on Google Play.[~LF][~LF]Newer versions may be available on [ref=githubv2][u]GitHub[/u][/ref]; see the {txchangelog} button on page 4 of the app.",
         "noautotrlg": "The machine translation you were using is currently unavailable.[~LF][~LF]This service is experimental and may fail temporarily or permanently. You can select another language in Settings.[~LF][~LF]The app has switched to English.",
         "autotravail": "A machine translation [LANG] is now in use.[~LF][~LF]In Settings you can select other languages. (Support for machine-translated languages may be discontinued.)"
     },

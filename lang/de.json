@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.14.16",
-        "updated": "2026-03-30 13:50:42"
+        "version": "1.15.2",
+        "updated": "2026-03-30 22:37:29"
     },
     "txwelcome": "Willkommen",
     "quotes": [
@@ -132,6 +132,7 @@
         "updateexists": "Es gibt ein Update von Gordons Sonnenuhr mit Fehlerkorrekturen.[~LF][~LF]Ich empfehle ein Update der Software.",
         "updatenote": "% wurde aktualisiert. Bitte beachte Folgendes:[~LF][~LF]",
         "waitforgps": "Warten auf Standort...[~LF][~LF]Dies kann einige Sekunden dauern.",
+        "lastandr5": "Dies ist die letzte Play-Store-Version von {txgordonssunclock} für Android 5–6.[~LF][~LF]Weitere Versionen finden Sie ggf. auf [ref=githubv2][u]GitHub[/u][/ref], s. Knopf {txchangelog} auf Seite 4 der App.",
         "noautotrlg": "Die von Ihnen genutzte maschinelle Übersetzung ist derzeit nicht verfügbar.[~LF][~LF]Dieser Service ist experimentell und kann vorübergehend oder dauerhaft ausfallen. Sie können in den Einstellungen eine andere Sprache auswählen.[~LF][~LF]Die App wurde auf Englisch umgestellt.",
         "autotravail": "Eine maschinelle Übersetzung [LANG] wird nun genutzt.[~LF][~LF]In den Einstellungen können Sie andere Sprachen auswählen. (Die Unterstützung für maschinelle Übersetzungen kann wieder entfernt werden.)"
     },
