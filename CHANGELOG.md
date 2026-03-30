@@ -9,6 +9,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - Display of patchnr on About page, compare logic changed to 3+1 parts (therefore new 2.71 version, also this triggers update message for wall clocks)
+- Texts updated
 
 ### Fixed
 - Measuring the time taken to compute the dial
