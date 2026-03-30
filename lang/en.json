@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.14.15",
-        "updated": "2026-03-26 13:19:54"
+        "version": "1.14.16",
+        "updated": "2026-03-30 13:50:42"
     },
     "txwelcome": "Welcome",
     "quotes": [
@@ -155,7 +155,7 @@
     "txnosupport": "[i]NOTE: Your language is not (yet) supported, so English is shown. An [ref=autotr][u]‘Auto-Translate’[/u][/ref] button is available on the last page[/i]",
     "txautotranslate": "[i]NOTE: (α) This language is not (yet) supported. This is a machine translation. (Machine-translated languages may be temporarily or permanently unavailable.)[/i]",
     "uebanleitung": "Setup",
-    "txanleitung": "[DF]{LANGSUPPORT}1. Enable the checkbox {txgpsauto} to automatically update your location during use. ({txgpsbutton} determines your current position once and stores it.) Nothing more is required for now. – For higher accuracy see {quotes|0-}4. {txshowagni-}{quotes|1-}.[~LF][~LF]Alternatively, you may enter a place name or an address into the text field (if supported by your device) or coordinates (e.g. 50.94, 6.96). A 3rd and 4th entry are optional: approximate altitude &bl;m], approximate temperature at twilight &bl;°C]. Then enable the checkbox {txwelcomescr}. – When basic data are changed, {txsunclock-} performs a daily calculation which may take between 1[NDASH]30 seconds depending on the device.[~LF][~LF]2.{txuhrsinn} defines whether the clock runs clockwise (south) or counter-clockwise: when changing the direction of rotation, the part of the solar circle below the horizon is positioned in front of you (details see next page). {txshowclock} displays a digital clock at the upper right of the dial. ",
+    "txanleitung": "[DF]{LANGSUPPORT}1. Enable the checkbox {txgpsauto} to automatically update your location during use. ({txgpsbutton} determines your current position once and stores it.) Nothing more is required for now. – For higher accuracy see {quotes|0-}4. {txshowagni-}{quotes|1-}.[~LF][~LF]Alternatively, you may enter a place name or an address into the text field (if supported by your device) or coordinates (e.g. 50.94, 6.96). A 3rd and 4th entry are optional: approximate altitude &bl;m], approximate temperature at twilight &bl;°C]. Then enable the checkbox {txwelcomescr}. When basic data are changed, {txsunclock-} recalculates the day.[~LF][~LF]2.{txuhrsinn} defines whether the clock runs clockwise (south) or counter-clockwise: when changing the direction of rotation, the part of the solar circle below the horizon is positioned in front of you (details see next page). {txshowclock} displays a digital clock at the upper right of the dial. ",
     "txmore": "[DF]3. {txnachtmodus} {txlangarr|auto-} switches at sunset, -6° at the end of twilight, +6° before. {txfarben} selects different dials. {txedgescreen} increases the distance to the screen edge.[~LF][~LF]4. {txfullscr} prevents the screen from turning off and switches to full screen. {txweathapi} shows a forecast (internet required), from bottom to top: current temperature, daily data precipitation and sunshine hours, symbols see next page. {txagnihotra} shows markers for the sun hand as well as the time of the next zero crossing of the Sun & countdown. Six minutes before Agnihotra, the display is enlarged and seconds are shown ({s_fr-} = GPS current).[~LF][~LF][~LF]You can zoom into the dial with two fingers (or with triple tap). If you want to move the zoomed image, do it slowly. Fast movements swipe to the next page. If your settings are not applied at some point, tap the [font=DejaVuSans.ttf]⟳[/font] button at the bottom right. With the [font=DejaVuSans.ttf]⬌[/font] button you activate {txtimecontrol} (see next page).",
     "txlegende": "[DF][DF]",
     "txdata": "[DF]Data",

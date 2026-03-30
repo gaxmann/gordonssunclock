@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.14.15",
-        "updated": "2026-03-26 13:19:54"
+        "version": "1.14.16",
+        "updated": "2026-03-30 13:50:42"
     },
     "txwelcome": "欢迎",
     "quotes": [
@@ -161,7 +161,7 @@
     "txnosupport": "[i]注意：您的语言尚未翻译。在最后一页，您会看到一个“自动翻译”按钮[/i]",
     "txautotranslate": "[i]提示：(α) 此语言（尚未）得到官方支持。此为自动翻译[/i]",
     "uebanleitung": "设置",
-    "txanleitung": "[DF]{LANGSUPPORT}1. 勾选 {txgpsauto}，以在使用期间自动更新您的位置。({txgpsbutton} 会一次性确定并保存当前坐标。) 目前不需要更多设置。– 如需更高精度，请参见 {quotes|0-}4. {txshowagni-}{quotes|1-}.[~LF][~LF]或者，您也可以在文本框中输入地名或地址（如果设备支持），或直接输入坐标（例如 50.94, 6.96）。第 3 和第 4 项为可选：大致海拔 &bl;m]，黄昏时的大致温度 &bl;°C]。随后勾选 {txwelcomescr}。– 当基础数据发生变化时，{txsunclock-} 会执行一次日计算，根据设备不同可能需要 1[NDASH]30 秒。[~LF][~LF]2. {txshowclock} 会在表盘右上角显示数字时钟。{txuhrsinn} 用于设置时钟是顺时针（南方）还是逆时针运行：当改变旋转方向时，位于地平线以下的太阳圆环部分会显示在您面前（详见下一页）。",
+    "txanleitung": "[DF]{LANGSUPPORT}1. 勾选 {txgpsauto} 以在使用过程中自动更新您的位置。（{txgpsbutton} 仅会确定一次您的当前位置并将其固定。）目前无需进行其他操作。- 如需更高精度，请参见 {quotes|0-}4. {txshowagni-}{quotes|1-}。[~LF][~LF]或者，您可以在文本框中输入地名或地址（如果您的设备支持），或输入坐标（例如 50.94, 6.96）。第三和第四项为可选：大致海拔 &bl;m] 和黄昏时的大致气温 &bl;°C]。随后勾选 {txwelcomescr}。当基础数据发生变化时，{txsunclock-} 会重新计算当天数据。[~LF][~LF]2. {txuhrsinn} 用于设置时钟是顺时针运行（南）还是逆时针运行：如果改变旋转方向，则位于地平线以下的太阳圆部分会出现在您面前（详见下一页）。{txshowclock} 会在表盘右上角显示数字时钟。",
     "txmore": "[DF]3. {txnachtmodus} {txlangarr|auto-} 在日落时切换，在暮光结束时为 -6°，之前为 +6°。{txfarben} 选择不同的表盘。{txedgescreen} 增加与屏幕边缘的距离。[~LF][~LF]4. {txfullscr} 防止屏幕关闭并切换到全屏模式。{txweathapi} 显示天气预报（需要互联网），从下到上：当前温度、每日降水和日照时数数据，符号见下一页。{txagnihotra} 显示太阳指针的标记以及下一次太阳过零点的时间和倒计时。距 Agnihotra 前六分钟，显示会放大并显示秒数（{s_fr-} = GPS 已更新）。[~LF][~LF][~LF]您可以用两指放大表盘（或三击）。如果要移动放大的图像，请缓慢操作。快速滑动会切换到下一页。如果您的设置没有生效，请点击右下角的 [font=DejaVuSans.ttf]⟳[/font] 按钮。通过 [font=DejaVuSans.ttf]⬌[/font] 按钮可激活 {txtimecontrol}（见下一页）。",
     "txlegende": "[DF][DF]",
     "txdata": "[DF]数据",
