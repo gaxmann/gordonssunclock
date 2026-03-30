@@ -1,7 +1,7 @@
 # Changelog
 Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md) of the latest changes here.
 
-*[Preview versions](#dev) of the app (supporting 16 kB pages and Android 15+ transparent bars) are listed at the bottom.*
+*[Preview version](#dev) of the app (supporting 16 kB pages and Android 15+ transparent bars) is listed at the bottom.*
 
 ---
 
