@@ -1,5 +1,7 @@
 # Changelog
-You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below you'll find [preview versions](#dev) of the app (supporting 16 kB and Android 15+ transparent bars). - _Regular feature updates are released every 1–4 weeks; critical fixes may appear sooner._
+Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md) of the latest changes here.
+
+*[Preview versions](#dev) of the app (supporting 16 kB pages and Android 15+ transparent bars) are listed at the bottom.*
 
 ---
 
@@ -780,5 +782,5 @@ V3 and V2 share the same source code (compare features by release date). Detaile
 
 ---
 
-> *All notable changes to this project will be documented in this file (tags: Added, Changed, Deprecated, Removed, Fixed, Security). The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). - The major version is incremented when the Android minSdkVersion is increased. Otherwise, risk-based categorisation applies: **Added** introduces the highest risk of new errors, **Changed** usually stabilises behaviour, **Fixed** improves stability. - When language keys are added, removed, or changed, the **minor version of the German language file must be incremented to x.(y+1).0***
+>  _Regular feature updates are released every 1–4 weeks; critical fixes may appear sooner._ - *All notable changes to this project will be documented in this file (tags: Added, Changed, Deprecated, Removed, Fixed, Security). The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). - The major version is incremented when the Android minSdkVersion is increased. Otherwise, risk-based categorisation applies: **Added** introduces the highest risk of new errors, **Changed** usually stabilises behaviour, **Fixed** improves stability. - When language keys are added, removed, or changed, the **minor version of the German language file must be incremented to x.(y+1).0***
 
