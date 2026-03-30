@@ -38,10 +38,9 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ## [2.70-public] - 2026-03-23 (Time control & Meteor showers)
 
-> ✨ _With version 2.70 for the first time, the Android app includes all core functions of the original Raspberry Pi clock_
-
 ### Added
 - Time control mode added to move the dial forward and backward in time: red border when time shifting, processing animation when calculating
+> - ✨ _With version 2.70 for the first time, the Android app includes all core functions of the original Raspberry Pi clock_
 - Download (and delete) button added for de421 ephemeris to be able to view the sky outside the default range (2024–2040)
 - Flexible range control for different ephemeris datasets, switchable
 - Display of the 5 most significant meteor showers at the times when they reach their peak on the dial (shows radiant and approximate viewing area), together with an overview of the viewing times on the manual page. 
