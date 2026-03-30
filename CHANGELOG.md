@@ -7,6 +7,9 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ## [2.71] - 2026-03-xx
 
+### Added
+- Popup for last version of Android 5-6 added (not yet activated)
+ 
 ### Changed
 - Display of patchnr on About page, compare logic changed to 3+1 parts (therefore new 2.71 version, which triggers update message for wall clocks)
 - Texts updated
