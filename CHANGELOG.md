@@ -5,10 +5,10 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.70.3] - 2026-03-xx
+## [2.71] - 2026-03-xx
 
 ### Changed
-- Display of patchnr on About page, compare logic changed to 3+1 parts
+- Display of patchnr on About page, compare logic changed to 3+1 parts (therefore new 2.71 version)
 
 ### Fixed
 - Measuring the time taken to compute the dial
