@@ -19,6 +19,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Fixed
 - Navigation swipe changed to relative values for better tablet support
+- Update because Play Store update got stuck
 
 ## [2.70.1] - 2026-03-27
 
