@@ -18,7 +18,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Measuring the time taken to compute the dial
 - Size measuring of page width for weather data display
 
-## [2.70.2] - 2026-03-28
+## [2.70.2-public] - 2026-03-28
 
 ### Fixed
 - Navigation swipe changed to relative values for better tablet support
