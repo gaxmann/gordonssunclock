@@ -11,7 +11,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Popup for last version of Android 5-6 added (not active yet)
  
 ### Changed
-- Display of patchnr on About page, compare logic changed to 3+1 parts (therefore new 2.71 version, which triggers update message for wall clocks)
+- Display of patch number on About page, compare logic changed to 3+1 parts (therefore new 2.71 version, which triggers update message for wall clocks)
 - Texts updated
 
 ### Fixed
