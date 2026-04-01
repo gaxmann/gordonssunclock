@@ -9,6 +9,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Changed
 - Code added to mark the upcoming legacy version as "-a5" after switching to the new toolchain
+- Text updated
 
 ### Fixed
 - More effectiv When dial background image has to be redrawn
