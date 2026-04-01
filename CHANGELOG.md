@@ -774,11 +774,11 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ---
 <a name="dev"></a>
 
-# Preview versions
+# Preview builds
 
-Preview builds for the api 24–35 branch can be downloaded via Releases. These versions share the same source code as the main release line (compare features by release date). Detailed descriptions of features can be found in the corresponding V2 versions above. *Preview means: api 24-35 (Android 7+), arm64-v8a only, 16 kB page memory, newer and slower numpy version*
+Preview builds for the api 24–35 branch can be downloaded via Releases. These versions share the same source code as the main release line (compare features by release date). *Preview means: api 24-35 (Android 7+), arm64-v8a only, 16 kB page memory, with a newer and slower numpy version*
 
-## [2.+ preview] - 2025-10-12 (Transparent bars)
+## [V2-preview] - 2025-10-12 (Transparent bars)
 
 ### Added
 - Navigation and status bars now transparent on Android 15+
