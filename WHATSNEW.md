@@ -72,19 +72,15 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 <a name="future"></a>
 # Preview versions
 
-### *Android 7+ (arm64-v8a only)*
+You can check out preview builds for the new API 24–35 branch in the Releases section. These versions share the same source code (please compare features by date). 
 
-V3 and V2 share the same source code (please compare features by date). 
+- Android 7+
+- arm64-v8a only
+- 16 kB page size support
+- newer, slower NumPy version
 
-## [3.x] - (Transparent bars)
-- Transparent navigation and status bars on Android 15+
-- Android 7+, 16 kB page support, arm64-v8a only
-- Other features, please refer to the V2 entry with the corresponding release date
+## Legacy builds for Android 5–6
 
-
-
-
-
-
+From 2026-05-31 onwards, a separate legacy apk for Android 5–6 will be available on GitHub Releases as an `-a5` build. Legacy versions will be released irregularly.
 
 
