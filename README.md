@@ -108,6 +108,7 @@ This project is proprietary (which may change in the future). See `design/COPYRI
 
 - [Compact WhatsNew](./WHATSNEW.md)
 - [Detailed Changelog](./CHANGELOG.md)
+- [Wiki](https://github.com/gaxmann/gordonssunclock/wiki)
 
 ---
 
