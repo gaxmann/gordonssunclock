@@ -9,6 +9,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Changed
 - Code added to mark the upcoming legacy version as "-a5" after switching to the new toolchain
+- Update check now differentiates between -a5 and -a7 version 
 - Text updated
 
 ### Fixed
