@@ -786,6 +786,12 @@ Preview builds for the api 24–35 branch can be downloaded via Releases. These 
 - Api 24-35 (Android 7+) due to new numpy version, arm64-v8a only, 16 kB page memory  
 
 ---
+
+# Legacy builds
+
+From 2026-05-31 onwards, a separate legacy apk for Android 5–6 will be available via GitHub Releases only as an `-a5` build, because the Play Store requires the app to move to the 16 kB page-size version with minapi 24. Legacy versions will be released irregularly
+
+---
 ---
 
 >  *All notable changes to this project will be documented in this file (tags: Added, Changed, Deprecated, Removed, Fixed, Security). The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). - Risk-based categorisation applies: **Added** introduces the highest risk of new errors, **Changed** usually stabilises behaviour, **Fixed** improves stability. - When language keys are added, removed, or changed, the **minor version of the German language file must be incremented to x.(y+1).0*** - _Regular feature updates are released every 1–4 weeks; critical fixes may appear sooner._
