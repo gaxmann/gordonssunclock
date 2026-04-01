@@ -7,6 +7,9 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ## [2.71.2] - 2026-04-xx
 
+### Changed
+- Code added to mark the upcoming legacy version as "-a5" after switching to the new toolchain
+
 ### Fixed
 - More effectiv When dial background image has to be redrawn
 
