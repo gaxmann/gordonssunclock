@@ -122,7 +122,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Fixed
 - Preceding hour values in Open-meteo moved to correct hour -1 (rain, snowfall, precipitation_probability, wind_gusts_10m, sunshine_duration)
 - Error with missing probability of precipitation and missing values for today in met.no fixed
-- Bug fixes in V3
+- Bug fixes in preview version
 - Changing the design will now redraw the dial
 - When getting a new location dial is immediately updated (instead of at the next full minute)
 
@@ -196,7 +196,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Added
 - Accordion navigation added to settings page (got too large). Explanation text updated
-- "Show time" setting added for upcoming V3 (and the problems with the digital clock display)
+- "Show time" setting added for upcoming preview version (and the problems with the digital clock display)
 - Dial now comes directly from texture instead of PNG, plus sped up draft creation
 - Lang 1.7: New variable logic for the lang file ({solcal_lph|0-}). Updated website code to correctly display the new language files
 
@@ -273,7 +273,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [2.60] - 2025-10-31 (Temporal hours)
 
 ### Added
-- Time display in unequal, temporal hours added (mistakenly from 1.0-12.9; text positions redesigned, because of changes in V3)
+- Time display in unequal, temporal hours added (mistakenly from 1.0-12.9; text positions redesigned, because of changes in preview version)
 
 ### Changed
 - 1x location button now accesses network and GPS
@@ -294,7 +294,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [2.57/8] - 2025-10-20
 
 ### Added
-- Changes from V3 incorporated to give both branches the same code basis
+- Changes from preview version incorporated to give both branches the same code basis
 
 ### Changed
 - Graf module tidied up, files re-sorted
