@@ -81,8 +81,8 @@ You can check out preview builds for the new API 24–35 branch in the Releases 
 
 ---
 
-# Legacy build for Android 5–6
+# Legacy build
 
-From 2026-05-31 onwards, a separate legacy apk for Android 5–6 will be available via GitHub Releases as an `-a5` build. Legacy versions will be released irregularly.
+From 2026-05-31 onwards, a separate legacy apk for Android 5–6 will be available via GitHub Releases as an `-a5` build. Legacy versions will be released irregularly
 
 
