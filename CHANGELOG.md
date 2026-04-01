@@ -1,7 +1,7 @@
 # Changelog
 Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md) of the latest changes here.
 
-*[Preview version](#dev) of the app (supporting 16 kB pages and Android 15+ transparent bars) is listed at the bottom.*
+*[Preview builds](#dev) for the api 24–35 branch (supporting 16 kB pages and Android 15+ transparent bars) are listed at the bottom.*
 
 ---
 
@@ -773,22 +773,20 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ---
 ---
 <a name="dev"></a>
-# Preview versions (V3)
 
-V3 and V2 share the same source code (compare features by release date). Detailed descriptions of features can be found in the corresponding V2 versions above. *V3 means: api 24-35 (Android 7+), arm64-v8a only, 16 kB page memory, newer and slower numpy version*
+# Preview versions
 
-## [3.+] - 2025-10-12 (Transparent bars)
+Preview builds for the api 24–35 branch can be downloaded via Releases. These versions share the same source code as the main release line (compare features by release date). Detailed descriptions of features can be found in the corresponding V2 versions above. *Preview means: api 24-35 (Android 7+), arm64-v8a only, 16 kB page memory, newer and slower numpy version*
+
+## [2.+ preview] - 2025-10-12 (Transparent bars)
 
 ### Added
 - Navigation and status bars now transparent on Android 15+
 - Calculations take a bit longer, UI feels faster
 - Api 24-35 (Android 7+) due to new numpy version, arm64-v8a only, 16 kB page memory  
 
-### Notes
-- To see which features your V3 includes, please refer to the V2 entry with the corresponding release date (V3 shares the same code base as V2)
-
 ---
 ---
 
->  *All notable changes to this project will be documented in this file (tags: Added, Changed, Deprecated, Removed, Fixed, Security). The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). - The major version is incremented when the Android minSdkVersion is increased. Otherwise, risk-based categorisation applies: **Added** introduces the highest risk of new errors, **Changed** usually stabilises behaviour, **Fixed** improves stability. - When language keys are added, removed, or changed, the **minor version of the German language file must be incremented to x.(y+1).0*** - _Regular feature updates are released every 1–4 weeks; critical fixes may appear sooner._
+>  *All notable changes to this project will be documented in this file (tags: Added, Changed, Deprecated, Removed, Fixed, Security). The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). - Risk-based categorisation applies: **Added** introduces the highest risk of new errors, **Changed** usually stabilises behaviour, **Fixed** improves stability. - When language keys are added, removed, or changed, the **minor version of the German language file must be incremented to x.(y+1).0*** - _Regular feature updates are released every 1–4 weeks; critical fixes may appear sooner._
 
