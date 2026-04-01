@@ -72,7 +72,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 <a name="future"></a>
 # Preview versions
 
-You can check out preview builds for the new API 24–35 branch in the Releases section. These versions share the same source code (please compare features by date). 
+You can check out preview builds for the new api 24–35 branch in the Releases section. These versions share the same source code (please compare features by date). 
 
 - Android 7+
 - arm64-v8a only
