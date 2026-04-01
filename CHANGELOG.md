@@ -8,7 +8,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [2.71.2] - 2026-04-xx
 
 ### Fixed
-- When background dial image has to be redrawn
+- More effectiv When dial background image has to be redrawn
 
 ## [2.71.1-public] - 2026-03-31
 
