@@ -89,7 +89,7 @@ I love art that preserves values and uplifts the spirit (e.g., Claude Monet, J. 
 Optimally, you should create two designs: one for day (light mode) and one for night (dark mode). If you only provide one, the standard, flat dark theme will be used at night.
 
 ### 2. Translations
-Contribute [translations](https://github.com/gaxmann/gordonssunclock/tree/main/lang) into new languages or improve existing ones (German is the original).
+Contribute [translations](https://github.com/gaxmann/gordonssunclock/tree/main/lang) into new languages or improve existing ones (German is the original). Languages with the (α) sign cannot be improved, because they are machine translated an do not belong to the set of 10 supported languages (yet). 
 
 ### 3. Resources
 Create new images of celestial bodies or assets (if original or properly licensed).
