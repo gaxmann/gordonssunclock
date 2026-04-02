@@ -790,7 +790,7 @@ Preview builds for the api 24–35 branch can be downloaded via Releases. These 
 
 # Legacy builds
 
-From 2026-05-31 onwards, a separate legacy apk for Android 5–6 will be available only via GitHub Releases as an `"-a5"` build, because the Play Store requires the app to move to the 16 kB page-size version with minapi 24.
+From 2026-05-31 onwards, a separate legacy apk for Android 5–6 will be available only via [GitHub releases](https://github.com/gaxmann/gordonssunclock/releases/latest/) as an `"-a5"` build, because the Play Store requires the app to move to the 16 kB page-size version with minapi 24.
 
 Legacy builds share the same source code and the same version numbering, but will be released irregularly between the normal updates.
 
