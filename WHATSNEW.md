@@ -87,3 +87,4 @@ From 2026-05-31 onwards, a separate legacy apk for Android 5–6 will be availab
 
 Legacy builds share the same source code and the same version numbering, but will be released irregularly between the normal updates.
 
+---
