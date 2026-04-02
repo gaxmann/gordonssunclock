@@ -5,7 +5,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [2.71.2] - 2026-04-xx (Build split preparations)
+## [2.71.2] - 2026-04-xx (2-Builds preparations)
 
 ### Changed
 - Mark the upcoming legacy version as "-a5" after switching to the new toolchain. Update check now differentiates between "-a5" and future "normal" version 
