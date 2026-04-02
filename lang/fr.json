@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.15.2",
-        "updated": "2026-03-30 22:37:29"
+        "version": "1.15.3",
+        "updated": "2026-04-02 12:13:00"
     },
     "txwelcome": "Bienvenue",
     "quotes": [
@@ -133,7 +133,7 @@
         "updateexists": "Il y a une mise à jour pour l'Horloge solaire de Gordon avec des corrections de bugs.[~LF][~LF]Je recommande de mettre à jour le logiciel.",
         "updatenote": "% a été mis à jour. Veuillez noter ce qui suit :[~LF][~LF]",
         "waitforgps": "Détermination de la position en cours...[~LF][~LF]Cela peut prendre quelques secondes.",
-        "lastandr5": "Il s’agit de la dernière version de {txgordonssunclock} pour Android 5–6 sur Google Play.[~LF][~LF]Des versions plus récentes peuvent être disponibles sur [ref=githubv2][u]GitHub[/u][/ref] ; voir le bouton {txchangelog} à la page 4 de l’application.",
+        "lastandr5": "Ceci est la dernière version de {txgordonssunclock} pour Android 5–6 sur Google Play.[~LF][~LF]À partir du 2026-05-31, des versions plus récentes peuvent être disponibles sur [ref=githubr][u]GitHub[/u][/ref] ; voir le bouton {txchangelog} à la page 4 de l’application.",
         "noautotrlg": "La traduction automatique que vous utilisez n'est actuellement pas disponible.[~LF][~LF]Ce service est expérimental et peut échouer temporairement ou définitivement.",
         "autotravail": "Une traduction générée automatiquement pour [LANG] a été chargée. Vous pouvez sélectionner l’une des langues officielles dans les paramètres sous {txlang}."
     },
