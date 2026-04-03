@@ -8,7 +8,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [2.71.2] - 2026-04-xx (Build logic)
 
 ### Changed
-- Mark the upcoming legacy version as "-a5" after switching to the new toolchain. Update check now differentiates between "-a5" and future "normal" version 
+- Mark the upcoming legacy version as "-a5" after switching to the new toolchain. Update check now differentiates between "-a5" and future "main" version (separate Github repo created for legacy a5 apk)
 - Text updated
 - The app now also ships with the auto-translated languages: Czech and Hungarian. Polish hat been removed because there are no users – _As this feature is experimental and dependent on other services, auto-translated languages may be temporarily or permanently unavailable_
 
