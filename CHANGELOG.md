@@ -12,7 +12,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Update checks now differentiate between **`a5`** and **`main`** versions
 
 ### Changed
-- The app now also ships with the auto-translated languages: Czech and Hungarian. Polish hat been removed because there are no users – _As this feature is experimental and dependent on other services, auto-translated languages may be temporarily or permanently unavailable_
+- The app now also ships with the auto-translated languages Czech and Hungarian. Polish hat been removed because there are no users – _As this feature is experimental and dependent on other services, auto-translated languages may be temporarily or permanently unavailable_
 - Text updated
 
 ### Fixed
