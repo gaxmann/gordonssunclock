@@ -19,7 +19,7 @@ For more visual impressions and a detailed description, check out the Play Store
 - **[GitHub releases](https://github.com/gaxmann/gordonssunclock/releases/latest/)** (apk downloads)
 - **[APKPure](https://apkpure.com/de/gordon%E2%80%99s-sun-clock/de.ax12.zunclock)** (alternative)
 
-- _**Android 5–14:** From May 2026 onwards, the Play Store version requires Android 7+. A legacy (`a5`) build for older or lower-spec devices remains available via GitHub releases._
+- _**Android 5+:** From May 2026 onwards, the Play Store version requires Android 7+. A legacy (`a5`) build for older or lower-spec devices (Android 5–14) remains available via GitHub releases._
 
 - ***If you are on iOS:** The app is currently only available for Android. With Apple, I would practically have to start from scratch. If you would like to test the app anyway, I see two options:*
   - *Use an emulator on Mac/PC: BlueStacks, Waydroid (Linux) or Genymotion work well*
