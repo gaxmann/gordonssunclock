@@ -7,10 +7,13 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ## [2.71.2] - 2026-04-xx (Build logic)
 
+### Added
+- From now on, this build uses the **`a5`** suffix, preparing the switch to the new build chain in May 2026. A separate GitHub repository now also exists for distribution of the `a5` legacy apk
+- Update checks now differentiate between **`a5`** and **`main`** versions
+
 ### Changed
-- Marks the upcoming legacy version as "-a5" after switching to the new toolchain. Update check now differentiates between "-a5" and "main" versions (also separate Github repo created for a5 legacy apk)
-- Text updated
 - The app now also ships with the auto-translated languages: Czech and Hungarian. Polish hat been removed because there are no users – _As this feature is experimental and dependent on other services, auto-translated languages may be temporarily or permanently unavailable_
+- Text updated
 
 ### Fixed
 - Dial background image has to be redrawn more effective
