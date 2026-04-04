@@ -2,6 +2,9 @@
 
 Keys that have been added, changed, or removed are listed here, as well as structural changes and language files that were added or removed, or whose support status changed.
 
+## [1.16] - 2026-04-04
+- **Added:** txpopuphead/new
+
 ## [1.15] - 2026-03-30
 - **Added:** txpopupbody/lastandr5
 
