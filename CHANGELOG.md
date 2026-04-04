@@ -8,7 +8,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [2.71.2] - 2026-04-xx (Build logic)
 
 ### Added
-- From now on, this build uses the **`a5`** suffix, preparing the switch to the new toolchain in May 2026. A separate GitHub repository now also exists for distribution of the `a5` legacy apk
+- From now on, this build uses the **`a5`** suffix, even though it is still identical to the current main line. This prepares the toolchain split planned for May 2026, when the new main line will be published without the suffix. A separate GitHub repository now also exists for distribution of the `a5` legacy apk
 - Update checks now differentiate between **`a5`** and **`main`** versions
 
 ### Changed
