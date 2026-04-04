@@ -778,7 +778,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 # Preview builds
 
-Preview builds for the api 24–35 branch can be downloaded via Releases. These versions share the same source code as the main release line (compare features by release date). *Preview means: api 24-35 (Android 7+), arm64-v8a only, 16 kB page memory, with a newer and slower numpy version*
+Preview builds for the api 24–35 branch can be downloaded via Releases. These versions share the same source code as the main release line.
 
 ## [Preview] - 2025-10-12 (Transparent bars)
 
