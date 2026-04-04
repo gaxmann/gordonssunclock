@@ -1,8 +1,8 @@
-# Gordon's Sun Clock – Natural Time
+# Gordon's Sun Clock – Natural Time ☀️
 
 <img src="res/icon.png" width="48" height="48" align="left">**A single-hand clock with a dial that changes daily, based on the rhythms of nature and the stars. It shows the position of the sun and the starry sky – a new way of displaying time that moves in harmony with the seasons.**
 
-## Why? ☀️
+## Why?
 
 I was dissatisfied with standard time, the recurring time changes and the fact that 12 o'clock is usually not noon. My solution: an organic dial that shows the sun's actual position and path, shows when it's at its highest point, and when the sun disappears below the horizon – all calculated for your individual location. Standard clocks tell you the time. Sun Clock tells you where you are in the day.
 
