@@ -83,8 +83,6 @@ You can check out preview builds for the new api 24–35 branch in the Releases 
 
 # Legacy builds
 
-From 2026-05-31 onwards, a separate legacy apk for Android 5–6 will be available only via [GitHub releases](https://github.com/gaxmann/gordonssunclock/releases/latest/) as an `"-a5"` build, because the Play Store requires the app to move to the 16 kB page-size version with minapi 24.
-
-Legacy builds share the same source code and the same version numbering, but will be released irregularly between the normal updates.
+From 2026-05-31 onwards, an **`a5`** legacy build (Android 5–14) will be provided via a separate GitHub [repository](https://github.com/gaxmann/zunclock-legacy/releases/latest/). This is due to Play Store requirements, which require the app to move to the 16 kB page-size version (with minapi 24). The **`a5`** build shares the same code base and versioning, but is released less frequently and intended for older or lower-spec devices.
 
 ---
