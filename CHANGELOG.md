@@ -18,7 +18,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Fixed
 - Dial background image redraw logic is more precisely
-- Handling of elevation lookup failures
+- Better handling of elevation lookup failures
 
 ## [2.71.1-public] - 2026-03-31
 
