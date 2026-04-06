@@ -14,8 +14,9 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Changed
 - The app now also ships with the auto-translated languages Czech and Hungarian. Polish hat been removed because there are no users – _As this feature is experimental and dependent on other services, auto-translated languages may be temporarily or permanently unavailable_
+- version_cmp simplified
 - Texts updated
-
+ 
 ### Fixed
 - Dial background image redraw logic is more precisely
 - Better handling of elevation lookup failures
