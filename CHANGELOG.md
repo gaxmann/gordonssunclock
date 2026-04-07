@@ -8,7 +8,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [2.71.2] - 2026-04-xx (Toolchain preparation)
 
 ### Added
-- From now on, this build uses the **`a5`** suffix, even though it is still identical to the current main line. This prepares the toolchain split planned for May 2026, when the new main line will be published without the suffix. A separate GitHub repository has also been created for distribution of the `a5` legacy apk. Also a **`a7`** suffix will be added to the new Android 7+ line for this short time of transition to make things clearer. The **`a7`** suffix will be removed once the transition is complete
+- From now on, this build uses the **`a5`** suffix, even though it is still identical to the current main line. This prepares the toolchain split planned for May 2026, when the new main line will be published without the suffix. A separate GitHub repository has also been created for distribution of the `a5` legacy apk. (Also a **`a7`** suffix will be added to the new Android 7+ line for this short time of transition to make things clearer. The **`a7`** suffix will be removed once the transition is complete)
 - Update checks now differentiate between **`a5`** and **`main`** versions
 - Update popup for time control added (with translations) 
 
