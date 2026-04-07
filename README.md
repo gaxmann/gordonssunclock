@@ -23,7 +23,7 @@ For more visual impressions and a detailed description, check out the Play Store
 
 - ***If you are on iOS:** The app is currently only available for Android. With Apple, I would practically have to start from scratch. If you would like to test the app anyway, I see two options:*
   - *Use an emulator on Mac/PC: BlueStacks, Waydroid (Linux) or Genymotion work well*
-  - ***Buy a used Android tablet:** from $50 (Android 7 is sufficient; e.g. Samsung Tab A SM-T510/515, Samsung Galaxy Tab A7, Lenovo Tab P11, Huawei MediaPad M5 Lite 10, HONOR Pad 8) → a tablet as a wall clock is really worth it!*
+  - ***Buy a used Android tablet:** from $50 (Android 7 is sufficient; e.g. Huawei MediaPad M5 (Lite) 10, Samsung Galaxy Tab A7, Lenovo Tab P11, HONOR Pad 8, Huawei MatePad SE 11, maybe Samsung Tab A SM-T510/515) → a tablet as a wall clock is really worth it!*
 
 ## Features
 
