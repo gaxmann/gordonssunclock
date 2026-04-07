@@ -24,13 +24,13 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ## [2.71.1-public] - 2026-03-31
 
+### Changed
+- Display of patch number on the About page; as a result, the comparison logic was changed to 3+1 parts (hence it was necessary to upgrade to version 2.71, which triggers an update notification for wall clocks)
+- Texts updated
+
 ### Added
 - Popup for last version of Android 5-6 added (not active yet)
  
-### Changed
-- Display of patch number on About page, compare logic changed to 3+1 parts (therefore new 2.71 version, which triggers update message for wall clocks)
-- Texts updated
-
 ### Fixed
 - Measuring the time taken to compute the dial
 - Size measuring of page width for weather data display
