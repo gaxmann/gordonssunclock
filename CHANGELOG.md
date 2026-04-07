@@ -20,6 +20,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Fixed
 - Dial background image redraw logic is more precisely
 - Better handling of elevation lookup failures
+- Error handling for open link in browser
 
 ## [2.71.1-public] - 2026-03-31
 
