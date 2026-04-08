@@ -1,5 +1,5 @@
 # Changelog
-Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md) of the latest changes here. – _[Legacy builds](#legacy) for the `**a5**` branch are listed at the bottom._
+Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md) of the latest changes here. – _[Legacy builds](#legacy) for the **`a5`** branch are listed at the bottom._
 
 ---
 
