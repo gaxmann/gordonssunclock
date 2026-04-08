@@ -15,7 +15,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 ## [2.69] - 2026-02-25 (Weather overview)
 
 - Optional drama-free weather view with a clear icon-based daily outlook, rain radar _#2.67 2026-02-02_
-- Major performance update, auto-translated languages (Português, eTürkçe, Italiano), many bug fixes
+- Major performance update⚡, auto-translated languages (Português, Türkçe, Italiano), many bug fixes
 <!--## [2.67] - 2026-02-02 (Weather overview)
 - Optional drama-free weather view with a clear icon-based daily outlook, rain radar
 -->
@@ -69,18 +69,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 
-<a name="future"></a>
-# Preview versions
-
-You can check out preview builds for the new api 24–35 branch in the Releases section. These versions share the same source code. 
-
-- Android 7+
-- arm64-v8a only
-- 16 kB page size support
-- newer, slower NumPy version
-
----
-
+<a name="legacy"></a>
 # Legacy builds
 
 From 2026-05-31 onwards, an **`a5`** legacy build (Android 5–14) will be provided via a separate GitHub [repository](https://github.com/gaxmann/zunclock-legacy/releases/latest/). This is due to Play Store requirements, which require the app to move to the 16 kB page-size version (with minapi 24). The **`a5`** build shares the same code base and versioning, but is released less frequently and intended for older or lower-spec devices.
