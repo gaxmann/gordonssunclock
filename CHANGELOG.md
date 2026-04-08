@@ -10,8 +10,9 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Added
 - From now on, this build uses the **`a5`** suffix, even though it is still identical to the current main line. This prepares the toolchain split planned for May 2026, when the new main line will be published without the suffix. A separate GitHub repository has also been created for distribution of the `a5` legacy apk. (An **`a7`** suffix will also be added temporarily to the new Android 7+ line to make the distinction clearer during the transition. The **`a7`** suffix will be removed once the transition is complete.)
 - Update checks now differentiate between **`a5`** and **`main`** versions
-- Background image RAM cache used to improve speed of dial creation (especially with the new a7 version). Moved the png saving of the background image to a separate worker to save time to display the dial and optimised the png compression mode (and time)
+- Faster dial creation: Background image RAM cache used to improve speed of dial creation (especially with the new a7 version). Moved the save background image to png function to a separate, delayed worker to save time to display the dial, png compression optimised (mode and time)
 - Update popup for time control added (with translations)
+- Last version in Playstore popup for Android 5-6 activated
 
 ### Changed
 - The app now also ships with the auto-translated languages Czech and Hungarian. Polish hat been removed because there are no users – _As this feature is experimental and dependent on other services, auto-translated languages may be temporarily or permanently unavailable_
