@@ -5,7 +5,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 <!-- Internal update to meet new Android platform requirements, auto-translated languages (Čeština and Magyar) -->
-## [2.71-stable] - 2026-03-31 (Time control)
+## [2.71-_stable_] - 2026-03-31 (Time control)
  
 - Time control to move the dial forward and backward in time – _feature-complete with the original hardware clock_ 🎉 _#2.70 2026-03-23_
 - Displays meteor showers and an overview of the viewing times, many bug fixes
@@ -32,7 +32,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 - Android 5+ support to enable legacy devices to be used as wall clocks, bug fixes-->
  
-## [2.54-stable] - 2025-10-08 (Bar fixes)
+## [2.54-_stable_] - 2025-10-08 (Bar fixes)
 
 - Fixed system bars on Android 15+ _#2.47 2025-09-20_
 - Many bug fixes (GrapheneOS, Aurora & Apkpure downloads, max alt+bars, line spacing, no-attr clockscr)
