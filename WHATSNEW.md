@@ -15,7 +15,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 ## [2.69] - 2026-02-25 (Weather overview)
 
 - Optional drama-free weather view with a clear icon-based daily outlook, rain radar _#2.67 2026-02-02_
-- Major performance update⚡, auto-translated languages (Português, Türkçe, Italiano), many bug fixes
+- Major performance update ⚡, auto-translated languages (Português, Türkçe, Italiano), many bug fixes
 <!--## [2.67] - 2026-02-02 (Weather overview)
 - Optional drama-free weather view with a clear icon-based daily outlook, rain radar
 -->
