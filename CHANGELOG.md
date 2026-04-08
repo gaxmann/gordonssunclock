@@ -1,9 +1,11 @@
 # Changelog
 Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md) of the latest changes here.
 
-*[Preview builds](#dev) for the api 24–35 branch (supporting 16 kB pages and Android 15+ transparent bars) are listed at the bottom.*
+*[Legacy builds](#dev) for the `**a5**` branch are listed at the bottom.*
 
 ---
+
+> In April 2026 we will ship out new a7 line of the app supporting 16 kB pages and Android 15+ transparent bars 
 
 ## [2.72] - 2026-04-xx (Toolchain split)
 
@@ -782,20 +784,6 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Predecessor versions based on a purely mechanical 24-hour clock movement with a single hand — an actual wall clock with dial and hand, predating any software implementation
 
 ---
----
-<a name="dev"></a>
-
-# Preview builds
-
-Preview builds for the api 24–35 branch can be downloaded via Releases. These versions share the same source code as the main release line.
-
-## [Preview] - 2025-10-12 (Transparent bars)
-
-### Added
-- Navigation and status bars now transparent on Android 15+
-- UI feels faster
-- Api 24-35 (Android 7+) due to new numpy version, arm64-v8a only, 16 kB page memory  
-
 ---
 
 <a name="legacy"></a>
