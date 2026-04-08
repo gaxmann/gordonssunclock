@@ -792,7 +792,7 @@ Preview builds for the api 24–35 branch can be downloaded via Releases. These 
 
 ### Added
 - Navigation and status bars now transparent on Android 15+
-- Calculations take a bit longer, UI feels faster
+- UI feels faster
 - Api 24-35 (Android 7+) due to new numpy version, arm64-v8a only, 16 kB page memory  
 
 ---
