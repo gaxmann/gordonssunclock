@@ -72,6 +72,6 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 <a name="legacy"></a>
 # Legacy builds
 
-From 2026-05-31 onwards, an **`a5`** legacy build (Android 5–14) will be provided via a separate GitHub [repository](https://github.com/gaxmann/zunclock-legacy/releases/latest/). This is due to Play Store requirements, which require the app to move to the 16 kB page-size version (with minapi 24). The **`a5`** build shares the same code base and versioning, but is released less frequently and intended for older or lower-spec devices.
+From 2026-05 onwards, an **`a5`** legacy build will be provided via a separate GitHub [repository](https://github.com/gaxmann/zunclock-legacy/releases/latest/). This is due to Play Store requirements, which require the app to move to the 16 kB page-size version (with minapi 24). The **`a5`** build shares the same code base and versioning, but is released less frequently and is mainly intended for **Android 5–6** devices and devices requiring **armeabi-v7a** support.
 
 ---
