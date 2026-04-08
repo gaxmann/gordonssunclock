@@ -8,7 +8,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [2.72] - 2026-04-xx (Toolchain split)
 
 ### Added
-- From now on, the preview line takes over as the new **`main`** line, while the previous main line becomes the legacy line and now uses the **`a5`** suffix. In the app stores, the previous line will continue to be distributed as **`a5`** for a limited time. This supports the toolchain split planned for April 2026. Once the transition is complete, the new Android 7+ main line will remain the standard line without a suffix. A separate GitHub repository has also been created for distribution of the **`a5`** legacy apk.
+- From now on, the preview line takes over as the new **`main`** line (without a suffix), while the previous main line becomes the legacy line and now uses the **`a5`** suffix. In the app stores, the previous main line will continue to be distributed as **`a5`** for a limited time. This supports the toolchain split planned for April 2026. A separate GitHub repository has also been created for distribution of the **`a5`** legacy apk
 - Update checks now differentiate between **`a5`** and **`main`** versions
 - Faster dial creation: Background image RAM cache used to improve speed of dial creation (especially with the new a7 version). Moved the save background image to png function to a separate, delayed worker to save time to display the dial, png compression optimised (mode and time)
 - Update popup for time control added (with translations)
