@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.15.3",
-        "updated": "2026-04-02 12:13:00"
+        "version": "1.16.1",
+        "updated": "2026-04-08 23:20:10"
     },
     "txwelcome": "Welcome",
     "quotes": [
@@ -131,13 +131,14 @@
     "txgpsbutton": "Locate 1x",
     "txpopuphead": {
         "updateavail": "Update available",
+        "new": "New",
         "notice": "Notice"
     },
     "txpopupbody": {
         "txgpsdeact": "GPS is disabled. Please enable GPS in your device settings",
         "activatewlan": "Location unavailable.[~LF][~LF]Are Wi-Fi and/or mobile networks enabled in your device settings?",
         "updateexists": "There is an update for Gordon's Sun Clock with bug fixes.[~LF][~LF]I recommend updating the software.",
-        "updatenote": "% has been updated. Please note the following:[~LF][~LF]",
+        "updatenote": "New in[SP]%:[~LF][~LF]",
         "waitforgps": "Location is being determined...[~LF][~LF]This may take a few seconds.",
         "lastandr5": "This is the last version of {txgordonssunclock} for Android 5–6 on the Google Play Store.[~LF][~LF]From 2026-05-31, newer versions may be available on [ref=githubr][u]GitHub[/u][/ref]; see the {txchangelog} button on page 4 of the app.",
         "noautotrlg": "The machine translation you were using is currently unavailable.[~LF][~LF]This service is experimental and may fail temporarily or permanently. You can select another language in Settings.[~LF][~LF]The app has switched to English.",

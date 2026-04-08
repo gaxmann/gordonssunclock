@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.15.3",
-        "updated": "2026-04-02 12:13:00"
+        "version": "1.16.1",
+        "updated": "2026-04-08 23:20:10"
     },
     "txwelcome": "Bienvenue",
     "quotes": [
@@ -125,13 +125,14 @@
     "txgpsbutton": "Localiser 1x",
     "txpopuphead": {
         "updateavail": "Mise à jour disponible",
+        "new": "Nouveau",
         "notice": "Avis"
     },
     "txpopupbody": {
         "txgpsdeact": "Le GPS est désactivé. Veuillez activer le GPS dans les paramètres de votre appareil",
         "activatewlan": "Localisation indisponible.[~LF][~LF]Le Wi-Fi et/ou les réseaux mobiles sont-ils activés dans les paramètres de votre appareil ?",
         "updateexists": "Il y a une mise à jour pour l'Horloge solaire de Gordon avec des corrections de bugs.[~LF][~LF]Je recommande de mettre à jour le logiciel.",
-        "updatenote": "% a été mis à jour. Veuillez noter ce qui suit :[~LF][~LF]",
+        "updatenote": "Nouveau dans[SP]%:[~LF][~LF]",
         "waitforgps": "Détermination de la position en cours...[~LF][~LF]Cela peut prendre quelques secondes.",
         "lastandr5": "Ceci est la dernière version de {txgordonssunclock} pour Android 5–6 sur Google Play.[~LF][~LF]À partir du 2026-05-31, des versions plus récentes peuvent être disponibles sur [ref=githubr][u]GitHub[/u][/ref] ; voir le bouton {txchangelog} à la page 4 de l’application.",
         "noautotrlg": "La traduction automatique que vous utilisez n'est actuellement pas disponible.[~LF][~LF]Ce service est expérimental et peut échouer temporairement ou définitivement.",

@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.15.3",
-        "updated": "2026-04-02 12:13:00"
+        "version": "1.16.1",
+        "updated": "2026-04-08 23:20:10"
     },
     "txwelcome": "Willkommen",
     "quotes": [
@@ -124,13 +124,14 @@
     "txgpsbutton": "1x orten",
     "txpopuphead": {
         "updateavail": "Update verfügbar",
+        "new": "Neu",
         "notice": "Hinweis"
     },
     "txpopupbody": {
         "txgpsdeact": "GPS ist deaktiviert. Bitte aktivieren Sie GPS in Ihrer Geräteeinstellung",
         "activatewlan": "Ortung nicht möglich.[~LF][~LF]Sind WLAN und/oder Funknetz in Ihrer Geräteeinstellung aktiviert?",
         "updateexists": "Es gibt ein Update von Gordons Sonnenuhr mit Fehlerkorrekturen.[~LF][~LF]Ich empfehle ein Update der Software.",
-        "updatenote": "% wurde aktualisiert. Bitte beachte Folgendes:[~LF][~LF]",
+        "updatenote": "Neu in[SP]%:[~LF][~LF]",
         "waitforgps": "Warten auf Standort...[~LF][~LF]Dies kann einige Sekunden dauern.",
         "lastandr5": "Dies ist die letzte Version von {txgordonssunclock} für Android 5–6 im Google Play Store.[~LF][~LF]Ab dem 31.05.2026 sind neuere Versionen möglicherweise auf [ref=githubr][u]GitHub[/u][/ref] verfügbar; s. Knopf {txchangelog} auf Seite 4 der App.",
         "noautotrlg": "Die von Ihnen genutzte maschinelle Übersetzung ist derzeit nicht verfügbar.[~LF][~LF]Dieser Service ist experimentell und kann vorübergehend oder dauerhaft ausfallen. Sie können in den Einstellungen eine andere Sprache auswählen.[~LF][~LF]Die App wurde auf Englisch umgestellt.",
