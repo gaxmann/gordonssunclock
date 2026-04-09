@@ -4,9 +4,8 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 *Here you'll find the full [privacy policy (Datenschutzrichtlinie).](https://sites.google.com/view/sonnenuhr/startseite)*
 
 ---
-
-> ## [2.72-_stable_] - 2026-04-xx (Optimisations)
-> - Final Play Store release for Android 5–6, auto-translated languages (Čeština and Magyar), faster dial creation, bug fixes
+<!-- > ## [2.72-_stable_] - 2026-04-xx (Optimisations)
+> - Final Play Store release for Android 5–6, auto-translated languages (Čeština and Magyar), faster dial creation, bug fixes-->
 <!-- Internal update to meet new Android platform requirements, auto-translated languages (Čeština and Magyar) -->
 
 ## [2.71-_stable_] - 2026-03-31 (Time control)
