@@ -11,7 +11,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 ## [2.71-_stable_] - 2026-03-31 (Time control)
  
 - Time control to move the dial forward and backward in time _#2.70 2026-03-23_
-- Displays meteor showers and an overview of the viewing times, many bug fixes _#2.71 2026-03-31_
+- Displays meteor showers and an overview of the viewing times, many bug fixes
 <!--## [2.69] - 2026-02-25 (Core optimisation)
 - Improved weather visualisation, rain radar, major performance update, auto-translated languages, bug fixes -->
 
