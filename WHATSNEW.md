@@ -10,7 +10,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ## [2.71-_stable_] - 2026-03-31 (Time control)
  
-- Time control to move the dial forward and backward in time – _feature-complete with the original hardware clock_ 🎉 _#2.70 2026-03-23_
+- Time control to move the dial forward and backward in time _#2.70 2026-03-23_
 - Displays meteor showers and an overview of the viewing times, many bug fixes _#2.71 2026-03-31_
 <!--## [2.69] - 2026-02-25 (Core optimisation)
 - Improved weather visualisation, rain radar, major performance update, auto-translated languages, bug fixes -->
@@ -76,5 +76,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 # Legacy builds
 
 From 2026-04 onwards, an **`a5`** legacy build will be provided via a separate GitHub [repository](https://github.com/gaxmann/zunclock-legacy/releases/latest/). This is due to Play Store requirements, which require the app to move to the 16 kB page-size version (with minapi 24). The **`a5`** build shares the same code base and versioning, but is released less frequently and is mainly intended for **Android 5–6** devices and devices requiring **armeabi-v7a** support.
+
+_Since 2.70 Sun Clock is feature-complete with the original hardware clock._ 🎉 
 
 ---
