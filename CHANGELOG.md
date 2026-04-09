@@ -7,8 +7,8 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ## [2.72] - 2026-04-xx (Transparent bars)
 
-**Internal update to meet new Android platform requirements** resulting in:
 ### Changed
+**Internal update to meet new Android platform requirements** resulting in:
 - 16 kB page support, api 24-35 (Android 7+) and arm64-v8a only _(legacy support continues via Github)_
 - Faster UI and faster dial creation 
 - Transparent system bars (Android 15+)
