@@ -7,16 +7,16 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ## [2.72] - 2026-04-xx (Transparent bars)
 
-### Changed
 **Internal update to meet new Android platform requirements** resulting in:
+### Changed
 - 16 kB page support, api 24-35 (Android 7+) and arm64-v8a only _(legacy support continues via Github)_
 - Faster UI and faster dial creation 
 - Transparent system bars (Android 15+)
 
 ## [2.71.2] - 2026-04-xx (Render optimisations) ⚡
 
-### Added
 **Final app stores release for Android 5–6** due to Play Store requirements
+### Added
 - Background image RAM caching added to speed up dial creation. Saving the background png has been moved to a delayed worker to reduce initial render time, compression mode optimised. These optimisations reduced dial creation time (2× faster on the Android 7+ line) and pave the way for the switch to the new main line in the app stores
 - From now on, the Android 7+ preview line takes over as the new **`main`** line ✨, while the previous main line becomes the legacy line and now uses the **`a5`** suffix. A separate GitHub repository has been created for the distribution of the legacy apk
 - Update check now differentiates between **`a5`** and **`main`** versions
