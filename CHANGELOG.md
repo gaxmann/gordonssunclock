@@ -8,7 +8,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [2.71.2] - 2026-04-xx (Toolchain preparation) ⚡
 
 ### Added
-- Much faster dial creation ⚡ &ndash; especially on the new **`a7`** line: Background image RAM caching added to speed up dial creation. png saving moved to a delayed worker to reduce initial render time and compression mode optimised
+- Much faster dial creation &ndash; especially on the new **`a7`** line: Background image RAM caching added to speed up dial creation. png saving moved to a delayed worker to reduce initial render time and compression mode optimised
 - From now on, the preview line takes over as the new **`main`** line ✨, while the previous main line becomes the legacy line and now uses the **`a5`** suffix. A separate GitHub repository has also been created for distribution of the legacy apk. In the app stores, for a limited time the previous main line will continue to be distributed. This supports the toolchain split planned for April 2026
 - Update check now differentiates between **`a5`** and **`main`** versions
 - Update popup for time control added (with translations)
@@ -111,7 +111,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [2.69.1-public] - 2026-02-25 (Core optimisation) ⚡
 
 ### Added
-- Sun/Moon ephemeris sampling now computed in vectorised Skyfield batches instead of per-step calls (3-5× faster dial calculation) ⚡
+- Sun/Moon ephemeris sampling now computed in vectorised Skyfield batches instead of per-step calls (3-5× faster dial calculation)
 - Draft mode disabled on all devices except those classified as slow
 - Processing animation at startup moved to a different layer to not collide with dial image
 - Symbol for severe storms added
