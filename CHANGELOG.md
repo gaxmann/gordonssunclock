@@ -617,6 +617,8 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Fixed
 - Time zone might not have been saved
 
+---
+
 ## [2.14] - 2025-06-23
 
 ### Added
@@ -771,13 +773,17 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Added coarse location query
 - Api 21-34 (Android 5+)
 
+---
+
 ## [1.0 - 1.73] - 2019-11..2025
 
 ### Added
 - The project’s first digital incarnation runs on a Raspberry Pi Zero W with a small e-paper display
 - The second version uses a Raspberry Pi 3A+ and a 10-inch, 16-greyscale e-paper display mounted in a picture frame as a wall clock
 
-## [0.0 - 0.2] - 2011..2019
+---
+
+## [0.0 - 0.2-public] - 2011..2019
 
 ### Added
 - Predecessor versions based on a purely mechanical 24-hour clock movement with a single hand — an actual wall clock with dial and hand, predating any software implementation
@@ -788,7 +794,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 <a name="legacy"></a>
 # Legacy builds
 
-From 2026-04 onwards, an **`a5`** legacy build will be provided via a separate GitHub [repository](https://github.com/gaxmann/zunclock-legacy/releases/latest/). This is due to Play Store requirements, which require the app to move to the 16 kB page-size version (with minapi 24). The **`a5`** build shares the same code base and versioning, but is released less frequently and is mainly intended for **Android 5–6** devices and devices requiring **armeabi-v7a** support.
+From 2026-04 onwards, an **`a5`** legacy build will be provided via a separate GitHub [repository](https://github.com/gaxmann/zunclock-legacy/releases/latest/). This is due to Play Store requirements, which require the app to move to the 16 kB page-size version (with minapi 24). This legacy line shares the same code base and versioning, but is released less frequently and is mainly intended for **Android 5–6** devices and devices requiring **armeabi-v7a** support.
 
 ---
 ---
