@@ -12,8 +12,8 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Background image RAM caching added to speed up dial creation. Saving the background png has been moved to a delayed worker to reduce initial render time, compression mode optimised. These optimisations reduced dial creation time substantially (2× faster on the new Android 7+ line, which is now faster than the current **`a5`** line) and pave the way for the switch to the new main series in the app stores:
 - From now on, the preview line takes over as the new **`main`** line ✨, while the previous main line becomes the legacy line and now uses the **`a5`** suffix. In the app stores, the **`a5`** line will continue to be distributed for a limited time. A separate GitHub repository has also been created for distribution of the legacy apk (toolchain split now planned for April 2026)
 - Update check now differentiates between **`a5`** and **`main`** version
+- Popup last version in Playstore for Android 5-6 activated (can now be removed in the next version)
 - Popup listing new features time control and meteor showers added 
-- Popup last version in Playstore for Android 5-6 activated
 
 ### Changed
 - The app now also ships with the auto-translated languages Czech and Hungarian. Polish hat been removed because there are no users – _As this feature is experimental and dependent on other services, auto-translated languages may be temporarily or permanently unavailable_
