@@ -8,23 +8,23 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [2.72] - 2026-04-xx (Transparent bars)
 
 ### Changed
-**Internal update to meet new Android platform requirements resulting in:**
-- 16 kB page support, api 24-35 (Android 7+) and arm64-v8a only _(legacy support continues via GitHub releases)_
+**Internal update to meet new Android platform requirements** resulting in:
+- 16 kB page support, api 24-35 (Android 7+) and arm64-v8a only _(legacy support continues via Github)_
 - Faster UI and faster dial creation 
 - Transparent system bars (Android 15+)
 
 ## [2.71.2] - 2026-04-xx (Render optimisations) ⚡
 
 ### Added
-**Final app store release for Android 5–6 users** due to Play Store requirements _(legacy support continues via Github releases)_
+**Final app stores release for Android 5–6** due to Play Store requirements
 - Background image RAM caching added to speed up dial creation. Saving the background png has been moved to a delayed worker to reduce initial render time, compression mode optimised. These optimisations reduced dial creation time (2× faster on the Android 7+ line) and pave the way for the switch to the new main line in the app stores
 - From now on, the Android 7+ preview line takes over as the new **`main`** line ✨, while the previous main line becomes the legacy line and now uses the **`a5`** suffix. A separate GitHub repository has been created for the distribution of the legacy apk
 - Update check now differentiates between **`a5`** and **`main`** versions
-- Popup "last version in Playstore for Android 5-6" activated
 - Popup listing new features time control and meteor showers added 
 
 ### Changed
-- The app now ships with the auto-translated languages Czech and Hungarian. Polish has been removed because there are no users – _As this feature is experimental and dependent on other services, auto-translated languages may be temporarily or permanently unavailable_
+- Popup "last version in Playstore for Android 5-6" activated
+- The app now ships with the auto-translated languages Czech and Hungarian (Polish has been removed because there are no users) – _As this feature is experimental and dependent on other services, auto-translated languages may be temporarily or permanently unavailable_
 - version_cmp simplified
 - Texts updated
  
@@ -41,7 +41,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Texts updated
 
 ### Added
-- Popup for last version of Android 5-6 added (not active yet)
+- Popup for last version of Android 5-6 added (not active)
  
 ### Fixed
 - Measuring the time taken to compute the dial
