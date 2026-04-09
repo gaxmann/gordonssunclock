@@ -5,26 +5,32 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 > In April 2026 we will ship the new **`a7`** line of the app supporting 16 kB pages and Android 15+ transparent bars. It is already available via Github releases, but not yet on the app stores
 
+> ## [2.72] - 2026-04-xx (Toolchain split)
+>
+> ### Changed
+> - **Internal update to meet new Android platform requirements:** Android 7+, 16 kB page support, arm64-v8a only (faster than the old **`a5`** line). _Legacy support continues via GitHub releases._ 
+> - _End of transition phase begun in 2025-11_
+
 ## [2.71.2] - 2026-04-xx (Toolchain optimisation) ⚡
 
 ### Added
-
-- Background image RAM caching added to speed up dial creation. Saving the background png has been moved to a delayed worker to reduce initial render time, compression mode optimised. These optimisations reduced dial creation time substantially (2× faster on the new Android 7+ line, which is now faster than the current **`a5`** line) and pave the way for the switch to the new main series in the app stores:
+- Background image RAM caching added to speed up dial creation. Saving the background png has been moved to a delayed worker to reduce initial render time, compression mode optimised. These optimisations reduced dial creation time substantially (2× faster on the new Android 7+ line) and pave the way for the switch to the new main series in the app stores:
 - From now on, the preview line takes over as the new **`main`** line ✨, while the previous main line becomes the legacy line and now uses the **`a5`** suffix. In the app stores, the **`a5`** line will continue to be distributed for a limited time. A separate GitHub repository has also been created for distribution of the legacy apk (toolchain split now planned for April 2026)
+- **Final app store release for Android 5–6** _(support continues via Github releases)_
 - Update check now differentiates between **`a5`** and **`main`** version
 - Popup last version in Playstore for Android 5-6 activated (can now be removed in the next version)
 - Popup listing new features time control and meteor showers added 
 
 ### Changed
-- The app now also ships with the auto-translated languages Czech and Hungarian. Polish hat been removed because there are no users – _As this feature is experimental and dependent on other services, auto-translated languages may be temporarily or permanently unavailable_
+- The app now also ships with the auto-translated languages Czech and Hungarian. Polish has been removed because there are no users – _As this feature is experimental and dependent on other services, auto-translated languages may be temporarily or permanently unavailable_
 - version_cmp simplified
 - Texts updated
  
 ### Fixed
-- Background image redraw logic is more precisely
+- Background image redraw logic improved
 - Better handling of elevation lookup failures
 - Error handling for openlink in browser
-- fns vars were not backcopied from app on first startup after install
+- fns vars weren't copied back from app on first startup after install
 
 ## [2.71.1-public] - 2026-03-31
 
