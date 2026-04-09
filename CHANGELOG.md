@@ -8,7 +8,8 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 > ## [2.72] - 2026-04-xx (Toolchain split)
 >
 > ### Changed
-> - **Internal update to meet new Android platform requirements:** Android 7+, 16 kB page support, arm64-v8a only (faster than the old **`a5`** line). _Legacy support continues via GitHub releases._ 
+> - Transparent system bars in Android 15+
+> - **Internal update to meet new Android platform requirements:** Android 7+, 16 kB page support, arm64-v8a only (faster than the old **`a5`** line). _Legacy support continues via GitHub releases._
 > - _End of transition phase begun in 2025-11_
 
 ## [2.71.2] - 2026-04-xx (Toolchain optimisation) ⚡
