@@ -5,12 +5,12 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 > In April 2026 we will ship the new **`a7`** line of the app supporting 16 kB pages and Android 15+ transparent bars 
 
-## [2.71.2] - 2026-04-xx (Toolchain preparation)
+## [2.71.2] - 2026-04-xx (Toolchain preparation) ⚡
 
 ### Added
 - From now on, the preview line takes over as the new **`main`** line (without a suffix), while the previous main line becomes the legacy line and now uses the **`a5`** suffix. A separate GitHub repository has also been created for distribution of the legacy apk. In the app stores, for a limited time the previous main line will continue to be distributed. This supports the toolchain split planned for April 2026
 - Update check now differentiates between **`a5`** and **`main`** versions
-- Much faster dial creation (especially with the new **`a7`** line) ⚡: Background image uses RAM cache to improve dial creation. Moved the saving function of the background image to a separate delayed worker to save time to display the dial, png compression optimised (mode)
+- Much faster dial creation (especially with the new **`a7`** line): Background image uses RAM cache to improve dial creation. Moved the saving function of the background image to a separate delayed worker to save time to display the dial, png compression optimised (mode)
 - Update popup for time control added (with translations)
 - Last version in Playstore popup for Android 5-6 activated
 
