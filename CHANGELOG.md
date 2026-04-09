@@ -5,12 +5,12 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 > In April 2026 we will ship the new **`a7`** line of the app supporting 16 kB pages and Android 15+ transparent bars. It is already available via Github releases, but not yet on the app stores
 
-> ## [2.72] - 2026-04-xx (Toolchain split)
+> ## [2.72] - 2026-04-xx (Transparent bars)
 >
 > ### Changed
-> - Transparent system bars in Android 15+
-> - **Internal update to meet new Android platform requirements:** Android 7+, 16 kB page support, arm64-v8a only (faster than the old **`a5`** line). _Legacy support continues via GitHub releases._
-> - _End of transition phase begun in 2025-11_
+> - Internal update to meet new Android platform requirements: Android 7+, 16 kB page support, arm64-v8a only. _Legacy support continues via GitHub releases._
+> - Faster UI and faster creation of dial
+> - Transparent system bars (Android 15+)
 
 ## [2.71.2] - 2026-04-xx (Toolchain optimisation) ⚡
 
