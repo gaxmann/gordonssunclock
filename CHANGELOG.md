@@ -8,9 +8,9 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [2.71.2] - 2026-04-xx (Toolchain preparation)
 
 ### Added
-- From now on, the preview line takes over as the new **`main`** line (without a suffix), while the previous main line becomes the legacy line and now uses the **`a5`** suffix. A separate GitHub repository has also been created for distribution of the **`a5`** legacy apk. In the app stores, for a limited time the previous main line will continue to be distributed as **`a5`**. This supports the toolchain split planned for April 2026
-- Update checks now differentiate between **`a5`** and **`main`** versions
-- Faster dial creation (especially with the new **`a7`** line): Background image uses RAM cache to improve dial creation. Moved the saving function of the background image to a separate delayed worker to save time to display the dial, png compression optimised (mode)
+- From now on, the preview line takes over as the new **`main`** line (without a suffix), while the previous main line becomes the legacy line and now uses the **`a5`** suffix. A separate GitHub repository has also been created for distribution of the legacy apk. In the app stores, for a limited time the previous main line will continue to be distributed. This supports the toolchain split planned for April 2026
+- Update check now differentiates between **`a5`** and **`main`** versions
+- Faster dial creation ⚡ (especially with the new **`a7`** line): Background image uses RAM cache to improve dial creation. Moved the saving function of the background image to a separate delayed worker to save time to display the dial, png compression optimised (mode)
 - Update popup for time control added (with translations)
 - Last version in Playstore popup for Android 5-6 activated
 
@@ -108,7 +108,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - 24h toggle now recreates "background image"
 - Lang 1.12: Square brackets containing text that must be translated are now written as {sb0/1}
 
-## [2.69.1-public] - 2026-02-25 (Core optimisation)
+## [2.69.1-public] - 2026-02-25 (Core optimisation) ⚡
 
 ### Added
 - Sun/Moon ephemeris sampling now computed in vectorised Skyfield batches instead of per-step calls (3-5× faster dial calculation)
