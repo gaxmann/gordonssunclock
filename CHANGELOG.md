@@ -12,7 +12,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 > - Faster UI and faster creation of dial
 > - Transparent system bars (Android 15+)
 
-## [2.71.2] - 2026-04-xx (Toolchain optimisation) ⚡
+## [2.71.2] - 2026-04-xx (Render optimisation) ⚡
 
 ### Added
 - Background image RAM caching added to speed up dial creation. Saving the background png has been moved to a delayed worker to reduce initial render time, compression mode optimised. These optimisations reduced dial creation time substantially (2× faster on the new Android 7+ line) and pave the way for the switch to the new main series in the app stores:
