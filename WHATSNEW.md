@@ -4,14 +4,13 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 *Here you'll find the [privacy policy (Datenschutzrichtlinie).](https://sites.google.com/view/sonnenuhr/startseite)*
 
 ---
-<!-- > ## [2.72-_stable_] - 2026-04-xx (Optimisations)
-<!-- > Internal update to meet new Android platform requirements, Performance optimisations ⚡, auto-translated languages (Čeština and Magyar) _#2.72 2026-04-xx_ -->
-<!-- > - Final Play Store release for Android 5–6, auto-translated languages (Čeština and Magyar), faster dial creation, bug fixes-->
+> ## [2.72-_stable_] - 2026-04-xx (Transparent bars)
+> Transparent system bars (Android 15+), faster UI, Android 7+
 
 ## [2.71-_stable_] - 2026-03-31 (Time control)
  
 - Time control to move the dial forward and backward in time, meteor showers and an overview of the viewing times _#2.70 2026-03-23_
-> - Performance optimisations ⚡, auto-translated languages (Čeština and Magyar), final Android 5-6 release in app stores, many bug fixes
+> - Performance optimisations ⚡, auto-translated languages (Čeština and Magyar), many bug fixes, final Android 5-6 release in app stores
 <!--## [2.69] - 2026-02-25 (Core optimisation)
 - Improved weather visualisation, rain radar, major performance update, auto-translated languages, bug fixes -->
 
@@ -68,7 +67,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ## [2.15] - 2025-06-24 (Initial release)
 
-- Initial Android release with the original e-paper greyscale design in German, English and Spanish
+- Initial Android release with the original e-paper greyscale design in German, English and Spanish, Android 5+
 
 ---
 
