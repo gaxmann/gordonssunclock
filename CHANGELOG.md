@@ -34,6 +34,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Better handling of elevation lookup failures
 - Error handling for openlink in browser
 - fns vars weren't copied back from app on first startup after install
+- Button page 3 disabled colour when protection mode is enabled
 
 ## [2.71.1-public] - 2026-03-31
 
