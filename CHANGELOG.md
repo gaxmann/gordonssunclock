@@ -25,7 +25,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Numpad navigation on Linux: `4`/`6` previous/next page, `8`/`2` scroll up/down, `CR` back to dial, `/` update dial; Zoom mode: `5` toggle, `1`–`9` pan, `+`/`-` zoom, `CR` or `5` recenter and exit
 
 ### Changed
-- Popup "Last version in Playstore for Android 5-6" activated
+- Popup for Android 5-6 "Last version in app stores" activated
 - The app now ships with the auto-translated languages Czech and Hungarian (Polish has been removed because there are no users) – _As this feature is experimental and dependent on other services, auto-translated languages may be temporarily or permanently unavailable_
 - version_cmp simplified
 - Texts updated
