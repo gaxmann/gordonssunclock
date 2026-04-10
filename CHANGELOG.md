@@ -20,7 +20,8 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Background image RAM caching added to speed up dial creation. Saving the background png has been moved to a delayed worker to reduce initial render time, compression mode optimised. These optimisations reduced dial creation time (2× faster on the Android 7+ line) and pave the way for the switch to the new main line in the app stores
 - From now on, the Android 7+ preview line takes over as the new **`main`** line ✨, while the previous main line becomes the legacy line and now uses the **`a5`** suffix. A separate GitHub repository has been created for the distribution of the legacy apk
 - Update check now differentiates between **`a5`** and **`main`** versions
-- Popup listing new features time control and meteor showers added 
+- Popup listing new features time control and meteor showers added
+- dialisready() now with 1s delay to brake solcal
 
 ### Changed
 - Popup "last version in Playstore for Android 5-6" activated
