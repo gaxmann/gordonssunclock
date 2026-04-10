@@ -4,8 +4,8 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 *Here you'll find the [privacy policy (Datenschutzrichtlinie).](https://sites.google.com/view/sonnenuhr/startseite)*
 
 ---
-> ## [2.72-_stable_] - 2026-04-xx (Transparent bars)
-> Transparent system bars (Android 15+), faster UI, Android 7+
+<!-- > ## [2.72-_stable_] - 2026-04-xx (Transparent bars)
+> Transparent system bars (Android 15+), faster UI, Android 7+ -->
 
 ## [2.71-_stable_] - 2026-03-31 (Time control)
  
