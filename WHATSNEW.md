@@ -5,14 +5,13 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 <!-- > ## [2.72-_stable_] - 2026-04-xx (Optimisations)
-> - Final Play Store release for Android 5–6, auto-translated languages (Čeština and Magyar), faster dial creation, bug fixes-->
+<!-- > Internal update to meet new Android platform requirements, Performance optimisations ⚡, auto-translated languages (Čeština and Magyar) _#2.72 2026-04-xx_ -->
+<!-- > - Final Play Store release for Android 5–6, auto-translated languages (Čeština and Magyar), faster dial creation, bug fixes-->
 
 ## [2.71-_stable_] - 2026-03-31 (Time control)
  
-- Time control to move the dial forward and backward in time _#2.70 2026-03-23_
-- Displays meteor showers and an overview of the viewing times, many bug fixes
-<!-- Performance optimisations ⚡, auto-translated languages (Čeština and Magyar) _#2.71.2 2026-04-10_ -->
-<!-- Internal update to meet new Android platform requirements, Performance optimisations ⚡, auto-translated languages (Čeština and Magyar) _#2.72 2026-04-xx_ -->
+- Time control to move the dial forward and backward in time, meteor showers and an overview of the viewing times _#2.70 2026-03-23_
+> - Performance optimisations ⚡, auto-translated languages (Čeština and Magyar), final Android 5-6 release in app stores, many bug fixes
 <!--## [2.69] - 2026-02-25 (Core optimisation)
 - Improved weather visualisation, rain radar, major performance update, auto-translated languages, bug fixes -->
 
