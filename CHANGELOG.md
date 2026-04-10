@@ -22,7 +22,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Update check now differentiates between **`a5`** and **`main`** versions
 - Popup listing new features time control and meteor showers added
 - dialisready() now with 1s delay to further delay solcal calculations, weath with 2s delay instead of 1s
-- Numpad navigation on Linux: `4`/`6` previous/next page, `8`/`2` scroll up/down, `0` back to dial, `/` update; Zoom mode: `5` toggle, `1`–`9` pan, `+`/`-` zoom, `0` or `5` recenter and exit
+- Numpad navigation on Linux: `4`/`6` previous/next page, `8`/`2` scroll up/down, `CR` back to dial, `/` update dial; Zoom mode: `5` toggle, `1`–`9` pan, `+`/`-` zoom, `CR` or `5` recenter and exit
 
 ### Changed
 - Popup "last version in Playstore for Android 5-6" activated
