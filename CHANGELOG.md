@@ -9,7 +9,7 @@ _In April 2026 we will ship the new **`a7`** line of the app supporting 16 kB pa
 > 
 > **Toolchain swap to meet new Android platform requirements,** first app stores release of the new **`a7`** line (without any suffix)
 > ### Changed (new main)
-> - 16 kB page support, api 24-35 (Android 7+) and arm64-v8a only _(legacy support continues via Github)_
+> - 16 kB page support, api 24-35 (Android 7+), arm64-v8a only _(legacy support continues via Github)_
 > - Faster UI and faster dial creation 
 > - Transparent system bars (Android 15+)
 
