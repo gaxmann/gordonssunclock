@@ -34,7 +34,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 - Android 5+ support to enable legacy devices to be used as wall clocks, bug fixes-->
  
-## [2.54-_stable_] - 2025-10-08 (Bar fixes)
+## [2.54-_stable_] - 2025-10-08 (Fixed bars)
 
 - Fixed system bars on Android 15+ _#2.47 2025-09-20_
 - Many bug fixes (GrapheneOS, Aurora & Apkpure downloads, max alt+bars, line spacing, no-attr clockscr)
