@@ -7,10 +7,10 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 <!-- > ## [2.72-_stable_] - 2026-04-xx (Transparent bars)
 > Transparent system bars (Android 15+), faster UI, Android 7+ -->
 
-## [2.71-_stable_] - 2026-03-31 (Time control)
+## [2.71-_stable_] - 2026-04-11 (Time control)
  
 - Time control to move the dial forward and backward in time, meteor showers and an overview of the viewing times _#2.70 2026-03-23_
-> - Performance optimisations ⚡, auto-translated languages (Čeština and Magyar), many bug fixes, final Android 5-6 release in app stores
+- Performance optimisations ⚡, auto-translated languages (Čeština and Magyar), many bug fixes, final Android 5-6 release in app stores
 <!--## [2.69] - 2026-02-25 (Core optimisation)
 - Improved weather visualisation, rain radar, major performance update, auto-translated languages, bug fixes -->
 
