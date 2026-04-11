@@ -13,7 +13,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 > - Faster UI and faster dial creation 
 > - Transparent system bars (Android 15+)
 
-## [2.71.2] - 2026-04-xx (Render optimisations) ⚡
+## [2.71.2-public] - 2026-04-11 (Render optimisations) ⚡
 
 **Final app stores release for Android 5–6** (due to new Play Store requirements)
 ### Added
