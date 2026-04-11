@@ -5,7 +5,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 > ## [2.72-_stable_] - 2026-04-xx (Transparent bars)
-> Transparent system bars (Android 15+), faster UI, Android 7+
+> Transparent system bars (Android 15+), faster UI, Android 7+ (not on **`a5`**)
 
 ## [2.71-_stable_] - 2026-04-11 (Time control)
  
