@@ -2,50 +2,50 @@
 
 Keys that have been added, changed, or removed are listed here, as well as structural changes and language files that were added or removed, or whose support status changed.
 
-## [1.16] - 2026-04-04
+## [L1.16] - 2026-04-04
 - **Added:** txpopuphead/new
 
-## [1.15] - 2026-03-30
+## [L1.15] - 2026-03-30
 - **Added:** txpopupbody/lastandr5
 
-## [1.14] - 2026-03-16
+## [L1.14] - 2026-03-16
 - **Added:** txephdownld, txephdelete, txpressagain, txloading, txanleitung5
 
-## [1.13] - 2026-03-12
+## [L1.13] - 2026-03-12
 - **Added:** txpopupbody/updatenote, txpopupbody/noautotrlg, txtimecontrol, txtimecstart, txcalcing
 
-## [1.12] - 2026-03-05
+## [L1.12] - 2026-03-05
 - **Structure:** Square brackets containing text that must be translated are now written as {sb0/1}
 
-## [1.11] - 2026-03-03
+## [L1.11] - 2026-03-03
 - **Added:** txpopupbody/autotravail
 
-## [1.10] - 2026-02-27
+## [L1.10] - 2026-02-27
 - **Added:** lang_latin, txautotranslate
 
-## [1.9] - 2026-02-24
+## [L1.9] - 2026-02-24
 - **Added:** txradar
 
-## [1.8] - 2026-01-23
+## [L1.8] - 2026-01-23
 - **Added:** txweathapi, txweathapiarr, txsiformat, txnow, weath_c, weath_f, weath_in, weath_kmh, weath_lm2, weath_mph, weath_pct
 
-## [1.7] - 2025-12-28
+## [L1.7] - 2025-12-28
 - **Added:** tx_acc, txgpslabel, txgordonssunclock, txsunclock, 
 - **Structure:** list variable format without quotes changed to {xxx|y-} (labels and lists are now treated similarly)
 
-## [1.6] - 2025-12-16
+## [L1.6] - 2025-12-16
 - **Added:** solcal_lph, lighttime, moon, buttonsolcal (unused), txlegende0 
 - **Structure:** variables for certain list/dict entries added, e.g. currently {solcal_lph|2}; or full list via {solcal_lph|**} (unused)
 
-## [1.5] - 2025-11
+## [L1.5] - 2025-11
 - **Added:** _meta (version, updated), ordinalsh (key rules with gender distinction)
 - **Changed:** xxdays (new keys for plural rules)
 - **Structure:** variables for quoted labels added, e.g. {txgpsauto} or without quotes {txgpsauto-}; also special entry {auto}
 - **Files:** fully supported ru.json added
 
-## [1.4] - 2025-11
+## [L1.4] - 2025-11
 - **Added:** txpartsupport, txnosupport
 - **Structure:** variable {LANGSUPPORT} added that automatically inserts `txpartsupport` or `txnosupport` if applicable. Linefeed marker changed from [-LF-] to [~LF] to avoid conflicts with "wdiff | colordiff"  
 
-## [1.0..1.3] - 2025
+## [L1.0..1.3] - 2025
 - Initial structure and early changes
