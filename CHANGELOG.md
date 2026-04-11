@@ -805,7 +805,7 @@ _In April 2026 we will ship the new **`a7`** line of the app supporting 16 kB pa
 <a name="legacy"></a>
 # Legacy builds
 
-From 2026-04 onwards, an **`a5`** legacy build will be provided via a separate GitHub [repository](https://github.com/gaxmann/zunclock-legacy/releases/latest/). This is due to Play Store requirements, which require the app to move to the 16 kB page-size version (with minapi 24). This legacy line shares the same code base and versioning, but is released less frequently and is mainly intended for **Android 5–6** devices and devices requiring **armeabi-v7a** support.
+From 2026-04 onwards, an **`a5`** legacy build will be provided via a separate GitHub [repository](https://github.com/gaxmann/zunclock-legacy/releases/latest/). This is due to Play Store requirements, which require the app to move to the 16 kB page-size version (Android 7+). The legacy line shares the same code base and versioning, but is released less frequently and is mainly intended for **Android 5–6** devices and devices requiring **armeabi-v7a** support.
 
 ---
 ---
