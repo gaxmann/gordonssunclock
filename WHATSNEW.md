@@ -10,7 +10,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 ## [2.71-_stable_] - 2026-04-11 (Time control)
  
 - Time control to move the dial forward and backward in time, meteor showers and an overview of the viewing times _#2.70 2026-03-23_
-- Performance optimisations ⚡, auto-translated languages (Čeština and Magyar), many bug fixes, **final Android 5-6 release in app stores**
+- Performance optimisations ⚡, auto-translated languages (Čeština and Magyar), many bug fixes<!--, last Android 5-6 release in app stores-->
 <!--## [2.69] - 2026-02-25 (Core optimisation)
 - Improved weather visualisation, rain radar, major performance update, auto-translated languages, bug fixes -->
 
