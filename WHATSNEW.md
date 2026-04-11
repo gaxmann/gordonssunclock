@@ -5,7 +5,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 > ## [2.72-_stable_] - 2026-04-xx (Transparent bars)
-> Transparent system bars (Android 15+), faster UI, Android 7+ (new main)
+> Transparent system bars (Android 15+), faster, first release of new main
 
 ## [2.71-_stable_] - 2026-04-11 (Time control)
  
@@ -67,7 +67,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ## [2.15] - 2025-06-24 (Initial release)
 
-- Initial Android release with the original e-paper greyscale design in German, English and Spanish, Android 5+
+- Initial Android release with the original e-paper greyscale design in German, English and Spanish
 
 ---
 
