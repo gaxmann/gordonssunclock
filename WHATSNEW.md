@@ -29,10 +29,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ## [2.63] - 2025-11-07 (Temporal hours)
 
-- Time display in unequal, temporal hours, bug fixes
-<!--## [2.59] - 2025-10-21 (Legacy support)
-
-- Android 5+ support to enable legacy devices to be used as wall clocks, bug fixes-->
+- Time display in unequal, temporal hours, many bug fixes
 <!-- 
 ## [2.54-_stable_] - 2025-10-08 (Bar fixes)
 
