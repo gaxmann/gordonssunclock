@@ -10,6 +10,9 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Slightly faster UI, faster dial creation
 - 16 kB page support, api 24/35 (Android 7+), arm64-v8a only
 
+### Fixed
+- In time control mode darkmode reacts to change
+
 ## [2.71.2-public] - 2026-04-11 (Render optimisations) ⚡
 
 **Final app stores release for Android 5–6** (due to new Play Store requirements)
