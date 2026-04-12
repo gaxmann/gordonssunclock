@@ -1,5 +1,5 @@
 # Changelog
-Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md) of the latest changes here. – _[Legacy](#legacy)-specific notes are listed at the bottom._
+Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md) of the latest changes here. _[Legacy](#legacy)-specific notes are listed at the bottom._
 
 ---
 
@@ -10,7 +10,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Slightly faster UI, faster dial creation
 - 16 kB page support, api 24/35 (Android 7+), arm64-v8a only
 
-### Fixed
+### Fixed (all lines)
 - In time control mode darkmode reacts to change
 
 ## [2.71.2-public] - 2026-04-11 (Render optimisations) ⚡
