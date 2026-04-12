@@ -5,7 +5,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ## [2.72] - 2026-04-xx (Toolchain switch)
 
-### New main line ✨ 
+### New main line only ✨ 
 - Transparent system bars (Android 15+)
 - Slightly faster UI, faster dial creation
 - 16 kB page support, api 24/35 (Android 7+), arm64-v8a only
