@@ -3,8 +3,6 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-_In April 2026 we will ship the new **`a7`** line of the app supporting 16 kB pages and Android 15+ transparent bars. It is available via Github releases, but not yet on the app stores_
-
 ## [2.72] - 2026-04-xx (Transparent bars)
 
 ### New main line ✨ 
