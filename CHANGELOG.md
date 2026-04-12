@@ -497,7 +497,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - location update improved,
 - Update button also updates location,
 - "Display Agnihotra" use GPS instead of network for more location accuracy
-- Api 23/35 (Android 6+)
+- Moved to api 23/35 (Android 6+) because of speed concerns
 
 ## [2.29] - 2025-07-18
 
@@ -526,7 +526,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Changed
 - Update button now also retrieves GPS (if checked),
-- Api 24/35 (Android 7+)
+- Experimental api 24/35 (Android 7+)
 
 ## [2.25-public] - 2025-07-11 (Agnihotra times)
 
