@@ -3,7 +3,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [2.72] - 2026-04-xx (New toolchain)
+## [2.72] - 2026-04-xx (Toolchain switch)
 
 ### New main line ✨ 
 - Transparent system bars (Android 15+)
