@@ -16,7 +16,7 @@ _In April 2026 we will ship the new **`a7`** line of the app supporting 16 kB pa
 
 **Final app stores release for Android 5–6** (due to new Play Store requirements)
 ### Added
-- RAM caching for background image to speed up dial creation. Background png saving was moved to a delayed worker to reduce initial render time, and compression was optimised. Dial creation is now significantly faster (2× faster). For the first time, the Android 7+ preview line is faster than the old line
+- RAM caching for background image to speed up dial creation. Background png saving was moved to a delayed worker to reduce initial render time, compression was optimised. Dial creation is now ~2× faster. Finally the Android 7+ preview line is faster than the current one
 - The Android 7+ preview line now becomes the new **`main`** line ✨. The previous main line becomes the legacy line and now uses the **`a5`** suffix. A separate GitHub repository has been created for the distribution of the **`a5`** apk, which will be released to the app stores one last time
 - Update check now differentiates between **`main`** and **`a5`** versions
 - dialisready() with 1 sec delay to further delay solcal calculations, weath with 2s delay instead of 1s
