@@ -8,7 +8,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### New main line ✨ 
 - Transparent system bars (Android 15+)
 - Slightly faster UI, faster dial creation
-- 16 kB page support, api 24-35 (Android 7+), arm64-v8a only
+- 16 kB page support, api 24/35 (Android 7+), arm64-v8a only
 
 ## [2.71.2-public] - 2026-04-11 (Render optimisations) ⚡
 
@@ -325,12 +325,12 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [2.56-public] - 2025-10-13 (Api cleanup)
 
 ### Added
-- Custom version_code generation (to be able to revert back to api 21)
+- Custom version_code generation (to be able to revert back to minapi 21)
 - Replacing versiondat with vs.dat (faster, more reliable)
 
 ### Changed
 - Settings page restructured (because swiping between pages kept changing settings)
-- Reverted back to api 21-35 (Android 5+)
+- Reverted back to api 21/35 (Android 5+)
 
 ## [2.54-stable] - 2025-10-08
 
@@ -341,7 +341,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 > ## [2.53-android5] - 2025-10-08 (Special legacy version)
 > 
 > ### Changed
-> - Special build (not for Play Store) for api 21-34 ([Android 5+](https://github.com/gaxmann/suhr/releases/tag/v2.xxx)) due to the unavoidable, upcoming Android 7+ requirement 
+> - Special build (not for Play Store) for api 21/34 (Android 5+) due to the unavoidable, upcoming Android 7+ requirement 
 
 ## [2.52-public] - 2025-10-06
 
@@ -497,7 +497,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - location update improved,
 - Update button also updates location,
 - "Display Agnihotra" use GPS instead of network for more location accuracy
-- Api 23-35 (Android 6+)
+- Api 23/35 (Android 6+)
 
 ## [2.29] - 2025-07-18
 
@@ -526,7 +526,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Changed
 - Update button now also retrieves GPS (if checked),
-- Api 24-35 (Android 7+)
+- Api 24/35 (Android 7+)
 
 ## [2.25-public] - 2025-07-11 (Agnihotra times)
 
@@ -780,7 +780,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Displays digital time
 - Added sun, moon and Sirius
 - Added coarse location query
-- Api 21-34 (Android 5+)
+- Api 21/34 (Android 5+)
 
 ---
 
