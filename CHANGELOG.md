@@ -16,12 +16,12 @@ _In April 2026 we will ship the new **`a7`** line of the app supporting 16 kB pa
 
 **Final app stores release for Android 5–6** (due to new Play Store requirements)
 ### Added
+- Popup listing new features "time control and meteor showers" added
 - RAM caching for background image to speed up dial creation. Background png saving was moved to a delayed worker to reduce initial render time, compression was optimised. Dial creation is now ~2× faster. Finally the Android 7+ preview line is faster than the current one
 - dialisready() with 1 sec delay to further delay solcal calculations, weath with 2s delay instead of 1s
 - The Android 7+ preview line now becomes the new **`main`** line ✨. The previous main line becomes the legacy line and now uses the **`a5`** suffix. A separate GitHub repository has been created for the distribution of the **`a5`** apk, which will be released to the app stores one last time
 - Update check now differentiates between **`main`** and **`a5`** versions
 - Numpad navigation on Linux: `4`/`6` previous/next page, `8`/`2` scroll up/down, `CR` back to dial, `/` update dial; Zoom mode: `5` toggle, `1`–`9` pan, `+`/`-` zoom, `CR` or `5` recenter and exit
-- Popup listing new features "time control and meteor showers" added
 
 ### Changed
 - Popup for Android 5-6 "Last version in app stores" activated
