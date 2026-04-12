@@ -16,7 +16,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Added
 - Popup listing new features "time control and meteor showers"
 - RAM caching for background image to speed up dial creation. Background png saving was moved to a delayed worker to reduce initial render time, compression was optimised. Dial creation is now ~2× faster, making the preview line faster than the current one
-- From now on, the preview line (Android 7+) is the new **`main`** line. The previous main line becomes the legacy line and uses the **`a5`** suffix, which receives its final app store release hereby. A separate GitHub repository has been created to continue the distribution of the **`a5`** apk (getting reverted to its desired api 21/34; it never liked being on api 21/35)
+- From now on, the preview line (Android 7+) is the new **`main`** line. The previous main line becomes the legacy line and uses the **`a5`** suffix, which receives its final app store release hereby. A separate GitHub repository has been created to continue the distribution of the **`a5`** apk (getting reverted to its desired api 21/34; it never enjoyed being on api 21/35)
 - Update check now differentiates between **`main`** and **`a5`** versions
 - dialisready() with 1 sec delay to further delay solcal calculations, weath with 2s delay instead of 1s (to ensure unhindered dial creation)
 - Numpad navigation on Linux: `4`/`6` previous/next page, `8`/`2` scroll up/down, `CR` back to dial, `/` update dial; Zoom mode: `5` toggle, `1`–`9` pan, `+`/`-` zoom, `CR` or `5` recenter and exit
