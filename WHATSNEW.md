@@ -10,14 +10,14 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 ## [2.71-_stable_] - 2026-04-11 (Time control)
  
 - Time control to move the dial forward and backward in time, meteor showers and an overview of the viewing times _#2.70 2026-03-23_
-- Performance optimisations ⚡, auto-translated languages (Čeština and Magyar), many bug fixes<!--, last Android 5-6 release in app stores-->
+- Performance optimisations ⚡, auto-translations (Čeština and Magyar), many bug fixes<!--, last Android 5-6 release in app stores-->
 <!--## [2.69] - 2026-02-25 (Core optimisation)
 - Improved weather visualisation, rain radar, major performance update, auto-translated languages, bug fixes -->
 
 ## [2.69] - 2026-02-25 (Weather overview)
 
 - Optional drama-free weather view with a clear icon-based daily outlook, rain radar _#2.67 2026-02-02_
-- Major performance update ⚡, auto-translated languages (Português, Türkçe, Italiano), many bug fixes
+- Major performance update ⚡, auto-translations (Português, Türkçe, Italiano), many bug fixes
 <!--## [2.67] - 2026-02-02 (Weather overview)
 - Optional drama-free weather view with a clear icon-based daily outlook, rain radar
 -->
@@ -25,7 +25,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 ## [2.65] - 2025-12-16 (Light seasons)
 
 - Displays (eight) light seasons, solstice, equinox and the moon date ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
-- GPS time sync (for exact Agnihotra), Russian language, bug fixes
+- GPS time sync (for exact Agnihotra), Русский, bug fixes
 
 ## [2.63] - 2025-11-07 (Temporal hours)
 
@@ -53,18 +53,18 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
-- Agnihotra time display, zoomable dial, Chinese language, bug fixes (time zone change)
+- Agnihotra time display, zoomable dial, 中文, bug fixes (time zone change)
 <!--## [2.21] - 2025-07-04 (Chinese language)
 
-- Chinese language, api 35 upgrade (Android 15+ bar issue till 2.54), bug fixes (unknown lang)-->
+- 中文, api 35 upgrade (Android 15+ bar issue till 2.54), bug fixes (unknown lang)-->
 
 ## [2.18] - 2025-06-29 (Telescope design)
 
-- Telescope design, French language, bug fixes
+- Telescope design, Français, bug fixes
 
 ## [2.15] - 2025-06-24 (Initial release)
 
-- Initial Android release with the original e-paper greyscale design in German, English and Spanish
+- Initial Android release with the original e-paper greyscale design in Deutsch, English, Español
 
 ---
 
