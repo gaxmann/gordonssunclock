@@ -10,6 +10,9 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Slightly faster UI, faster dial creation
 - 16 kB page support, api 24/35 (Android 7+), arm64-v8a only
 
+### Changed
+- **`a5`** wallclocks only check for update every 30 days
+
 ### Fixed (all lines)
 - In time control mode darkmode reacts to change
 
