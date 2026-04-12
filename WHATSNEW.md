@@ -5,7 +5,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 ## [2.72] - 2026-04-xx (New toolchain)
-- First release of new main ✨, transparent system bars (Android 15+), overall faster
+- New main line ✨, transparent system bars (Android 15+), overall faster
 
 ## [2.71-_stable_] - 2026-04-11 (Time control)
  
