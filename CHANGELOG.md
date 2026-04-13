@@ -10,7 +10,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Slightly faster UI, faster dial creation
 - 16 kB page support, api 24/35 (Android 7+), arm64-v8a only
 
-### Changed (etc. &rarr; all lines)
+### Changed (all lines, unless otherwise noted)
 - Background img save delay for 8s (sufficient due to RAM caching)
 - Time control: No process animation when single tapping (+/- 1 hour)
 - **`a5`** wallclocks only check for update every 30 days, and they now do it directly from Github (now **`a5`** only exists on Github, so no review process necessary that could stall updates)
