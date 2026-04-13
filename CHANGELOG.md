@@ -17,7 +17,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Fixed
 - In time control mode darkmode reacts to change
-- Update message on wallclocks now only opens popup on **`a5`** with a Github link (instead of opening the Play store)
+- Update message on wallclocks running **`a5`** opens popup with a Github link instead of opening the Play store
 
 ## [2.71.2-public] - 2026-04-11 (Render optimisations) ⚡
 
