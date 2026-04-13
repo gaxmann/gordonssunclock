@@ -13,7 +13,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Changed (all lines, unless otherwise noted)
 - Background img save delay for 8s (sufficient due to RAM caching)
 - Time control: No process animation when single tapping (+/- 1 hour)
-- **`a5`** wallclocks only check for update every 30 days, and they now do it directly from Github (now **`a5`** only exists on Github, so no review process necessary that could stall updates)
+- **`a5`** wallclocks only check for update every 30 days, and they now do it directly from Github (now **`a5`** solely exists on Github, so no review process necessary that could stall updates)
 
 ### Fixed
 - In time control mode darkmode reacts to change
