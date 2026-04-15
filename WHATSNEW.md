@@ -4,10 +4,10 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 *Here you'll find the [privacy policy (Datenschutzrichtlinie).](https://sites.google.com/view/sonnenuhr/startseite)*
 
 ---
-## [2.72] - 2026-04-15 (Transparent bars)
+## [2.72-_stable_] - 2026-04-15 (Transparent bars)
 - New main line ✨. Transparent system bars (Android 15+), faster overall
 
-## [2.71-_stable_] - 2026-04-11 (Time control)
+## [2.71] - 2026-04-11 (Time control)
  
 - Time control to move the dial forward and backward in time, meteor showers and an overview of the viewing times _#2.70 2026-03-23_
 - Performance optimisations ⚡, auto-translations (Čeština, Magyar), many bug fixes<!--, last Android 5-6 release in app stores-->
