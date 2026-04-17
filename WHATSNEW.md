@@ -75,6 +75,6 @@ From 2026-04 onwards, an **`a5`** legacy build will be provided via a separate G
 
 ---
 
-> _P.S. Since 2.70 Sun Clock is feature-complete with the original hardware clock_
+_P.S. Since 2.70 Sun Clock is feature-complete with the original hardware clock_
 
 ---
