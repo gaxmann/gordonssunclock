@@ -696,7 +696,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [2.9] - 2025-06-11
 
 ### Fixed
-- Help was not rendered
+- Help pages was not rendered
 - Local sun data deleted after update
 
 ## [2.8] - 2025-06-11
@@ -775,14 +775,10 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Fixed
 - Auto-GPS settings did not save
 
-## [2.0] - 2025-06-01
+## [2.0] - 2025-06-01 (Closed testing)
 
 ### Changed
-- First release of fully functioning Android version (closed testing)
-
-### Added
-- Added sun's and moon's orbit ("circles")
-- Added horizon, altitude lines, time markers
+- First release of fully functioning Android version with: sun, moon, 4 planets, 10 stars, sun's and moon's orbit ("circles"), horizon, altitude lines, time markers, 4 planets, 9 stars and original greyscale design
 
 ## [2.0.0-alpha.1 - 2.0.0-alpha.7] - 2025-05-21..2025-06-01
 
