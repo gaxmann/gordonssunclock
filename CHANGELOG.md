@@ -796,7 +796,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [1.0 - 1.73] - 2019-11..2025
+## [1.0 - 1.73] - 2019..2025
 
 ### Added
 - The project’s first digital incarnation runs on a Raspberry Pi Zero W with a small e-paper display
@@ -818,7 +818,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 From 2026-04 onwards, an **`a5`** legacy build will be provided via a separate GitHub [repository](https://github.com/gaxmann/zunclock-legacy/releases/latest/). This is due to Play Store requirements, which require the app to move to the 16 kB page-size version (Android 7+). The legacy line shares the same code base and versioning, but is released less frequently and is mainly intended for **Android 5–6** devices and devices requiring **armeabi-v7a** support.
 
 ---
+
+> *All notable changes to this project will be documented in this file (tags: Added, Changed, Deprecated, Removed, Fixed, Security). The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). - Risk-based categorisation applies: **Added** introduces the highest risk of new errors, **Changed** usually stabilises behaviour, **Fixed** improves stability. - When language keys are added, removed, or changed, the **minor version of the German language file must be incremented to x.(y+1).0*** - _Regular feature updates are released every 1–4 weeks; critical fixes may appear sooner._
+
 ---
-
->  *All notable changes to this project will be documented in this file (tags: Added, Changed, Deprecated, Removed, Fixed, Security). The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). - Risk-based categorisation applies: **Added** introduces the highest risk of new errors, **Changed** usually stabilises behaviour, **Fixed** improves stability. - When language keys are added, removed, or changed, the **minor version of the German language file must be incremented to x.(y+1).0*** - _Regular feature updates are released every 1–4 weeks; critical fixes may appear sooner._
-
