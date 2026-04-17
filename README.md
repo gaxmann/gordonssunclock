@@ -23,7 +23,7 @@ For more visual impressions and a detailed description, check out the Play Store
 
 - ***If you are on iOS:** The app is currently only available for Android. With Apple, I would practically have to start from scratch. If you would like to test the app anyway, I see two options:*
   - *Use an emulator on Mac/PC: BlueStacks, Waydroid (Linux) or Genymotion work well*
-  - ***Buy a used Android tablet:** it is really worth using one as a wall clock → from $50 (Android 7 is sufficient, arm64-v8a advised; e.g. Huawei MediaPad M5 (Lite) 10, Samsung Galaxy Tab A7, Lenovo Tab P11, HONOR Pad 8, Huawei MatePad SE 11. armeabi-v7a devices: Samsung Tab A SM-T510/515)*
+  - ***Buy a used Android tablet:** it is really worth using one as a wall clock → from $50 (Android 7 is sufficient, arm64-v8a advised; e.g. Huawei MediaPad M5 (Lite) 10, Samsung Galaxy Tab A7, Lenovo Tab P11, HONOR Pad 8, Huawei MatePad SE 11. These devices are armeabi-v7a: Samsung Tab A SM-T510/515)*
 
 ## Features
 
