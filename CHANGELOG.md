@@ -4,9 +4,9 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [2.72.1] - 2026-04-x (armeabi-v7a)
+## [2.72.1] - 2026-04-xx (armeabi-v7a)
 
-### Changed
+### Added
 
 - Error fixes to successfully build armeabi-v7a with the new toolchain, because too many devices were shut out
 
