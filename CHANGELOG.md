@@ -8,7 +8,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Added
 
-- Error fixes to successfully build armeabi-v7a with the new toolchain, because too many devices were shut out
+- Many settings and error fixes to successfully build armeabi-v7a with the new toolchain, because too many devices were shut out
 
 ## [2.72-stable] - 2026-04-15 (Toolchain switch)
 
