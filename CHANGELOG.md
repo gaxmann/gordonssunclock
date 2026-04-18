@@ -8,7 +8,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Added
 
-- Many settings and error fixes to successfully build armeabi-v7a with the new toolchain, because too many devices were shut out
+- New settings to successfully build armeabi-v7a with the new toolchain. Too many wall clock legacy devices are still on armeabi-v7a
 
 ## [2.72-stable] - 2026-04-15 (Toolchain switch)
 
