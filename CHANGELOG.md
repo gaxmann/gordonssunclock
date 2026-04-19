@@ -4,7 +4,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [2.72.1-stable] - 2026-04-19 (32bit re-added)
+## [2.72.1-stable] - 2026-04-19 (32bit support)
 
 ### Added
 
