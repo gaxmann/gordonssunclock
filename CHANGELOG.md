@@ -4,13 +4,13 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [2.72.1] - 2026-04-19 (armeabi-v7a)
+## [2.72.1-stable] - 2026-04-19 (armeabi-v7a)
 
 ### Added
 
 - New settings to enable armeabi-v7a builds with the new toolchain, as many older wall clock devices still depend on armeabi-v7a
 
-## [2.72-stable] - 2026-04-15 (Toolchain switch)
+## [2.72] - 2026-04-15 (Toolchain switch)
 
 ### New main line ✨
 - Transparent system bars (Android 15+)
