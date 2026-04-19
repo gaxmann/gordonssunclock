@@ -4,11 +4,11 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [2.72.1] - 2026-04-xx (armeabi-v7a)
+## [2.72.1] - 2026-04-19 (armeabi-v7a)
 
 ### Added
 
-- New settings to successfully build armeabi-v7a with the new toolchain. Too many wall clock legacy devices are still on armeabi-v7a
+- New settings to enable armeabi-v7a builds with the new toolchain, as many older wall clock devices still depend on armeabi-v7a
 
 ## [2.72-stable] - 2026-04-15 (Toolchain switch)
 
