@@ -8,7 +8,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Added
 
-- New settings to enable armeabi-v7a builds with the new toolchain, as many older wall clock devices still depend on armeabi-v7a
+- Restored armeabi-v7a support in the new toolchain, so the main line works again on older wall clock devices. Resolved build environment and dependency issues
 
 ## [2.72] - 2026-04-15 (Toolchain switch)
 
