@@ -14,7 +14,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ## [2.69] - 2026-02-25 (Weather overview)
 
-- Drama-free weather view, morning temperature for refraction, rain radar _#2.67 2026-02-02_
+- Drama-free weather view (morning temperature for refraction), rain radar _#2.67 2026-02-02_
 - Major performance update ⚡, auto-translations (Português, Türkçe, Italiano), many bug fixes
 <!--## [2.69] - 2026-02-25 (Core optimisation)
 - Improved weather visualisation, rain radar, major performance update, auto-translated languages, bug fixes
