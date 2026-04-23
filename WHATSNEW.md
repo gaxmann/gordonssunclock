@@ -26,7 +26,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 ## [2.65] - 2025-12-16 (Light seasons)
 
 - Displays (eight) light seasons, solstice, equinox and the moon date ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
-- GPS time sync (for exact Agnihotra), Русский, bug fixes
+- GPS time sync (for exact Agnihotra), Русский added, bug fixes
 
 ## [2.63] - 2025-11-07 (Temporal hours)
 
@@ -54,14 +54,14 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
-- Agnihotra time display, zoomable dial, 中文, bug fixes (time zone change)
+- Agnihotra time display, zoomable dial, 中文 added, bug fixes (time zone change)
 <!--## [2.21] - 2025-07-04 (Chinese language)
 
 - 中文, api 35 upgrade (Android 15+ bar issue till 2.54), bug fixes (unknown lang)-->
 
 ## [2.18] - 2025-06-29 (Telescope design)
 
-- Telescope design, Français, bug fixes
+- Telescope design, Français added, bug fixes
 
 ## [2.15] - 2025-06-24 (Initial release)
 
