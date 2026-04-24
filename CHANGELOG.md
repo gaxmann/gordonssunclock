@@ -10,9 +10,9 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 - Restored armeabi-v7a support, so the main line works again on older wall clock devices. Resolved build environment and dependency issues in new toolchain
 
-## [2.72] - 2026-04-15 (Toolchain switch)
+## [2.72] - 2026-04-15 (Toolchain switch) ✨
 
-### New main line ✨
+### New main line
 - Transparent system bars (Android 15+)
 - Slightly faster UI, faster dial creation
 - 16 kB page support, api 24/35 (Android 7+), arm64-v8a only
