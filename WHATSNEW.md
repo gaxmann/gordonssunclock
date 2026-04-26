@@ -9,7 +9,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ## [2.71] - 2026-04-11 (Time control)
  
-- Time control to move the dial forward and backward in time, meteor showers _#2.70 2026-03-23_
+- Time control to move the dial forward and backward in time, meteor shower display _#2.70 2026-03-23_
 - Performance optimisations ⚡, auto-translations (Čeština, Magyar), many bug fixes<!--, last Android 5-6 release in app stores-->
 
 ## [2.69] - 2026-02-25 (Weather overview)
