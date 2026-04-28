@@ -5,13 +5,16 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ---
 
 ## [2.72.2] - 2026-05-xx
+
+### Added
+- Buttons to set alarms for sunrise, sunset, and Agnihotra times, plus offset fields
+
 ### Fixed
 - Moon terminator not blurred in greyscale design
 
 ## [2.72.1-stable] - 2026-04-19 (armeabi-v7a added)
 
 ### Added
-
 - Restored armeabi-v7a support, so the main line works again on older wall clock devices. Resolved build environment and dependency issues in new toolchain
 
 ## [2.72] - 2026-04-15 (Toolchain switch) ✨
