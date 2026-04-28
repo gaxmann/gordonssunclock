@@ -26,7 +26,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 ## [2.65] - 2025-12-16 (Light seasons)
 
 - Displays (eight) light seasons, solstice, equinox and the moon date ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
-- GPS time sync (for exact Agnihotra), Русский added, bug fixes _#2.64 2025-11-18_
+- GPS time sync (for exact Agnihotra), realistic moon, Русский added, bug fixes _#2.64 2025-11-18_
 
 ## [2.63] - 2025-11-07 (Temporal hours)
 
