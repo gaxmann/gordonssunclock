@@ -3,7 +3,7 @@
 Keys that have been added, changed, or removed are listed here, as well as structural changes and language files that were added or removed, or whose support status changed.
 
 ## [L1.17] - 2026-04-28
-- **Added:** txalarmarr, minsh
+- **Added:** txalarmarr, minsh, txpopuphead/support, txpopupbody/appsupp
 
 ## [L1.16] - 2026-04-04
 - **Added:** txpopuphead/new
