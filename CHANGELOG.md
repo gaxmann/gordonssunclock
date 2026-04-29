@@ -9,7 +9,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Added a new Alarm accordion tab to Settings. You can set one-off alarms for sunrise, sunset, and Agnihotra times, with configurable offsets (popup)
 
 ### Fixed
-- Fixed GPS location callback handling on Android 11-
+- Fixed GPS location callback handling on Android 11-; the issue had existed since 2025-06 and was previously fixed only for the temporary location listener
 - Moon terminator not blurred in greyscale design
 
 ## [2.72.1-stable] - 2026-04-19 (armeabi-v7a added)
