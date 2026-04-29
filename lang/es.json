@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.16.2",
-        "updated": "2026-04-26 18:35:38"
+        "version": "1.17.5",
+        "updated": "2026-04-29 20:26:47"
     },
     "txwelcome": "Bienvenido",
     "quotes": [
@@ -10,6 +10,7 @@
     ],
     "oclocksh": "h",
     "hoursh": "h",
+    "minsh": "min",
     "daysh": "d",
     "weath_c": "°C",
     "weath_f": "°F",
@@ -40,6 +41,12 @@
         "Reposo de oscuridad (%)",
         "Despedida de la oscuridad (%)"
     ],
+    "txalarmarr": [
+        "Agnihotra ↑",
+        "Agnihotra ↓",
+        "Amanecer",
+        "Atardecer"
+    ],
     "moon": "Luna",
     "xxdays": {
         "1": "% día",
@@ -58,7 +65,8 @@
         "% Ubicación",
         "% Hora",
         "% Apariencia",
-        "% Funciones"
+        "% Funciones",
+        "% Alarma"
     ],
     "txgps_label": "GPS (lat, lon) o nombre del lugar",
     "txgpsauto": "Auto-ubicar",
@@ -122,9 +130,14 @@
     "txstatuslog": "[b]-- Registro de estado:[/b]",
     "txgpslabel": "Ubicación",
     "txgpsbutton": "Ubicar 1x",
+    "txalarm": "Fijar",
     "txpopuphead": {
         "updateavail": "Actualización disponible",
         "new": "Nuevo",
+        "supparr": [
+            "Apoyar",
+            "No"
+        ],
         "notice": "Aviso"
     },
     "txpopupbody": {
@@ -132,6 +145,7 @@
         "activatewlan": "Ubicación no disponible.[~LF][~LF]¿Están activados el Wi-Fi y/o las redes móviles en la configuración de tu dispositivo?",
         "updateexists": "Hay una actualización para el Reloj de sol de Gordon con correcciones de errores.[~LF][~LF]Recomiendo actualizar el software.",
         "updatenote": "Nuevo en[SP]%:[~LF][~LF]",
+        "appsupp": "El reloj solar es gratuito, sin publicidad y respetuoso con la privacidad.[~LF][~LF]¿Desea apoyar el desarrollo?",
         "waitforgps": "Se está determinando la ubicación...[~LF][~LF]Esto puede tardar unos segundos.",
         "lastandr5": "Esta es la última versión de {txgordonssunclock} para Android 5–6 en Google Play.[~LF][~LF]A partir del 2026-05-31, las versiones más recientes pueden estar disponibles en [ref=githubr][u]GitHub[/u][/ref]; consulte el botón {txchangelog} en la página 4 de la aplicación.",
         "noautotrlg": "La traducción automática que está utilizando no está disponible actualmente.[~LF][~LF]Este servicio es experimental y puede fallar temporal o permanentemente.",
@@ -151,8 +165,8 @@
     "txautotranslate": "[i]AVISO: (α) Este idioma no está (todavía) oficialmente soportado. Esta es una traducción automática[/i]",
     "uebanleitung": "Configuración",
     "txanleitung": "[DF]{LANGSUPPORT}1. Marque la casilla {txgpsauto} para actualizar automáticamente su ubicación durante el uso. ({txgpsbutton} determina su posición actual una sola vez y la fija.) No es necesario hacer más por ahora. - Para mayor precisión, véase {quotes|0-}4. {txshowagni-}{quotes|1-}.[~LF][~LF]Alternativamente, puede introducir un nombre de lugar o una dirección en el campo de texto (si su dispositivo lo permite) o coordenadas (p. ej. 50.94, 6.96). Un tercer y cuarto valor son opcionales: la altura aproximada &bl;m] y la temperatura estimada al anochecer &bl;°C]. Luego marque la casilla {txwelcomescr}. Al cambiar datos básicos, {txsunclock-} recalcula el día.[~LF][~LF]2. {txuhrsinn} define si el reloj gira en sentido horario (sur) o en sentido contrario: si cambia la dirección, la parte del círculo solar que está bajo el horizonte queda frente a usted (detalles en la página siguiente). {txshowclock} muestra un reloj digital en la parte superior derecha de la esfera.",
-    "txmore": "[DF]3. {txnachtmodus} {txlangarr|auto-} cambia al atardecer, -6° al final del crepúsculo, +6° antes. {txfarben} selecciona diferentes esferas. {txedgescreen} aumenta la distancia al borde de la pantalla.[~LF][~LF]4. {txfullscr} evita que la pantalla se apague y activa el modo de pantalla completa. {txweathapi} muestra una previsión (requiere internet), de abajo hacia arriba: temperatura actual, datos diarios de precipitación y horas de sol, símbolos véase la página siguiente. {txagnihotra} muestra marcas para la aguja solar así como la hora del próximo cruce por cero del Sol y la cuenta atrás. Seis minutos antes del Agnihotra, la pantalla se amplía y se muestran los segundos ({s_fr-} = GPS actual).[~LF][~LF][~LF]Puede hacer zoom en la esfera con dos dedos (o con triple toque). Si desea mover la imagen ampliada, hágalo lentamente. Los movimientos rápidos cambian a la página siguiente. Si alguna vez sus ajustes no se aplican, pulse el botón [font=DejaVuSans.ttf]⟳[/font] abajo a la derecha. Con el botón [font=DejaVuSans.ttf]⬌[/font] activa {txtimecontrol} (véase la página siguiente).",
-    "txlegende": "[DF][DF]",
+    "txmore": "[DF]3. {txnachtmodus} {txlangarr|auto-} cambia al atardecer, -6° al final del crepúsculo, +6° antes. {txfarben} selecciona diferentes esferas. {txedgescreen} aumenta la distancia al borde de la pantalla.[~LF][~LF]4. {txfullscr} evita que la pantalla se apague y activa el modo de pantalla completa. {txweathapi} muestra una previsión (requiere internet), de abajo hacia arriba: temperatura actual, datos diarios de precipitación y horas de sol, símbolos véase la página siguiente. {txagnihotra} muestra marcas para la aguja solar así como la hora del próximo cruce por cero del Sol y la cuenta atrás. Seis minutos antes del Agnihotra, la pantalla se amplía y se muestran los segundos ({s_fr-} = GPS actual).[~LF][~LF]5. Puede ajustar las alarmas para tiempos solares con los campos de minutos y establecerlas con un toque. Las alarmas suenan una sola vez y deben reactivarse a diario, ya que los tiempos solares cambian.",
+    "txlegende": "[DF][DF]Puede hacer zoom en la esfera con dos dedos (o con triple toque). Si desea mover la imagen ampliada, hágalo lentamente. Los movimientos rápidos cambian a la página siguiente. Si alguna vez sus ajustes no se aplican, pulse el botón [font=DejaVuSans.ttf]⟳[/font] abajo a la derecha. Con el botón [font=DejaVuSans.ttf]⬌[/font] activa {txtimecontrol} (véase la página siguiente).[DF][DF]",
     "txdata": "[DF]Datos",
     "txlocdata": "[DF]Datos actuales³ para su ubicación:[DF]",
     "txobjdata": "{weather_data}– Sol¹ –[~LF]Hora: {sun_clocktm}[~LF]Hora temporal: {sun_temptm}[~LF]Luz diurna: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]Solsticio: {sun_soli}[~LF]Equinoccio: {sun_equi}[~LF][~LF]– Luna² –[~LF]Noche lunar: {moon_gordon}[~LF]Iluminada: {moon_illum}[~LF]Tamaño: {moon_sizep} (85-100)[~LF]Luna nueva: {moon_new}[~LF]Luna llena: {moon_full}[~LF][~LF]– Brillo –[~LF]Venus: {venus_magp} (83-100)[~LF]Marte: {mars_magp} (52-100)[~LF]Júpiter: {jupiter_magp} (87-100)[~LF]Saturno: {saturn_magp} (77-100)[~LF]Mercurio: {merkur_magp} (0-100)[~LF][~LF]¹ Hora: GPS = sincronizado | Hora temporal: hora local desigual (0,0[NDASH]11,9) {s_td} del día o {s_tn} de la noche. {s_tv} vigilia nocturna con “minutos” desiguales (0{s_tv-}00[NDASH]3{s_tv-}59) | {lighttime-}: ver abajo | Luz diurna y Agnihotra: salida[NDASH]puesta del sol hoy {sb0}salida mañana{sb1}, {s_fr-} = GPS actual | ² Luna llena y nueva: momento (en días / hace días) | Noche lunar: ver abajo | ³ Calculado con efemérides JPL (precisión de almanaque) | ⁴ Clima: evolución diaria ([font=DejaVuSans.ttf]☀[/font] sol, [font=DejaVuSans.ttf]◴[/font] progreso, ₁₂₃ = bloque actual de 3h, [font=DejaVuSans.ttf]☂[/font] lluvia clicable = radar, [font=DejaVuSans.ttf]✈[/font] rachas). Ahora = próximas 3 horas, [font=DejaVuSans.ttf]◵[/font] = datos más antiguos. Visualización limitada a 48h por fiabilidad | Valores diarios abajo: mín...máx...{sb0}mín nocturno{sb1} ({s_sn-} = nieve)[DF][DF]",
@@ -231,7 +245,7 @@
     "txanleitungprg": "[DF]Reloj de sol de Gordon[~LF]Versión [VERSIONNUM][~LF]Gordon Axmann[~LF]Copyright 2019-[VERSIONYEAR]",
     "txanleitung3": "[DF]Este software es un proyecto privado y gratuito. Por favor, úselo tal como es. En principio, no se recopilan ni se transmiten datos personales. No se requiere conexión a Internet para su funcionamiento. Los detalles sobre las funciones opcionales (visualización del tiempo, resolución de nombres de lugares), los informes de errores y la comprobación de actualizaciones se encuentran en la política de privacidad.[DF][DF]",
     "txchangelog": "¿Qué hay de nuevo?",
-    "txanleitung4": "[DF]Si ha encontrado un error, con gusto lo corregiré. Para ello necesito una descripción de dónde y cuándo ocurrió el error (posiblemente con una captura de pantalla). También es útil una captura del registro que aparece abajo, tomada lo antes posible después de que ocurra el error (contacto por correo: [CONTACTSUPPORT]).[~LF][~LF]Gracias a: Brandon Rhodes (Skyfield), Rolf, Greg Miller y todos los probadores. Imágenes: NASA/ SOHO, ESA/ Hubble, NASA/ JPL-Caltech (dominio público). Datos meteorológicos: Open-Meteo.com (CC BY 4.0), MET Norway (CC BY 4.0). Detalles: {quotes|0-}design/ COPYRIGHT.txt{quotes|1-}.[~LF][~LF]Le ofrezco {txsunclock} gratuitamente. Simplemente disfrútelo. Si desea apoyar mi trabajo, aquí puede encontrar mi sitio web. - Para {txtimecontrol} puede descargar aquí datos adicionales de efemérides (y volver a eliminarlos: ~17 MB, ver página anterior).[DF][DF]",
+    "txanleitung4": "[DF]Si ha encontrado un error, con gusto lo corregiré. Para ello necesito una descripción de dónde y cuándo ocurrió el error (posiblemente con una captura de pantalla). También es útil una captura del registro que aparece abajo, tomada lo antes posible después de que ocurra el error (contacto por correo: [CONTACTSUPPORT]).[~LF][~LF]Gracias a: Brandon Rhodes (Skyfield), Rolf, Greg Miller y todos los probadores. Imágenes: NASA/ SOHO, ESA/ Hubble, NASA/ JPL-Caltech (dominio público). Datos meteorológicos: Open-Meteo.com (CC BY 4.0), MET Norway (CC BY 4.0). Detalles: {quotes|0-}design/ COPYRIGHT.txt{quotes|1-}.[~LF][~LF]Le ofrezco {txsunclock} gratuitamente. Me alegra que la disfrute. Si desea apoyar mi trabajo, aquí puede encontrar mi sitio web. - Para {txtimecontrol} puede descargar aquí datos adicionales de efemérides (y volver a eliminarlos: ~17 MB, ver página anterior).[DF][DF]",
     "txephdownld": "Cargar efemérides",
     "txloading": "Cargando...",
     "txephdelete": "ELIMINAR efemérides",

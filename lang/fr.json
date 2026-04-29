@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.16.2",
-        "updated": "2026-04-26 18:35:38"
+        "version": "1.17.5",
+        "updated": "2026-04-29 20:26:47"
     },
     "txwelcome": "Bienvenue",
     "quotes": [
@@ -10,6 +10,7 @@
     ],
     "oclocksh": "h",
     "hoursh": "h",
+    "minsh": "min",
     "daysh": "d",
     "weath_c": "°C",
     "weath_f": "°F",
@@ -40,6 +41,12 @@
         "Repos d’obscurité (%)",
         "Adieu à l’obscurité (%)"
     ],
+    "txalarmarr": [
+        "Agnihotra ↑",
+        "Agnihotra ↓",
+        "Lever du soleil",
+        "Coucher du soleil"
+    ],
     "moon": "lune",
     "xxdays": {
         "1": "% jour",
@@ -59,7 +66,8 @@
         "% Emplacement",
         "% Heure",
         "% Apparence",
-        "% Fonctions"
+        "% Fonctions",
+        "% Alarme"
     ],
     "txgps_label": "GPS (lat, lon) ou nom de lieu",
     "txgpsauto": "Auto-localiser",
@@ -123,9 +131,14 @@
     "txstatuslog": "[b]–– Journal d'état:[/b]",
     "txgpslabel": "Localisation",
     "txgpsbutton": "Localiser 1x",
+    "txalarm": "Régler",
     "txpopuphead": {
         "updateavail": "Mise à jour disponible",
         "new": "Nouveau",
+        "supparr": [
+            "Soutenir",
+            "Non"
+        ],
         "notice": "Avis"
     },
     "txpopupbody": {
@@ -133,6 +146,7 @@
         "activatewlan": "Localisation indisponible.[~LF][~LF]Le Wi-Fi et/ou les réseaux mobiles sont-ils activés dans les paramètres de votre appareil ?",
         "updateexists": "Il y a une mise à jour pour l'Horloge solaire de Gordon avec des corrections de bugs.[~LF][~LF]Je recommande de mettre à jour le logiciel.",
         "updatenote": "Nouveau dans[SP]%:[~LF][~LF]",
+        "appsupp": "L’horloge solaire est gratuite, sans publicité et respectueuse de la vie privée.[~LF][~LF]Voulez-vous soutenir le développement ?",
         "waitforgps": "Détermination de la position en cours...[~LF][~LF]Cela peut prendre quelques secondes.",
         "lastandr5": "Ceci est la dernière version de {txgordonssunclock} pour Android 5–6 sur Google Play.[~LF][~LF]À partir du 2026-05-31, des versions plus récentes peuvent être disponibles sur [ref=githubr][u]GitHub[/u][/ref] ; voir le bouton {txchangelog} à la page 4 de l’application.",
         "noautotrlg": "La traduction automatique que vous utilisez n'est actuellement pas disponible.[~LF][~LF]Ce service est expérimental et peut échouer temporairement ou définitivement.",
@@ -152,8 +166,8 @@
     "txautotranslate": "[i]REMARQUE : (α) Cette langue n’est pas (encore) officiellement prise en charge. Il s’agit d’une traduction automatique[/i]",
     "uebanleitung": "Configuration",
     "txanleitung": "[DF]{LANGSUPPORT}1. Cochez la case {txgpsauto} pour mettre à jour automatiquement votre position pendant l'utilisation. ({txgpsbutton} détermine votre position actuelle une seule fois et la fixe.) Rien d'autre n'est nécessaire pour l’instant. - Pour une précision plus élevée, voir {quotes|0-}4. {txshowagni-}{quotes|1-}.[~LF][~LF]Vous pouvez également saisir un nom de lieu ou une adresse dans le champ de texte (si votre appareil le permet) ou des coordonnées (par ex. 50.94, 6.96). Une 3e et 4e valeur sont facultatives : l’altitude approximative &bl;m] et la température estimée au crépuscule &bl;°C]. Ensuite, cochez la case {txwelcomescr}. Lors de modifications des données de base, {txsunclock-} recalcule la journée.[~LF][~LF]2. {txuhrsinn} définit si l’horloge tourne dans le sens horaire (sud) ou inverse : si vous changez le sens de rotation, la partie du cercle solaire située sous l’horizon se trouve devant vous (détails à la page suivante). {txshowclock} affiche une horloge numérique en haut à droite du cadran.",
-    "txmore": "[DF]3. {txnachtmodus} {txlangarr|auto-} bascule au coucher du soleil, -6° à la fin du crépuscule, +6° avant. {txfarben} sélectionne différents cadrans. {txedgescreen} augmente la distance au bord de l’écran.[~LF][~LF]4. {txfullscr} empêche l’extinction de l’écran et active le mode plein écran. {txweathapi} affiche une prévision (internet requis), de bas en haut : température actuelle, données journalières de précipitations et heures d’ensoleillement, symboles voir page suivante. {txagnihotra} affiche des repères pour l’aiguille solaire ainsi que l’heure du prochain passage par zéro du Soleil et un compte à rebours. Six minutes avant l’Agnihotra, l’affichage est agrandi et les secondes sont affichées ({s_fr-} = GPS actuel).[~LF][~LF][~LF]Vous pouvez zoomer dans le cadran avec deux doigts (ou par triple tap). Si vous souhaitez déplacer l’image agrandie, faites-le lentement. Les mouvements rapides font passer à la page suivante. Si vos paramètres ne sont pas appliqués, appuyez sur le bouton [font=DejaVuSans.ttf]⟳[/font] en bas à droite. Avec le bouton [font=DejaVuSans.ttf]⬌[/font], vous activez {txtimecontrol} (voir page suivante).",
-    "txlegende": "[DF][DF]",
+    "txmore": "[DF]3. {txnachtmodus} {txlangarr|auto-} bascule au coucher du soleil, -6° à la fin du crépuscule, +6° avant. {txfarben} sélectionne différents cadrans. {txedgescreen} augmente la distance au bord de l’écran.[~LF][~LF]4. {txfullscr} empêche l’extinction de l’écran et active le mode plein écran. {txweathapi} affiche une prévision (internet requis), de bas en haut : température actuelle, données journalières de précipitations et heures d’ensoleillement, symboles voir page suivante. {txagnihotra} affiche des repères pour l’aiguille solaire ainsi que l’heure du prochain passage par zéro du Soleil et un compte à rebours. Six minutes avant l’Agnihotra, l’affichage est agrandi et les secondes sont affichées ({s_fr-} = GPS actuel).[~LF][~LF]5. Vous pouvez ajuster les alarmes pour les horaires solaires à l’aide des champs de minutes et les régler d’un simple appui. Les alarmes sonnent une seule fois et doivent être réactivées chaque jour, car les horaires solaires changent.",
+    "txlegende": "[DF][DF]Vous pouvez zoomer dans le cadran avec deux doigts (ou par triple tap). Si vous souhaitez déplacer l’image agrandie, faites-le lentement. Les mouvements rapides font passer à la page suivante. Si vos paramètres ne sont pas appliqués, appuyez sur le bouton [font=DejaVuSans.ttf]⟳[/font] en bas à droite. Avec le bouton [font=DejaVuSans.ttf]⬌[/font], vous activez {txtimecontrol} (voir page suivante).[DF][DF]",
     "txdata": "[DF]Données",
     "txlocdata": "[DF]Données actuelles³ pour votre emplacement :[DF]",
     "txobjdata": "{weather_data}– Soleil¹ –[~LF]Heure : {sun_clocktm}[~LF]Heure temporelle : {sun_temptm}[~LF]Lumière du jour : {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]Solstice : {sun_soli}[~LF]Équinoxe : {sun_equi}[~LF][~LF]– Lune² –[~LF]Nuit lunaire : {moon_gordon}[~LF]Illuminée : {moon_illum}[~LF]Taille : {moon_sizep} (85-100)[~LF]Nouvelle lune : {moon_new}[~LF]Pleine lune : {moon_full}[~LF][~LF]– Luminosité –[~LF]Vénus : {venus_magp} (83-100)[~LF]Mars : {mars_magp} (52-100)[~LF]Jupiter : {jupiter_magp} (87-100)[~LF]Saturne : {saturn_magp} (77-100)[~LF]Mercure : {merkur_magp} (0-100)[~LF][~LF]¹ Heure : GPS = synchronisé | Heure temporelle : heure locale inégale (0,0[NDASH]11,9) {s_td} du jour ou {s_tn} de la nuit. {s_tv} veille nocturne avec « minutes » inégales (0{s_tv-}00[NDASH]3{s_tv-}59) | {lighttime-} : voir ci-dessous | Lumière du jour & Agnihotra : lever[NDASH]coucher du soleil aujourd’hui {sb0}lever demain{sb1}, {s_fr-} = GPS actuel | ² Pleine et nouvelle lune : moment (en jours / il y a jours) | Nuit lunaire : voir ci-dessous | ³ Calculé avec les éphémérides JPL (précision d’almanach) | ⁴ Météo : évolution journalière ([font=DejaVuSans.ttf]☀[/font] soleil, [font=DejaVuSans.ttf]◴[/font] progression, ₁₂₃ = bloc actuel de 3h, [font=DejaVuSans.ttf]☂[/font] pluie cliquable = radar, [font=DejaVuSans.ttf]✈[/font] rafales). Maintenant = prochaines 3 heures, [font=DejaVuSans.ttf]◵[/font] = données plus anciennes. Affichage limité à 48h pour la fiabilité | Valeurs journalières en bas : min...max...{sb0}min nocturne{sb1} ({s_sn-} = neige)[DF][DF]",
@@ -233,7 +247,7 @@
     "txanleitungprg": "[DF]Horloge solaire de Gordon[~LF]Version [VERSIONNUM][~LF]Gordon Axmann[~LF]Copyright 2019-[VERSIONYEAR]",
     "txanleitung3": "[DF]Ce logiciel est un projet privé et gratuit. Veuillez l’utiliser tel quel. En principe, aucune donnée personnelle n’est collectée ni transmise. Aucune connexion Internet n’est nécessaire pour son fonctionnement. Les détails concernant les fonctions optionnelles (affichage météo, résolution des noms de lieux), les rapports d’erreurs et la vérification des mises à jour se trouvent dans la politique de confidentialité.[DF][DF]",
     "txchangelog": "Quoi de neuf ?",
-    "txanleitung4": "[DF]Si vous avez trouvé une erreur, je la corrigerai volontiers. Pour cela, j’ai besoin d’une description indiquant où et quand l’erreur est apparue (éventuellement avec une capture d’écran). Une capture d’écran du journal ci-dessous prise dès que possible après l’apparition de l’erreur est également utile (contact par e-mail : [CONTACTSUPPORT]).[~LF][~LF]Remerciements à : Brandon Rhodes (Skyfield), Rolf, Greg Miller et tous les testeurs. Images : NASA/ SOHO, ESA/ Hubble, NASA/ JPL-Caltech (domaine public). Données météo : Open-Meteo.com (CC BY 4.0), MET Norway (CC BY 4.0). Détails : {quotes|0-}design/ COPYRIGHT.txt{quotes|1-}.[~LF][~LF]Je vous propose {txsunclock} gratuitement. Profitez-en simplement. Si vous souhaitez soutenir mon travail, vous trouverez ici mon site web. - Pour {txtimecontrol}, vous pouvez télécharger ici des données d’éphémérides supplémentaires (et les supprimer à nouveau : ~17 MB, voir la page précédente).[DF][DF]",
+    "txanleitung4": "[DF]Si vous avez trouvé une erreur, je la corrigerai volontiers. Pour cela, j’ai besoin d’une description indiquant où et quand l’erreur est apparue (éventuellement avec une capture d’écran). Une capture d’écran du journal ci-dessous prise dès que possible après l’apparition de l’erreur est également utile (contact par e-mail : [CONTACTSUPPORT]).[~LF][~LF]Remerciements à : Brandon Rhodes (Skyfield), Rolf, Greg Miller et tous les testeurs. Images : NASA/ SOHO, ESA/ Hubble, NASA/ JPL-Caltech (domaine public). Données météo : Open-Meteo.com (CC BY 4.0), MET Norway (CC BY 4.0). Détails : {quotes|0-}design/ COPYRIGHT.txt{quotes|1-}.[~LF][~LF]Je vous propose {txsunclock} gratuitement. Je suis heureux que vous l’appréciiez. Si vous souhaitez soutenir mon travail, vous trouverez ici mon site web. - Pour {txtimecontrol}, vous pouvez télécharger ici des données d’éphémérides supplémentaires (et les supprimer à nouveau : ~17 MB, voir la page précédente).[DF][DF]",
     "txephdownld": "Charger les éphémérides",
     "txloading": "Chargement...",
     "txephdelete": "SUPPRIMER les éphémérides",

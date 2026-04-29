@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.16.2",
-        "updated": "2026-04-26 18:35:38"
+        "version": "1.17.5",
+        "updated": "2026-04-29 20:26:47"
     },
     "txwelcome": "欢迎",
     "quotes": [
@@ -10,6 +10,7 @@
     ],
     "oclocksh": "",
     "hoursh": "小时",
+    "minsh": "分",
     "daysh": "天",
     "weath_c": "℃",
     "weath_f": "℉",
@@ -39,6 +40,12 @@
         "进入黑暗 / 立冬 (%)",
         "暗之静息 / 冬至 (%)",
         "告别黑暗 / 大寒 (%)"
+    ],
+    "txalarmarr": [
+        "阿耆尼火供 ↑",
+        "阿耆尼火供 ↓",
+        "日出",
+        "日落"
     ],
     "moon": "月",
     "xxdays": {
@@ -71,7 +78,8 @@
         "% 位置",
         "% 时间",
         "% 外观",
-        "% 功能"
+        "% 功能",
+        "% 闹钟"
     ],
     "txgps_label": "GPS（纬度、经度）或地点名称",
     "txgpsauto": "自动定位",
@@ -135,9 +143,14 @@
     "txstatuslog": "[b]–– 状态日志:[/b]",
     "txgpslabel": "定位",
     "txgpsbutton": "定位1次",
+    "txalarm": "设置",
     "txpopuphead": {
         "updateavail": "更新可用",
         "new": "新内容",
+        "supparr": [
+            "支持",
+            "否"
+        ],
         "notice": "注意"
     },
     "txpopupbody": {
@@ -145,6 +158,7 @@
         "activatewlan": "无法获取位置。[~LF][~LF]您设备的 Wi-Fi 和/或移动网络是否已启用？",
         "updateexists": "戈登日晷有更新，包含错误修复。[~LF][~LF]我建议更新软件。",
         "updatenote": "%中的新内容：[~LF][~LF]",
+        "appsupp": "太阳时钟免费、无广告，并注重隐私保护。[~LF][~LF]您想支持开发吗？",
         "waitforgps": "正在确定位置...[~LF][~LF]这可能需要几秒钟。",
         "lastandr5": "这是 {txgordonssunclock} 在 Google Play 上针对 Android 5–6 的最后一个版本。[~LF][~LF]从 2026-05-31 起，更新版本可能会在 [ref=githubr][u]GitHub[/u][/ref] 上提供；请参见应用第 4 页的 {txchangelog} 按钮。",
         "noautotrlg": "您正在使用的机器翻译当前不可用。[~LF][~LF]此服务为实验性功能，可能会暂时或永久失效。",
@@ -164,8 +178,8 @@
     "txautotranslate": "[i]提示：(α) 此语言（尚未）得到官方支持。此为自动翻译[/i]",
     "uebanleitung": "设置",
     "txanleitung": "[DF]{LANGSUPPORT}1. 勾选 {txgpsauto} 以在使用过程中自动更新您的位置。（{txgpsbutton} 仅会确定一次您的当前位置并将其固定。）目前无需进行其他操作。- 如需更高精度，请参见 {quotes|0-}4. {txshowagni-}{quotes|1-}。[~LF][~LF]或者，您可以在文本框中输入地名或地址（如果您的设备支持），或输入坐标（例如 50.94, 6.96）。第三和第四项为可选：大致海拔 &bl;m] 和黄昏时的大致气温 &bl;°C]。随后勾选 {txwelcomescr}。当基础数据发生变化时，{txsunclock-} 会重新计算当天数据。[~LF][~LF]2. {txuhrsinn} 用于设置时钟是顺时针运行（南）还是逆时针运行：如果改变旋转方向，则位于地平线以下的太阳圆部分会出现在您面前（详见下一页）。{txshowclock} 会在表盘右上角显示数字时钟。",
-    "txmore": "[DF]3. {txnachtmodus} {txlangarr|auto-} 在日落时切换，在暮光结束时为 -6°，之前为 +6°。{txfarben} 选择不同的表盘。{txedgescreen} 增加与屏幕边缘的距离。[~LF][~LF]4. {txfullscr} 防止屏幕关闭并切换到全屏模式。{txweathapi} 显示天气预报（需要互联网），从下到上：当前温度、每日降水和日照时数数据，符号见下一页。{txagnihotra} 显示太阳指针的标记以及下一次太阳过零点的时间和倒计时。距 Agnihotra 前六分钟，显示会放大并显示秒数（{s_fr-} = GPS 已更新）。[~LF][~LF][~LF]您可以用两指放大表盘（或三击）。如果要移动放大的图像，请缓慢操作。快速滑动会切换到下一页。如果您的设置没有生效，请点击右下角的 [font=DejaVuSans.ttf]⟳[/font] 按钮。通过 [font=DejaVuSans.ttf]⬌[/font] 按钮可激活 {txtimecontrol}（见下一页）。",
-    "txlegende": "[DF][DF]",
+    "txmore": "[DF]3. {txnachtmodus} {txlangarr|auto-} 在日落时切换，在暮光结束时为 -6°，之前为 +6°。{txfarben} 选择不同的表盘。{txedgescreen} 增加与屏幕边缘的距离。[~LF][~LF]4. {txfullscr} 防止屏幕关闭并切换到全屏模式。{txweathapi} 显示天气预报（需要互联网），从下到上：当前温度、每日降水和日照时数数据，符号见下一页。{txagnihotra} 显示太阳指针的标记以及下一次太阳过零点的时间和倒计时。距 Agnihotra 前六分钟，显示会放大并显示秒数（{s_fr-} = GPS 已更新）。[~LF][~LF]5. 您可以使用分钟字段调整基于太阳时间的闹钟，并通过一次点击设置。闹钟只会响一次，并且由于太阳时间会变化，需要每天重新启用。",
+    "txlegende": "[DF][DF]您可以用两指放大表盘（或三击）。如果要移动放大的图像，请缓慢操作。快速滑动会切换到下一页。如果您的设置没有生效，请点击右下角的 [font=DejaVuSans.ttf]⟳[/font] 按钮。通过 [font=DejaVuSans.ttf]⬌[/font] 按钮可激活 {txtimecontrol}（见下一页）。[DF][DF]",
     "txdata": "[DF]数据",
     "txlocdata": "[DF]您所在位置的当前数据³：[DF]",
     "txobjdata": "{weather_data}– 太阳¹ –[~LF]时间: {sun_clocktm}[~LF]时间小时: {sun_temptm}[~LF]日照: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]至日: {sun_soli}[~LF]分点: {sun_equi}[~LF][~LF]– 月亮² –[~LF]月夜: {moon_gordon}[~LF]照明: {moon_illum}[~LF]大小: {moon_sizep} (85-100)[~LF]新月: {moon_new}[~LF]满月: {moon_full}[~LF][~LF]– 亮度 –[~LF]金星: {venus_magp} (83-100)[~LF]火星: {mars_magp} (52-100)[~LF]木星: {jupiter_magp} (87-100)[~LF]土星: {saturn_magp} (77-100)[~LF]水星: {merkur_magp} (0-100)[~LF][~LF]¹ 时间: GPS = 已同步 | 时间小时: 本地不等长小时 (0,0[NDASH]11,9) {s_td}（白天）或 {s_tn}（夜晚）。{s_tv} 夜间更次，使用不等长“分钟” (0{s_tv-}00[NDASH]3{s_tv-}59) | {lighttime-}: 见下文 | 日照与 Agnihotra: 今日 日出[NDASH]日落 {sb0}明日日出{sb1}，{s_fr-} = 当前 GPS | ² 满月与新月: 时间点（以天计 / 距今多少天） | 月夜: 见下文 | ³ 使用 JPL 星历计算（年鉴精度） | ⁴ 天气: 日变化 ([font=DejaVuSans.ttf]☀[/font] 太阳, [font=DejaVuSans.ttf]◴[/font] 进度, ₁₂₃ = 当前 3 小时段, [font=DejaVuSans.ttf]☂[/font] 雨（可点击）= 雷达, [font=DejaVuSans.ttf]✈[/font] 阵风)。现在 = 接下来 3 小时, [font=DejaVuSans.ttf]◵[/font] = 较旧数据。为保证可靠性，显示限制为 48 小时 | 底部为每日数值: 最低...最高...{sb0}夜间最低{sb1} ({s_sn-} = 雪)[DF][DF]",
@@ -191,7 +205,7 @@
     "txanleitungprg": "[DF]Gordon-太阳时钟[~LF]版本 [VERSIONNUM][~LF]Gordon Axmann[~LF]版权 2019-[VERSIONYEAR]",
     "txanleitung3": "[DF]本软件是一个免费的私人项目。请按其原样使用。原则上不收集或传输任何个人数据。运行不需要互联网连接。有关可选功能（天气显示、地名解析）、错误报告和更新检查的详细信息，请参阅隐私政策。[DF][DF]",
     "txchangelog": "更新内容",
-    "txanleitung4": "[DF]如果您发现了错误，我很乐意进行修正。为此我需要说明错误发生的时间和位置（最好附带截图）。如果能在错误出现后尽快提供下方日志的截图，也会很有帮助（邮件联系：[CONTACTSUPPORT]）。[~LF][~LF]感谢：Brandon Rhodes（Skyfield）、Rolf、Greg Miller 以及所有测试人员。图片：NASA/ SOHO、ESA/ Hubble、NASA/ JPL-Caltech（公共领域）。天气数据：Open-Meteo.com（CC BY 4.0）、MET Norway（CC BY 4.0）。详情：{quotes|0-}design/ COPYRIGHT.txt{quotes|1-}。[~LF][~LF]{txsunclock} 向您免费提供。希望您能从中获得乐趣。如果您愿意支持我的工作，可以在这里访问我的网站。 - 对于 {txtimecontrol}，您可以在这里下载额外的星历数据（也可以再次删除：约 17 MB，见上一页）。[DF][DF]",
+    "txanleitung4": "[DF]如果您发现了错误，我很乐意进行修正。为此我需要说明错误发生的时间和位置（最好附带截图）。如果能在错误出现后尽快提供下方日志的截图，也会很有帮助（邮件联系：[CONTACTSUPPORT]）。[~LF][~LF]感谢：Brandon Rhodes（Skyfield）、Rolf、Greg Miller 以及所有测试人员。图片：NASA/ SOHO、ESA/ Hubble、NASA/ JPL-Caltech（公共领域）。天气数据：Open-Meteo.com（CC BY 4.0）、MET Norway（CC BY 4.0）。详情：{quotes|0-}design/ COPYRIGHT.txt{quotes|1-}。[~LF][~LF]我免费向您提供 {txsunclock}。希望您会喜欢它。如果您想支持我的工作，可以在这里找到我的网站。- 对于 {txtimecontrol}，您可以在这里下载额外的星历数据（也可以删除：约17 MB，见第3页）。[DF][DF]",
     "txephdownld": "加载星历",
     "txloading": "加载中...",
     "txephdelete": "删除星历",
