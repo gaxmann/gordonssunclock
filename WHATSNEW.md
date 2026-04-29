@@ -4,8 +4,12 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 *Here you'll find the [privacy policy (Datenschutzrichtlinie).](https://sites.google.com/view/sonnenuhr/startseite)*
 
 ---
+
+> ## [3.1] - 2026-04-xx (Sun-based alarms)
+> - Alarms for solar times: Agnihotra, sunrise, and sunset
+
 ## [2.72] - 2026-04-15 (Transparent bars)
-- New main line ✨. Transparent system bars (Android 15+), slightly faster UI
+- New main line ✨. Transparent system bars (Android 15+), slightly faster UI _#2.72 2026-04-15_
 
 ## [2.71] - 2026-04-11 (Time control)
  
