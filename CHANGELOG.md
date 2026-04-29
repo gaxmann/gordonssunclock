@@ -1,13 +1,12 @@
-
 # Changelog
 Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md) of the latest changes here. _[Legacy](#legacy)-specific notes are listed at the bottom._
 
 ---
 
-## [2.72.2] - 2026-05-xx
+## [3.1.0] - 2026-05-xx
 
 ### Added
-- Added a new Alarm accordion tab to Settings. Users can set one-off alarms for sunrise, sunset, and Agnihotra times, with configurable offsets (popup)
+- Added a new Alarm accordion tab to Settings. You can set one-off alarms for sunrise, sunset, and Agnihotra times, with configurable offsets (popup)
 
 ### Fixed
 - Moon terminator not blurred in greyscale design
