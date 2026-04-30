@@ -3,7 +3,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.1.0] - 2026-05-xx
+## [3.1] - 2026-05-xx
 
 ### Added
 - Added a new Alarm accordion tab to Settings. You can set one-off alarms for sunrise, sunset, and Agnihotra times, with configurable offsets (popup)
