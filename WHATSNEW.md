@@ -1,7 +1,7 @@
 # What's new?
 Short summary of the latest changes. You'll find the [detailed changelog](./CHANGELOG.md) here.
 
-*Useful links: [Project page](https://github.com/gaxmann/gordonssunclock), [Wiki](https://github.com/gaxmann/gordonssunclock/wiki), [Privacy policy (Datenschutzrichtlinie)](https://sites.google.com/view/sonnenuhr/startseite).*
+*Useful links: [Project page](https://github.com/gaxmann/gordonssunclock), [Wiki](https://github.com/gaxmann/gordonssunclock/wiki), [Privacy policy (Datenschutzrichtlinie)](https://sites.google.com/view/sonnenuhr/startseite)*
 
 ---
 
