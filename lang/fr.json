@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.17.6",
-        "updated": "2026-04-30 13:08:32"
+        "version": "1.17.7",
+        "updated": "2026-04-30 13:31:21"
     },
     "txwelcome": "Bienvenue",
     "quotes": [
@@ -247,7 +247,7 @@
     "txanleitungprg": "[DF]Horloge solaire de Gordon[~LF]Version [VERSIONNUM][~LF]Gordon Axmann[~LF]Copyright 2019-[VERSIONYEAR]",
     "txanleitung3": "[DF]Ce logiciel est un projet privé et gratuit. Veuillez l’utiliser tel quel. En principe, aucune donnée personnelle n’est collectée ni transmise. Aucune connexion Internet n’est nécessaire pour son fonctionnement. Les détails concernant les fonctions optionnelles (affichage météo, résolution des noms de lieux), les rapports d’erreurs et la vérification des mises à jour se trouvent dans la politique de confidentialité.[DF][DF]",
     "txchangelog": "Quoi de neuf ?",
-    "txanleitung4": "[DF]Si vous avez trouvé une erreur, je la corrigerai volontiers. Pour cela, j’ai besoin d’une description indiquant où et quand l’erreur est apparue (éventuellement avec une capture d’écran). Une capture d’écran du journal ci-dessous prise dès que possible après l’apparition de l’erreur est également utile (contact par e-mail : [CONTACTSUPPORT]).[~LF][~LF]Remerciements à : Brandon Rhodes (Skyfield), Rolf, Greg Miller et tous les testeurs. Images : NASA/ SOHO, ESA/ Hubble, NASA/ JPL-Caltech (domaine public). Données météo : Open-Meteo.com (CC BY 4.0), MET Norway (CC BY 4.0). Détails : {quotes|0-}design/ COPYRIGHT.txt{quotes|1-}.[~LF][~LF]Je vous propose {txsunclock} gratuitement. Je suis heureux que vous l’appréciiez. Si vous souhaitez soutenir mon travail, vous trouverez ici mon site web. - Pour {txtimecontrol}, vous pouvez télécharger ici des données d’éphémérides supplémentaires (et les supprimer à nouveau : ~17 MB, voir la page précédente).[DF][DF]",
+    "txanleitung4": "[DF]Si vous avez trouvé une erreur, je la corrigerai volontiers. Pour cela, j’ai besoin d’une description indiquant où et quand l’erreur est apparue (éventuellement avec une capture d’écran). Une capture d’écran du journal ci-dessous prise dès que possible après l’apparition de l’erreur est également utile (contact par e-mail : [CONTACTSUPPORT]).[~LF][~LF]Remerciements à : Brandon Rhodes (Skyfield), Rolf, Greg Miller et tous les testeurs. Images : NASA/ SOHO, ESA/ Hubble, NASA/ JPL-Caltech (domaine public). Données météo : Open-Meteo.com (CC BY 4.0), MET Norway (CC BY 4.0). Détails : {quotes|0-}design/ COPYRIGHT.txt{quotes|1-}.[~LF][~LF]Pour {txtimecontrol}, vous pouvez télécharger ici des données d’éphémérides supplémentaires (et les supprimer à nouveau : ~17 MB, voir la page précédente). - Je mets gratuitement {txsunclock} à votre disposition et j’espère qu’elle vous plaira. Si vous souhaitez soutenir mon travail, vous trouverez ici mon site web.[DF][DF]",
     "txephdownld": "Charger les éphémérides",
     "txloading": "Chargement...",
     "txephdelete": "SUPPRIMER les éphémérides",

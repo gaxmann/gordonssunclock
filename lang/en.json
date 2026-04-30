@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.17.6",
-        "updated": "2026-04-30 13:08:32"
+        "version": "1.17.7",
+        "updated": "2026-04-30 13:31:21"
     },
     "txwelcome": "Welcome",
     "quotes": [
@@ -270,7 +270,7 @@
     "txanleitungprg": "[DF]Gordon's Sun Clock[~LF]Version [VERSIONNUM][~LF]Gordon Axmann[~LF]Copyright 2019-[VERSIONYEAR]",
     "txanleitung3": "[DF]This software is a private project. Please use it as it is. In principle, no personal data is collected or transmitted. No internet connection is required for operation. Details on optional features (weather display, place name resolution), error reports, and update checks can be found in the privacy policy.[DF][DF]",
     "txchangelog": "What’s new?",
-    "txanleitung4": "[DF]If you have found an error, I will gladly correct it. For this I need a description of where and when the error occurred (possibly with a screenshot). A screenshot of the log below taken as soon as possible after the error occurred is also helpful (mail contact: [CONTACTSUPPORT]).[~LF][~LF]Thanks to: Brandon Rhodes (Skyfield), Rolf, Greg Miller and all testers. Images: NASA/ SOHO, ESA/ Hubble, NASA/ JPL-Caltech (public domain). Weather data: Open-Meteo.com (CC BY 4.0), MET Norway (CC BY 4.0). Details: {quotes|0-}design/ COPYRIGHT.txt{quotes|1-}.[~LF][~LF]I provide {txsunclock} to you free of charge. I hope you enjoy it. If you would like to support my work, you can find my website here. - For {txtimecontrol} you can download additional ephemeris data here (and delete them again: ~17 MB, see page 3).[DF][DF]",
+    "txanleitung4": "[DF]If you have found an error, I will gladly correct it. For this I need a description of where and when the error occurred (possibly with a screenshot). A screenshot of the log below taken as soon as possible after the error occurred is also helpful (mail contact: [CONTACTSUPPORT]).[~LF][~LF]Thanks to: Brandon Rhodes (Skyfield), Rolf, Greg Miller and all testers. Images: NASA/ SOHO, ESA/ Hubble, NASA/ JPL-Caltech (public domain). Weather data: Open-Meteo.com (CC BY 4.0), MET Norway (CC BY 4.0). Details: {quotes|0-}design/ COPYRIGHT.txt{quotes|1-}.[~LF][~LF]For {txtimecontrol} you can download additional ephemeris data here (and delete them again: ~17 MB, see page 3). - I provide {txsunclock} free of charge and hope you enjoy using it. If you would like to support my work, you can find my website here.[DF][DF]",
     "txephdownld": "Load ephemeris",
     "txloading": "Loading...",
     "txephdelete": "DELETE ephemeris",

@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.17.6",
-        "updated": "2026-04-30 13:08:32"
+        "version": "1.17.7",
+        "updated": "2026-04-30 13:31:21"
     },
     "txwelcome": "欢迎",
     "quotes": [
@@ -205,7 +205,7 @@
     "txanleitungprg": "[DF]Gordon-太阳时钟[~LF]版本 [VERSIONNUM][~LF]Gordon Axmann[~LF]版权 2019-[VERSIONYEAR]",
     "txanleitung3": "[DF]本软件是一个免费的私人项目。请按其原样使用。原则上不收集或传输任何个人数据。运行不需要互联网连接。有关可选功能（天气显示、地名解析）、错误报告和更新检查的详细信息，请参阅隐私政策。[DF][DF]",
     "txchangelog": "更新内容",
-    "txanleitung4": "[DF]如果您发现了错误，我很乐意进行修正。为此我需要说明错误发生的时间和位置（最好附带截图）。如果能在错误出现后尽快提供下方日志的截图，也会很有帮助（邮件联系：[CONTACTSUPPORT]）。[~LF][~LF]感谢：Brandon Rhodes（Skyfield）、Rolf、Greg Miller 以及所有测试人员。图片：NASA/ SOHO、ESA/ Hubble、NASA/ JPL-Caltech（公共领域）。天气数据：Open-Meteo.com（CC BY 4.0）、MET Norway（CC BY 4.0）。详情：{quotes|0-}design/ COPYRIGHT.txt{quotes|1-}。[~LF][~LF]我免费向您提供 {txsunclock}。希望您会喜欢它。如果您想支持我的工作，可以在这里找到我的网站。- 对于 {txtimecontrol}，您可以在这里下载额外的星历数据（也可以删除：约17 MB，见第3页）。[DF][DF]",
+    "txanleitung4": "[DF]如果您发现了错误，我很乐意进行修正。为此我需要说明错误发生的时间和位置（最好附带截图）。如果能在错误出现后尽快提供下方日志的截图，也会很有帮助（邮件联系：[CONTACTSUPPORT]）。[~LF][~LF]感谢：Brandon Rhodes（Skyfield）、Rolf、Greg Miller 以及所有测试人员。图片：NASA/ SOHO、ESA/ Hubble、NASA/ JPL-Caltech（公共领域）。天气数据：Open-Meteo.com（CC BY 4.0）、MET Norway（CC BY 4.0）。详情：{quotes|0-}design/ COPYRIGHT.txt{quotes|1-}。[~LF][~LF]对于 {txtimecontrol}，您可以在这里下载额外的星历数据（也可以删除：约17 MB，见第3页）。 - 我免费提供 {txsunclock}，并希望您喜欢使用它。如果您想支持我的工作，可以在这里访问我的网站。[DF][DF]",
     "txephdownld": "加载星历",
     "txloading": "加载中...",
     "txephdelete": "删除星历",
