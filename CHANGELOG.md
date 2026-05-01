@@ -3,21 +3,21 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.1] - 2026-05-xx
+## [3.1-public/stable] - 2026-05-xx
 
 ### Added
 - Added a new Alarm accordion tab to Settings. You can set one-off alarms for sunrise, sunset, and Agnihotra times, with configurable offsets (popup)
 
-### Fixed
-- Fixed GPS location callback handling on Android 11-; the issue had existed since 2025-06 and was previously fixed only for the temporary location listener
+### Fixed(!)
+- Finally fixed GPS location callback handling on Android 11-; the issue had existed since 2025-06 and was previously fixed only for the temporary location listener
 - Moon terminator not blurred in greyscale design
 
-## [2.72.1-stable] - 2026-04-19 (armeabi-v7a added)
+## [2.72.1-public] - 2026-04-19 (armeabi-v7a added)
 
 ### Added
 - Restored armeabi-v7a support, so the main line works again on older wall clock devices. Resolved build environment and dependency issues in new toolchain
 
-## [2.72] - 2026-04-15 (Toolchain switch) ✨
+## [2.72-public] - 2026-04-15 (Toolchain switch) ✨
 
 ### New main line
 - Transparent system bars (Android 15+)
@@ -308,7 +308,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [2.62-public] - 2025-11-01
 
 ### Fixed
-- Double Image.open error
+- Double Image.open error (since 2.61)
 
 ## [2.61-public] - 2025-11-01
 
@@ -359,7 +359,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ## [2.54-stable] - 2025-10-08
 
-### Fixed
+### Fixed(!)
 - Android 15+ bars fixed (finally, since 2025-07-03)
 - KeyError font10
 
@@ -385,7 +385,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ## [2.50-public] - 2025-10-02/3
 
-### Fixed
+### Fixed(!)
 - GrapheneOS (app dir not found)
 
 ## [2.49-public] - 2025-09-28
@@ -453,7 +453,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ## [2.40-public] - 2025-08-21
 
-### Fixed
+### Fixed(!)
 - Fixed hour figures were printed twice in NZ,
 - Popup global error fixed, 
 
@@ -484,7 +484,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ## [2.35-public] - 2025-07-30 (Better zoom)
 
-### Fixed
+### Fixed(!)
 - Location error on Honor fixed,
 
 ### Added
@@ -560,7 +560,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ## [2.24] - 2025-07-11
 
-### Fixed
+### Fixed(!)
 - Error with Clock.schedule_once fixed (important!),
 
 ### Added
@@ -581,7 +581,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ## [2.22] - 2025-07-06
 
-### Fixed
+### Fixed(!)
 - Time zone could not be changed manually
 - 'NoneType' object has no attribute 'bind'
 
@@ -594,8 +594,8 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ## [2.21-public] - 2025-07-04 (Chinese language)
 
-### Fixed
-- Bad "Unknown language" error fixed(!)
+### Fixed(!)
+- Bad "Unknown language" error finally fixed
 
 ## [2.20] - 2025-07-04
 
@@ -608,12 +608,12 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Date abbreviations introduced due to Chinese,
 
 ### Changed
-- Navigation buttons changed,
+- Navigation buttons changed
 
 ## [2.19] - 2025-07-03
 
 ### Added
-- Chinese added,
+- Chinese added
 
 ### Changed
 - Gradle dependencies reduced
