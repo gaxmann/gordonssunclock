@@ -6,7 +6,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [3.1-public/stable] - 2026-05-xx
 
 ### Added
-- Added a new Alarm accordion tab to Settings. You can set one-off alarms for sunrise, sunset, and Agnihotra times, with configurable offsets (popup)
+- Added a new Alarm accordion tab to Settings. You can set one-off alarms for sunrise, sunset, darkness (rise and set), and Agnihotra times, with configurable offsets (popup)
 
 ### Fixed(!)
 - Finally fixed GPS location callback handling on Android 11-; the issue had existed since 2025-06 and was previously fixed only for the temporary location listener
