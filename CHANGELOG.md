@@ -7,6 +7,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Added
 - Sun -12° alarm additionally checks for day+2 for big offsets
+- Additional 3 meteor showers added (Lyrids, Eta Aquariids, Southern δ Aquariids)
 
 ## [3.1-public/stable] - 2026-05-01
 
