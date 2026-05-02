@@ -21,12 +21,13 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ## [2.72-public] - 2026-04-15 (Toolchain switch) ✨
 
-### New main line
+**New main line release with 16 kB page support, api 24/35 (Android 7+), arm64-v8a only**
+
+### Added 
 - Transparent system bars (Android 15+)
 - Slightly faster UI, faster dial creation
-- 16 kB page support, api 24/35 (Android 7+), arm64-v8a only
 
-### All lines: Changed 
+### Changed 
 - Background img save delay for 8s (sufficient due to RAM caching)
 - Time control: No process animation when single tapping (+/- 1 hour)
 - **`a5`** wallclocks only check for update every 30 days, and they now do it directly from Github (now **`a5`** solely exists on Github, so no review process necessary that could delay updates anymore)
