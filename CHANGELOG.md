@@ -12,6 +12,8 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Finally fixed GPS location callback handling on Android 11-; the issue had existed since 2025-06 and was previously fixed only for the temporary location listener
 - Moon terminator not blurred in greyscale design
 
+---
+
 ## [2.72.1-public] - 2026-04-19 (armeabi-v7a added)
 
 ### Added
