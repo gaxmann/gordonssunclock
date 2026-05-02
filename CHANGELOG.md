@@ -3,6 +3,11 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
+## [3.1.2] - 2026-05-xx
+
+### Added
+- Sun -12° alarm additionally checks for day+2 for big offsets
+
 ## [3.1-public/stable] - 2026-05-01
 
 ### Added
