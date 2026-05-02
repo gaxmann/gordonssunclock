@@ -11,6 +11,8 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 <!--## [2.72] - 2026-04-15 (Transparent bars)
 - New main line ✨. Transparent system bars (Android 15+), slightly faster UI _#2.72 2026-04-15_ -->
 
+---
+
 ## [2.71] - 2026-04-11 (Time control)
  
 - Time control to move the dial forward and backward in time, meteor shower display _#2.70 2026-03-23_
@@ -77,8 +79,6 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 # Legacy builds
 
 From 2026-04 onwards, an **`a5`** legacy build will be provided via a separate GitHub [repository](https://github.com/gaxmann/zunclock-legacy/releases/latest/). This is due to Play Store requirements, which require the app to move to the 16 kB page-size version (Android 7+). The legacy line shares the same code base and versioning, but is released less frequently and is mainly intended for Android 5–6 devices (and devices requiring armeabi-v7a support).
-
----
 
 _P.S. Since 2.70 Sun Clock is feature-complete with the original hardware clock_
 
