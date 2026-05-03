@@ -11,6 +11,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Fixed
 - Fixed meteor radiant search area drawing near the ±90° projection fold
+- Texts updated for alarms
     
 ## [3.1-public/stable] - 2026-05-01
 
