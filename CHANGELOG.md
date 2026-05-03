@@ -8,6 +8,9 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Added
 - Sun -12° alarm renamed to Night. It now also checks day+2 for large offsets
 - Added 3 additional meteor showers: Lyrids, Eta Aquariids, Southern Delta Aquariids; meteor radiant letters are now grey instead of red when the radiant is not visible
+
+### Fixed
+- Fixed meteor radiant search area drawing near the ±90° projection fold
     
 ## [3.1-public/stable] - 2026-05-01
 
