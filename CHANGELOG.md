@@ -7,7 +7,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Added
 - Sun -12° alarm now also checks day+2 for large offsets
-- Added 3 additional meteor showers: Lyrids, Eta Aquariids, Southern δ Aquariids; meteor radiant letters are now grey instead of red when the radiant is not visible
+- Added 3 additional meteor showers: Lyrids, Eta Aquariids, Southern Delta Aquariids; meteor radiant letters are now grey instead of red when the radiant is not visible
     
 ## [3.1-public/stable] - 2026-05-01
 
