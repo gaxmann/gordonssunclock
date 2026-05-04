@@ -8,7 +8,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Added
 - Added 3 additional meteor showers: Lyrids, Eta Aquariids, Southern Delta Aquariids; meteor radiant letters are now grey instead of red when the radiant is not visible
 - Stars (and radiants) get an additional relative height marker (of their path) as a small quare left or right of the side of the star square
-- Keypad now also works for time control: "*" toggles timecontrol, 1/3, 4/6 nad 7/9 move time forward and backward resp. 1h, 1d, 28d
+- Keypad/Numpad navigation on Linux: now also works for time control: * toggles timecontrol, 1/3, 4/6 nad 7/9 move time forward and backward resp. 1h, 1d, 28d
 
 ### Changed 
 - "Sun -12°" alarm renamed to "Night ends/starts". Night now also checks day+2 for very large offsets
@@ -65,7 +65,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - From now on, the preview line (Android 7+) is the new **`main`** line. The previous main line becomes the legacy line and uses the **`a5`** suffix, which receives its final app store release hereby. A separate GitHub repository has been created to continue the distribution of the **`a5`** apk (getting reverted to its desired api 21/34; it never enjoyed being on api 21/35)
 - Update check now differentiates between **`main`** and **`a5`** versions
 - dialisready() with 1 sec delay to further delay solcal calculations, weath with 2s delay instead of 1s (to ensure unhindered dial creation)
-- Numpad navigation on Linux: `4`/`6` previous/next page, `8`/`2` scroll up/down, `CR` back to dial, `/` update dial; Zoom mode: `5` toggle, `1`–`9` pan, `+`/`-` zoom, `CR` or `5` recenter and exit
+- Numpad/Keypad navigation on Linux: `4`/`6` previous/next page, `8`/`2` scroll up/down, `CR` back to dial, `/` update dial; Zoom mode: `5` toggle, `1`–`9` pan, `+`/`-` zoom, `CR` or `5` recenter and exit
 
 ### Changed
 - Popup for Android 5-6 "Last version in app stores" activated
