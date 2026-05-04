@@ -13,7 +13,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - In Time control mode double tap now works as quick zoom again (not as "back to now" anymore). Single tap area is now narrowed and double tap doesnt work in the single tap area of time control
 - Meteor search area is now mirrored down at 0° (previously at 10°)
 - Meteor search area is now faded moonkr-grey when the radiant is below 0° and when the search area gets mirrowed below horizont (previously grey). It is now red when the sun is below -12° (instead of -6°)
-- Navigation button on dial page changed to "i" from the historical "✸"
+- Navigation button on dial page changed to "i" (from the historical "✸" which only partially made sense) 
 
 ### Fixed
 - Fixed meteor radiant search area drawing near the ±90° projection fold
