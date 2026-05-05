@@ -7,6 +7,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Fixed
 - Numpad navigation on Linux: CR resets all modes
+- Popup reminder optimised for occasional users
 
 ## [3.1.2-public] - 2026-05-05
 
