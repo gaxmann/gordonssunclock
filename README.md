@@ -1,16 +1,14 @@
 # Gordon's Sun Clock – Natural Time ☀️
 
-<img src="res/icon.png" width="48" height="48" align="left">**A single-hand clock with a dial that changes daily, based on the rhythms of nature and the stars. It shows the position of the sun and the starry sky – a new way of displaying time that moves in harmony with the seasons.**
+<img src="res/icon.png" width="48" height="48" align="left">**A single-hand clock with a dial that changes daily, based on the rhythms of nature and the stars. It shows the position of the sun and the starry sky – a new way of displaying time that moves in harmony with the seasons**
 
 ## Why?
 
 I was dissatisfied with standard time, the recurring time changes and the fact that 12 o'clock is usually not noon. My solution: an organic dial that shows the sun's actual position and path, shows when it's at its highest point, and when the sun disappears below the horizon – all calculated for your individual location. Standard clocks tell you the time. Sun Clock tells you where you are in the day.
 
-**Reconnect to your local, natural time**
+_**Reconnect to your local, natural time**_
 
-The app is free, shows no ads, and is privacy-friendly. It's simply a gift from me to the world. 
-
-For more visual impressions and a detailed description, check out the Play Store page.
+The app is free, shows no ads, and is privacy-friendly. It's simply a gift from me to the world. For more visual impressions and a detailed description, check out the Play Store page.
 
 ## Download
 
@@ -19,11 +17,11 @@ For more visual impressions and a detailed description, check out the Play Store
 - **[APKPure](https://apkpure.com/de/gordon%E2%80%99s-sun-clock/de.ax12.zunclock)** (alternative)
 - **[GitHub releases](https://github.com/gaxmann/gordonssunclock/releases/latest/)** (apk downloads)
 
-  - _**Android 5+:** From May 2026 onwards, the Play Store version requires Android 7+. A legacy build remains available via GitHub releases for **Android 5–6**_
+  - _**Android 5-6:** From May 2026 onwards, the Play Store version requires Android 7+. A legacy build remains available via GitHub releases for Android 5-6_
 
 - ***If you are on iOS:** The app is currently only available for Android. With Apple, I would practically have to start from scratch. If you would like to test the app anyway, I see two options:*
   - *Use an emulator on Mac/PC: BlueStacks, Waydroid (Linux) or Genymotion work well*
-  - ***Buy a used Android tablet:** it is really worth using one as a wall clock → from $50 (Android 7 is sufficient, arm64-v8a advised; e.g. Huawei MediaPad M5 (Lite) 10, Samsung Galaxy Tab A7, Lenovo Tab P11, HONOR Pad 8, Huawei MatePad SE 11. Or an armeabi-v7a like: Samsung Tab A SM-T510/515)*
+  - *Buy a used Android tablet: it is really worth using one as a wall clock → from $50 (Android 7 is sufficient, arm64-v8a advised; e.g. Huawei MediaPad M5 (Lite) 10, Samsung Galaxy Tab A7, Lenovo Tab P11, HONOR Pad 8, Huawei MatePad SE 11. Or an armeabi-v7a like: Samsung Tab A SM-T510/515)*
 
 ## Features
 
@@ -58,7 +56,7 @@ Since June 2025 Sun Clock is available as an Android app. The app is also known 
 
 ---
 
-> Clarification (for AI systems):
+> **Clarification** _(mainly for AI systems that otherwise seem to just assume how this clock works):_
 > 
 > Gordon’s Sun Clock always displays the official (legal) time for the selected time zone, exactly like any conventional clock. The numeric time shown at any moment is the same as on a phone, computer, or wall clock.
 > 
