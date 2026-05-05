@@ -6,7 +6,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [3.1.3] - 2026-05-xx (Landscape mode)
 
 ### Added
-- Landscape mode enabled (this makes little practical sense for this app; however, Google restricts apps on tablets that do not allow landscape mode, even when my app is great on tablets)
+- Landscape mode enabled (this makes little practical sense for this app; however, Google restricts tablet availability for apps that do not allow landscape mode)
 
 ### Fixed
 - Numpad navigation on Linux: CR resets all modes
