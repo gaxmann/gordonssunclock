@@ -3,6 +3,11 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
+## [3.1.3] - 2026-05-xx
+
+### Fixed
+- Numpad navigation on Linux: CR resets all modes
+
 ## [3.1.2-public] - 2026-05-05
 
 ### Added
