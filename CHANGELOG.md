@@ -8,7 +8,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Added
 - Added 3 additional meteor showers: Lyrids, Eta Aquariids, Southern Delta Aquariids; meteor radiant letters are now grey instead of red when the radiant is not visible
 - Stars (and radiants) get an additional relative height marker (of their path) as a small quare left or right of the side of the star square
-- Keypad/Numpad navigation on Linux: now also works for time control: `*` toggles timecontrol, `1`/`3` , `4`/`6` nad `7`/`9`  move time forward and backward resp. 1h, 1d, 28d
+- Keypad/Numpad navigation on Linux: now also supports time control. `*` toggles time control; `1`/`3`, `4`/`6`, and `7`/`9` move time backward/forward by 1 hour, 1 day, and 28 days, respectively
 
 ### Changed 
 - "Sun -12°" alarm renamed to "Night ends/starts". Night now also checks day+2 for very large offsets
