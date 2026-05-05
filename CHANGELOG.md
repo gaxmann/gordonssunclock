@@ -70,7 +70,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - From now on, the preview line (Android 7+) is the new **`main`** line. The previous main line becomes the legacy line and uses the **`a5`** suffix, which receives its final app store release hereby. A separate GitHub repository has been created to continue the distribution of the **`a5`** apk (getting reverted to its desired api 21/34; it never enjoyed being on api 21/35)
 - Update check now differentiates between **`main`** and **`a5`** versions
 - dialisready() with 1 sec delay to further delay solcal calculations, weath with 2s delay instead of 1s (to ensure unhindered dial creation)
-- Numpad/Keypad navigation on Linux: `4`/`6` previous/next page, `8`/`2` scroll up/down, `CR` back to dial, `/` update dial; Zoom mode: `5` toggle, `1`–`9` pan, `+`/`-` zoom, `CR` or `5` recenter and exit
+- Numpad/Keypad navigation on Linux: `4`/`6` previous/next page, `8`/`2` scroll up/down, `CR` reset clock = exit all modes and return to centered dial, `/` update dial; Zoom mode: `5` toggle, `1`–`9` pan, `+`/`-` zoom, `5` recenter and exit
 
 ### Changed
 - Popup for Android 5-6 "Last version in app stores" activated
