@@ -17,7 +17,7 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 - **[APKPure](https://apkpure.com/de/gordon%E2%80%99s-sun-clock/de.ax12.zunclock)** (alternative)
 - **[GitHub releases](https://github.com/gaxmann/gordonssunclock/releases/latest/)** (apk downloads)
 
-  - _**Android 5-6:** From May 2026 onwards, the Play Store version requires Android 7+. A legacy build remains available via GitHub releases for older Android versions_
+  - Android 5-6: From May 2026 onwards, the Play Store version requires Android 7+. A legacy build remains available via GitHub releases for older Android versions
 
 - ***If you are on iOS:** The app is currently only available for Android. With Apple, I would practically have to start from scratch. If you would like to test the app anyway, I see two options:*
   - *Use an emulator on Mac/PC: BlueStacks, Waydroid (Linux) or Genymotion work well*
