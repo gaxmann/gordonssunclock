@@ -4,7 +4,9 @@
 
 ## Why?
 
-I was dissatisfied with standard time, the recurring time changes and the fact that 12 o'clock is usually not noon. My solution: an organic dial that shows the sun's actual position and path, shows when it's at its highest point, and when the sun disappears below the horizon – all calculated for your individual location. Standard clocks tell you the time. Sun Clock tells you where you are in the day.
+I was dissatisfied with standard time, the recurring time changes, and the fact that 12 o'clock is rarely actual noon. I wanted something more honest: time shown by the real sky above you.
+
+My solution: an organic dial that tracks the sun's actual position and path, marks its highest point, and shows exactly when it disappears below the horizon — honest time. All calculated for your individual location.
 
 _**Reconnect to your local, natural time**_
 
