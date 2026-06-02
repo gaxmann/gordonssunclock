@@ -3,11 +3,11 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.1.3] - 2026-05-xx (Graphical rise/set)
+## [3.2] - 2026-06-xx (Graphical rise/set)
 
 ### Added
-- Sun and Moon now simulate real rise and set regarding to the icon size. Can be disabled
-- Landscape mode enabled. (Makes little practical sense for this app; however, Google restricts tablet availability for apps that do not allow landscape mode)
+- Graphical rise/set: Sun and Moon icons now compensate for their exaggerated display size near rise and set; this can be disabled
+- Landscape mode enabled. Makes little practical sense for this app, but Google restricts tablet availability for apps that do not allow landscape mode
 
 ### Fixed
 - Numpad navigation on Linux: CR resets all modes
