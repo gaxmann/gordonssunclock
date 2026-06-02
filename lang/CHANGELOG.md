@@ -2,6 +2,9 @@
 
 Keys that have been added, changed, or removed are listed here, as well as structural changes and language files that were added or removed, or whose support status changed.
 
+## [L1.18] - 2026-06-02
+- **Added:** txrealsunrise
+
 ## [L1.17] - 2026-04-29
 - **Added:** txalarmarr, minsh, txpopuphead/supparr, txpopupbody/appsupp, txalarm, tx_acc (value added)
 
