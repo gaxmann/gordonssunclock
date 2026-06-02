@@ -6,7 +6,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [3.2] - 2026-06-xx (Graphical rise/set)
 
 ### Added
-- Graphical rise/set: Sun and Moon icons now compensate for their exaggerated display size near rise and set; this can be disabled
+- Graphical rise/set: Sun and Moon icons now compensate for their exaggerated display size near rise and set while keeping pointers and paths unchanged; this can be disabled
 - Landscape mode enabled. Makes little practical sense for this app, but Google restricts tablet availability for apps that do not allow landscape mode
 
 ### Fixed
