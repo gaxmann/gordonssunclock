@@ -6,7 +6,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 ---
 
 ## [3.2] - 2026-06-03 (Graphical rise/set)
-- More realistic representation of Sun and Moon rise and set
+- Sun and Moon icons now touch and cross the horizon realistically
 
 ## [3.1] - 2026-05-05 (Sun-based alarms)
 - Alarms for solar events: sunrise, sunset, nightfall, and Agnihotra
