@@ -3,7 +3,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.2] - 2026-06-xx (Graphical rise/set)
+## [3.2-public] - 2026-06-03 (Graphical rise/set)
 
 ### Added
 - Graphical rise/set: Sun and Moon icons now compensate for their exaggerated display size near rise and set while keeping pointers and paths unchanged
