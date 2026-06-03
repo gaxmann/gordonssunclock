@@ -6,7 +6,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [3.2.1] - 2026-06-xx
 
 ### Changed
-- Different sun images are now size and y-position corrected to correctly run with the new Graphical rise/set feature
+- Different sun images are now size and y-position corrected to better run with the new Graphical rise/set feature
 - Texts updated, popup for new function Graphical rise/set
 
 ## [3.2-public] - 2026-06-03 (Graphical rise/set)
