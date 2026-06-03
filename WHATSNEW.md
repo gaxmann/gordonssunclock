@@ -5,8 +5,11 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 
-## [3.2] - 2026-06-03 (Sun-based alarms)
-- Alarms for solar events: sunrise, sunset, nightfall, and Agnihotra _#3.1 2026-05-05_. Graphical rise/set for sun and moon
+## [3.2] - 2026-06-03 (Graphical rise/set)
+- More realistic representation of Sun and Moon rise and set
+
+## [3.1] - 2026-05-05 (Sun-based alarms)
+- Alarms for solar events: sunrise, sunset, nightfall, and Agnihotra
 - New main line ✨. Transparent system bars (Android 15+), slightly faster _#2.72 2026-04-15_
 <!--## [2.72] - 2026-04-15 (Transparent bars)
 - New main line ✨. Transparent system bars (Android 15+), slightly faster UI _#2.72 2026-04-15_ -->
