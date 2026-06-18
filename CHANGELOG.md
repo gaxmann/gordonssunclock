@@ -9,6 +9,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Moon shadow during day made a little bit more opaque
 - Dial now also shows progress percentage of Light Season
 - Rise/set alarm now defaults to -5 min
+- Weather is current now on temp instead of sun hours
 
 ## [3.2.1-public] - 2026-06-09
 
