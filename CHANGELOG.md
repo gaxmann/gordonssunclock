@@ -3,6 +3,12 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
+## [3.2.2] - 2026-06-xx
+
+### Changed
+- Moon shadow during day made a little bit more opaque
+- Dial now also shows progress percentage of Light Season
+
 ## [3.2.1-public] - 2026-06-09
 
 ### Changed
