@@ -3,7 +3,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.2.2] - 2026-06-xx
+## [3.2.2-public] - 2026-06-19
 
 ### Changed
 - Moon shadow during day made a little bit more opaque
