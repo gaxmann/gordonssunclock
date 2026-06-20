@@ -3,6 +3,12 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
+## [3.2.3] - 2026-06-xx
+
+### Changed
+- New buildozer 1.6.0 version with p4a develop is working now (Python 3.14)
+- Lon fallback for when timezonefinder doesn't work (on water or small islands) 
+
 ## [3.2.2-public] - 2026-06-19
 
 ### Changed
