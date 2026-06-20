@@ -8,7 +8,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Changed
 - New buildozer 1.6.0 version with p4a develop is working now (Python 3.14)
 - Lon fallback for when timezonefinder doesn't work (on water or small islands) 
-- Dial update rate now temporarily increased near Sun and Moon rise/set for smoother Graphical rise/set motion
+- Dial update rate increased near Sun and Moon rise/set for smoother Graphical rise/set motion
 
 ## [3.2.2-public] - 2026-06-19
 
