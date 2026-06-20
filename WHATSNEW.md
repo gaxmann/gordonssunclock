@@ -70,7 +70,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ## [2.18] - 2025-06-29 (Telescope design)
 
-- Telescope design, Français added, bug fixes
+- Telescope design with true-colour images, Français added, bug fixes
 
 ## [2.15] - 2025-06-24 (Initial release)
 
