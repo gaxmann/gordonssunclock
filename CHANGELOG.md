@@ -9,6 +9,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - New buildozer 1.6.0 version with p4a develop is working now (Python 3.14)
 - Lon fallback for when timezonefinder doesn't work (on water or small islands) 
 - Dial update rate increased near Sun and Moon rise/set for smoother Graphical rise/set motion
+- Improved horizon rendering for the Sun and Moon during rise and set (because moon size is variable)
 
 ### Fixed
 - Fixed side selection for the star altitude range marker when counterclockwise rotation is enabled
