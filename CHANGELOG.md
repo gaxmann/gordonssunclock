@@ -10,6 +10,9 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Lon fallback for when timezonefinder doesn't work (on water or small islands) 
 - Dial update rate increased near Sun and Moon rise/set for smoother Graphical rise/set motion
 
+### Fixed
+- Fixed side selection for the star altitude range marker when counterclockwise rotation is enabled
+
 ## [3.2.2-public] - 2026-06-19
 
 ### Changed
