@@ -3,7 +3,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.2.3] - 2026-06-xx (Buildozer 1.6, Python 3.14)
+## [3.2.3-public] - 2026-06-22 (Buildozer 1.6, Python 3.14)
 
 ### Changed
 - New buildozer 1.6.0 version with p4a develop is working now (Python 3.14)
