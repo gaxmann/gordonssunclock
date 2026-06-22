@@ -3,6 +3,11 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
+## [3.2.4] - 2026-06-xx
+
+### Fixed
+- Enlarge Objects didn't enlarge objects
+
 ## [3.2.3-public] - 2026-06-22 (Buildozer 1.6, Python 3.14)
 
 ### Changed
