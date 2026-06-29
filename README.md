@@ -21,9 +21,7 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 
   - Android 5-6: From May 2026 onwards, the Play Store version requires Android 7+. A legacy build remains available via GitHub releases for older Android versions
 
-- ***If you are on iOS:** The app is currently only available for Android. With Apple, I would practically have to start from scratch. If you would like to test the app anyway, I see two options:*
-  - *Use an emulator on Mac/PC: BlueStacks, Waydroid (Linux) or Genymotion work well*
-  - *Buy a used Android tablet: it is really worth using one as a wall clock → from $50 (Android 7 is sufficient, arm64-v8a advised; e.g. Huawei MediaPad M5 (Lite) 10, Samsung Galaxy Tab A7, Lenovo Tab P11, HONOR Pad 8, Huawei MatePad SE 11. Or an armeabi-v7a like: Samsung Tab A SM-T510/515)*
+- ***If you are on iOS:** The app is currently only available for Android. There is a web version of the app with fewer functions and less precise astronimical calculations: [Astronomical Clock](https://astronomicalclock.eu/). If you would like to use the app as a wall clock, which is really worth it, the best option is to buy a used Android tablet → from $50 (Android 7 is sufficient, arm64-v8a advised; e.g. Huawei MediaPad M5 (Lite) 10, Samsung Galaxy Tab A7, Lenovo Tab P11, HONOR Pad 8, Huawei MatePad SE 11. Or an armeabi-v7a like: Samsung Tab A SM-T510/515)*
 
 ## Features
 
