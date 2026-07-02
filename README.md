@@ -23,7 +23,9 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 
 - **[Web version](https://astronomicalclock.eu/)** (for all devices)
 
-  - ***If you're using iOS:** There is a web version with fewer features and less precise astronomical calculations. – If you want to experience it as a wall clock (which is arguably its most enjoyable use) a used Android tablet is the best solution → from $50 (Android 7 is sufficient, arm64-v8a advised; e.g. Huawei MediaPad M5 (Lite) 10, Samsung Galaxy Tab A7, Lenovo Tab P11, HONOR Pad 8, Huawei MatePad SE 11. Or an armeabi-v7a like: Samsung Tab A SM-T510/515)*
+  - ***If you're using iOS:*** There is a web version with fewer features and less precise astronomical calculations.
+
+    - However, if you want to experience it as a wall clock (which is arguably its most enjoyable use) a used Android tablet is the best solution → from $50 (Android 7 is sufficient, arm64-v8a advised; e.g. Huawei MediaPad M5 (Lite) 10, Samsung Galaxy Tab A7, Lenovo Tab P11, HONOR Pad 8, Huawei MatePad SE 11. Or an armeabi-v7a like: Samsung Tab A SM-T510/515)
 
 ## Features
 
