@@ -8,7 +8,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Fixed
 - Enlarge Objects didn't enlarge objects
 - Light season was shown on dial even within abs(lat)<18
-- Max width of dial was shortened to 1/1.6 instead of 1/1.5
+- Max width of dial was shortened to 1/1.7 instead of 1/1.5
 
 ## [3.2.3-public] - 2026-06-22 (Buildozer 1.6, Python 3.14)
 
