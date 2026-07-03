@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.18.7",
-        "updated": "2026-07-02 18:13:59"
+        "version": "1.18.8",
+        "updated": "2026-07-03 14:58:10"
     },
     "txwelcome": "Добро пожаловать",
     "quotes": [
@@ -78,6 +78,7 @@
     "txtimezone": "Часовой пояс",
     "txtimeformat": "24ч-формат",
     "txsiformat": "Метрические единицы",
+    "txshowclock": "Показывать время",
     "txwelcomescr": "Подсказка GPS выкл.",
     "txshowagni": "Агнихотра (GPS)",
     "txagnihotrain": "Агнихотра через: {agnih_countdo}",
@@ -134,7 +135,6 @@
     "txstatuslog": "[b]–– Журнал статуса:[/b]",
     "txgpslabel": "Определение",
     "txgpsbutton": "1x определить",
-    "txshowclock": "Показывать время",
     "txalarm": "задать",
     "txpopuphead": {
         "updateavail": "Доступно обновление",
@@ -174,7 +174,7 @@
     "txlegende": "[DF][DF]Вы можете увеличивать циферблат двумя пальцами (или двойным нажатием). Если хотите перемещать увеличенное изображение, делайте это медленно. Быстрые движения переключают на следующую страницу. Если ваши настройки не применяются, нажмите кнопку [font=DejaVuSans.ttf]⟳[/font] внизу справа. Кнопкой [font=DejaVuSans.ttf]⬌[/font] вы активируете {txtimecontrol} (см. следующую страницу).[DF][DF]",
     "txdata": "[DF]Данные",
     "txlocdata": "[DF]Текущие данные³ для вашего местоположения:[DF]",
-    "txobjdata": "{weather_data}– Солнце¹ –[~LF]Время: {sun_clocktm}[~LF]Темпоральный час: {sun_temptm}[~LF]Световой день: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]Солнцестояние: {sun_soli}[~LF]Равноденствие: {sun_equi}[~LF][~LF]– Луна² –[~LF]Лунная ночь: {moon_gordon}[~LF]Освещённость: {moon_illum}[~LF]Размер: {moon_sizep} (85-100)[~LF]Новолуние: {moon_new}[~LF]Полнолуние: {moon_full}[font_context=noweb][~LF][~LF]– Яркость –[~LF]Венера: {venus_magp} (83-100)[~LF]Марс: {mars_magp} (52-100)[~LF]Юпитер: {jupiter_magp} (87-100)[~LF]Сатурн: {saturn_magp} (77-100)[~LF]Меркурий: {merkur_magp} (0-100)[/font_context][~LF][~LF]¹ Время: GPS = синхронизировано | Темпоральный час: локальный неравный час (0,0[NDASH]11,9) {s_td} дня или {s_tn} ночи. {s_tv} ночная стража с неравными «минутами» (0{s_tv-}00[NDASH]3{s_tv-}59) | {lighttime-}: см. ниже | Световой день и Агнихотра: восход[NDASH]закат сегодня {sb0}восход завтра{sb1}, {s_fr-} = актуальный GPS | ² Полнолуние и новолуние: момент (в днях / дней назад) | Лунная ночь: см. ниже[font_context=noweb] | ³ Рассчитано по эфемеридам JPL (точность альманаха)[/font_context] | ⁴ Погода: суточный ход ([font=DejaVuSans.ttf]☀[/font] солнце, [font=DejaVuSans.ttf]◴[/font] прогресс, ₁₂₃ = текущий 3-часовой блок, [font=DejaVuSans.ttf]☂[/font] дождь (нажимаемо) = радар, [font=DejaVuSans.ttf]✈[/font] порывы). Сейчас = ближайшие 3 часа, [font=DejaVuSans.ttf]◵[/font] = более старые данные. Отображение ограничено 48 ч из-за надёжности | Внизу суточные значения: мин...макс...{sb0}ночной мин{sb1} ({s_sn-} = снег)[DF][DF]",
+    "txobjdata": "{weather_data}– Солнце¹ –[~LF]Время: {sun_clocktm}[~LF]Темпоральный час: {sun_temptm}[~LF]Световой день: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]Солнцестояние: {sun_soli}[~LF]Равноденствие: {sun_equi}[~LF][~LF]– Луна² –[~LF]Лунная ночь: {moon_gordon}[~LF]Освещённость: {moon_illum}[~LF]Размер: {moon_sizep} (85-100)[~LF]Новолуние: {moon_new}[~LF]Полнолуние: {moon_full}[font_context=noweb][~LF][~LF]– Яркость –[~LF]Венера: {venus_magp} (83-100)[~LF]Марс: {mars_magp} (52-100)[~LF]Юпитер: {jupiter_magp} (87-100)[~LF]Сатурн: {saturn_magp} (77-100)[~LF]Меркурий: {merkur_magp} (0-100)[/font_context][~LF][~LF]¹ Время: GPS = синхронизировано | Темпоральный час: локальный неравный час (0,0[NDASH]11,9) {s_td} дня или {s_tn} ночи. {s_tv} ночная стража с неравными «минутами» (0{s_tv-}00[NDASH]3{s_tv-}59) | {lighttime-}: см. ниже | Световой день и Агнихотра: восход[NDASH]закат сегодня {sb0}восход завтра{sb1}, {s_fr-} = актуальный GPS | ² Полнолуние и новолуние: момент (в днях / дней назад) | Лунная ночь: см. ниже[font_context=noweb] | ³ Рассчитано по эфемеридам JPL (точность альманаха)[/font_context] | ⁴ Погода: суточный ход ([font=DejaVuSans.ttf]☀[/font] солнце, [font_context=noweb][font=DejaVuSans.ttf]◴[/font] прогресс, ₁₂₃ = текущий 3-часовой блок, [/font_context][font=DejaVuSans.ttf]☂[/font] дождь (нажимаемо) = радар, [font=DejaVuSans.ttf]✈[/font] порывы). [font_context=noweb]Сейчас = ближайшие 3 часа, [/font_context][font=DejaVuSans.ttf]◵[/font] = более старые данные. Отображение ограничено 48 ч из-за надёжности | Внизу суточные значения: мин...макс...{sb0}ночной мин{sb1} ({s_sn-} = снег)[DF][DF]",
     "txlegende0": "[b]–– Info:[/b][~LF][~LF]Лунная ночь работает как наша дата, но с ночами: {s_mo-}x·y (p/z), где x = лунный {quotes|0-}месяц{quotes|1-} года, y = ночь лунного месяца. {s_mo-}1 — первая полная луна светового года (≈ Китайский Новый год). Поскольку лунные месяцы имеют разную длительность, z обозначает общее число ночей месяца, p — ночь полнолуния. Ночь заканчивается с восходом солнца.[~LF][~LF]Сезон светового года делит год на восемь фаз увеличения и уменьшения света: 1. {solcal_lph|0-} ({solcal_dat0}), 2a. {solcal_lph|1-} ({solcal_dat1}), 2b. {solcal_lph|2-} ({solcal_dat2}), 2c. {solcal_lph|3-} ({solcal_dat3}), 3. {solcal_lph|4-} ({solcal_dat4}), 4a. {solcal_lph|5-} ({solcal_dat5}), 4b. {solcal_lph|6-} ({solcal_dat6}) и 4c. {solcal_lph|7-} ({solcal_dat7}). Краткая форма: {s_li-}x·y (x = фаза, y =[SP]% прогресс). Данные немного меняются каждый год.[DF][DF][DF]",
     "buttonsolcal": "Световой календарь",
     "txradar": "Радар дождя",
