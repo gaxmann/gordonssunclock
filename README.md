@@ -32,6 +32,7 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 - **Accurate solar positioning**: Precise calculations using JPL ephemerides 
 - **Single-hand design**: Simple, clear, intuitive
 - **Location-based**: Adjusts to your coordinates (manual input or location detection)
+- **Real time set/rise**: Real time Sun and Moon set and rise
 - **Offline capable**: No internet required after first setup (optional GPS time sync)
 - **Optional weather overview**: Clear icon-based, drama-free daily outlook
 - **Temporal hours clock**: Display of ancient unequal hours (12 day hours & 4 night watches) – e.g. for historians or anyone seeking a deeper connection to historical timekeeping
