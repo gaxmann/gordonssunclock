@@ -3,7 +3,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.2.4] - 2026-06-xx
+## [3.2.4-public] - 2026-06-10
 
 ### Fixed
 - Enlarge Objects didn't enlarge objects
