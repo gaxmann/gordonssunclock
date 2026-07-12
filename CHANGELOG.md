@@ -8,6 +8,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Fixed
 - Enlarged lower border for fine calculation from -1° to -1.5°
 - Time control: left tap wasn't functioning correctly
+- Weather: dry is now displayed less often
 
 ## [3.2.4-public] - 2026-06-10
 
