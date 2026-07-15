@@ -3,7 +3,10 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.2.5] - 2026-06-xx
+## [3.3.0] - 2026-07-xx
+
+### Added
+- Stars are now rendered more realistically (B-V based colours, magnitude-scaled cores)
 
 ### Fixed
 - Enlarged lower border for fine calculation from -1° to -1.5°
@@ -11,7 +14,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Weather: dry is now displayed less often
 - Button were too smal on devices with little dpi
 
-## [3.2.4-public] - 2026-06-10
+## [3.2.4-public] - 2026-07-10
 
 ### Fixed
 - Enlarge Objects didn't enlarge objects
