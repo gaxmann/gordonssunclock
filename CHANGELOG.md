@@ -7,7 +7,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Added
 - Stars are now rendered more realistically (B-V based colours, magnitude-scaled cores)
-- Now 22 stars (21 brightest plus Polaris) instead of 10
+- Now 22 stars (the 21 brightest stars plus Polaris) instead of 10
 
 ### Fixed
 - Enlarged lower border for fine calculation from -1° to -1.5°
