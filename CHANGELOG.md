@@ -7,7 +7,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Added
 - Stars are now rendered more realistically (B-V based colours, magnitude-scaled cores)
-- Now 22 stars (the 21 brightest plus Polaris) instead of 10, but only the stars that are visible will be shown
+- Now 22 stars (the 21 brightest plus Polaris) instead of 10, but only the stars that are sometimes visible will be shown
 - Photorealistic stars are now drawn on top of planets instead of under
 
 ### Fixed
