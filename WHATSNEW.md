@@ -5,9 +5,9 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 
-> ## [3.3] - 2026-07-xx (Realistic stars)
-> - Stars are now rendered more realistically (B-V based colours, magnitude-scaled cores), 12 more stars added ✨
-> - There is now also a [web version](https://astronomicalclock.eu/) of this clock
+## [3.3] - 2026-07-xx (Realistic stars)
+- Stars are now rendered more realistically (B-V based colours, magnitude-scaled cores), 12 more stars added ✨
+- There is now also a [web version](https://astronomicalclock.eu/) of this clock
 
 ## [3.2] - 2026-06-03 (Graphical rise/set)
 - Sun and Moon now touch and cross the horizon realistically according to their depicted size
