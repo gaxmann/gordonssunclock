@@ -3,7 +3,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.3.0] - 2026-07-xx (Realistic stars)
+## [3.3.1-public] - 2026-07-19 (Realistic stars)
 
 ### Added
 - Stars are now rendered more realistically (B-V based colours, magnitude-scaled cores)
