@@ -10,7 +10,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Simplified daily weather block display
 - Mono font removed
 
-[3.3.2-public] - 2026-07-19 (Realistic stars)
+## [3.3.2-public] - 2026-07-19 (Realistic stars)
 
 ### Added
 - Stars are now rendered more realistically (B-V based colours, magnitude-scaled cores)
