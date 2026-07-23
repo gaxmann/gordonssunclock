@@ -3,7 +3,14 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.3.2-public] - 2026-07-19 (Realistic stars)
+## [3.3.3] - 2026-07-xx
+
+### Added
+- Weather diagramm now displays hourly data instead of every 3 hours
+- Simplified daily weather block display
+- Mono font removed
+
+[3.3.2-public] - 2026-07-19 (Realistic stars)
 
 ### Added
 - Stars are now rendered more realistically (B-V based colours, magnitude-scaled cores)
