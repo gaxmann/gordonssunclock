@@ -6,7 +6,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [3.3.3] - 2026-07-xx
 
 ### Added
-- Weather diagramm now displays hourly data instead of every 3 hours
+- Weather diagramm now displays hourly data instead of every 3 hours. It also now uses continuous scaling and adjusted min/max handling
 - Simplified daily weather block display
 - Mono font removed
 
