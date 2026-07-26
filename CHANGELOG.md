@@ -8,6 +8,9 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Added
 - Weather diagramm now displays hourly data instead of every 3 hours. It also now uses continuous scaling and adjusted min/max handling
 - Simplified daily weather block display
+
+### Changed
+- Order of buttons changed, info button is now in the corner
 - Mono font removed
 - Percent in Lightyear progress now without leading 0
 
