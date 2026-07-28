@@ -3,7 +3,10 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.3.4] - 2026-07-xx 
+## [3.3.4] - 2026-07-xx (7 day weather) 
+
+### Added
+- Weather 7-day trend preview with temperature ranges and rain and wind indicators
 
 ### Changed
 - Order of buttons changed, info button is now in the corner
