@@ -12,6 +12,9 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Order of buttons changed, info button is now in the corner
 - Buttons on tablets are now smaller
 
+### Fixed
+- On datapage time now stops in time control mode
+
 ## [3.3.3] - 2026-07-26 (Finer weather)
 
 ### Added
