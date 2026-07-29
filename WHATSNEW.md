@@ -5,7 +5,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 
-## [3.3] - 2026-07-19 (Realistic stars)
+## [3.3] - 2026-07-26 (Realistic stars)
 - Stars are now rendered more realistically (B-V based colours, magnitude-scaled cores), 12 more stars added ✨, finer weather
 - There is now also a [web version](https://astronomicalclock.eu/) of this clock
 
