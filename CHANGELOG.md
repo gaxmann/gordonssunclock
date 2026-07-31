@@ -3,6 +3,14 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
+## [3.3.5] - 2026-07-xx
+
+### Added
+- 7d weather now shows separate snowfall
+
+### Fixed
+- Openmet: precip now correctly is precip instead of rain
+
 ## [3.3.4] - 2026-07-29 (7 day weather preview) 
 
 ### Added
