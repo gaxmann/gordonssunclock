@@ -13,7 +13,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Fixed
 - Openmet: precip now correctly is precip instead of rain
 
-## [3.3.4] - 2026-07-29 (7 day weather preview) 
+## [3.3.4] - 2026-07-29 (7d weather preview) 
 
 ### Added
 - Weather 7-day trend preview with temperature ranges and rain and wind indicators in one line
