@@ -41,7 +41,7 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 - **Agnihotra support**: Display precise Agnihotra times with countdown
 - **Sun-based alarms**: Set easy one-off alarms for sunrise, sunset, and Agnihotra times
 - **Tablet mode**: Hang on your wall as a living clock<!-- - **Accurate solar geometry worldwide**: From equator to poles-->
-- **Multi-language**: Deutsch, English, Español, Français, Русский, 中文 plus some autotranslated languages
+- **Multi-language**: Deutsch, English, Español, Français, Русский, 中文, Português, Italiano, हिन्दी plus some autotranslated languages
 - **Free & private**: Free of charge, no ads, privacy-friendly
 
 ## About
