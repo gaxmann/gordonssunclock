@@ -3,7 +3,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.3.5] - 2026-07-xx
+## [3.3.5] - 2026-07-xx (9d weather preview)
 
 ### Added
 - 7d weather now shows separate snowfall
