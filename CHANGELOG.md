@@ -7,6 +7,8 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Added
 - 7d weather now shows separate snowfall
+- Telescope design: new representation of meteor radiants
+- Improved visual detection of shooting stars
 
 ### Fixed
 - Openmet: precip now correctly is precip instead of rain
