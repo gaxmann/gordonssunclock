@@ -1,10 +1,11 @@
 {
-    "version": "1.18.20",
+    "version": "1.18.21",
     "official_langs": {
         "de": "Deutsch",
         "en": "English",
         "es": "Español",
         "fr": "Français",
+        "hi": "Hindī",
         "it": "Italiano",
         "pt": "Português",
         "ru": "Русский",
