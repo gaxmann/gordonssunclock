@@ -9,10 +9,10 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Telescope design: new representation of meteor radiants
 - Improved visual detection of shooting stars (considering meteor strength and moon position and illumination) resulting in correct colouring of search area
 - Português and Italiano added to official language, because of problems with autotr
-- 7d weather now shows separate snowfall
 
 ### Fixed
 - Openmet: precip now correctly is precip instead of rain
+- 7d weather is now 6d weather. It now shows separate snowfall
 - Star cores are now 10% smaller (too big on Tablets) 
 
 ## [3.3.4] - 2026-07-29 (7d weather preview) 
