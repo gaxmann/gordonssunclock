@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.18.22",
-        "updated": "2026-08-03 00:07:31"
+        "version": "1.18.19",
+        "updated": "2026-08-05 21:12:18"
     },
     "txwelcome": "Bienvenue",
     "quotes": [
@@ -84,7 +84,7 @@
     "txagnihotra": "Agnihotra",
     "txedgescreen": "Plus de bordure",
     "txenlargeobj": "Grands objets",
-    "txrealsunrise": "Lever/couch. graph.",
+    "txrealsunrise": "Lever/coucher graph.",
     "txuhrsinn": "Direction du regard",
     "txuhrsinnarr": {
         "auto": "automatique",
@@ -165,7 +165,7 @@
     "txgordonssunclock": "Horloge solaire de Gordon",
     "txsunclock": "Horloge solaire",
     "txtimecontrol": "Contrôle du temps",
-    "txtimecstart": "Glisser pour lancer",
+    "txtimecstart": "Glisser pour démarrer",
     "txpartsupport": "[i]REMARQUE : (β) Cette langue n'est que partiellement prise en charge. Certaines sections sont donc en anglais. Toute aide est la bienvenue (Github). - Vous trouverez un bouton « Traduction automatique » sur la dernière page[/i]",
     "txnosupport": "[i]REMARQUE : votre langue n'est pas (encore) traduite. Vous trouverez un bouton « Traduction automatique » sur la dernière page[/i]",
     "txautotranslate": "[i]REMARQUE : (α) Cette langue n’est pas (encore) officiellement prise en charge. Il s’agit d’une traduction automatique[/i]",
@@ -174,10 +174,10 @@
     "txmore": "[DF]3. {txnachtmodus} {txlangarr|auto-} bascule au coucher du soleil, -6° à la fin du crépuscule, +6° avant. {txfarben} sélectionne différents cadrans. {txedgescreen} augmente la distance au bord de l’écran.[~LF][~LF]4. {txfullscr} empêche l’extinction de l’écran et active le mode plein écran. {txweathapi} affiche une prévision (internet requis), de bas en haut : température actuelle, données journalières de précipitations et heures d’ensoleillement, symboles voir page suivante. {txagnihotra} affiche des repères pour l’aiguille solaire ainsi que l’heure du prochain passage par zéro du Soleil et un compte à rebours. Six minutes avant l’Agnihotra, l’affichage est agrandi et les secondes sont affichées ({s_fr-} = GPS actuel).[font_context=noweb][~LF][~LF]5. Les alarmes liées aux heures solaires peuvent être décalées à l’aide des champs de minutes et réglées en un clic (Limite de nuit = Soleil à -12°). Les alarmes ne sonnent qu’une seule fois et doivent être réactivées chaque jour, car les heures solaires changent.[/font_context]",
     "txlegende": "[DF][DF]Vous pouvez [b]zoomer[/b] dans le cadran avec deux doigts (ou par double tap). Si vous souhaitez déplacer l’image agrandie, faites-le lentement. Les mouvements rapides font passer à la page suivante.[font_context=noweb] Si vos paramètres ne sont pas appliqués, appuyez sur le bouton [font=DejaVuSans.ttf]⟳[/font] en bas à droite.[/font_context] Avec le bouton [font=DejaVuSans.ttf]⬌[/font], vous activez {txtimecontrol} (voir page suivante).[DF][DF]",
     "txdata": "[DF]Données",
-    "txlocdata": "[DF]Données actuelles³ du lieu :[DF]",
-    "txobjdata": "{weather_data}– Soleil¹ –[~LF]Heure : {sun_clocktm}[~LF]Heure temporelle : {sun_temptm}[~LF]Lumière du jour : {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]Solstice : {sun_soli}[~LF]Équinoxe : {sun_equi}[~LF][~LF]– Lune² –[~LF]Nuit lunaire : {moon_gordon}[~LF]Illuminée : {moon_illum}[~LF]Taille : {moon_sizep} (85-100)[~LF]Nouvelle lune : {moon_new}[~LF]Pleine lune : {moon_full}[font_context=noweb][~LF][~LF]– Luminosité –[~LF]Vénus : {venus_magp} (83-100)[~LF]Mars : {mars_magp} (52-100)[~LF]Jupiter : {jupiter_magp} (87-100)[~LF]Saturne : {saturn_magp} (77-100)[~LF]Mercure : {merkur_magp} (0-100)[/font_context][~LF][~LF]¹ [font_context=noweb]Heure : GPS = synchronisé | [/font_context]Heure temporelle : heure locale inégale (0,0[NDASH]11,9) {s_td} du jour ou {s_tn} de la nuit. {s_tv} veille nocturne avec « minutes » inégales (0{s_tv-}00[NDASH]3{s_tv-}59) | {lighttime-} : voir ci-dessous | Lumière du jour & Agnihotra : lever[NDASH]coucher du soleil aujourd’hui {sb0}lever demain{sb1}, {s_fr-} = GPS actuel | ² Pleine et nouvelle lune : moment (en jours / il y a jours) | Nuit lunaire : voir ci-dessous[font_context=noweb] | ³ Calculé avec les éphémérides JPL (précision d’almanach)[/font_context] | ⁴ Météo : évolution journalière ([font=DejaVuSans.ttf]☀[/font] soleil, [font=DejaVuSans.ttf]☂[/font] pluie cliquable = radar, [font=DejaVuSans.ttf]✈[/font] rafales). [font=DejaVuSans.ttf]◵[/font] = données plus anciennes. Affichage limité à 48h pour la fiabilité | Valeurs journalières en bas : min...max...{sb0}min nocturne{sb1} ({s_sn-} = neige) | 7d: prévisions hebdomadaires à partir de demain (dépliable)[DF][DF]",
+    "txlocdata": "[DF]Données actuelles³ pour votre emplacement :[DF]",
+    "txobjdata": "{weather_data}– Soleil¹ –[~LF]Heure : {sun_clocktm}[~LF]Heure temporelle : {sun_temptm}[~LF]Lumière du jour : {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]Solstice : {sun_soli}[~LF]Équinoxe : {sun_equi}[~LF][~LF]– Lune² –[~LF]Nuit lunaire : {moon_gordon}[~LF]Illuminée : {moon_illum}[~LF]Taille : {moon_sizep} (85-100)[~LF]Nouvelle lune : {moon_new}[~LF]Pleine lune : {moon_full}[font_context=noweb][~LF][~LF]– Luminosité –[~LF]Vénus : {venus_magp} (83-100)[~LF]Mars : {mars_magp} (52-100)[~LF]Jupiter : {jupiter_magp} (87-100)[~LF]Saturne : {saturn_magp} (77-100)[~LF]Mercure : {merkur_magp} (0-100)[/font_context][~LF][~LF]¹ [font_context=noweb]Heure : GPS = synchronisé | [/font_context]Heure temporelle : heure locale inégale (0,0[NDASH]11,9) {s_td} du jour ou {s_tn} de la nuit. {s_tv} veille nocturne avec « minutes » inégales (0{s_tv-}00[NDASH]3{s_tv-}59) | {lighttime-} : voir ci-dessous | Lumière du jour & Agnihotra : lever[NDASH]coucher du soleil aujourd’hui {sb0}lever demain{sb1}, {s_fr-} = GPS actuel | ² Pleine et nouvelle lune : moment (en jours / il y a jours) | Nuit lunaire : voir ci-dessous[font_context=noweb] | ³ Calculé avec les éphémérides JPL (précision d’almanach)[/font_context] | ⁴ Météo : évolution journalière ([font=DejaVuSans.ttf]☀[/font] soleil, [font=DejaVuSans.ttf]☂[/font] pluie cliquable = radar, [font=DejaVuSans.ttf]✈[/font] rafales). [font=DejaVuSans.ttf]◵[/font] = données plus anciennes. Affichage limité à 48h pour la fiabilité | Valeurs journalières en bas : min...max...{sb0}min nocturne{sb1} ({s_sn-} = neige) | 6d: 6 prochains jours dès demain (dépliable)[DF][DF]",
     "txlegende0": "[b]–– Info:[/b][~LF][~LF]La nuit lunaire fonctionne comme notre date, mais avec des nuits : {s_mo-}x·y (p/z) avec x = {quotes|0-}mois{quotes|1-} lunaire de l’année, y = nuit du mois lunaire. {s_mo-}1 est la première pleine lune de l’année de lumière (voir le Nouvel An chinois). Comme les mois lunaires ont des durées différentes, z indique le nombre total de nuits du mois lunaire et p la nuit de pleine lune. La nuit se termine au lever du soleil.[~LF][~LF]La saison de l’année de lumière divise l’année en huit phases d’augmentation et de diminution de la lumière : 1. {solcal_lph|0-} ({solcal_dat0}), 2a. {solcal_lph|1-} ({solcal_dat1}), 2b. {solcal_lph|2-} ({solcal_dat2}), 2c. {solcal_lph|3-} ({solcal_dat3}), 3. {solcal_lph|4-} ({solcal_dat4}), 4a. {solcal_lph|5-} ({solcal_dat5}), 4b. {solcal_lph|6-} ({solcal_dat6}) et 4c. {solcal_lph|7-} ({solcal_dat7}). Forme abrégée : {s_li-}x·y (x = phase, y =[SP]% progression). Les données sont calculées chaque année.[DF][DF][DF]",
-    "buttonsolcal": "Calendrier lumière",
+    "buttonsolcal": "Calendrier lumineux",
     "txradar": "Radar de pluie",
     "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
     "char_consonants": "bcdfghjklmnpqrstvwxyzñÑ",
@@ -253,10 +253,10 @@
     "txanleitung3": "[DF]Ce logiciel est un projet privé et gratuit. Veuillez l’utiliser tel quel. En principe, aucune donnée personnelle n’est collectée ni transmise. Aucune connexion Internet n’est nécessaire pour son fonctionnement. Les détails concernant les fonctions optionnelles (affichage météo, résolution des noms de lieux), les rapports d’erreurs et la vérification des mises à jour se trouvent dans la politique de confidentialité.[DF][DF]",
     "txchangelog": "Quoi de neuf ?",
     "txanleitung4": "[DF]Si vous avez trouvé une erreur, je la corrigerai volontiers. Pour cela, j’ai besoin d’une description indiquant où et quand l’erreur est apparue (éventuellement avec une capture d’écran). Une capture d’écran du journal ci-dessous prise dès que possible après l’apparition de l’erreur est également utile (contact par e-mail : [CONTACTSUPPORT]).[~LF][~LF]Remerciements à : Brandon Rhodes (Skyfield), Rolf, Greg Miller et tous les testeurs. Images : NASA/ SOHO, ESA/ Hubble, NASA/ JPL-Caltech (domaine public). Données météo : Open-Meteo.com (CC BY 4.0), MET Norway (CC BY 4.0). Détails : {quotes|0-}design/ COPYRIGHT.txt{quotes|1-}.[~LF][~LF][font_context=noweb]Pour {txtimecontrol}, vous pouvez télécharger ici des données d’éphémérides supplémentaires (et les supprimer à nouveau : ~17 MB, voir la page précédente). - [/font_context]Je mets gratuitement {txsunclock} à votre disposition et j’espère qu’elle vous plaira. Si vous souhaitez soutenir mon travail, vous trouverez ici mon site web.[DF][DF]",
-    "txephdownld": "Charger éphém.",
+    "txephdownld": "Charger les éphémérides",
     "txloading": "Chargement...",
-    "txephdelete": "SUPPRIMER éphém.",
-    "txpressagain": "CONFIRMER ?",
-    "txkaffee": "Site web",
+    "txephdelete": "SUPPRIMER les éphémérides",
+    "txpressagain": "VRAIMENT supprimer ?",
+    "txkaffee": "Accéder au site web",
     "XXEOF": ""
 }

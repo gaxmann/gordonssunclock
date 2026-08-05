@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.18.22",
-        "updated": "2026-08-03 00:07:31"
+        "version": "1.18.19",
+        "updated": "2026-08-05 21:12:18"
     },
     "txwelcome": "स्वागत",
     "quotes": [
@@ -103,7 +103,7 @@
         "it": "इतालवी",
         "hi": "हिन्दी"
     },
-    "lang_latin": "Hindī",
+    "lang_latin": "",
     "txweathapi": "मौसम",
     "txweathapiarr": {
         "auto": "स्वतः",
@@ -175,7 +175,7 @@
     "txlegende": "[DF][DF]डायल को दो उँगलियों से [b]ज़ूम[/b] किया जा सकता है (या दो बार टैप करके)। ज़ूम किये हुए चित्र को खिसकाना हो तो धीरे करें। तेज़ गति अगले पृष्ठ पर स्वाइप करती है।[font_context=noweb] यदि कभी आपकी सेटिंग लागू न हो, तो नीचे दायें [font=DejaVuSans.ttf]⟳[/font] बटन दबाएँ।[/font_context] [font=DejaVuSans.ttf]⬌[/font] बटन से {txtimecontrol} सक्रिय होता है (अगला पृष्ठ देखें)।[DF][DF]",
     "txdata": "[DF]डेटा",
     "txlocdata": "[DF]स्थान का वर्तमान डेटा³:[DF]",
-    "txobjdata": "{weather_data}– सूर्य¹ –[~LF]समय: {sun_clocktm}[~LF]असमान घंटा: {sun_temptm}[~LF]प्रकाश-दिवस: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]अयनांत: {sun_soli}[~LF]विषुव: {sun_equi}[~LF][~LF]– चंद्रमा² –[~LF]चंद्र-रात्रि: {moon_gordon}[~LF]प्रकाशित: {moon_illum}[~LF]आकार: {moon_sizep} (85-100)[~LF]अमावस्या: {moon_new}[~LF]पूर्णिमा: {moon_full}[font_context=noweb][~LF][~LF]– चमक –[~LF]शुक्र: {venus_magp} (83-100)[~LF]मंगल: {mars_magp} (52-100)[~LF]बृहस्पति: {jupiter_magp} (87-100)[~LF]शनि: {saturn_magp} (77-100)[~LF]बुध: {merkur_magp} (0-100)[/font_context][~LF][~LF]¹ [font_context=noweb]समय: GPS = समकालित | [/font_context]असमान घंटा: दिन का या रात का स्थानीय, असमान घंटा (0.0[NDASH]11.9) {s_td} / {s_tn}। {s_tv} असमान “मिनटों” वाली रात्रि-पहर (0{s_tv-}00[NDASH]3{s_tv-}59) | {lighttime-}: नीचे देखें | प्रकाश-दिवस और अग्निहोत्र: आज उदय[NDASH]अस्त {sb0}कल उदय{sb1}, {s_fr-} = वर्तमान GPS | ² पूर्णिमा और अमावस्या: समय (इतने दिन में/इतने दिन पहले) | चंद्र-रात्रि: नीचे देखें[font_context=noweb] | ³ JPL एपेमेरिस से गणना (पंचांग-स्तर की सटीकता)[/font_context] | ⁴ मौसम: दिन का क्रम ([font=DejaVuSans.ttf]☀[/font] धूप, [font=DejaVuSans.ttf]☂[/font] वर्षा; टैप = रडार, [font=DejaVuSans.ttf]✈[/font] झोंके)। [font=DejaVuSans.ttf]◵[/font] = पुराने डेटा। विश्वसनीयता के कारण प्रदर्शन 48 घंटे तक सीमित | नीचे दैनिक मान: न्यूनतम...अधिकतम...{sb0}रात्रि-न्यूनतम{sb1} ({s_sn-} = हिमपात) | 7d: कल से साप्ताहिक पूर्वानुमान (खोलने योग्य)[DF][DF]",
+    "txobjdata": "{weather_data}– सूर्य¹ –[~LF]समय: {sun_clocktm}[~LF]असमान घंटा: {sun_temptm}[~LF]प्रकाश-दिवस: {sun_daylight}{sun_lighttime}{sun_agnicountdown}{sun_agnihotra}[~LF]अयनांत: {sun_soli}[~LF]विषुव: {sun_equi}[~LF][~LF]– चंद्रमा² –[~LF]चंद्र-रात्रि: {moon_gordon}[~LF]प्रकाशित: {moon_illum}[~LF]आकार: {moon_sizep} (85-100)[~LF]अमावस्या: {moon_new}[~LF]पूर्णिमा: {moon_full}[font_context=noweb][~LF][~LF]– चमक –[~LF]शुक्र: {venus_magp} (83-100)[~LF]मंगल: {mars_magp} (52-100)[~LF]बृहस्पति: {jupiter_magp} (87-100)[~LF]शनि: {saturn_magp} (77-100)[~LF]बुध: {merkur_magp} (0-100)[/font_context][~LF][~LF]¹ [font_context=noweb]समय: GPS = समकालित | [/font_context]असमान घंटा: दिन का या रात का स्थानीय, असमान घंटा (0.0[NDASH]11.9) {s_td} / {s_tn}। {s_tv} असमान “मिनटों” वाली रात्रि-पहर (0{s_tv-}00[NDASH]3{s_tv-}59) | {lighttime-}: नीचे देखें | प्रकाश-दिवस और अग्निहोत्र: आज उदय[NDASH]अस्त {sb0}कल उदय{sb1}, {s_fr-} = वर्तमान GPS | ² पूर्णिमा और अमावस्या: समय (इतने दिन में/इतने दिन पहले) | चंद्र-रात्रि: नीचे देखें[font_context=noweb] | ³ JPL एपेमेरिस से गणना (पंचांग-स्तर की सटीकता)[/font_context] | ⁴ मौसम: दिन का क्रम ([font=DejaVuSans.ttf]☀[/font] धूप, [font=DejaVuSans.ttf]☂[/font] वर्षा; टैप = रडार, [font=DejaVuSans.ttf]✈[/font] झोंके)। [font=DejaVuSans.ttf]◵[/font] = पुराने डेटा। विश्वसनीयता के कारण प्रदर्शन 48 घंटे तक सीमित | नीचे दैनिक मान: न्यूनतम...अधिकतम...{sb0}रात्रि-न्यूनतम{sb1} ({s_sn-} = हिमपात) | 6d: कल से अगले 6 दिन (खोलने योग्य)[DF][DF]",
     "txlegende0": "[b]–– जानकारी:[/b][~LF][~LF]चंद्र-रात्रि हमारे दिनांक की तरह काम करती है, पर दिनों के स्थान पर रातों से: {s_mo-}x·y (p/z), जहाँ x = वर्ष का चंद्र{quotes|0-}मास{quotes|1-} और y = उस चंद्रमास की रात। {s_mo-}1 प्रकाश-वर्ष की पहली पूर्णिमा है (चीनी नववर्ष देखें)। चंद्रमासों की लम्बाई अलग-अलग होती है, इसलिए z उस चंद्रमास की कुल रातें और p पूर्णिमा की रात बताता है। रात सूर्योदय पर समाप्त होती है।[~LF][~LF]वार्षिक प्रकाश-ऋतु वर्ष को बढ़ते और घटते प्रकाश की आठ अवस्थाओं में बाँटती है: 1. {solcal_lph|0-} ({solcal_dat0}), 2a. {solcal_lph|1-} ({solcal_dat1}), 2b. {solcal_lph|2-} ({solcal_dat2}), 2c. {solcal_lph|3-} ({solcal_dat3}), 3. {solcal_lph|4-} ({solcal_dat4}), 4a. {solcal_lph|5-} ({solcal_dat5}), 4b. {solcal_lph|6-} ({solcal_dat6}) और 4c. {solcal_lph|7-} ({solcal_dat7})। संक्षिप्त रूप: {s_li-}x·y (x = अवस्था, y =[SP]% प्रगति)। डेटा की गणना हर वर्ष की जाती है।[DF][DF][DF]",
     "buttonsolcal": "प्रकाश-पंचांग",
     "txradar": "वर्षा रडार",
