@@ -6,10 +6,10 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 ---
 
 ## [3.4] - 2026-08-xx (Weather Analysis)
-- New weather view with concise near-term weather analysis and expandable 9-day outlook. Planets now also with glow, bug fixes
+- New weather view with concise near-term weather analysis and expandable 9-day outlook. Planets now also with glow
 
 ## [3.3] - 2026-07-26 (Realistic stars)
-- Stars are now rendered more realistically (B-V based colours, magnitude-scaled cores), 12 more stars added ✨, finer weather, bug fixes
+- Stars are now rendered more realistically (B-V based colours, magnitude-scaled cores), 12 more stars added ✨, finer weather
 - There is now also a [web version](https://astronomicalclock.eu/) of this clock
 
 ## [3.2] - 2026-06-03 (Graphical rise/set)
@@ -33,7 +33,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 - Drama-free weather view (refraction uses daily temperature), rain radar _#2.67 2026-02-02_
 - Major performance update ⚡, auto-translations (Português, Türkçe, Italiano), many bug fixes
 <!--## [2.69] - 2026-02-25 (Core optimisation)
-- Improved weather visualisation, rain radar, major performance update, auto-translated languages, bug fixes
+- Improved weather visualisation, rain radar, major performance update, auto-translated languages
 
 ## [2.67] - 2026-02-02 (Weather overview)
 - Optional drama-free weather view with a clear icon-based daily outlook, rain radar
@@ -42,7 +42,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 ## [2.65] - 2025-12-16 (Light seasons)
 
 - Displays (eight) light seasons, solstice, equinox and the moon date ([more info](https://github.com/gaxmann/gordonssunclock/wiki/Light-Calendar))
-- GPS time sync (for exact Agnihotra), more realistic moon, Русский added, bug fixes _#2.64 2025-11-18_
+- GPS time sync (for exact Agnihotra), more realistic moon, Русский added _#2.64 2025-11-18_
 
 ## [2.63] - 2025-11-07 (Temporal hours)
 
@@ -55,29 +55,29 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 <!--## [2.42] - 2025-08-29 (Update prompt) 
 
 - Clickable "Update available" message (dial) for devices running 24/7
-- Planetary data size reduced, improved moon border, bug fixes  
+- Planetary data size reduced, improved moon border  
 ## [2.39] - 2025-08-10 (Smaller database) 
 
-- Planetary data size reduced, improved moon, bug fixes--> 
+- Planetary data size reduced, improved moon--> 
   
 ## [2.35] - 2025-07-30 (Atmospheric refraction)
 
 - Atmospheric refraction (altitude & temperature support) _#2.33 2025-07-22_
-- Zoom resolution doubled, bug fixes
+- Zoom resolution doubled
 <!--## [2.33] - 2025-07-22 (Atmospheric refraction)
 
-- Atmospheric refraction (altitude & temperature support), bug fixes-->
+- Atmospheric refraction (altitude & temperature support)-->
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
-- Agnihotra time display, zoomable dial, 中文 added, bug fixes (time zone change)
+- Agnihotra time display, zoomable dial, 中文 added (time zone change)
 <!--## [2.21] - 2025-07-04 (Chinese language)
 
-- 中文, api 35 upgrade (Android 15+ bar issue till 2.54), bug fixes (unknown lang)-->
+- 中文, api 35 upgrade (Android 15+ bar issue till 2.54) (unknown lang)-->
 
 ## [2.18] - 2025-06-29 (Telescope design)
 
-- Telescope design with true-colour images, Français added, bug fixes
+- Telescope design with true-colour images, Français added
 
 ## [2.15] - 2025-06-24 (Initial release)
 
