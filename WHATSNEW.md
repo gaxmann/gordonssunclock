@@ -6,10 +6,10 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 ---
 
 ## [3.4] - 2026-08-xx (Weather Analysis)
-- New weather view with concise near-term weather analysis and expandable 9-day outlook. Planets now also with glow
+- New weather view with concise near-term weather analysis and expandable 9-day outlook. Planets now also with glow, bug fixes
 
 ## [3.3] - 2026-07-26 (Realistic stars)
-- Stars are now rendered more realistically (B-V based colours, magnitude-scaled cores), 12 more stars added ✨, finer weather
+- Stars are now rendered more realistically (B-V based colours, magnitude-scaled cores), 12 more stars added ✨, finer weather, bug fixes
 - There is now also a [web version](https://astronomicalclock.eu/) of this clock
 
 ## [3.2] - 2026-06-03 (Graphical rise/set)
