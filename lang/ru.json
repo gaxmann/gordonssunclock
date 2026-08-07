@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.18.25",
-        "updated": "2026-08-06 23:01:35"
+        "version": "1.18.26",
+        "updated": "2026-08-07 19:47:34"
     },
     "txwelcome": "Добро пожаловать",
     "quotes": [
@@ -118,6 +118,15 @@
     "txd0": "Сегодня",
     "txd1": "Завтра",
     "txd2": "Послезав",
+    "txd3": "через 3 дня",
+    "txweathermorning": "рано утром",
+    "txweatherday": "днём",
+    "txweatherwarmer": "теплее",
+    "txweathercolder": "холоднее",
+    "txweathersteadynow": "Сейчас погода стабильна",
+    "txweatherfairlysteady": "Довольно стабильная погода",
+    "txweatheralready": "теперь",
+    "txweathervariable": "Переменчивая погода",
     "txfullscr": "Всегда включено",
     "txnachtmodus": "Тёмный режим",
     "txnachtmodusarr": {
