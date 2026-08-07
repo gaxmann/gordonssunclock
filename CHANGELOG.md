@@ -3,20 +3,21 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.3.5] - 2026-07-xx (9d weather preview)
+## [3.4.0] - 2026-07-xx (Weather Analysis)
 
 ### Added
+- Instead of the 7d weather range data: new concise near-term Weather Analysis, bringing the 2016 "Weather Clock" concept into Sun Clock plus collapsible 9-day weather outlook with minimum and maximum temperature graph 
 - Telescope design: new representation of meteor radiants
 - Improved visual detection of shooting stars (considering meteor strength and moon position and illumination) resulting in correct colouring of search area
 - Português and Italiano added to official language, because of problems with autotr
---> todo: 9d diagramm added and weather analysis from wetteruhr2016
+- Planets now glow at night (like stars)
 
 ### Fixed
 - Openmet: precip now correctly is precip instead of rain
 - 7d weather is now 6d weather. It now shows separate snowfall
 - Star cores are now 10% smaller (too big on Tablets) 
 
-## [3.3.4] - 2026-07-29 (6d weather preview) 
+## [3.3.4] - 2026-07-29 (7d weather preview) 
 
 ### Added
 - Weather 7-day trend preview with temperature ranges and rain and wind indicators in one line
