@@ -3,7 +3,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.4.0] - 2026-07-xx (Weather Analysis)
+## [3.4.0] - 2026-08-08 (Weather Analysis)
 
 ### Added
 - Instead of the 7d weather range data: new concise near-term Weather Analysis, bringing the 2016 "Weather Clock" concept into Sun Clock plus collapsible 9-day weather outlook with minimum and maximum temperature graph 
