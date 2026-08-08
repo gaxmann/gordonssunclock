@@ -3,6 +3,12 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
+## [3.4.1] - 2026-08-xx
+
+### Added
+### Fixed
+- Dictionary changed during iteration
+
 ## [3.4.0] - 2026-08-08 (Weather Analysis)
 
 ### Added
