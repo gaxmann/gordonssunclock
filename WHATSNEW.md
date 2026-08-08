@@ -5,7 +5,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 
-## [3.4] - 2026-08-xx (Weather Analysis)
+## [3.4] - 2026-08-08 (Weather Analysis)
 - New weather view with concise near-term weather analysis and expandable 9-day outlook
 
 ## [3.3] - 2026-07-26 (Realistic stars)
