@@ -6,6 +6,8 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [3.4.1] - 2026-08-xx
 
 ### Added
+- Weather diagrams on larger devices are now higher (up to 1.5)
+
 ### Fixed
 - Dictionary changed during iteration
 
