@@ -1,4 +1,4 @@
-# Gordon's Sun Clock – Natural Time ☀️
+# Gordon's Sun Clock – Natural Time since 2019 ☀️
 
 <img src="res/icon.png" width="48" height="48" align="left">**A single-hand clock with a dial that changes daily, based on the rhythms of nature and the stars. It shows the position of the sun and the starry sky – a new way of displaying time that moves in harmony with the seasons**
 
