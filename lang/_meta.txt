@@ -1,6 +1,7 @@
 {
     "version": "1.18.27",
     "official_langs": {
+        "ar": "Al-Arabiyya",
         "de": "Deutsch",
         "en": "English",
         "es": "Español",
