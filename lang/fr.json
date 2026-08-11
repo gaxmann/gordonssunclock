@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.18.26",
-        "updated": "2026-08-07 19:47:34"
+        "version": "1.18.27",
+        "updated": "2026-08-11 11:33:57"
     },
     "txwelcome": "Bienvenue",
     "quotes": [
@@ -94,14 +94,15 @@
     "txlang": "Idioma",
     "txlangarr": {
         "auto": "automatique",
+        "ar": "Arabe",
         "de": "Allemand",
         "en": "Anglais",
         "es": "Espagnol",
         "fr": "Français",
+        "hi": "Hindi",
         "it": "Italien",
-        "zh": "Chinois",
         "pt": "Portugais",
-        "hi": "Hindi"
+        "zh": "Chinois"
     },
     "lang_latin": "",
     "txweathapi": "Météo",

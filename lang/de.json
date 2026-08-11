@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.18.26",
-        "updated": "2026-08-07 19:47:34"
+        "version": "1.18.27",
+        "updated": "2026-08-11 11:33:57"
     },
     "txwelcome": "Willkommen",
     "quotes": [
@@ -93,15 +93,16 @@
     "txlang": "Sprache",
     "txlangarr": {
         "auto": "automatisch",
+        "ar": "Arabisch",
         "de": "Deutsch",
         "en": "Englisch",
         "es": "Spanisch",
         "fr": "Französisch",
-        "ru": "Russisch",
-        "zh": "Chinesisch",
-        "pt": "Portugiesisch",
+        "hi": "Hindi",
         "it": "Italienisch",
-        "hi": "Hindi"
+        "pt": "Portugiesisch",
+        "ru": "Russisch",
+        "zh": "Chinesisch"
     },
     "lang_latin": "",
     "txweathapi": "Wetter",
