@@ -3,15 +3,16 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.4.1] - 2026-08-xx
+## [3.4.1-public] - 2026-08-12
 
 ### Added
 - Weather diagrams on larger devices are now higher (up to 1.5)
 
 ### Fixed
 - Dictionary changed during iteration
+- Diagram lines didn't scale with screen
 
-## [3.4.0] - 2026-08-08 (Weather Analysis)
+## [3.4.0-public] - 2026-08-08 (Weather Analysis)
 
 ### Added
 - Instead of the 7d weather range data: new concise near-term Weather Analysis, bringing the 2016 "Weather Clock" concept into Sun Clock plus collapsible 9-day weather outlook with minimum and maximum temperature graph 
@@ -25,7 +26,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - 7d weather is now 6d weather. It now shows separate snowfall
 - Star cores are now 10% smaller (too big on Tablets) 
 
-## [3.3.4] - 2026-07-29 (7d weather preview) 
+## [3.3.4-public] - 2026-07-29 (7d weather preview) 
 
 ### Added
 - Weather 7-day trend preview with temperature ranges and rain and wind indicators in one line
@@ -37,7 +38,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Fixed
 - On datapage time now stops in time control mode
 
-## [3.3.3] - 2026-07-26 (Finer weather)
+## [3.3.3-public] - 2026-07-26 (Finer weather)
 
 ### Added
 - Weather diagramm now displays hourly data instead of every 3 hours. It also now uses continuous scaling and adjusted min/max handling
