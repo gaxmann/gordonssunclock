@@ -14,7 +14,7 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 
 ## Download
 
-_Two Android versions are available: the light APK is only ~2 MB and provides minute-level accuracy. The JPL APK uses JPL ephemerides for sub-second accuracy, but is much larger (~80 MB) and slower on startup. For normal everyday use, the light version is sufficient._
+Two Android versions are available: the light APK is only ~2 MB and provides minute-level accuracy. The JPL APK uses JPL ephemerides for sub-second accuracy, but is much larger (~80 MB) and slower on startup. For normal everyday use, the light version is sufficient.
 
 - **[Play Store](https://play.google.com/store/apps/details?id=de.ax12.zunclock)** (with automatic updates)
 - **_Aurora store_** (with automatic updates - search for "Sun Clock Gordon's", since direct linking is not available)
