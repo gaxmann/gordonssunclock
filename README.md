@@ -12,6 +12,17 @@ _**Reconnect to your local, natural time**_
 
 The app is free, shows no ads, and is privacy-friendly. It's simply a gift from me to the world. For more visual impressions and a detailed description, check out the Play Store page.
 
+---
+
+<p float="left">
+  <img src="_gitdesign/sunclock2604.png" width="250" />
+  <img src="_gitdesign/tablet.jpg" width="250" />
+  <!-- <img src="_gitdesign/screen_3b.png" width="250" /> -->
+  <!-- <img src="_gitdesign/eink.jpg" width="250" /> -->
+</p>
+
+---
+
 ## Download
 
 Two Android versions are available: the light APK is only ~2 MB and provides minute-level accuracy. The JPL APK uses JPL ephemerides for sub-second accuracy, but is much larger (~80 MB) and slower on startup. For normal everyday use, the light version is sufficient.
@@ -53,15 +64,6 @@ Two Android versions are available: the light APK is only ~2 MB and provides min
 I've been living with this clock for seven years (since 2019), and it has taught me a lot. It helps reconnect with natural rhythms – not just daily, but seasonally. It's also fascinating **for children** to understand the movements of the stars intuitively.
 
 Since June 2025 Sun Clock is available as an Android app. Since June 2026 there also is a [web version](https://astronomicalclock.eu/) that runs on all devices. The app is also known as: astronomical clock, astronomy app, horologium, horologion, orloj, astrolabe, star clock, sky clock, single-hand clock, solar clock, temporal hour clock. Alternative short domain: [sky12.de](https://sky12.de)
-
----
-
-<p float="left">
-  <img src="_gitdesign/sunclock2604.png" width="250" />
-  <img src="_gitdesign/tablet.jpg" width="250" />
-  <!-- <img src="_gitdesign/screen_3b.png" width="250" /> -->
-  <!-- <img src="_gitdesign/eink.jpg" width="250" /> -->
-</p>
 
 ---
 
