@@ -1,0 +1,35 @@
+Proprietary License
+
+Copyright (c) 2026 Gordon Axmann
+All rights reserved.
+
+This repository contains the Gordon's Sun Clock / Astronomical Sun Clock 
+Android application.
+
+Unless explicitly stated otherwise, the original application code,
+project-specific documentation, and original project assets are proprietary.
+
+No permission is granted to use, copy, modify, merge, publish, distribute,
+sublicense, sell, host, or create derivative works from this software or its
+project-specific assets without prior written permission from the copyright
+holder. For licensing inquiries, please contact the author via the email
+address listed within the application.
+
+Third-party components, fonts, icons, libraries, data sources, and other
+external materials remain subject to their respective licenses and
+attribution requirements. Those components are documented in the relevant
+license files, including design/COPYRIGHT.txt and license files inside
+vendor/.
+
+Making this repository publicly visible does not grant any license beyond
+the rights required to view it on the hosting platform.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
+This license is governed by the laws of Germany.
