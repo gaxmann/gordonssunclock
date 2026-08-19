@@ -40,7 +40,7 @@ Two Android versions are available: the light APK is only ~2 MB and provides min
 
     - However, if you want to experience it as a wall clock (which is arguably its most enjoyable use) a used Android tablet is the best solution → from $50 (Android 7 is sufficient, arm64-v8a advised; e.g. Huawei MediaPad M5 (Lite) 10, Samsung Galaxy Tab A7, Lenovo Tab P11, HONOR Pad 8, Huawei MatePad SE 11. Or an armeabi-v7a like: Samsung Tab A SM-T510/515)
 
-  - The web version is also available as a separate light and fast **[Android app](https://github.com/gaxmann/gordonssunclock/wiki/Web-app)**, currently in closed Google Play testing.
+  - The web version is also available as a separate light and fast **[Android app](https://github.com/gaxmann/astronomicalclock)**, currently in closed Google Play testing.
 
 ## Features
 
