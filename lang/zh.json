@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.18.29",
-        "updated": "2026-08-18 11:24:47"
+        "version": "1.19.1",
+        "updated": "2026-08-21 15:41:43"
     },
     "txwelcome": "欢迎",
     "quotes": [
@@ -132,12 +132,15 @@
     "txd3": "3天后",
     "txweathermorning": "清晨",
     "txweatherday": "白天",
-    "txweatherwarmer": "更暖",
-    "txweathercolder": "更冷",
+    "txweatherwarmer": "更高",
+    "txweathercolder": "更低",
     "txweathersteadynow": "当前天气稳定",
     "txweatherfairlysteady": "天气较稳定",
-    "txweatheralready": "现在",
+    "txweatheralready": "已经",
     "txweathervariable": "天气多变",
+    "txweatherdaylabel": "[day]（[weekday]）",
+    "txweathertemperatureevent": "[when]，[period]气温[direction]：[delta]",
+    "txweathertemperatureunderway": "[when]，[period]气温[already][direction]：[delta]",
     "txfullscr": "始终开启模式",
     "txnachtmodus": "黑暗模式",
     "txnachtmodusarr": {

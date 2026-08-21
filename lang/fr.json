@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.18.29",
-        "updated": "2026-08-18 11:24:47"
+        "version": "1.19.1",
+        "updated": "2026-08-21 15:41:43"
     },
     "txwelcome": "Bienvenue",
     "quotes": [
@@ -116,7 +116,7 @@
     "txnow": "Maintenant",
     "txd0": "Auj.",
     "txd1": "Demain",
-    "txd2": "Après-dem",
+    "txd2": "Après-demain",
     "txd3": "dans 3 jours",
     "txweathermorning": "au petit matin",
     "txweatherday": "en journée",
@@ -124,8 +124,11 @@
     "txweathercolder": "plus froid",
     "txweathersteadynow": "Temps stable actuellement",
     "txweatherfairlysteady": "Temps assez stable",
-    "txweatheralready": "désormais",
+    "txweatheralready": "déjà",
     "txweathervariable": "Temps variable",
+    "txweatherdaylabel": "[day] ([weekday])",
+    "txweathertemperatureevent": "[when], [delta] [direction] [period]",
+    "txweathertemperatureunderway": "[when], [already] [delta] [direction] [period]",
     "txfullscr": "Mode toujours actif",
     "txnachtmodus": "Mode sombre",
     "txnachtmodusarr": {

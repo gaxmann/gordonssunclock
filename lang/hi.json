@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.18.29",
-        "updated": "2026-08-18 11:24:47"
+        "version": "1.19.1",
+        "updated": "2026-08-21 15:41:43"
     },
     "txwelcome": "स्वागत",
     "quotes": [
@@ -117,15 +117,18 @@
     "txd0": "आज",
     "txd1": "कल",
     "txd2": "परसों",
-    "txd3": "3 दिन में",
+    "txd3": "3 दिन बाद",
     "txweathermorning": "तड़के",
     "txweatherday": "दिन में",
     "txweatherwarmer": "ज़्यादा गर्म",
     "txweathercolder": "ज़्यादा ठंडा",
     "txweathersteadynow": "अभी मौसम स्थिर है",
     "txweatherfairlysteady": "मौसम काफ़ी स्थिर है",
-    "txweatheralready": "अब",
+    "txweatheralready": "पहले ही",
     "txweathervariable": "बदलता मौसम",
+    "txweatherdaylabel": "[day] ([weekday])",
+    "txweathertemperatureevent": "[when], [period] [delta] [direction]",
+    "txweathertemperatureunderway": "[when], [period] [already] [delta] [direction]",
     "txfullscr": "दीवार-घड़ी मोड",
     "txnachtmodus": "गहरा मोड",
     "txnachtmodusarr": {

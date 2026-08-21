@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.18.29",
-        "updated": "2026-08-18 11:24:47"
+        "version": "1.19.1",
+        "updated": "2026-08-21 15:41:43"
     },
     "txwelcome": "مرحبًا",
     "quotes": [
@@ -118,14 +118,17 @@
     "txd1": "غدًا",
     "txd2": "بعد غد",
     "txd3": "بعد 3 أيام",
-    "txweathermorning": "في الفجر",
+    "txweathermorning": "في الصباح الباكر",
     "txweatherday": "نهارًا",
     "txweatherwarmer": "أدفأ",
     "txweathercolder": "أبرد",
     "txweathersteadynow": "الطقس مستقر حاليًا",
     "txweatherfairlysteady": "الطقس مستقر نسبيًا",
-    "txweatheralready": "أصبح",
+    "txweatheralready": "بالفعل",
     "txweathervariable": "طقس متقلب",
+    "txweatherdaylabel": "[day] ([weekday])",
+    "txweathertemperatureevent": "[when]، [period] [direction] بـ[delta]",
+    "txweathertemperatureunderway": "[when]، [period] [already] [direction] بـ[delta]",
     "txfullscr": "وضع ساعة الحائط",
     "txnachtmodus": "الوضع الداكن",
     "txnachtmodusarr": {

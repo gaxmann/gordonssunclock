@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.18.29",
-        "updated": "2026-08-18 11:24:47"
+        "version": "1.19.1",
+        "updated": "2026-08-21 15:41:43"
     },
     "txwelcome": "Willkommen",
     "quotes": [
@@ -126,6 +126,9 @@
     "txweatherfairlysteady": "Recht stabile Witterung",
     "txweatheralready": "mittlerweile",
     "txweathervariable": "Wechselhafte Witterung",
+    "txweatherdaylabel": "[day] ([weekday])",
+    "txweathertemperatureevent": "[when] [period] [delta] [direction]",
+    "txweathertemperatureunderway": "[when] [period] [already] [delta] [direction]",
     "txfullscr": "Wanduhr-Modus",
     "txnachtmodus": "Dunkelmodus",
     "txnachtmodusarr": {

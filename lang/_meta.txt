@@ -1,5 +1,5 @@
 {
-    "version": "1.18.29",
+    "version": "1.19.1",
     "official_langs": {
         "ar": "Al-Arabiyya",
         "de": "Deutsch",
