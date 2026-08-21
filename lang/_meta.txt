@@ -1,15 +1,18 @@
 {
-    "version": "1.19.1",
+    "version": "1.19.2",
     "official_langs": {
         "ar": "Al-Arabiyya",
+        "cs": "Čeština",
         "de": "Deutsch",
         "en": "English",
         "es": "Español",
         "fr": "Français",
         "hi": "Hindī",
+        "hu": "Magyar",
         "it": "Italiano",
         "pt": "Português",
         "ru": "Русский",
+        "tr": "Türkçe",
         "zh": "Zhongwen"
     },
     "alphamark": " (α)",

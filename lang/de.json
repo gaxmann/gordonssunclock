@@ -1,7 +1,7 @@
 {
     "_meta": {
-        "version": "1.19.1",
-        "updated": "2026-08-21 15:41:43"
+        "version": "1.19.2",
+        "updated": "2026-08-21 21:32:49"
     },
     "txwelcome": "Willkommen",
     "quotes": [
@@ -94,14 +94,17 @@
     "txlangarr": {
         "auto": "automatisch",
         "ar": "Arabisch",
+        "cs": "Tschechisch",
         "de": "Deutsch",
         "en": "Englisch",
         "es": "Spanisch",
         "fr": "Französisch",
         "hi": "Hindi",
+        "hu": "Ungarisch",
         "it": "Italienisch",
         "pt": "Portugiesisch",
         "ru": "Russisch",
+        "tr": "Türkisch",
         "zh": "Chinesisch"
     },
     "lang_latin": "",
