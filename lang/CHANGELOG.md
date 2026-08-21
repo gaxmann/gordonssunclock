@@ -2,6 +2,9 @@
 
 Keys that have been added, changed, or removed are listed here, as well as structural changes and language files that were added or removed, or whose support status changed.
 
+## [L1.19] - 2026-08-21
+- **Added:** txd3, txweathermorning, txweatherday, txweatherwarmer, txweathercolder, txweathersteadynow, txweatherfairlysteady, txweatheralready, txweathervariable, txweatherdaylabel, txweathertemperatureevent, txweathertemperatureunderway
+
 ## [L1.18] - 2026-06-02
 - **Added:** txrealsunrise
 
