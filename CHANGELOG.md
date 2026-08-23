@@ -6,7 +6,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [3.4.2] - 2026-08-xx
 
 ### Fixed
-- Solar calendar now has corrected month lengths (29–31–31 | 31–32–31 | 31–31–30 | 29–30–29/30) to better fit the condition: astronomical fix point 16th or 17th and light season start on 1st or last day of the month
+- Solcal now has corrected month lengths (29–31–31 | 31–32–31 | 31–31–30 | 29–30–29/30) to better fit the condition: astronomical fix point 16th or 17th and light season start on 1st or last day of the month
 
 ## [3.4.1-public] - 2026-08-12
 
