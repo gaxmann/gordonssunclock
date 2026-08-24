@@ -5,7 +5,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 
-## [3.5] - 2026-08-xx (Sky colours)
+## [3.5] - 2026-08-xx (Dynamic sky)
 - Sky now changes with sun rise/set. Sun now glows at day. Better zoom, faster dial rendering
 - 7-day weather history, Türkçe, Čeština, Magyar added
 
