@@ -3,10 +3,20 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.4.2] - 2026-08-xx
+## [3.4.2] - 2026-08-xx (Colourful Sky)
+
+### Added
+- Telescope design: colourful sky during dawn and dusk in automatic mode
+- 9-day weather diagram can now switch between outlook and recent weather history (d−7 … d+1)
+- Precipitation diagrams now show the unweighted precipitation amount as an outline in addition to the probability-weighted amount
+- Numpad `+` toggles the 9-day weather diagram; Numpad `-` switches between outlook and history
 
 ### Fixed
 - Solcal now has the correct month lengths (29–31–31 | 31–32–31 | 31–31–30 | 29–30–29/30) to better fit the condition: astronomical fix point on 16th or 17th and light season start on 1st or last day of the month
+- Weather diagrams now use the weather icon font instead of standard emoji symbols
+- Weather Analysis now uses the language-specific sentence templates
+- Weather freshness marker is now shown only when both short-term and daily weather data are fresh
+- Automatic long dark-mode threshold now follows `sunrisedeg`
 
 ## [3.4.1-public] - 2026-08-12
 
