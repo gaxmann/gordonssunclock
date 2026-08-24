@@ -3,17 +3,21 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.4.2] - 2026-08-xx (Colourful Sky)
+## [3.4.2] - 2026-08-xx (Sky colours)
 
 ### Added
-- Telescope design: colourful sky during dawn and dusk in automatic mode
+- Telescope design: sky colours during dawn and dusk in automatic mode
 - 9-day weather diagram can now switch between outlook and recent weather history (d−7 … d+1)
 - Precipitation diagrams now show the unweighted precipitation amount as an outline in addition to the probability-weighted amount
+- Normal clock rendering now uses 1× resolution, substantially reducing memory usage. When zooming only the visible clock area is re-rendered at the actual zoom factor after zooming or panning. Maximum manual zoom increased to 16×
 - Numpad `+` toggles the 9-day weather diagram; Numpad `-` switches between outlook and history
+
+### Changed
+- Weather diagrams now use the weather icon font instead of standard emoji symbols
+- Auto translate function removed. We now have 13 languages: Türkçe (tr), Čeština (cs), Magyar (hu) added. All php auto translate functionality removed; there are not enough changes anymore to justify it. Replacements raw to ready integrated into JS (incl. hyphenation)
 
 ### Fixed
 - Solcal now has the correct month lengths (29–31–31 | 31–32–31 | 31–31–30 | 29–30–29/30) to better fit the condition: astronomical fix point on 16th or 17th and light season start on 1st or last day of the month
-- Weather diagrams now use the weather icon font instead of standard emoji symbols
 - Weather Analysis now uses the language-specific sentence templates
 - Weather freshness marker is now shown only when both short-term and daily weather data are fresh
 - Automatic long dark-mode threshold now follows `sunrisedeg`
