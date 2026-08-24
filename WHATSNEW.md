@@ -5,6 +5,9 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 
+## [3.5] - 2026-08-08 (Sky colours)
+- Sky now changes with sun rise/set. Sun now glows at day
+
 ## [3.4] - 2026-08-08 (Weather Analysis)
 - New weather view with concise near-term weather analysis and expandable 9-day outlook
 
