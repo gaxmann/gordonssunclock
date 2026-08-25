@@ -56,7 +56,7 @@ Two Android versions are available: the light APK is only ~2 MB and provides min
 - **Agnihotra support**: Display precise Agnihotra times with countdown
 - **Sun-based alarms**: Set easy one-off alarms for sunrise, sunset, and Agnihotra times
 - **Tablet mode**: Hang on your wall as a living clock<!-- - **Accurate solar geometry worldwide**: From equator to poles-->
-- **Multi-language**: Deutsch, English, Español, Français, Русский, 中文, Português, Italiano plus some autotranslated languages
+- **Multi-language**: English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), Português (pt), Italiano (it), 中文 (zh), Türkçe (tr), Čeština (cs), Magyar (hu) 
 - **Free & private**: Free of charge, no ads, privacy-friendly
 
 ## About
