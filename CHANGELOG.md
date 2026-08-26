@@ -3,7 +3,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.5.0] - 2026-08-xx (Sky colours)
+## [3.5.0-public] - 2026-08-26 (Sky colours)
 
 ### Added
 - Telescope design: sky colours during dawn and dusk in automatic mode
