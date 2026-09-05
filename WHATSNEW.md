@@ -6,14 +6,14 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 ---
 
 ## [3.5] - 2026-08-26 (Sky Colours)
-- Sky now changes with sun rise/set. Sun now glows at day. Better zoom, less memory usage ⚡
+- Sky now changes with sun rise/set, Sun glows at day. Better zoom, less memory usage ⚡
 - 7-day weather history, Türkçe, Čeština, Magyar added
 
 ## [3.4] - 2026-08-08 (Long-term weather)
 - Concise text-based weather summary, expandable to 9-day outlook or 7-day history
 
 ## [3.3] - 2026-07-26 (Realistic stars)
-- Stars are now rendered more realistically (B-V based colours, magnitude-scaled cores), 12 more stars added ✨, graphical rise/set
+- Stars are now rendered more realistically (B-V based colours, magnitude-scaled cores), 12 more stars ✨, graphical rise/set
 - There is now also a [web version](https://astronomicalclock.eu/) of this clock
 <!--
 ## [3.2] - 2026-06-03 (Graphical rise/set)
