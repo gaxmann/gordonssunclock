@@ -14,7 +14,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Telescope design: sky colours during dawn and dusk in automatic mode
 - 9-day weather diagram can now switch between outlook and recent weather history (d−7...d+1)
 - Precipitation diagrams now show the unweighted precipitation amount as an outline in addition to the probability-weighted amount
-- Normal dial rendering now uses 1× resolution, substantially reducing memory usage. When zooming only the visible clock area is re-rendered at the actual zoom factor after zooming or panning. Maximum manual zoom increased to 16×
+- Normal dial rendering now uses 1× resolution, substantially reducing memory usage. 🔥 When zooming only the visible clock area is re-rendered at the actual zoom factor after zooming or panning. Maximum manual zoom increased to 16×
 - Auto translate function removed. We now have 13 languages: Türkçe (tr), Čeština (cs), Magyar (hu) added. All php auto translate functionality removed; there are not enough changes anymore to justify it. Replacements raw to ready integrated into JS (incl. hyphenation)
 - Numpad `+` toggles the 9-day weather diagram; Numpad `-` switches between outlook and history
 
