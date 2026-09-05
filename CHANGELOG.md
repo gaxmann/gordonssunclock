@@ -3,6 +3,11 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
+## [3.5.1] - 2026-09-xx
+
+### Added
+- Option to show temporal night hours instead of night watches on dial
+
 ## [3.5.0-public] - 2026-08-26 (Sky colours)
 
 ### Added
