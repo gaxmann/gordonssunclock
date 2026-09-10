@@ -3,11 +3,11 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.5.1] - 2026-09-xx
+## [3.5.1] - 2026-09-xx (Anti-sun colouring)
 
 ### Added
-- Option to show temporal night hours instead of night watches on dial 
-* Sky: adjusted sun/anti-sun colouring
+* Sky: new anti-sun colouring for more realism
+* Option to show temporal night hours instead of night watches on dial 
 * Weather chart: rolling 48-hour window 
 * Weather details: hourly temperature and 9-day daily data available by tap/click
 * Rainw "+" marker if there is quite a lot more rain possible
