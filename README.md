@@ -124,7 +124,7 @@ This project is proprietary (which may change in the future). See `design/COPYRI
 ## Like it?
 
 If you enjoy Sun Clock, please consider:
-- Share it with others – Short link: **sky12.de**
+- Share it with others – Short link: **sky12.de** – (_.de_ for Germany)
 - Leaving a positive review on [Play Store](https://play.google.com/store/apps/details?id=de.ax12.zunclock) 
 - Reading what others say on the [Voices on Sun Clock](https://github.com/gaxmann/gordonssunclock/wiki/Voices-on-Sun-Clock) wiki page
 
