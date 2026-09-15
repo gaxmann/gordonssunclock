@@ -11,6 +11,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 * Weather chart: rolling 48-hour window 
 * Weather details: hourly temperature and 9-day daily data available by tap/click
 * Rainw "+" marker if there is quite a lot more rain possible
+- On page 1 gpscode is now also shown together with a fresh-sign if applicable
 
 ## [3.5.0-public] - 2026-08-26 (Sky colours) 🔥
 
