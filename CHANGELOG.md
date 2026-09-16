@@ -3,7 +3,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.5.1] - 2026-09-xx (Anti-sun colouring)
+## [3.5.1-public] - 2026-09-16 (Anti-sun colouring)
 
 ### Added
 - Sky: new anti-sun colouring for more realism
