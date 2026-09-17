@@ -27,7 +27,7 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 
 Two Android versions are available: the light APK is only ~2 MB and provides minute-level accuracy. The JPL APK uses JPL ephemerides for sub-second accuracy, but is much larger (~80 MB) and slower on startup. For normal everyday use, the light version is sufficient.
 
-**HEAVY sub-second accuracy app:**
+### Heavy, sub-second accuracy app:
 
 - **[Play Store](https://play.google.com/store/apps/details?id=de.ax12.zunclock)** (with automatic updates)
 - **_Aurora store_** (with automatic updates - search for "Sun Clock Gordon's", since direct linking is not available)
@@ -36,7 +36,7 @@ Two Android versions are available: the light APK is only ~2 MB and provides min
 
   - Android 5-6: From May 2026 onwards, the Play Store version requires Android 7+. A legacy build remains available via GitHub releases for [older Android](https://github.com/gaxmann/zunclock-legacy/) versions
 
-**LIGHT minute-level accuracy app:**
+### Light, minute-level accuracy app:
 
 - **[Web version](https://astronomicalclock.eu/)** (for all devices)
 
