@@ -38,7 +38,7 @@ Two Android versions are available: the light APK is only ~2 MB and provides min
 
 ### Light, minute-level accuracy app:
 
-- **[Web version](https://astronomicalclock.eu/)** (for all devices)
+- **[Web version](https://astronomicalclock.eu/)** (for all devices, installable)
 
   - ***If you're using iOS:*** There is a web version you can use. It is lighter, loads faster, has a bit fewer features and is less precise, but precise enough for normal daily use.
 
