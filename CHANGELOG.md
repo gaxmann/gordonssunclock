@@ -3,6 +3,14 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
+## [3.5.2] - 2026-09-xx (New sky)
+
+### Added
+- xxx
+
+### Fixed
+- Below earth colour now starts correctly at 0° (because since 26-06-03 the Sun is rise/set corrected)
+
 ## [3.5.1-public] - 2026-09-16 (Anti-sun colouring)
 
 ### Added
