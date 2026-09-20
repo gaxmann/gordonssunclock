@@ -11,6 +11,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Fixed
 - Below earth colour now starts correctly at 0° (because since 26-06-03 the Sun is rise/set corrected)
 - Lang file corrected (link and weather description)
+- Error with very long timetravels fixed
 
 ## [3.5.1-public] - 2026-09-16 (Anti-sun colouring)
 
