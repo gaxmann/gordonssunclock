@@ -6,7 +6,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [3.5.2] - 2026-09-xx (New sky)
 
 ### Added
-- xxx
+- gpscode shortened to 2 chars each
 
 ### Fixed
 - Below earth colour now starts correctly at 0° (because since 26-06-03 the Sun is rise/set corrected)
