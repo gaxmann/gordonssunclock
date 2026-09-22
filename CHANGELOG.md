@@ -3,7 +3,12 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.5.2] - 2026-09-xx (New sky)
+## [3.5.3] - 2026-09-xx (New sky)
+
+### Added
+- xxx
+
+## [3.5.2-public] - 2026-09-22 (New gpscode)
 
 ### Added
 - gpscode shortened to 2 chars each
