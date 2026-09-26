@@ -6,7 +6,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ## [3.5.3] - 2026-09-xx (New sky)
 
 ### Added
-- xxx
+- Definition of Moon calendar month changed. New moon is now the last day in the month not the first
 
 ## [3.5.2-public] - 2026-09-22 (New gpscode)
 
