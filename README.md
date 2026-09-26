@@ -34,8 +34,6 @@ Two Android versions are available: the light APK is only ~2 MB and provides min
 - **[APKPure](https://apkpure.com/de/gordon%E2%80%99s-sun-clock/de.ax12.zunclock)** (alternative)
 - **[GitHub releases](https://github.com/gaxmann/gordonssunclock/releases/latest/)** (apk downloads)
 
-  - Android 5-6: From May 2026 onwards, the Play Store version requires Android 7+. A legacy build remains available via GitHub releases for [older Android](https://github.com/gaxmann/zunclock-legacy/) versions
-
 ### Light, minute-level accuracy app:
 
 - **[Web version](https://astronomicalclock.eu/)** (**for all devices,** installable)
