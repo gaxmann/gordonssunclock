@@ -25,7 +25,7 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 
 ## Download
 
-Two Android versions are available: the light APK is only ~2 MB and provides minute-level accuracy. The JPL APK uses JPL ephemerides for sub-second accuracy, but is much larger (~80 MB) and slower on startup. For normal everyday use, the light version is sufficient.
+Two Android versions are available: the light APK is only ~2 MB and provides minute-level accuracy. For normal everyday use, the light version is sufficient. The JPL APK uses JPL ephemerides for sub-second accuracy, but is much larger (~80 MB) and slower on startup.
 
 ### Heavy, sub-second accuracy app:
 
