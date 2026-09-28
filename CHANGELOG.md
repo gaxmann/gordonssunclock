@@ -3,7 +3,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.5.4] - 2026-09-xx (New sky)
+> ## [3.5.4] - 2026-09-xx (New sky)
 
 ## [3.5.3] - 2026-09-xx (New mooncal)
 
