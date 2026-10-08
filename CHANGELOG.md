@@ -10,6 +10,9 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Added
 - Definition of Moon calendar month changed. New moon is now the last day in the month not the first
 
+### Fixed
+- Error in weatherlong with dict
+
 ## [3.5.2-public] - 2026-09-22 (New gpscode)
 
 ### Added
