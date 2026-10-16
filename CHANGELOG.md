@@ -5,12 +5,13 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 > ## [3.5.4] - 2026-09-xx (New sky)
 
-## [3.5.3] - 2026-09-xx (Mooncal changes)
+## [3.5.3-public] - 2026-10-16 (Mooncal changes)
 
 ### Added
 - Definition of Moon calendar month changed. New moon is now the last day in the month not the first
 
 ### Fixed
+- Error with DST in weather
 - Error in weatherlong with dict
 
 ## [3.5.2-public] - 2026-09-22 (New gpscode)
