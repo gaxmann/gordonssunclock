@@ -9,7 +9,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Fixed
 - Error with None in main2
-- Full moon shown now within 12.5h instead of 12.33h (problem with value of 100% illum. display because of rounding and a shadow on the moon) 
+- Full moon shown now within 2x 12.5h instead of 12.33h (problem with value of 100% illum. display because of rounding and a shadow on the moon) 
 
 ## [3.5.3-public] - 2026-10-16 (Mooncal changes)
 
