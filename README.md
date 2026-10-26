@@ -25,7 +25,7 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 
 ## Download
 
-Two Android versions are available: the light APK is only ~2 MB and provides minute-level accuracy. For normal everyday use, the light version is sufficient. The JPL APK uses JPL ephemerides for sub-second accuracy, but is much larger (~80 MB) and slower on startup.
+Two versions are available: a lightweight web version that loads quickly and provides minute-level astronomical accuracy, which is sufficient for everyday use (APK is only ~2 MB); and the JPL Android app that uses JPL ephemerides for sub-second accuracy (which is much larger, ~80 MB, and slower on startup).
 
 ### Heavy, sub-second accuracy app:
 
@@ -36,13 +36,11 @@ Two Android versions are available: the light APK is only ~2 MB and provides min
 
 ### Light, minute-level accuracy app:
 
-- **[Web version](https://astronomicalclock.eu/)** (**for all devices,** installable)
-
-  - ***If you're using iOS:*** There is a web version you can use. It is lighter, loads faster, has a bit fewer features and is less precise, but precise enough for normal daily use.
-
-    - However, if you want to experience it as a wall clock (which is arguably its most enjoyable use) a used Android tablet is the best solution → from $50 (Android 7 is sufficient, arm64-v8a advised; e.g. Huawei MediaPad M5 (Lite) 10, Samsung Galaxy Tab A7, Lenovo Tab P11, HONOR Pad 8, Huawei MatePad SE 11. Or an armeabi-v7a like: Samsung Tab A SM-T510/515)
-
+- **[Web version](https://astronomicalclock.eu/)** (for **all** devices including iOS, Windows, macOS and Linux; installable)
 - **[Play Store](https://play.google.com/store/apps/details?id=eu.astronomicalclock.live)** (for Android)
+- **[GitHub releases](https://github.com/gaxmann/astronomicalclock/releases/latest/)** (apk download)
+
+If you want to experience it as a wall clock (**which is arguably its most enjoyable use**) a used Android tablet is the best solution → from $50 (Android 7 is sufficient, arm64-v8a advised; e.g. Huawei MediaPad M5 (Lite) 10, Samsung Galaxy Tab A7, Lenovo Tab P11, HONOR Pad 8, Huawei MatePad SE 11. Or an armeabi-v7a like: Samsung Tab A SM-T510/515)
 
 ## Features
 
