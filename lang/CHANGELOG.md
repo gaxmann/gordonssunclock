@@ -3,7 +3,7 @@
 Keys that have been added, changed, or removed are listed here, as well as structural changes and language files that were added or removed, or whose support status changed.
 
 ## [L1.22] - 2026-11-03
-- **Added:** solcal_lphsh, solcal_lphm, 
+- **Added:** solcal_lphm, solcal_lphsh,  
 - **Changed:** solcal_lph
 
 ## [L1.21] - 2026-10-22
