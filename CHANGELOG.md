@@ -1,5 +1,5 @@
 # Changelog
-Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md) of the latest changes here. _[Legacy](#legacy)-specific notes are listed at the bottom._
+Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md) of the latest changes here. _[Legacy](#legacy)-specific notes are listed at the bottom. Since July 2026, the JS/PWA version of Sun Clock has led development, with new features typically arriving in batches in the Python app._
 
 ---
 
