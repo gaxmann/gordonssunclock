@@ -5,7 +5,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 
-## [3.6] - 2026-11-xx (New projection)
+## [3.6] - 2026-11-04 (New projection)
 - New elliptical projection, better suited for equator. Dynamic daylight sky. Bug fixes
 
 ## [3.5] - 2026-08-26 (Sky colours)
