@@ -14,7 +14,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Changed
 - Moon date now with Solar Seam notation (for easier and more logical year transition)
-- Light seasons now have 12 instead of 8 phases (4x3). Notation has changed from Ϟ2b·65 to L2·65 (e.g. L for light)
+- Light seasons now have 12 instead of 8 phases (4x3). Notation has changed from `Ϟ4b·65` to `D2·65` (e.g. D for dark)
 - Moon is displayed more naturally during daytime (without the border around it rather than the border around the shadow)
 
 ### Fixed
