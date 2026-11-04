@@ -3,7 +3,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.6.0] - 2026-11-xx (New projection)
+## [3.6.0-public] - 2026-11-04 (New projection)
 
 ### Added
 - Projection changed from rectangle to ellipse: New dial projection that better displays the equatorial locations and is better on desktop (old projection is still available in settings/3. Appearance)
