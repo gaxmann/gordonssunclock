@@ -3,11 +3,23 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-> ## [3.5.5] - 2026-09-xx (New sky)
+## [3.6.0] - 2026-11-xx (New projection)
 
-## [3.5.4] - 2026-10-xx 
+### Added
+- Projection changed from rectangle to ellipse: New dial projection that better displays the equatorial locations and is better on desktop (old projection is still available in settings/3. Appearance)
+- Dynamic sky during day (instead of only twilight)
+- 4h weather diagram on dial
+- Clarity bars in 48h diagram
+- Improved meteor display 
+
+### Changed
+- Moon date now with Solar Seam notation (for easier and more logical year transition)
+- Light seasons now have 12 instead of 8 phases (4x3). Notation has changed from Ϟ2b·65 to L2·65 (e.g. L for light)
+- Moon is displayed more naturally during daytime (without the border around it rather than the border around the shadow)
 
 ### Fixed
+- On the data page light season date overview wasn't flipped for the south hemisphere
+- Temporal time during polar nights/days
 - Error with None in main2
 - Full moon shown now within 2x 12.5h instead of 12.33h (problem with value of 100% illum. display because of rounding and a shadow on the moon) 
 
