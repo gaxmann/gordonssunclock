@@ -2,6 +2,10 @@
 
 Keys that have been added, changed, or removed are listed here, as well as structural changes and language files that were added or removed, or whose support status changed.
 
+
+## [L1.23] - 2026-11-07
+- **Added:** txprec, txweatherprecip, txweatherprecmuch, txweatherprecday, txweatherprecrain, txweatherprecsnow. txtmax, txtmin, txprob, txsingularities, txd-1, txdago
+
 ## [L1.22] - 2026-11-03
 - **Added:** solcal_lphmain, solcal_lphsh,  
 - **Changed:** solcal_lph
