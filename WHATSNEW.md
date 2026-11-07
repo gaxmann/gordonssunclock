@@ -6,7 +6,7 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 ---
 
 ## [3.6] - 2026-11-04 (New projection)
-- New elliptical projection, better suited for equator. Dynamic daylight sky. Bug fixes
+- New elliptical projection, better suited for equator. New dynamic daylight sky. Bug fixes
 
 ## [3.5] - 2026-08-26 (Sky colours)
 - Sky now changes with sun rise/set, Sun glows at day. Better zoom, less memory usage ⚡
