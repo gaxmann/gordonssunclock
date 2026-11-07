@@ -2,7 +2,7 @@
 
 ## Language Files
 
-_You find all the current language files on: https://astronomicalclock.eu/lang/de.json_
+_You find all the current language files on: https://astronomicalclock.eu/lang/ . E.g. https://astronomicalclock.eu/lang/en.json_
 
 The German language file (`de.json`) is the **original source language**. It is recommended to use German or English as a reference when reviewing an existing translation. English serves as the fallback language and will be used whenever a language or translation entry is missing.
 
