@@ -4,6 +4,7 @@
 ##
 
 
+import math
 import os
 import time
 from kivy.app import App
@@ -175,8 +176,8 @@ class ClockScreen(Screen):
             self.ids.sky_image.reload()
 
     def calc_obj(self, alt, azi):
-        x = 300 + 200 * (azi / 180.0)
-        y = 480 - 200 * (alt / 90.0)
+        x = 300 + 200 * (math.sin(math.radians(azi)))
+        y = 480 - 200 * (math.sin(math.radians(alt)))
         return x, y
 
     def switch_to_settings(self):
