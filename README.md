@@ -25,9 +25,7 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 
 ## Download
 
-**Two versions** are available: a lightweight web version that loads quickly and provides minute-level astronomical accuracy, which is sufficient for everyday use (APK is only ~2 MB); and the JPL Android app that uses JPL ephemerides for sub-second accuracy (which is much larger, ~80 MB, and slower on startup).
-
-_I currently recommend using the light version (even for a wall clock)._
+**Two versions** are available: a lightweight web version that loads quickly and provides minute-level astronomical accuracy, which is sufficient for everyday use (APK is only ~2 MB); and the JPL Android app that uses JPL ephemerides for sub-second accuracy (which is much larger, ~80 MB, and slower on startup). – _I currently recommend using the light version (even for a wall clock)._
 
 ### Heavy, sub-second accuracy app:
 
