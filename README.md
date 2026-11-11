@@ -34,7 +34,7 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 - **[APKPure](https://apkpure.com/de/gordon%E2%80%99s-sun-clock/de.ax12.zunclock)** (alternative)
 - **[GitHub releases](https://github.com/gaxmann/gordonssunclock/releases/latest/)** (apk downloads)
 
-### Light, minute-level accuracy app:
+### Light, fast minute-level accuracy app:
 
 - **[Web version](https://astronomicalclock.eu/)** (for **all** devices including iOS, Windows, macOS and Linux; installable)
 - **[Play Store](https://play.google.com/store/apps/details?id=eu.astronomicalclock.live)** (for Android)
