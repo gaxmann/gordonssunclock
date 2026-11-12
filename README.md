@@ -117,9 +117,16 @@ This project is proprietary (which may change in the future). See `design/COPYRI
 
 ## Changelogs, Wiki
 
+### Wiki for both apps:
+- [Wiki](https://github.com/gaxmann/gordonssunclock/wiki)
+
+### Heavy, sub-second accuracy app:
 - [Compact WhatsNew](./WHATSNEW.md)
 - [Detailed Changelog](./CHANGELOG.md)
-- [Wiki](https://github.com/gaxmann/gordonssunclock/wiki)
+
+### Light, fast minute-level accuracy app:
+- [Compact WhatsNew](https://github.com/gaxmann/astronomicalclock/blob/master/WHATSNEW.md)
+- [Detailed Changelog](https://github.com/gaxmann/astronomicalclock/blob/master/CHANGELOG.md)
 
 ---
 
