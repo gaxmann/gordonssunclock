@@ -15,7 +15,7 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 ---
 
 <p float="left">
-  <img src="_gitdesign/sunclock2604.png" width="250" />
+  <img src="_gitdesign/sunclock_0.jpg" width="250" />
   <img src="_gitdesign/tablet.jpg" width="250" />
   <!-- <img src="_gitdesign/screen_3b.png" width="250" /> -->
   <!-- <img src="_gitdesign/eink.jpg" width="250" /> -->
