@@ -46,7 +46,7 @@ If you want to experience it as a wall clock (**which is arguably its most enjoy
 
 ## Features
 
-- **Accurate solar positioning**: Precise calculations using JPL ephemerides 
+- **Accurate solar positioning**: Depending on the app either precise calculations using JPL DE440 ephemerides ***or*** for the lightweight app VSOP87 & IAU 2000B)   
 - **Single-hand design**: Simple, clear, intuitive
 - **Location-based**: Adjusts to your coordinates (manual input or location detection)
 - **Real time set/rise**: Sun and Moon rise and set according to their apparent size
