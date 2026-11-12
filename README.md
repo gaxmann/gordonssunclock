@@ -50,7 +50,7 @@ If you want to experience it as a wall clock (**which is arguably its most enjoy
 - **Single-hand design**: Simple, clear, intuitive
 - **Location-based**: Adjusts to your coordinates (manual input or location detection)
 - **Real time set/rise**: Sun and Moon rise and set according to their apparent size
-- **Offline capable**: No internet required after first setup (optional GPS time sync)
+- **Offline capable**: No internet required after first setup (optional GPS time sync for heavy app only)
 - **Optional weather overview**: Clear icon-based, drama-free daily outlook
 - **Temporal hours clock**: Display of ancient unequal hours (12 day hours & 4 night watches) – e.g. for historians or anyone seeking a deeper connection to historical timekeeping
 - **Time travel:** explore past and future, up to the sky at your birth
