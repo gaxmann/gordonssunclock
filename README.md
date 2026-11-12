@@ -29,12 +29,16 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 
 ### Heavy, sub-second accuracy app:
 
+Calculations using Skyfield with JPL DE440 ephemerides.
+
 - **[Play Store](https://play.google.com/store/apps/details?id=de.ax12.zunclock)** (with automatic updates)
 - **_Aurora store_** (with automatic updates - search for "Sun Clock Gordon's", since direct linking is not available)
 - **[APKPure](https://apkpure.com/de/gordon%E2%80%99s-sun-clock/de.ax12.zunclock)** (alternative)
 - **[GitHub releases](https://github.com/gaxmann/gordonssunclock/releases/latest/)** (apk downloads)
 
 ### Light, fast minute-level accuracy app:
+
+Calculations using Astronomy Engine (VSOP87 and IAU 2000B).
 
 - **[Web version](https://astronomicalclock.eu/)** (for **all** devices including iOS, Windows, macOS and Linux; installable)
 - **[Play Store](https://play.google.com/store/apps/details?id=eu.astronomicalclock.live)** (for Android)
@@ -46,7 +50,7 @@ If you want to experience it as a wall clock (**which is arguably its most enjoy
 
 ## Features
 
-- **Accurate solar positioning**: Depending on the app you choose either JPL DE440 ephemerides or VSOP87 & IAU 2000B   
+- **Accurate solar positioning**: Depending on the app you can choose between JPL DE440 ephemerides ***and*** VSOP87 & IAU 2000B   
 - **Single-hand design**: Simple, clear, intuitive
 - **Location-based**: Adjusts to your coordinates (manual input or location detection)
 - **Real time set/rise**: Sun and Moon rise and set according to their apparent size
@@ -120,11 +124,11 @@ This project is proprietary (which may change in the future). See `design/COPYRI
 ### Wiki for both apps:
 - [Wiki](https://github.com/gaxmann/gordonssunclock/wiki)
 
-### Heavy, sub-second accuracy app:
+### Heavy Skyfield app:
 - [Compact WhatsNew](./WHATSNEW.md)
 - [Detailed Changelog](./CHANGELOG.md)
 
-### Light, fast minute-level accuracy app:
+### Lightweight Astronomy Engine app:
 - [Compact WhatsNew](https://github.com/gaxmann/astronomicalclock/blob/master/WHATSNEW.md)
 - [Detailed Changelog](https://github.com/gaxmann/astronomicalclock/blob/master/CHANGELOG.md)
 
