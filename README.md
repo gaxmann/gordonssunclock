@@ -56,7 +56,7 @@ If you want to experience it as a wall clock (**which is arguably its most enjoy
 - **Time travel:** explore past and future, up to the sky at your birth
 - **Meteor showers:** the eight major streams with search area and radiant  
 - **Agnihotra support**: Display precise Agnihotra times with countdown
-- **Sun-based alarms**: Set easy one-off alarms for sunrise, sunset, and Agnihotra times
+- **Sun-based alarms**: Set easy one-off alarms for sunrise, sunset, and Agnihotra times (heavy app only)
 - **Tablet mode**: Hang on your wall as a living clock<!-- - **Accurate solar geometry worldwide**: From equator to poles-->
 - **Multi-language**: English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), Português (pt), Italiano (it), 中文 (zh), Türkçe (tr), Čeština (cs), Magyar (hu), Polski (pl), Bahasa Indonesia (id) 
 - **Free & private**: Free of charge, no ads, privacy-friendly
