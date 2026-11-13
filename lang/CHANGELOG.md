@@ -2,6 +2,8 @@
 
 Keys that have been added, changed, or removed are listed here, as well as structural changes and language files that were added or removed, or whose support status changed.
 
+## [L1.25] - 2026-11-13
+- **Added:** txcompass, txcompassarr, txon
 
 ## [L1.23] - 2026-11-07
 - **Added:** txprec, txweatherprecip, txweatherprecmuch, txweatherprecday, txweatherprecrain, txweatherprecsnow. txtmax, txtmin, txprob, txsingularities, txd-1, txdago
