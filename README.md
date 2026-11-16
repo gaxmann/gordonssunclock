@@ -23,7 +23,7 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 
 ---
 
-## Try it or Download
+## Try it
 
 **Two versions** are available: a lightweight web version that loads quickly and provides minute-level astronomical accuracy, which is sufficient for everyday use (APK is only ~2 MB); and the JPL Android app that uses JPL ephemerides for sub-second accuracy (which is much larger, ~80 MB, and slower on startup).
 
@@ -44,7 +44,7 @@ Calculations using Astronomy Engine (VSOP87 and IAU 2000B).
 - **[Play Store](https://play.google.com/store/apps/details?id=eu.astronomicalclock.live)** (for Android)
 - **[GitHub releases](https://github.com/gaxmann/astronomicalclock/releases/latest/)** (apk download)
 
-_I currently recommend using the light version (even for a wall clock)._
+**_I currently recommend using the light version (even for a wall clock)._**
  
 If you want to experience it as a wall clock (**which is arguably its most enjoyable use**) a used Android tablet is the best solution → from $50 (Android 7 is sufficient, arm64-v8a advised; e.g. Huawei MediaPad M5 (Lite) 10, Samsung Galaxy Tab A7, Lenovo Tab P11, HONOR Pad 8, Huawei MatePad SE 11. Or an armeabi-v7a like: Samsung Tab A SM-T510/515). You can run both versions on it.
 
