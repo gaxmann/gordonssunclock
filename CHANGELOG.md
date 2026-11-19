@@ -3,6 +3,24 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
+## [3.6.1] - 2026-11-xx (Weather singularities)
+
+### Added
+- Weather singularities with regional and custom JSON rule sets
+- Wind gust details and current-time marker in 48h weather diagram
+
+### Changed
+- Improved 48h weather diagram, weather history and refresh handling
+- More natural Moon rendering, improved sky colours and stars
+- Light season notation improved
+
+### Fixed
+- Weather data, snowfall and forecast analysis corrections
+- Light calendar year length and daylight duration corrected
+- Agnihotra countdown around midnight corrected
+- Temporal-hour fractions and New Moon display corrected
+- Fresh GPS location marker restored
+
 ## [3.6.0-public] - 2026-11-04 (New projection)
 
 ### Added
