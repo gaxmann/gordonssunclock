@@ -2,6 +2,9 @@
 
 Keys that have been added, changed, or removed are listed here, as well as structural changes and language files that were added or removed, or whose support status changed.
 
+## [L1.26] - 2026-11-20
+- **Added:** txwebcustomrules, txwebcustomrulesexclusive, txwebcustomrulessave, txwebcustomrulessaved, txwebcustomrulesremoved, txwebcustomrulesinvalid, txwebmapclose, txwebsingularityincomplete, txwebsingularitylink
+
 ## [L1.25] - 2026-11-13
 - **Added:** txcompass, txcompassarr, txon
 
