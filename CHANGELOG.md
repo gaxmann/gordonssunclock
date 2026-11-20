@@ -3,10 +3,10 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.6.1] - 2026-11-xx (Compass dot)
+## [3.7.0] - 2026-11-xx (Compass dot)
 
 ### Added
-- Optional compass dot added
+- Optional compass dot on dial
 - Weather singularities with regional and custom JSON rule sets
 - Wind gust details and current-time marker in 48h weather diagram
 
