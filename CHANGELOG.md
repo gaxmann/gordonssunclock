@@ -12,10 +12,10 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ### Changed
 - Improved 48h weather diagram, weather history and refresh handling
-- Brighter Moon rendering around New Moon
 - Light season notation improved
 
 ### Fixed
+- Brighter Moon rendering around New Moon
 - Light calendar year length and daylight duration corrected
 - Polar night display
 - Temporal-hour fractions 
