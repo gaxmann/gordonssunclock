@@ -13,6 +13,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Changed
 - Improved 48h weather diagram, weather history and refresh handling
 - Light season notation improved
+- Zoom redraw starts faster
 
 ### Fixed
 - Brighter Moon rendering around New Moon
