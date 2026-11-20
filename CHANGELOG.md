@@ -3,7 +3,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 
 ---
 
-## [3.7.0] - 2026-11-xx (Compass dot)
+## [3.7.1] - 2026-11-xx (Compass dot)
 
 ### Added
 - Optional compass dot on dial
