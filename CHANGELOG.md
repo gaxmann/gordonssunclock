@@ -20,7 +20,7 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Light calendar year length and daylight duration corrected
 - Polar night display
 - Temporal-hour fractions
-- Weather analytics better detects already running weather changes
+- Weather analytics better detects already running weather changes #3.7.1
 
 ## [3.6.0-public] - 2026-11-04 (New projection)
 
