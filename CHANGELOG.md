@@ -8,19 +8,17 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 ### Added
 - Optional compass dot on dial
 - Weather singularities with regional and custom JSON rule sets
-- Wind gust details and current-time marker in 48h weather diagram
+- Wind gust details
 
 ### Changed
 - Improved 48h weather diagram, weather history and refresh handling
-- More natural Moon rendering, improved sky colours and stars
+- Brighter Moon rendering around New Moon
 - Light season notation improved
 
 ### Fixed
-- Weather data, snowfall and forecast analysis corrections
 - Light calendar year length and daylight duration corrected
-- Agnihotra countdown around midnight corrected
-- Temporal-hour fractions and New Moon display corrected
-- Fresh GPS location marker restored
+- Polar night display
+- Temporal-hour fractions 
 
 ## [3.6.0-public] - 2026-11-04 (New projection)
 
