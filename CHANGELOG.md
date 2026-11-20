@@ -19,7 +19,8 @@ Detailed changelog of this project. You'll find a [short summary](./WHATSNEW.md)
 - Brighter Moon rendering around New Moon
 - Light calendar year length and daylight duration corrected
 - Polar night display
-- Temporal-hour fractions 
+- Temporal-hour fractions
+- Weather analytics better detects already running weather changes
 
 ## [3.6.0-public] - 2026-11-04 (New projection)
 
